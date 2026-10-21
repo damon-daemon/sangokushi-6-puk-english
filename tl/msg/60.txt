@@ -1,0 +1,444 @@
+@60000
+Gongsun Zan subdued the Wuhuan and expanded his power until it could be called the greatest in Hebei.
+
+@60001
+Heh heh. Before my White Horse Volunteers, even the mighty Wuhuan are like babes.
+
+@60002
+Congratulations, Your Excellency. Now all of Hebei should be at peace.
+
+@60003
+The Wuhuan are pacified, it is true, but we must not let our guard down.
+
+@60004
+Lord Bogui, my heartiest congratulations on pacifying the Wuhuan.
+
+@60005
+Ah, Xuande! You came to celebrate too? Thank you for coming so far.
+
+@60006
+If I can be of use to you, Lord Bogui, my two sworn brothers and I would ride a thousand leagues.
+
+@60007
+Yes, your words gladden me.
+
+@60008
+Pacifying the Wuhuan is only the beginning. With the White Horse Volunteers, I will bring the whole land to heel.
+
+@60009
+And so the name of the White Horse Volunteers rang out across the whole land.
+
+@60010
+It is said that tribal warriors fled at the mere sight of the white horse cavalry.
+
+@60011
+We may rule the land of Hebei, but the age of war is not over.
+
+@60012
+I believe it is vital to prepare for the battles to come.
+
+@60013
+You are right. Having won Hebei is no reason to rest easy.
+
+@60014
+Yes! At last my cavalry numbers over 100,000!
+
+@60015
+Splendid. Wide as the realm is, no one else has such elite troops.
+
+@60016
+With such numbers, the enemy will be overwhelmed at the mere sight of us.
+
+@60017
+Hahaha! Just so.
+
+@60018
+With these elite troops, ruling the realm as hegemon is no longer a dream.
+
+@60019
+With his great army, Gongsun Zan reigned as master of Hebei and was greatly feared by the lords of the land.
+
+@60020
+So our proud cavalry now numbers 100,000.
+
+@60021
+No other ruler commands so many horsemen.
+
+@60022
+And half of them are fine Armored Cavalry, no less.
+
+@60023
+With this great army, uniting the realm should not be hard.
+
+@60024
+The Yellow Turban revolt and Dong Zhuo's tyranny have thrown the land into utter chaos.
+
+@60025
+Now is the time to bring peace to the realm with these elite troops.
+
+@60026
+Congratulations. Our lands have grown still further.
+
+@60027
+Taking Xuchang above all is a great feat. My lord's valor must be ringing across the realm.
+
+@60028
+Do not flatter me. That was easy enough.
+
+@60029
+Still, I never dreamed we could take Xuchang so easily.
+
+@60030
+It was splendid. There is nothing more I can say.
+
+@60031
+Oh, if it isn't Zhou Yu and Zhang Zhao.
+
+@60032
+This triumph is thanks to you both. I am grateful to the two of you.
+
+@60033
+The realm is still in turmoil. To lead it to stability, I need your strength.
+
+@60034
+Keep lending me your strength, as you always have.
+
+@60035
+With Xuchang taken, Sun Ce's fame rang out across the whole land.
+
+@60036
+The battles of Sun Ce, the Little Conqueror, went on, but that is another story...
+
+@60037
+The land is still vast. I cannot be content with this much.
+
+@60038
+This is no time for celebration. Now, prepare for the next battle.
+
+@60039
+After fierce fighting, Sun Ce crushed Cao Cao's army and at last captured Cao Cao.
+
+@60040
+Even the cunning traitor Cao was no match for your valor, Lord Bofu.
+
+@60041
+The likes of Cao Cao are no match for me, Sun Bofu!
+
+@60042
+To be captured by a whelp like you... How bitter.
+
+@60043
+Though your family served the Han with distinction, you plotted to usurp the throne. You are a great traitor.
+
+@60044
+Letting a traitor like you live would do the realm no good.
+
+@60045
+I, Sun Bofu, shall put you to death! Prepare yourself, traitor Cao!
+
+@60046
+What is wrong with holding great ambitions in a chaotic age? Sun Bofu, you are not worth talking to...
+
+@60047
+I have carved my name in history as the villain of a chaotic age. I have no regrets left.
+
+@60048
+Hold your tongue! You are nothing but a beaten dog. Take him away!
+
+@60049
+The traitor Cao Cao has been put to death. Your Majesty may now rest easy.
+
+@60050
+From Dong Zhuo's revolt to this day, We have never known a moment's peace.
+
+@60051
+Sun Ce, We thank you. We entrust the affairs of state to you.
+
+@60053
+With Emperor Xian under his protection, Sun Ce had a just cause to unite the land, and set out to command the lords of the realm.
+
+@60054
+Cao Cao was my sworn enemy, but he is not my only foe. The fighting will go on for some time yet.
+
+@60055
+Sun Ce had defeated his archenemy Cao Cao... but further trials surely awaited him before the land was united.
+
+@60056
+Yuan Shao's three sons, Yuan Tan, Yuan Xi and Yuan Shang, were attacked while feuding among themselves, and died in defeat.
+
+@60057
+So this is the end of the great Yuan clan. How fragile.
+
+@60058
+The Yuan held great power. But power misused is only treasure left to rot.
+
+@60059
+Hmm...
+
+@60060
+Had Yuan Shao had the talent of a leader, destroying me would have been child's play...
+
+@60061
+Yuan Shao's sons are destroyed. We need not cling to Hebei any longer.
+
+@60062
+Now, I believe the best plan is to turn south...
+
+@60063
+I do not agree. In the north, the Wuhuan remain a dangerous foe.
+
+@60064
+Relying on their remote lands, the Wuhuan refuse to obey the court. They may bare their fangs at any time.
+
+@60065
+Speed is everything in war, they say. We should ride this momentum, attack the Wuhuan and secure our rear.
+
+@60066
+I see! Well said, Fengxiao.
+
+@60067
+We march north and pacify the Wuhuan. Send out the army at once!
+
+@60068
+On Guo Jia's advice, Cao Cao set out to pacify the Wuhuan. The campaign was a great success, but...
+
+@60069
+Guo Jia fell ill in the northern lands and died... He was only 38, far too young to die.
+
+@60070
+Later, after his defeat at Red Cliffs, Cao Cao is said to have remarked, "Had Guo Jia been here, I would never have lost."
+
+@60071
+Cao Cao destroyed the Yuan, the great power of Hebei, and spread his power further still.
+
+@60072
+It may not be long before he unites the land and holds all of China in his hand.
+
+@60073
+After fierce fighting, the army led by Cao Cao won the day and built a vast domain.
+
+@60074
+A crushing victory... I owe it to you all. You have my thanks.
+
+@60075
+It is all the work of Your Excellency's majesty.
+
+@60076
+Mighty as the Yuan were, they were no match for Your Excellency.
+
+@60077
+By the way, what shall we do about Yuan Tan, Yuan Xi and Yuan Shang?
+
+@60078
+I hear all three are still alive. Would it not be better to remove the source of future trouble?
+
+@60079
+A needless worry. What could the likes of them possibly do?
+
+@60080
+My goal is to unite the realm. I have no time to waste on such petty things.
+
+@60081
+Cao Cao had taken a great step toward his long-cherished goal of uniting the land.
+
+@60082
+Your Excellency's great deeds will long be written in the annals of history.
+
+@60083
+I have won only half the realm. If you praise me for so little, you are a small man too.
+
+@60084
+Do not underestimate Cao Mengde. I am not satisfied with a domain of this size.
+
+@60085
+I cannot stop until I have won the realm! Hahahaha!
+
+@60086
+At last Jiang Wei held Xiliang, Qiang and Chang'an in his hand.
+
+@60087
+Well done, Jiang Wei. He has taken those lands splendidly.
+
+@60088
+The late Marquis Wu, Zhuge Liang, must be overjoyed.
+
+@60089
+To think the day would come when I would pass through the gates of Chang'an again... I am overcome.
+
+@60090
+Wei was far stronger in national power, but victory in war depends on the talent of the general.
+
+@60091
+You are truly the great general of our age. I, Zhongquan, am filled with admiration.
+
+@60092
+Lord Boyue, we have taken Chang'an for now. I would like to hear your plans from here.
+
+@60093
+The realm is not yet pacified. We cannot let ourselves be carried away just for taking Chang'an.
+
+@60094
+Restoring the House of Han was Prime Minister Zhuge's dearest wish. Lord Zhongquan, I ask for your support as ever.
+
+@60095
+For the restoration of the House of Han, Jiang Wei and Xiahou Ba began preparing for further battles.
+
+@60096
+The old capital, Chang'an, has been retaken. Please give us your next orders.
+
+@60097
+First, we move the Imperial City from Chengdu to Chang'an.
+
+@60098
+Moving the capital? Will that not cost us the trust of the people of Chengdu?
+
+@60099
+Chang'an lies in the Central Plains and has every advantage of terrain. It is the best place to show the might of our Han.
+
+@60100
+If the state prospers through Chang'an, that benefits the people of Chengdu too. There is nothing to worry about.
+
+@60101
+I see... If you say so.
+
+@60102
+We cannot dawdle. We must set up a new order in Chang'an and resume the march.
+
+@60103
+Jiang Wei ordered his army to rest and set about planning a further advance.
+
+@60104
+At last Jiang Wei succeeded in retaking the old capital. But...
+
+@60105
+He had fought not as a servant of the Han, but as an emperor himself.
+
+@60106
+Alas... Even if it was to win, I took the throne myself.
+
+@60107
+Whatever my reasons, I overstepped a subject's place. I will not escape the scorn of later ages.
+
+@60108
+Was what We... no, what I have done a mistake...?
+
+@60109
+...It is no use regretting what is past.
+
+@60110
+Save the people who suffer from war and devote yourself to the realm. Let that be your atonement.
+
+@60111
+...Boyue, do you understand...? I am counting on you...
+
+@60112
+P-Prime Minister?!
+
+@60113
+...Yes. I understand.
+
+@60114
+...I will defeat the traitors, save the people and build a peaceful world. Please watch over me...
+
+@60115
+And so Emperor Jiang Wei swore an oath to the unseen spirit of Zhuge Liang...
+
+@60116
+Jiang Wei has died without fulfilling Zhuge Liang's last wishes.
+
+@60117
+Chengdu is no longer the Imperial City.
+
+@60118
+Zhuge Dan succeeded in enthroning Cao Mao as Emperor.
+
+@60119
+We did not raise our troops out of any disloyalty.
+
+@60120
+Our aim was to punish the Sima clan for their outrageous tyranny.
+
+@60121
+If you call that rebellion, so be it. We will gladly accept our punishment.
+
+@60122
+We too suffered under the Sima clan. You have saved Us. Why would We punish you?
+
+@60123
+Zhuge Dan, We appoint you Supreme Commander. We entrust the government of Wei to you.
+
+@60124
+I am unworthy of such words... Thank you, Your Majesty.
+
+@60125
+Continue to be Our strength. We are counting on you.
+
+@60126
+By enthroning Emperor Cao Mao, Zhuge Dan took real power in Wei.
+
+@60127
+Sima Zhao, though a high minister, you abused your power and gravely harmed the authority of the imperial house.
+
+@60128
+Such a crime deserves ten thousand deaths. Prepare yourself.
+
+@60129
+To be beaten by the likes of you... How bitter...
+
+@60130
+Though it was to punish Sima Zhao, I moved the state's troops on my own authority. I know it is a grave crime.
+
+@60131
+Your Majesty, I beg you to punish me.
+
+@60132
+How could We punish a loyal subject?
+
+@60133
+Zhuge Dan had raised troops to purge the villain at the Emperor's side... At that moment his loyalty was rewarded.
+
+@60134
+Having raised troops to strike Sima Zhao, Zhuge Dan came at last to rule more than 10 cities.
+
+@60135
+Someday His Majesty too will surely understand how hard we have fought.
+
+@60136
+Sima Zhao told Us that Zhuge Dan is a traitor who rebelled against Wei, but...
+
+@60137
+Zhuge Dan has sent a petition saying he fights to remove the tyrant Sima Zhao from the court.
+
+@60138
+...True, Sima Zhao treats Us with contempt... Very well.
+
+@60139
+My lord! A secret edict has arrived from His Majesty.
+
+@60140
+"Sima Zhao is a traitor to Wei.\nPut him to death and prove your innocence.\n-- Cao Mao, Emperor of Wei"
+
+@60141
+Wh-what! A secret edict to strike Sima Zhao!
+
+@60142
+As long as we hold the secret edict, justice is on our side.
+
+@60143
+How His Majesty must suffer... Now we must defeat Sima Zhao as soon as we can!
+
+@60144
+With the secret edict from Cao Mao, Emperor of Wei, Zhuge Dan's camp took heart.
+
+@60145
+Zhuge Dan has died without clearing his name as a rebel.
+
+@60146
+Gongsun Zan has died without uniting Hebei.
+
+@60147
+Sun Ce, the Little Conqueror, has died before completing his conquest.
+
+@60148
+Cao Cao, the villain of a chaotic age, has died before completing his conquest.
+

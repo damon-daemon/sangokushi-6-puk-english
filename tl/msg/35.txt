@@ -1,0 +1,222 @@
+@35000
+There is no need for an alliance with {e02}.
+
+@35001
+Why not try frightening the envoy a little?
+
+@35002
+Now, let us see what sort of man appears.
+
+@35003
+You come here as an envoy, yet you do not bow. Why?
+
+@35004
+It is the custom that an envoy of the throne does not bow to the lord of a small state.
+
+@35005
+You mock me with your glib tongue? I could have you boiled in oil, you know.
+
+@35006
+Hahaha! To be so afraid of me!
+
+@35007
+Heating oil to frighten a mere scholar like me... What a timid man.
+
+@35009
+I am indeed an envoy of alliance, and I came because I believe an alliance would benefit both houses.
+
+@35010
+I did not come to deceive Lord {e02}.
+
+@35011
+You still seem to doubt me. Then I will show you proof.
+
+@35012
+No! Stop the envoy!
+
+@35013
+I am truly impressed. A retainer who serves as envoy without shaming his lord's command, that is you.
+
+@35014
+To ally with a man who has such a loyal retainer is good fortune for us too.
+
+@35015
+Thanks to Deng Zhi, {e01} and {e02} have formed an alliance.
+
+@35016
+I am Zhang Wen, come as {e02}'s envoy with a gift.
+
+@35017
+Thank you for coming such a long way. I accept it with gratitude.
+
+@35018
+So you are Lord Zhang Wen. I have heard of your fame.
+
+@35019
+By the way, Master Zhang Wen, how did you enjoy your sightseeing in {e0B}?
+
+@35020
+Sightseeing? How rude! I came here on my lord's orders!
+
+@35021
+Pardon me, pardon me. Hahaha!
+
+@35022
+Lord Kongming, who on earth is he?
+
+@35023
+Qin Mi, a scholar of Yizhou. A man of real talent.
+
+@35024
+Such rude behavior... Whatever has he studied?
+
+@35025
+How unexpected. I too have studied my share of books, you know.
+
+@35026
+Then let me test you with a question...
+
+@35027
+I am amazed. Are there so many wise men gathered in this land...?
+
+@35028
+So I am but a frog in a well...
+
+@35029
+Questions at a banquet are only a game. Think nothing of it.
+
+@35030
+I am Deng Zhi. I have come to deliver a gift from {e02}.
+
+@35031
+Ah, Lord Deng Zhi. Welcome.
+
+@35032
+Let us skip the formalities. Prepare a banquet.
+
+@35033
+Yes, my lord.
+
+@35034
+If {e02} and I join hands, destroy the traitors, then split the land in two and rule it, how splendid that would be.
+
+@35035
+No, I do not think so.
+
+@35036
+An old saying goes: "There are not two suns in the sky, nor two kings for the people."
+
+@35037
+How things would end once the realm is split in two, no one can yet know.
+
+@35038
+Whichever of you and my lord governs better will be the people's king.
+
+@35039
+You do not flatter, you speak only the truth. Your manner is truly admirable.
+
+@35040
+I envy {e02} for having a fine retainer like you.
+
+@35041
+So an envoy from {e02} has come. Let us tease him a little.
+
+@35042
+My name is Yi Ji. I have brought a gift from {e02}.
+
+@35043
+Well? Do you suffer much, serving such an unjust lord?
+
+@35044
+I merely bow once and rise once... It is hardly what I would call suffering.
+
+@35045
+Hmm... He dodged that neatly. Impressive.
+
+@35046
+I ask for an alliance with my lord, {e02}.
+
+@35047
+...In your eyes, what sort of man is {e02}?
+
+@35048
+Yes, he is a lord of wisdom, insight, benevolence, cunning, valor and strategy.
+
+@35049
+{C48}, is that so? Is that not a little too much praise?
+
+@35050
+Not at all. Let me explain.
+
+@35051
+Calling wise men from the wilds is wisdom. Raising brave men from the ranks is insight. Sparing enemy generals is benevolence.
+
+@35052
+Using stratagems in battle is cunning. Holding one corner of the land and eyeing the realm is valor.
+
+@35053
+And sending me as envoy of alliance is strategy... What do you say?
+
+@35054
+Sent to every quarter, never shaming his lord's command: that is you. I gladly agree to the alliance.
+
+@35055
+=
+
+@35056
+=
+
+@35057
+=
+
+@35058
+=
+
+@35059
+=
+
+@35060
+=
+
+@35061
+=
+
+@35062
+=
+
+@35063
+=
+
+@35064
+=
+
+@35065
+=
+
+@35066
+=
+
+@35067
+=
+
+@35068
+=
+
+@35069
+=
+
+@35070
+=
+
+@35071
+=
+
+@35072
+=
+
+@35073
+=
+
+@35074
+=
+

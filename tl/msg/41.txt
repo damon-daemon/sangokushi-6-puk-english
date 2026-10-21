@@ -1,0 +1,765 @@
+@41000
+Ngh, don't panic! Re-form the ranks!
+
+@41000.1
+Enough, silence! Calm yourselves!
+
+@41000.2
+Stay calm. If we break formation, we play right into the enemy's hands.
+
+@41000.3
+Don't be fooled by the enemy's moves! Stay calm!
+
+@41001
+Ngh, to think I would be wounded...
+
+@41001.1
+Hmph, to think I could not dodge the enemy's blow...
+
+@41001.2
+Ngh, careless of me! Wounded by the enemy...
+
+@41002
+Ngh, that I, {e01}, should be caught off guard...
+
+@41002.1
+Hmph, you wounded me, {e01}... Well done, foot soldier!
+
+@41002.2
+Hmph, that I, {e01}, could not dodge the enemy's blow...
+
+@41003
+Hmph, to think I could not dodge the enemy's blow...
+
+@41003.1
+Ngh, to think I would be wounded...
+
+@41003.2
+Ngh, careless of me! Wounded by the enemy...
+
+@41004
+{e01} has fallen in battle.
+
+@41005
+{e01} has been wounded.
+
+@41006
+Good, now! Set the fires!
+
+@41006.1
+Good, there's the signal. Set the fire!
+
+@41006.2
+I have waited for this moment. Now, set fire all at once!
+
+@41007
+I, {e01}, am more than enough for the likes of you!
+
+@41007.1
+I will be your opponent. Now, come at me!
+
+@41007.2
+Where are you looking? I, {e01}, am your opponent. Come on, don't hold back!
+
+@41007.3
+I, {e01}, am your opponent. Or are you too scared of me to move? Heh...
+
+@41008
+I alone am more than enough for the likes of you!
+
+@41008.1
+I will be your opponent. Now, come at me!
+
+@41008.2
+Where are you looking? Your opponent is right here. Come on, don't hold back!
+
+@41009
+Very well. First I will make you my first kill.
+
+@41009.1
+Is that so? You want to die that badly? Then I will grant your wish.
+
+@41009.2
+After such words, I cannot stay silent. I am coming now, so wait right there!
+
+@41010
+Very well. I will rise to your taunt.
+
+@41010.1
+Just as well. I was thinking of making you my first kill.
+
+@41010.2
+If you insist, so be it. I will fight you as you wish.
+
+@41011
+Hmph, I have no time to deal with you.
+
+@41011.1
+There is no need to rush to your death.
+
+@41011.2
+Don't be hasty. I will deal with you thoroughly later.
+
+@41012
+I am not one to fall for such an obvious taunt.
+
+@41012.1
+No need to rush. I will deal with you at my leisure later.
+
+@41012.2
+If you mean to taunt someone, do it better than that.
+
+@41013
+What? Retreat? ...Huh, now advance? What is going on...
+
+@41013.1
+First retreat, then advance... Ngh, which is it?!
+
+@41013.2
+What! Orders keep coming in... What on earth is happening?!
+
+@41014
+Which orders are real... Hmph, it seems we have fallen into the enemy's trap.
+
+@41014.1
+The enemy is sending fake orders... Ngh, I cannot tell which are real.
+
+@41014.2
+Which orders are real... Hmph, that I should fall for the enemy's ploy... How careless!
+
+@41015
+What... retreat? Hmph, I won't be fooled by fake orders like these.
+
+@41015.1
+Those orders are fake! Don't be fooled!
+
+@41015.2
+You mean to confuse me with fake orders like these? Heh... A waste of effort!
+
+@41015.3
+Heh... sending fake orders, are they? Such child's tricks won't work on me.
+
+@41016
+{e01} is confused by fake orders sent by {e02}.
+
+@41017
+{e02} sent fake orders, but {e01} was not confused.
+
+@41018
+{e01} is confused by fake orders from the enemy.
+
+@41019
+The enemy sent fake orders, but {e01} was not confused.
+
+@41020
+{e01}'s unit has been wiped out.
+
+@41021
+Ngh... a pity, but I will retreat for today.
+
+@41021.1
+Hmph, without soldiers there is no choice. I will pull back for now.
+
+@41021.2
+Ngh, I will quietly withdraw today. But next time it will be different!
+
+@41022
+I was careless today, but next time we will settle who is stronger.
+
+@41022.1
+I withdraw today, but this contest is not over. We will meet again.
+
+@41022.2
+I was careless today, but next time it will be different. Wash your neck and wait!
+
+@41023
+Ngh, to think I would be captured...
+
+@41023.1
+Ngh, captured... Has Heaven forsaken me?!
+
+@41023.2
+There is no use struggling now. I will go quietly.
+
+@41024
+H-how bitter... To think I would be taken prisoner...
+
+@41024.1
+Careless! That I, {e01}, should be taken prisoner...
+
+@41024.2
+Th-this must be a dream... I could never be captured!
+
+@41025
+{e01} has retreated.
+
+@41026
+{e01} has been captured by {e02}.
+
+@41027
+The advisor {e01} has retreated.
+
+@41028
+The advisor {e01} has been captured by {e02}.
+
+@41029
+The captive {e01} has been rescued.
+
+@41030
+Hmph, that is surely {e02}. Take this arrow!
+
+@41030.1
+Good, I have found {e02}! Take this arrow!
+
+@41030.2
+Luck is with me. I have found {e02}! This arrow will finish you.
+
+@41031
+Hmph, that is surely an enemy commander! Take this arrow!
+
+@41031.1
+Good, I have found an enemy commander! Take this arrow!
+
+@41031.2
+Luck is with me. I have found an enemy commander! This arrow will finish you.
+
+@41032
+Men, over there is the enemy commander {e02}! Loose your arrows together!
+
+@41032.1
+Good, I have found {e02}! Men, shoot that one down!
+
+@41032.2
+Men, that must be {e02}. Loose your arrows together!
+
+@41033
+Men, that over there must be an enemy commander. Loose your arrows together!
+
+@41033.1
+Good, I have found an enemy commander! Men, shoot that one down!
+
+@41033.2
+Men, that must be an enemy commander. Loose your arrows together!
+
+@41034
+Ngh, curse you, {e02}... But a wound like this won't kill me!
+
+@41034.1
+Hmph, careless! {e02}, curse you, for wounding me...
+
+@41035
+Ngh, curse you, {e02}... But with a wound like this, I can still fight.
+
+@41035.1
+Curse you, {e02}... But a scratch like this is no worse than a mosquito bite.
+
+@41036
+Ngh, {e02}'s snipers... But a wound like this won't kill me!
+
+@41036.1
+Ugh... wh-who shot this arrow... But it seems to have missed anything vital.
+
+@41037
+Ngh, {e02}'s snipers... But with a wound like this, I can still fight.
+
+@41037.1
+Ugh... wh-who shot this arrow... But a scratch like this is no worse than a mosquito bite.
+
+@41038
+Ngh, curse you, {e02}... An arrow from so far... Ngh, how bitter!
+
+@41038.1
+Ngh, careless! That I, {e01}, should fall to {e02}'s arrow...
+
+@41039
+Gah! Am I, called the Young Phoenix, to end my days in a place like this?
+
+@41040
+Ngh, curse you, {e02}... Am I to die in a place like this...
+
+@41040.1
+Curse you, {e02}... I was not meant to fall in a place like this...
+
+@41041
+Ugh... wh-who shot this arrow... One of {e02}'s men... H-how bitter...
+
+@41041.1
+Ngh, careless! That I, {e01}, should fall to a stray arrow...
+
+@41042
+Ngh, {e02}'s snipers... Am I to die in a place like this...
+
+@41042.1
+Ugh... wh-who shot this arrow... I was not meant to fall in a place like this...
+
+@41043
+Because {e01} lacks virtue, %s of the soldiers left in {e0B} have deserted.
+
+@41044
+{e01} fell for {e02}'s taunt.
+
+@41045
+{e01} did not fall for {e02}'s taunt.
+
+@41046
+No, no, I fell for {e02}'s taunt. I must keep a cool head...
+
+@41046.1
+To fall for {e02}'s taunt... I am not calm enough...
+
+@41046.2
+My blood rose to my head, and I fell for {e02}'s taunt. I must keep a cool head...
+
+@41047
+How unlike me, falling for {e02}'s taunt... I must keep a cool head.
+
+@41047.1
+Someone like me, falling for {e02}'s taunt...
+
+@41047.2
+That I, {e01}, should fall for {e02}'s taunt... But I won't fall for it again!
+
+@41048
+How unlike me, to be held up here... I must hurry!
+
+@41048.1
+Curse you, {e02}, for getting in my way... But you won't hold me up again!
+
+@41048.2
+I was held up a little, but I won't let anyone get in my way now!
+
+@41049
+How unlike me, to be held up by the likes of {e02}! How careless!
+
+@41049.1
+Being held up by the likes of {e02} was careless, but I won't let it happen again!
+
+@41049.2
+Someone like me, held up by the likes of {e02}... Ngh, I must hurry!
+
+@41050
+The {f15} army marched straight on into {e0B}.
+
+@41051
+Is the destination the top of the wall?
+
+@41052
+You cannot move there.
+
+@41053
+There is no target unit there.
+
+@41054
+There is no unit there that can be turned.
+
+@41055
+You cannot set a fire there.
+
+@41056
+Choose a gate that is not broken.
+
+@41057
+Choose a point you can retreat to.
+
+@41058
+Listen, men! Hold back {e02}'s unit!
+
+@41058.1
+Stop {e02} in their tracks! Go!
+
+@41058.2
+Hold back {e02}'s unit! Men, go!
+
+@41059
+It is useless to try to stop me. Heh...
+
+@41059.1
+Do you truly think you can hold me back?
+
+@41059.2
+Hmph, if you want to stop me, you will have to defeat me.
+
+@41060
+The likes of {e02} can never stop me!
+
+@41060.1
+Heh... No one can stop me!
+
+@41060.2
+{e02}, you think you can hold me back? Laughable!
+
+@41061
+{e02}, you dare come at me! Ngh, insolent!
+
+@41061.1
+Ngh, {e02}'s unit is blocking my way? What a nuisance!
+
+@41061.2
+{e02}, you would get in my way? I will scatter you!
+
+@41062
+{e01} failed to hold back {e02}'s unit.
+
+@41063
+{e02} is held back by {e01}'s unit.
+
+@41064
+The attackers have taken the Main Camp and secured a way into the castle. The attackers win.
+
+@41065
+The Command Center's defense has fallen to 0. The attackers win.
+
+@41066
+The duel between {e01} and {e02} ended in a draw.
+
+@41067
+Decide what to do with the officers captured by the {f15} army.
+
+@41068
+Ngh... out of food... How careless of me!
+
+@41068.1
+With our food gone, we must settle this at a stroke.
+
+@41068.2
+What has happened! Without food, the men's morale will fall badly...
+
+@41068.3
+Ngh, out of food... Press on or pull back? This is the moment to decide.
+
+@41069
+The officers of {e01} who were held prisoner have been released.
+
+@41070
+The unit of the commander {e02} is gone, so {e01}'s unit has begun to retreat.
+
+@41071
+Wh-what! The men are retreating on their own! How can I fight like this...
+
+@41071.1
+Ngh, the men are running away... Their spirit is spent...
+
+@41071.2
+What... the men are fleeing one after another! This is no fight at all...
+
+@41071.3
+Ngh... the men are running away... There is nothing for it but to retreat.
+
+@41072
+The men's spirit is spent. {e01}'s unit has been routed.
+
+@41073
+(Mountains: Hillmen and Shanyue favored)
+
+@41074
+(Plains: Cavalry and Armored Cavalry favored)
+
+@41075
+(Lakes: Navy favored)
+
+@41076
+What terrible %s. The men are not used to this climate, and their morale seems to be falling.
+
+@41076.1
+What terrible %s! The men will be worn out. We must settle this quickly...
+
+@41076.2
+What terrible %s... The men have no energy... We must settle this quickly.
+
+@41076.3
+What terrible %s! Perhaps the strange climate is to blame. The men's morale seems lower still.
+
+@41077
+{e01} of the {f15} army has defected to the {f16} army. It seems {e01} was {f16}'s %s.
+
+@41078
+Lord {e02}, give your orders to the units.
+
+@41079
+Good, I will give orders to the units.
+
+@41080
+Don't panic!
+
+@41080.1
+Enough, calm down!
+
+@41080.2
+Aaagh!
+
+@41081
+Stay calm and put out the fire.
+
+@41081.1
+Hot! Put out the fire, quick!
+
+@41081.2
+Aaagh, fire!
+
+@41082
+{e02}, I won't forgive you!
+
+@41082.1
+Curse you, {e02}!
+
+@41083
+No supper again tonight?
+
+@41084
+Hey, I'm starving...
+
+@41085
+So hungry I could die...
+
+@41086
+Someone is calling...
+
+@41087
+I'll show you my strength!
+
+@41088
+Forward!
+
+@41089
+Charge on!
+
+@41090
+Stay alert and advance!
+
+@41091
+Go, go!
+
+@41092
+Charge!
+
+@41093
+{e02}, fight me!
+
+@41094
+Stop {e02}!
+
+@41095
+Smash the gate!
+
+@41096
+Keep the enemy out of the castle!
+
+@41097
+Hold the enemy at the gate!
+
+@41098
+What will the enemy do?
+
+@41098.1
+How long must we wait?
+
+@41099
+Hmph, as if they could catch us!
+
+@41099.1
+No one outruns me!
+
+@41100
+Run!
+
+@41100.1
+Waah, run for it!
+
+@41101
+I'm freezing...
+
+@41101.1
+So cold...
+
+@41102
+So hot...
+
+@41102.1
+It's so hot...
+
+@41103
+So muggy...
+
+@41103.1
+It's so muggy...
+
+@41104
+A blessed rain, perhaps?
+
+@41105
+What a downpour.
+
+@41106
+We are the strongest!
+
+@41107
+Mountain roads are hard going.
+
+@41108
+Horses aren't made for mountain roads.
+
+@41109
+Whoa, i-it's rocking!
+
+@41110
+We can do it!
+
+@41111
+We'll get home alive!
+
+@41112
+We have reached our destination.
+
+@41112.1
+Good, it seems we have reached our goal.
+
+@41112.2
+Good, we have reached the target point.
+
+@41112.3
+Good, this is the target point.
+
+@41113
+Tch! {e02} got away...
+
+@41113.1
+Hmm, {e02}... slipped right through our fingers.
+
+@41113.2
+Ngh, {e02} got away!
+
+@41113.3
+Hmph, so {e02} escaped...
+
+@41114
+{e02}'s unit is wiped out!
+
+@41114.1
+Good, {e02}'s unit is wiped out.
+
+@41114.2
+Good, {e02}'s unit is destroyed!
+
+@41114.3
+Heh... {e02}'s unit is crushed!
+
+@41115
+Good, it's burning!
+
+@41115.1
+Good, the fire attack worked.
+
+@41115.2
+Good, it worked!
+
+@41115.3
+Good, it seems to have caught fire.
+
+@41116
+Ngh, it won't catch fire...
+
+@41116.1
+Hmph, the fire attack failed...
+
+@41116.2
+Ngh, it didn't work...
+
+@41116.3
+Tch, it didn't catch fire...
+
+@41117
+Hmph, they won't take the bait...
+
+@41117.1
+Hmph, the taunt failed...
+
+@41117.2
+Ngh, it didn't work...
+
+@41117.3
+Hmm, calmer than I thought.
+
+@41118
+Good, the gate is open!
+
+@41118.1
+Good, the gate seems to be open.
+
+@41118.2
+We did it! The gate is open.
+
+@41118.3
+Good, the gate is open!
+
+@41119
+Ngh, they opened the gate...
+
+@41119.1
+Hmph, the gate...
+
+@41119.2
+Ngh, they opened the gate!
+
+@41119.3
+Hmph, they opened the gate!
+
+@41120
+Good! Our unit will now go and take the enemy commander!
+
+@41120.1
+Good! Now we will take the enemy commander's head!
+
+@41120.2
+Good! Next we go for the enemy commander's head!
+
+@41121
+Good! Our unit will now sweep the area of enemies!
+
+@41121.1
+Good! Now we go to clear out the enemies around us!
+
+@41121.2
+Good! Next, let's scatter the enemies nearby!
+
+@41122
+Good! Our unit will now defend the Command Center!
+
+@41122.1
+Good! Now we take up the defense of the Command Center!
+
+@41122.2
+Good! Next we guard the Command Center!
+
+@41123
+Good! Our unit will now go and seize the Command Center!
+
+@41123.1
+Good! Our next target is the Command Center!
+
+@41123.2
+Good! Next we seize the Command Center!
+
+@41124
+Good! Our unit will now go and seize the enemy's Main Camp!
+
+@41124.1
+Good! Our next target is the enemy's Main Camp!
+
+@41124.2
+Good! Next we seize the enemy's Main Camp!
+
+@41125
+Good! Our unit will wait here until further orders!
+
+@41125.1
+Good! We will wait here until further orders!
+
+@41125.2
+Good! We wait here until further orders!
+
+@41126
+{e01} fled back into the castle.
+
+@41127
+The advisor {e01} fled back into the castle.
+

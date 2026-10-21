@@ -1,0 +1,360 @@
+@15000
+Heh heh, success. {e03} has promised to betray their side for us!
+
+@15000.1
+{C10}, all went well. {e03} has agreed to take our side when war comes.
+
+@15000.2
+In the next battle, {e03} will attack the {e04} army at our signal.
+
+@15000.3
+It went well! {e03} promised to side with us on the battlefield.
+
+@15000.4
+Success. {e03} swore to attack the {e04} army at our signal in battle.
+
+@15001
+I finally won {e03} over. They swore to turn to our side in battle!
+
+@15001.1
+{C145}, it worked! {e03} promised to defect in the next battle!
+
+@15002
+Forgive me. It was beyond me to sway {e03}'s heart.
+
+@15002.1
+{e03} is a fine officer, enemy or not, and flatly refused to be persuaded.
+
+@15002.2
+{e03} would not listen to me. Had they turned, things would have gone our way...
+
+@15002.3
+{e03} would not hear a word, and the scheme failed. I am ashamed.
+
+@15003
+A wasted trip. I thought {e03} would agree if I went to persuade them myself...
+
+@15003.1
+Tch, curse {e03}! They did not take the bait.
+
+@15004
+They say {e04} and {e03} are as close as fish and water. It is true.
+
+@15004.1
+They say {e04} and {e03} are as close as fish and water. How very true.
+
+@15004.2
+They say {e04} and {e03} are as close as fish and water. It proved true.
+
+@15005
+You know of the Peach Garden Oath between {e03} and Liu Bei. No scheme can break such a bond.
+
+@15005.1
+Surely you know of the Peach Garden Oath between {e03} and Liu Bei. No scheme could break that bond.
+
+@15006
+As expected, {e03} gave no good answer. Their family stands firmly together.
+
+@15006.1
+As expected, {e03} gave no good answer. Their family seems firmly united.
+
+@15007
+Sadly, the bond between {e03} and {e04} is strong, with no gap to exploit.
+
+@15007.1
+It is true that {e03} and {e04} share a deep and complete trust.
+
+@15007.2
+The scheme failed. {e03} and {e04} seem to truly trust each other.
+
+@15007.3
+Sadly, the bond between {e03} and {e04} is strong, with no gap to exploit.
+
+@15008
+{e03} is a truly righteous one, and would not even listen to me.
+
+@15008.1
+{e03}'s devotion is as great as they say... They never wavered at all.
+
+@15008.2
+{e03} held fast to loyalty above all, and there was no way to persuade them.
+
+@15008.3
+{e03} is a loyal servant. Whatever I said, they would not listen.
+
+@15008.4
+{e03} is a truly righteous one, and would not even listen to me.
+
+@15009
+Sadly, we were refused. But {e03}'s heart seems to be wavering.
+
+@15009.1
+No agreement this time, but they are clearly in two minds. It is too soon to give up...
+
+@15009.2
+{e03} politely refused us, yet I could sense some doubt.
+
+@15009.3
+No good answer. But {e03}'s heart is wavering more than a little.
+
+@15009.4
+I came so close, but {e03} is too loyal to be won over.
+
+@15010
+{e03} politely refused, yet could not hide their doubts.
+
+@15011
+The plot succeeded. {e03} will soon raise the banner of revolt in {e0B}.
+
+@15011.1
+Rejoice! {e03} of {e0B} was persuaded and promised to revolt against {e04}!
+
+@15011.2
+I goaded {e03} into promising to raise troops against {e04}!
+
+@15011.3
+Success, {C10}! {e03} has secretly agreed to rebel in {e0B}.
+
+@15011.4
+{C145}, {e03} has promised to revolt in {e0B}, never knowing it is our scheme...
+
+@15012
+Success! {e03} will soon raise the banner of revolt!
+
+@15012.1
+{C145}, {e03} is set on rebelling in {e0B}, never knowing it is my scheme...
+
+@15014
+Tch! Goading a spineless fool like {e03} was a waste of time.
+
+@15014.1
+{e03} seems to have no ambition to rise above others. They cannot be made a tiger.
+
+@15014.2
+To unleash a tiger, one with no ambition, like {e03}, is hardly suitable...
+
+@15015
+I have stirred up {e0B}. The people will rise at our signal.
+
+@15015.1
+Success. The people of {e0B} are on our side. Our siege will go better now.
+
+@15015.2
+I have stirred up the people of {e0B}. Let us quickly save them from {e03}'s harsh rule.
+
+@15015.3
+I have incited the people of {e0B}. They will do their part when we storm the castle.
+
+@15015.4
+The people of {e0B}, fearful of the disorder, gladly promised to help when told of our plan.
+
+@15016
+Heh heh, when we storm the castle, fires should break out from within...
+
+@15016.1
+I have stirred up the people of {e0B}. They will do their part in the siege.
+
+@15017
+Public safety in {e0B} is well kept. I could not stir up the people.
+
+@15017.1
+{e03}'s benevolent rule reaches all of {e0B}. This task was too much for me.
+
+@15017.2
+I tried every means to stir up the people, but all of it was in vain.
+
+@15017.3
+The people of {e0B} are more devoted to {e03} than expected. I could not win them over.
+
+@15017.4
+I used every trick I know to incite the people of {e0B}, but nothing came of it.
+
+@15018
+Public safety in {e0B} is well kept. Trying to stir up the people was reckless.
+
+@15018.1
+A failure! The people of {e0B} are so stubborn!
+
+@15019
+Forgive me. Instead of stirring them up, I only drew the people of {e0B} closer together.
+
+@15019.1
+To my shame, they saw through the scheme, and the people only grew more united.
+
+@15019.2
+Someone knew who I was. The plot was exposed and it backfired.
+
+@15019.3
+By bad luck the people noticed, and they are now more wary of us.
+
+@15020
+By bad luck the people noticed, and now they are more wary of us.
+
+@15020.1
+By bad luck the people caught on, and now they are wary of us.
+
+@15021
+{e03} has a poor name, so the rumors spread faster than expected.
+
+@15021.1
+With the help of a few smooth talkers, I spread rumors in {e0B}.
+
+@15021.2
+Using every trick I know, I spread rumors throughout {e0B}.
+
+@15021.3
+I have spread ill rumors of {e03} in {e0B}!
+
+@15022
+{e03} has a poor name, so the rumors spread faster than I expected.
+
+@15022.1
+Using smooth talkers, I spread rumors in {e0B}!
+
+@15023
+The people of {e0B} believe the rumors and are in turmoil. Public safety has suffered.
+
+@15023.1
+The rumors seem to be spreading further, and the townsfolk are uneasy.
+
+@15024
+The people of {e0B} are surely shaken. It was worth going myself.
+
+@15025
+What is more, {e03} seems to have grown distrustful of {e04}.
+
+@15025.1
+The rumors even reached the officers, and {e03} was heard grumbling about {e04}.
+
+@15026
+What is more, {e03} took the rumors to heart and seems to be wavering.
+
+@15027
+But no one seems to have believed the rumors... It had no effect.
+
+@15027.1
+But no one seems to have taken them seriously. It had no effect.
+
+@15028
+And it has affected not only public safety but also {e03}'s loyalty.
+
+@15028.1
+The people grow ever more discontent, and even {e03} believes the rumors completely.
+
+@15029
+It has affected not only public safety but also {e03}'s loyalty!
+
+@15030
+The people of {e0B} are surely shaken. It was worth going myself.
+
+@15030.1
+The people of {e0B} believe the rumors and are in turmoil. Public safety has dropped!
+
+@15030.2
+The rumors have surely spread, and the townsfolk are uneasy.
+
+@15031
+At this rate the rumors will not stop at {e0B}; they will touch {e03}'s very prestige.
+
+@15031.1
+The rumors are spreading beyond {e0B}. They will shake {e03}'s prestige.
+
+@15032
+The rumors are spreading beyond {e0B}. They will even touch {e03}'s prestige.
+
+@15033
+The rumors that began in {e0B} have spread with astonishing speed, with effects everywhere.
+
+@15033.1
+What is more, the rumors have spread far and wide, and everyone believes ill of {e04}.
+
+@15034
+The rumors have spread more than I expected! The day {e0B} crumbles from within is near.
+
+@15035
+Forgive me. The plot has failed. My skill was not enough.
+
+@15035.1
+My wits could devise no scheme to disgrace one as renowned as {e03}.
+
+@15035.2
+I used every trick I know, but the rumors did not spread.
+
+@15035.3
+Forgive me. I worked hard to spread the rumors, but all for nothing...
+
+@15035.4
+I tried to spread ill rumors of {e03}, but it was no use.
+
+@15036
+A failure! Not one person was taken in by the rumors.
+
+@15036.1
+I tried to spread ill rumors of {e03}, but they had no effect at all.
+
+@15037
+They seem to have slipped into {e0B}. Next month they will ask {e01} for a post.
+
+@15038
+I was nearly exposed at a checkpoint and had to come back. I am ashamed.
+
+@15039
+Lord {e02}, {e01} went to {e0B} and has not been heard from since. They seem to have been a spy for {e03}.
+
+@15040
+Lord {e02}, {e01}, sent to {e0B}, is now in {e03}'s lands. {e01} was a planted agent.
+
+@15041
+News of the {f16} army marching has thrown {e0B} into an uproar.
+
+@15041.1
+Inside {e0B}, everyone is rushing to prepare for war. Officers and people alike are in an uproar.
+
+@15041.2
+Convinced that the {f16} army is marching, {e0B} holds war councils day after day.
+
+@15041.3
+Rumors of a {f16} invasion are spreading in {e0B}. Some are even fleeing the city.
+
+@15041.4
+The plot succeeded. {e0B} has hastily begun preparing for an attack by the {f16} army.
+
+@15042
+Heh heh, excellent results. The people of {e0B} are frightened by the false report and in a panic.
+
+@15042.1
+Convinced that the {f16} army is marching, {e0B} seems to hold war councils every day.
+
+@15043
+Forgive me. I underestimated the {f15} army's spy network.
+
+@15043.1
+The plot failed. {f15} seems to put more effort into spying than we thought.
+
+@15043.2
+The spies of the {f15} army saw through our scheme.
+
+@15043.3
+The care {f15} takes with its spies is something we should learn from.
+
+@15043.4
+The {f15} spy network is not to be underestimated. Sadly, the plot failed completely.
+
+@15044
+The vile spies of the {f15} army saw through my scheme!
+
+@15044.1
+A complete failure! Not one person was fooled by the false report.
+
+@15045
+{e01} of {e0B} seems to have been meeting with someone in secret.
+
+@15046
+{e01} of {e0B} seems to have been meeting with someone in secret.
+
+@15047
+Ill rumors about {e01} seem to be circulating in {e0B}.
+
+@15048
+Ill rumors about {e01} seem to be circulating in {e0B}.
+

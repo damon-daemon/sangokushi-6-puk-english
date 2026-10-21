@@ -1,0 +1,855 @@
+@33000
+In a field outside the castle of Ye
+
+@33001
+Huh? Something shiny's come up.
+
+@33002
+Why, it's a sparrow made of bronze. Looks like a lucky charm. I'll offer it to Lord {e02}.
+
+@33003
+In the castle of {e01}
+
+@33004
+Lord {e02}, a man of Ye has dug up a bronze sparrow and wishes to present it to you...
+
+@33005
+{C48}, a fine piece. Its dull gleam is quite something.
+
+@33006
+In the castle of {e01}
+
+@33007
+Do you remember the bronze sparrow dug up in Ye last year?
+
+@33008
+The bronze sparrow? Yes, there was such a thing.
+
+@33009
+I believe this bronze sparrow is an omen of good fortune.
+
+@33010
+When the ancient king Shun was born, his mother dreamed that a jeweled sparrow flew into her bosom.
+
+@33011
+That you have obtained a bronze sparrow, my lord, is an omen to rival the tale of King Shun.
+
+@33012
+{C48}, is that so? How interesting.
+
+@33013
+So, to celebrate the omen, why not build a tall terrace in Ye called the Bronze Sparrow Terrace?
+
+@33014
+Building the terrace would take about two years and a great deal of gold...
+
+@33015
+Spend 5,000 gold to build the Bronze Sparrow Terrace?
+
+@33016
+I cannot spend the state's funds on my own desires.
+
+@33017
+Is that so? Understood.
+
+@33018
+How interesting. Begin construction at once.
+
+@33019
+As you command. It should be finished around the 4th month, two years from now...
+
+@33020
+As {e01} has died, construction of the Bronze Sparrow Terrace has stopped.
+
+@33021
+As {e01} is no longer a ruler, construction of the Bronze Sparrow Terrace has stopped.
+
+@33022
+As {e01} has lost Ye, construction of the Bronze Sparrow Terrace has stopped.
+
+@33023
+In the castle of {e01}
+
+@33024
+Lord {e02}, I have a report.
+
+@33025
+The Bronze Sparrow Terrace in Ye, long under construction, is finally finished.
+
+@33026
+The terrace is finished at last? It took long. Very well, I will go and see it.
+
+@33027
+Lord {e02}, what do you think?
+
+@33028
+A splendid view... Someday I would like to spend my days here at leisure.
+
+@33029
+Now, to celebrate the terrace's completion, let us hold a banquet here.
+
+@33030
+A grand banquet was held to celebrate the terrace, with all the civil and military officials gathered.
+
+@33031
+Once peace has come, I would like to spend the rest of my days at ease on this terrace.
+
+@33032
+Thanks to the Bronze Sparrow Terrace, Ye will surely prosper all the more.
+
+@33033
+One day off, Xiahou Dun, an officer of {e01}, went hunting in the mountains near {e0B}.
+
+@33034
+General, they say tigers appear in these mountains. Please be careful.
+
+@33035
+Oho, a tiger... I would like to see one.
+
+@33036
+Waaah! A-a tiger!
+
+@33037
+Calm down, how pathetic! Listen, the two of us will bring that tiger down!
+
+@33038
+...Hm? Who is that?
+
+@33039
+N-no... Does he mean to fight that tiger alone?
+
+@33040
+Oh, well done! Alone... and he brought the tiger down in an instant...
+
+@33041
+You there, what is your name?
+
+@33042
+My surname is Dian, my given name Wei. What do you want?
+
+@33043
+I like your courage. Would you consider serving my lord?
+
+@33044
+If I can be of use, I will gladly take service.
+
+@33045
+...And so, I have brought him here.
+
+@33046
+Hmm, a mighty man indeed. Valor worthy of the ancient warrior E Lai reborn.
+
+@33047
+Dian Wei, the new E Lai, has joined {e01}'s service on Xiahou Dun's recommendation.
+
+@33048
+Dian Wei, an officer of {e01}, was leading troops to wipe out the remnants of the Yellow Turbans.
+
+@33049
+Lord Dian Wei, that one is the rebels' leader. Let us catch him quickly.
+
+@33050
+Do you think you can escape me, Dian Wei?
+
+@33051
+Bandit, taste the blade of justice!
+
+@33052
+Who is that? He does not look like one of the rebels.
+
+@33053
+You there! Hand that bandit over to us.
+
+@33054
+Heh. If you can take this sword from me, I'll hand him over.
+
+@33055
+Insolent fool! You will regret this!
+
+@33056
+Not bad. You are quite skilled.
+
+@33057
+Amazing... Such a fighter...
+
+@33058
+What is all this commotion?
+
+@33059
+Ah, Lord {e02}! You see...
+
+@33060
+I see, so that is it. To fight Dian Wei to a draw takes great skill.
+
+@33061
+Dian Wei, that is enough. And you, sheathe your sword.
+
+@33062
+I am {e01}. Who are you?
+
+@33063
+My name is Xu Chu. Bandits were running wild, so I gathered the villagers and fought them.
+
+@33064
+The bandits ran wild because my rule falls short. Forgive me, Xu Chu.
+
+@33065
+N-no, well... Er, yes.
+
+@33066
+Your valor amazed me. Would you serve me?
+
+@33067
+I am not worthy of such words. I will gladly serve you.
+
+@33068
+The fierce warrior Xu Chu has joined {e01}'s service.
+
+@33069
+In the castle of {e01}
+
+@33070
+Lord {e02}, I humbly submit a proposal.
+
+@33071
+Your deeds, Lord {e02}, in calming the Central Plains and saving the Han from peril are known throughout the realm.
+
+@33072
+Dong Zhao, what are you trying to say?
+
+@33073
+With such great deeds, you should not stand in the ranks of mere subjects.
+
+@33074
+I believe you should accept the rank of Duke. What say you?
+
+@33075
+My lord! You must not!
+
+@33076
+However great his deeds, the rank of Duke is not for a subject to hold.
+
+@33077
+If you seek high rank without regard for what is right, there will surely be unrest in the land.
+
+@33078
+...What does Lord {e02} think?
+
+@33079
+Lord {e01}, do you wish for the rank of Duke?
+
+@33080
+It is not right for the view of Lord Wenruo alone to stand against the wishes of all.
+
+@33081
+No, I think there is sense in what Wenruo says.
+
+@33082
+As a servant of the Han, to seek the rank of king or duke is not the conduct of a gentleman.
+
+@33083
+You understand, then. I am grateful.
+
+@33084
+Is it not only right that I be raised to Duke for my service to the throne? Hold your tongue, Wenruo.
+
+@33086
+Then let us begin preparations at once.
+
+@33087
+We make you a Duke and grant you the Nine Bestowments. Continue to serve the Han loyally.
+
+@33088
+Yes, thank you, Your Majesty.
+
+@33089
+{e01} has accepted the rank of Duke.
+
+@33090
+Ah... That it should come to this.
+
+@33091
+I no longer wish to serve him. Yet that would betray my loyalty as a retainer...
+
+@33092
+...I have no choice but to remonstrate with my death...
+
+@33093
+G-grave news! Lord Xun Yu has taken poison and killed himself!
+
+@33094
+What! Lord Wenruo...
+
+@33095
+He killed himself... I have done him a cruel wrong.
+
+@33096
+Let us grant Xun Yu the posthumous title Marquis Jing. See that he is buried with honor.
+
+@33097
+Xun Yu, an officer of {e01}, has died in despair.
+
+@33098
+In the castle of {e01}
+
+@33099
+The army is short of food. Zhou Yu, is there a good plan?
+
+@33100
+I have heard that in Linhuai there lives a wealthy man named Lu.
+
+@33101
+Why not ask this rich man to help us with food?
+
+@33102
+Follow Zhou Yu's advice and ask for help with food?
+
+@33103
+As one of the great men of the realm, I cannot rely on others.
+
+@33104
+Is that so? Then let us think of another plan.
+
+@33105
+...Then I will ask Zhou Yu to arrange it.
+
+@33106
+Understood. Please await good news.
+
+@33107
+...And so, I would like to ask you, a man famed for your wealth, to help us with food.
+
+@33108
+I see. I understand you well.
+
+@33109
+My house has two rice granaries, each holding some 3,000 measures of grain.
+
+@33110
+I will open one of them. Take as much as you like.
+
+@33111
+What! All the rice in one granary?
+
+@33112
+Oh... Is that still not enough?
+
+@33113
+N-no! It is plenty. Lord Lu Zijing, I thank you.
+
+@33114
+It is for all the people of the realm. It is nothing.
+
+@33115
+What a generous man. I would like him as a friend.
+
+@33116
+{e01}'s food has increased by 3,000.
+
+@33117
+In the castle of {e01}
+
+@33118
+Lord {e02}, do you know of the Two Zhangs of Jiangdong?
+
+@33119
+No, I have never heard of them. Who are the Two Zhangs?
+
+@33120
+Two wise men of Jiangdong: Zhang Zhao of Pengcheng and Zhang Hong of Guangling.
+
+@33121
+Both have talent great enough to move heaven and earth. Please invite them.
+
+@33122
+Follow Zhou Yu's advice and invite the Two Zhangs?
+
+@33123
+However talented, they cannot match you. No need to invite them.
+
+@33124
+What are you saying...? I am not fit to stand at their feet...
+
+@33125
+Is that so? Then let us invite them both.
+
+@33126
+You there, go as my envoy and bring Zhang Zhao and Zhang Hong here.
+
+@33127
+Yes, my lord!
+
+@33128
+But Zhang Zhao and Zhang Hong both firmly refused to take office.
+
+@33129
+In the castle of {e01}
+
+@33130
+The Two Zhangs you recommended both refused to serve. What did I do wrong?
+
+@33131
+I think it would be better to visit them yourself rather than send someone to summon them.
+
+@33132
+Then, moved by your spirit, they may agree to serve.
+
+@33133
+Follow Zhou Yu's advice and go to fetch the Two Zhangs?
+
+@33134
+No need to go that far. There are still many wise men in the realm.
+
+@33135
+Is that so? Then as you wish...
+
+@33136
+I must spare no effort to win wise men. Let us go at once.
+
+@33137
+Then I will come with you.
+
+@33138
+I have no talent worthy of such an invitation. Please, go home.
+
+@33139
+You are one of the Two Zhangs of Jiangdong. There is no need for modesty. Please, assist me...
+
+@33140
+V-very well. Untalented as I am, I will serve you.
+
+@33141
+Thank you. I look forward to your guidance.
+
+@33142
+Next, let us go to Lord Zhang Hong.
+
+@33143
+I am young and untalented, but I wish to learn from you and bring peace to these troubled times.
+
+@33144
+Zigang, I have decided to serve this man. Will you not serve with me?
+
+@33145
+If Lord Zibu sees promise in him, it cannot be wrong. I will serve too.
+
+@33146
+The Two Zhangs of Jiangdong, Zhang Zhao and Zhang Hong, have joined {e01}'s service.
+
+@33147
+In the castle of {e01}
+
+@33148
+Since ancient times it has been said: "He who wins men prospers, and he who loses men perishes."
+
+@33149
+It is vital to have men of deep and far-sighted wisdom at your side.
+
+@33150
+Do you know of such a man?
+
+@33151
+I recommend Lu Su of Linhuai. His family has long been rich, but he is generous and spares no wealth...
+
+@33152
+He is devoted to his old mother, and learned in history and the arts of war. Please summon him.
+
+@33153
+Follow Zhou Yu's advice and go to fetch Lu Su?
+
+@33154
+Not today. We will fetch him someday.
+
+@33155
+With such a leisurely attitude, you will let a big fish get away.
+
+@33156
+If you praise him so highly, he must be a man of great talent. Go and fetch him at once.
+
+@33157
+Lord Lu Su, it has been a long time. Today I bring an offer of service.
+
+@33158
+Lately other friends have also recommended various lords, and I cannot decide whom to serve.
+
+@33159
+An old saying goes: "A good bird chooses its tree."
+
+@33160
+Lord {e02}, whom I serve, is the very lord to follow. Will you not serve with me?
+
+@33161
+This too must be fate. I will accept the invitation.
+
+@33162
+Oh! Then let us go at once.
+
+@33163
+So you are Lord Lu Su. I look forward to your guidance.
+
+@33164
+Now, while the Han declines and the land lies ravaged, is the time to watch the course of the realm. Be prudent.
+
+@33165
+Lu Su has joined {e01}'s service.
+
+@33166
+In the castle of {e01}
+
+@33167
+Why, if it is not Zhao Zilong. What brings you here?
+
+@33168
+While patrolling to keep order, I came across bandits and put them down.
+
+@33169
+The horse the bandit rode was so magnificent that I have come to present it to you.
+
+@33170
+Please accept it.
+
+@33171
+{e01} has obtained Dilu.
+
+@33172
+In the palace of {e0B}
+
+@33173
+We are finished... Our body burns. There is nothing to be done.
+
+@33174
+Your Majesty, stay with us!
+
+@33176
+Your Majesty! Ah, he has passed away.
+
+@33177
+In the 4th month of the 6th year of Zhongping (189), Emperor Ling of Han, Liu Hong, died at 34. Emperor Shao, Liu Bian, took the throne.
+
+@33178
+In the palace of {e0B}
+
+@33179
+Ohh... My chest hurts...
+
+@33180
+Your Majesty, be strong!
+
+@33181
+Ohh...
+
+@33182
+Your Majesty! Ah, he has passed away.
+
+@33183
+In the 12th month of the 6th year of Zhongping (189), the boy Emperor Shao of Han, Liu Bian, died. His brother Liu Xie took the throne.
+
+@33184
+In the castle of {e02}
+
+@33185
+Lord {e02}, do you know of the "Oath of the Peach Garden"?
+
+@33186
+I do. Liu Bei, Guan Yu and Zhang Fei swore brotherhood in a peach garden, they say...
+
+@33187
+I hear Sun Ce too swore brotherhood with Zhou Yu, Handsome Zhou.
+
+@33188
+What do you say? Shall the two of us swear a similar oath?
+
+@33189
+Lord {e02}, will you swear brotherhood with {e03}?
+
+@33190
+What nonsense is this from a mere subject...? Learn the proper bounds between lord and retainer!
+
+@33191
+Yes, my lord. I spoke above my station...
+
+@33192
+We have shared joy and hardship. Very well.
+
+@33193
+Then let us become sworn brothers and fight together.
+
+@33194
+{e02} and {e03} have sworn an oath of brotherhood.
+
+@33195
+In the castle of {e02}
+
+@33196
+Lord {e02}, there are reports that yellow dragons have appeared all over your lands.
+
+@33197
+{C48}, is that so? What does it portend?
+
+@33198
+It hardly needs saying. Such an omen means that you, Lord {e02}, will ascend the supreme throne.
+
+@33199
+Now is the time to take the imperial throne. Please, make your decision.
+
+@33200
+Lord {e02}, will you take the imperial throne?
+
+@33201
+Does the throne not belong to the House of Han? That would be usurpation.
+
+@33202
+To take the throne at Heaven's command is no usurpation. Please reconsider.
+
+@33203
+I am and will remain a servant of the Han. Say more, and even you will not be spared!
+
+@33204
+Very well, I understand. Following the will of Heaven, I shall become Emperor.
+
+@33205
+Oh, how long I have waited for this day... I am overjoyed.
+
+@33206
+Let us choose an auspicious day and hold the coronation.
+
+@33207
+Congratulations on your accession, Your Majesty.
+
+@33208
+From the highest general to the lowest soldier, all celebrate your accession.
+
+@33209
+{e02} took the imperial throne in {e0B} and vowed to unify the land.
+
+@33210
+In the castle of {e02}
+
+@33211
+I do not think a man such as you, Lord {e02}, should stand among mere subjects.
+
+@33212
+Should you not take the title of King?
+
+@33213
+Lord {e02}, will you take the title of King?
+
+@33214
+The realm is not yet settled. It is too soon to seek the title of King.
+
+@33215
+Understood. Then I will not press you.
+
+@33216
+Very well, I will become King. Why did I never think of it before?
+
+@33217
+Let us choose an auspicious day and hold the ceremony.
+
+@33218
+Congratulations on becoming King. The unification of the land must be near.
+
+@33219
+{e02} became King in {e0B}.
+
+@33220
+The lords allied against Dong Zhuo advanced their armies to Hulao Pass to overthrow him.
+
+@33221
+Hearing this, Dong Zhuo gave an army to his fierce general Hua Xiong and sent him to defend Hulao Pass.
+
+@33222
+Hmm... Hua Xiong. A tough foe. Is there anyone who can slay him?
+
+@33223
+I have a brave general named Pan Feng. Let me send him.
+
+@33224
+My name is Pan Feng. Hua Xiong, fight me fairly!
+
+@33225
+You are no match for me! Learn the difference in strength!
+
+@33226
+Argh!
+
+@33227
+Pan Feng has fallen?! That Hua Xiong, what strength!
+
+@33228
+Ah, if only I had brought Yan Liang or Wen Chou...
+
+@33229
+I will go and slay Hua Xiong.
+
+@33230
+Oh, Lord Guan Yu, sworn brother of Liu Xuande.
+
+@33231
+Hmm... If we send a man of such low rank, will Hua Xiong not laugh at us?
+
+@33232
+This is no time to argue over high or low rank.
+
+@33233
+I have no use for small fry! Bring out Cao Cao or Yuan Shao!
+
+@33234
+You will find out for yourself whether Guan Yunchang is small fry.
+
+@33235
+Wh-what?! Aaaargh!
+
+@33236
+To slay even Hua Xiong... Guan Yu, well done.
+
+@33237
+Lord Yuan Shao, now is the time to give chase. Give the order!
+
+@33238
+Hua Xiong has fallen?! Grr, you will pay for this!
+
+@33239
+With Guan Yu's defeat of Hua Xiong, the Battle of Hulao Pass ended in victory for the allies against Dong Zhuo.
+
+@33240
+Gongsun Zan and Yuan Shao, rivals for mastery of Hebei, faced each other at Jieqiao.
+
+@33241
+Jizhou is mine. What complaint do you have?
+
+@33242
+You scoundrel, you seized Jizhou by heartless means! Heaven may forgive you, but I will not!
+
+@33243
+Grr... Wen Chou! Bring his head before me!
+
+@33244
+Defeated, Gongsun Zan fled through the mountains with Wen Chou in pursuit.
+
+@33245
+Gongsun Zan, there is no escape now. Get off your horse and surrender.
+
+@33246
+Curses! Is this the end for me?
+
+@33247
+General of Yuan Shao, I will be your opponent.
+
+@33248
+What, who are you...? Hmm, you are good.
+
+@33249
+No choice. I will withdraw for today. You will pay for this.
+
+@33250
+You saved me. What is your name?
+
+@33251
+I am from Changshan. My name is Zhao Yun, styled Zilong.
+
+@33252
+I thought of serving Yuan Shao, but saw he is not a man to save the people, so I was heading home to Changshan.
+
+@33253
+I am no great benevolent lord either, but would you like to serve me? Better me than Yuan Shao.
+
+@33254
+Then I will stay for a while and see.
+
+@33255
+Thanks to Zhao Yun, the war between Yuan Shao and Gongsun Zan came to a stalemate.
+
+@33256
+Hearing of this, Dong Zhuo sought to win their favor and sent imperial envoys to both sides to make peace.
+
+@33257
+Will you make peace with that Yuan Shao for the likes of Dong Zhuo?
+
+@33258
+Dong Zhuo is using an imperial decree. I cannot defy it.
+
+@33259
+Besides, it would not be bad to save our strength and watch.
+
+@33260
+(In the end, he too is just a warlord of these chaotic times, not a hero to save the people.)
+
+@33261
+(Ah, where is the lord I am truly meant to serve?)
+
+@33262
+The Battle of Jieqiao ended, for the time being, in a peace made by the court.
+
+@33263
+Surrender is out of the question. I believe the best plan is to seek help from another province.
+
+@33264
+We will help Xuzhou. March out at once!
+
+@33265
+The battle of Xuzhou ended with Cao Cao's withdrawal. At Tao Qian's request, Liu Bei took up the defense of Xiaopei.
+
+@33266
+Cao Cao and Yuan Shao faced each other at Guandu, between Xuchang and Ye.
+
+@33267
+The Yuan clan is a great house indeed. The size of its army cannot be taken lightly.
+
+@33268
+I would end this in one stroke, but Cao Cao is no easy foe. Things are not going as I wish.
+
+@33269
+There were several skirmishes, but the battle fell into a stalemate.
+
+@33270
+Xuchang is now poorly defended. Attack it with 5,000 men, and Cao Cao's army will collapse.
+
+@33271
+Hmm... Would it go so well?
+
+@33272
+I hear Xu You was friends with Cao Cao in his youth. He may be in league with him...
+
+@33273
+...Xu You, I will not use your plan. Get out of my sight.
+
+@33274
+Good advice grates on the ear... My life is in danger if I stay. I will go over to Cao Cao, as he wishes.
+
+@33275
+Xu You has fled to us?! Very well, I will see him.
+
+@33276
+Ill-served by my lord, I have come trusting in our old friendship. Please give me a place among your men.
+
+@33277
+I welcome you gladly. If you have a good plan, tell me at once.
+
+@33278
+All of Yuan Shao's food is at Wuchao. Burn it, and the battle will be decided.
+
+@33279
+A splendid plan. But we have no way to reach Wuchao.
+
+@33280
+Raise Yuan banners and hide in the dark of night. If found, say you are reinforcements for Wuchao.
+
+@33281
+Very well, we will use that plan. Xu You, thanks to you we will win.
+
+@33282
+Grave news! The food at Wuchao has been burned! Cao Cao's army attacked by night!
+
+@33283
+What! How did Cao Cao know our food was gathered at Wuchao...?
+
+@33284
+Ngh... It cannot be helped. Without food we cannot fight. All troops, withdraw at once!
+
+@33285
+Victory is ours! All troops, pursue Yuan Shao!
+
+@33286
+The Battle of Guandu was a great victory for Cao Cao's army, which made a surprise attack on Wuchao.
+

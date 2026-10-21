@@ -1,0 +1,246 @@
+@56000
+{e02}! This time we settle it. Face me in a duel!
+
+@56000.1
+{e02}, I have come to settle our last fight. I demand a duel!
+
+@56000.2
+{e02}! I have heard of your valor, and I come seeking a duel.
+
+@56000.3
+{e02}, stop skulking and fight me!
+
+@56000.4
+Where are you, {e02}?! Fight me!
+
+@56000.5
+Traitor {e02}! Come out!
+
+@56000.6
+Is there no one who will face {e01}?
+
+@56000.7
+Where is the enemy commander? {e01} will take you on!
+
+@56000.8
+Where is the enemy commander? {e01} is your opponent!
+
+@56000.9
+You there, you must be {e02}. {e01} is your opponent!
+
+@56000.10
+{e02}! Do you dare duel with me?!
+
+@56001
+{e01} accepted the duel without orders.
+
+@56002
+Very well, I'll face you.
+
+@56002.1
+Just what I wanted! I'll finish this quickly.
+
+@56002.2
+Ha, {e01} will have your head!
+
+@56002.3
+Ha! {e01} is here, as you wished.
+
+@56002.4
+Ha, a worthy opponent.
+
+@56002.5
+Silence! I'll make you stop boasting.
+
+@56003
+Ha, {e01} is here!
+
+@56003.1
+Ha, just the opponent I hoped for.
+
+@56003.2
+Insolent! {e01} will strike you down instead.
+
+@56003.3
+Beating you is the quickest way.
+
+@56003.4
+I've been waiting for this moment!
+
+@56003.5
+Challenging {e01} alone... I'll at least praise your courage.
+
+@56003.6
+Ha, just what I wanted!
+
+@56003.7
+Good, I'll take you on.
+
+@56004
+{C110}, with the men in such confusion, I have no choice but to accept.
+
+@56004.1
+Damn! At a time like this! No choice. Then I'll take you on.
+
+@56004.2
+Tch, the men are shaken! It can't be helped. I'll strike you down.
+
+@56005
+{e01} forced a duel.
+
+@56006
+Lord {e02}, consider your position! Ah, too late, gone...
+
+@56007
+Hey! {e02}! Without orders... Ah, hopeless fool.
+
+@56007.1
+Wait, {e02}! No use trying to stop you...
+
+@56008
+{e01} accepted the duel.
+
+@56009
+I will not stop you, but do not let your guard down.
+
+@56010
+Good! {e02}, show them your strength.
+
+@56010.1
+You have my leave. Go and fight to your heart's content.
+
+@56010.2
+I am counting on you.
+
+@56010.3
+Go and scatter them.
+
+@56010.4
+Very well, go.
+
+@56011
+Knowing you, you won't listen if I try to stop you.
+
+@56011.1
+No use stopping you... Very well, go.
+
+@56012
+I will scatter them without fail.
+
+@56012.1
+I will surely bring you {e02}'s head.
+
+@56012.2
+Watch closely. I will slay {e02}.
+
+@56012.3
+I will knock off {e02}'s worthless head.
+
+@56012.4
+I will slay {e02} before the eyes of the men.
+
+@56013
+I'll scatter them with ease.
+
+@56013.1
+I'll snap {e02}'s neck with ease.
+
+@56013.2
+Watch closely. I'll shut {e02} up soon enough.
+
+@56013.3
+I'll knock off {e02}'s head.
+
+@56013.4
+I'll slay {e02} in front of the men.
+
+@56014
+I will take {e02} alive with ease.
+
+@56014.1
+I will capture {e02} with ease.
+
+@56014.2
+I have a good plan. Leave it to me.
+
+@56015
+Ha, I'll face you, as you wish!
+
+@56015.5
+I'll knock off {e02}'s head!
+
+@56015.6
+I'll slay {e02} in front of the men!
+
+@56016
+I'll scatter them with ease.
+
+@56017
+I'll take {e02} alive with ease.
+
+@56017.1
+I'll capture {e02} with ease!
+
+@56018
+{e01} refused the duel.
+
+@56019
+Fighting you? I'd need more than one life for that.
+
+@56019.1
+{C145}, I won't fall for such a trick.
+
+@56019.2
+I have no time to bother with you.
+
+@56019.3
+I have no time to waste on the likes of you.
+
+@56020
+{C145}, that is what they call a brute's courage.
+
+@56020.1
+{C145}, you rely too much on courage.
+
+@56020.2
+Don't lump me together with a reckless boar like you.
+
+@56020.3
+Battles are decided by formations. A duel...
+
+@56020.4
+Now is not the time. We will settle this another day.
+
+@56020.5
+Hmph! I'll teach you that courage alone doesn't win wars.
+
+@56020.6
+A rash duel is just what you would do.
+
+@56021
+Pulling back my troops comes first. I can't bother with you.
+
+@56021.1
+Pulling back my troops comes first. I can't bother with you.
+
+@56021.2
+A pity, but now is not the time. We'll fight another day.
+
+@56021.3
+Tch, this is no time to deal with you.
+
+@56021.4
+I have no time for this! Men! Fall back!
+
+@56021.5
+Eeek! R-run for it!
+
+@56021.6
+Eeek, please spare my life...
+
+@56022
+Lord {e03}, {e01} has challenged you to a duel. Will you accept?
+
+@56022.1
+Lord {e03}, {e01} has challenged {e02} to a duel. Will you accept?
+

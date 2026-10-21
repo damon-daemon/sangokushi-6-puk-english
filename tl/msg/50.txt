@@ -1,0 +1,1485 @@
+@50000
+What's this? Ready to run already?
+
+@50000.1
+Surely you won't tell me that was all?
+
+@50000.2
+It seems you picked the wrong opponent.
+
+@50000.3
+{C145}, is this all the strength you have?!
+
+@50000.4
+{C145}, do you see now how feeble you are?!
+
+@50000.5
+I'll give you a full taste of true terror.
+
+@50000.6
+You're mine! I'll settle this in one stroke.
+
+@50001
+What? Ready to run already?
+
+@50001.1
+Don't tell me that was all.
+
+@50001.2
+It seems you picked the wrong opponent.
+
+@50002
+How's that! You can't dodge my blade.
+
+@50002.1
+{C145}, run while you still can.
+
+@50002.2
+That was nothing yet!
+
+@50002.3
+Hyaaah!
+
+@50002.4
+I'm only getting started.
+
+@50002.5
+Die, {e02}!
+
+@50003
+I'm only getting started.
+
+@50003.1
+{C145}, run while you still can.
+
+@50003.2
+That was nothing yet!
+
+@50003.3
+This is just the beginning!
+
+@50004
+How's that? I'm just getting started.
+
+@50004.1
+What's wrong?! Surely you don't think you've won?
+
+@50004.2
+Now you've made me serious!
+
+@50005
+Well? I'm only just beginning.
+
+@50005.1
+It's too soon to think you've won.
+
+@50006
+{C145}, a little thing like that...
+
+@50006.1
+That won't do a thing to me!
+
+@50006.2
+{C145}!
+
+@50006.3
+That won't work.
+
+@50006.4
+Useless.
+
+@50006.5
+A waste of effort!
+
+@50007
+This... Hmm, this will be a hard fight.
+
+@50007.1
+{C110}, you're good...
+
+@50007.2
+Ugh... this one is skilled.
+
+@50008
+Tch, you're good. I can't hold back, then.
+
+@50008.1
+You're better than I thought. Then I can't let my guard down.
+
+@50008.2
+More skilled than I expected. But how long can you last...
+
+@50009
+As expected of {e02}. You won't be easy.
+
+@50009.1
+I see. So this is the swordplay of {C19}.
+
+@50010
+This, right away... This could be hard.
+
+@50010.1
+{C80}! Not yet, I'm not done yet!
+
+@50011
+Right from the start... That one really hurt.
+
+@50011.1
+{C80}! Not yet, I'm not done yet!
+
+@50012
+Shall I end this soon?
+
+@50012.1
+You're mine! I'll finish this in one stroke.
+
+@50012.2
+With skill like that, you're no match for {e01}.
+
+@50012.3
+What's wrong?! Or are you waiting for an opening?
+
+@50012.4
+You're not worth fighting.
+
+@50012.5
+Is this all {C19} amounts to?!
+
+@50013
+Good, that one hit!
+
+@50013.1
+How about this!
+
+@50013.2
+Not yet!
+
+@50013.3
+Take that!
+
+@50013.4
+Come on, come on!
+
+@50013.5
+Haaah!
+
+@50013.6
+Had enough?!
+
+@50013.7
+Die!
+
+@50014
+I can do this!
+
+@50014.1
+That's not all I've got!
+
+@50014.2
+With this blow!
+
+@50015
+I can win!
+
+@50015.1
+Not yet, not yet.
+
+@50015.2
+That's not all I've got!
+
+@50015.3
+With this blow!
+
+@50015.4
+Heh heh heh.
+
+@50016
+How about this?
+
+@50016.1
+Is that all you've got?
+
+@50016.2
+That's as far as you go.
+
+@50017
+Not yet! This fight isn't over!
+
+@50017.1
+Not yet! I won't give up yet!
+
+@50017.2
+How's that! It's not over yet!
+
+@50017.3
+I haven't given up yet!
+
+@50017.4
+Hmph. Don't think you've won with that.
+
+@50018
+Too soft, too soft. A move like that won't do.
+
+@50018.1
+Is that all...
+
+@50018.2
+{C145}, come at me for real!
+
+@50018.3
+{C145}, so this is the best you can do.
+
+@50018.4
+Just as I thought. This is all.
+
+@50019
+That's nothing!
+
+@50019.1
+Heh heh, come at me for real.
+
+@50020
+What was that?
+
+@50020.1
+Hmm, is that all?
+
+@50020.2
+So this is all you've got.
+
+@50021
+You're good. Now the real fight begins.
+
+@50021.1
+It starts now. From here on, spirit decides the match.
+
+@50021.2
+Ugh... I must turn to the attack soon...
+
+@50021.3
+Tch! Not yet!
+
+@50021.4
+{C110}, you're better than I thought.
+
+@50021.5
+Ugh! But still...
+
+@50021.6
+Me, pushed back?
+
+@50021.7
+Ow! You're good.
+
+@50021.8
+Tch, so you got me.
+
+@50022
+You're good! Now the real fight begins!
+
+@50022.1
+It starts now. From here on, spirit decides the match.
+
+@50022.2
+Ugh... I'd better turn to the attack soon...
+
+@50022.3
+Tch! Not yet!
+
+@50022.4
+{C110}, you're better than I thought.
+
+@50022.5
+Ugh! But still...
+
+@50022.6
+I'm being pushed back...
+
+@50022.7
+Ow! You're good.
+
+@50022.8
+Tch, you got me there.
+
+@50023
+What strength! But not yet, it is not over yet!
+
+@50023.1
+{C80}! I can't even dodge!
+
+@50023.2
+{C80}! I-I've nowhere left to go!
+
+@50023.3
+S-so fast...
+
+@50023.4
+{C110}, strong indeed.
+
+@50024
+{C145}, it's over. How very disappointing.
+
+@50024.1
+{C145}, this is the end for {C19}.
+
+@50024.2
+How's that?! Looks like you're finished.
+
+@50025
+Stubborn!
+
+@50025.1
+Hyaah! How about this!
+
+@50025.2
+Still not dead?
+
+@50025.3
+Tch, you held out again?
+
+@50026
+But at this rate...
+
+@50026.1
+A draw is the best I can hope for.
+
+@50026.2
+Not yet!
+
+@50027
+You hang on well.
+
+@50027.1
+Ngh, you won't escape me.
+
+@50027.2
+T-to the very end...
+
+@50028
+Ugh, that blow was hard to take.
+
+@50028.1
+B-but I can't lose...
+
+@50028.2
+Not here, not like this!
+
+@50029
+Ugh...
+
+@50029.1
+{C80}! Isn't there something I can do?
+
+@50029.2
+Tch!
+
+@50030
+{C110}... I will not run. I will have your head!
+
+@50030.1
+{C145}, to die here would be an honor.
+
+@50030.2
+Not yet! I'll stake it all on one last blow!
+
+@50030.3
+I won't retreat. I'll take you with me!
+
+@50030.4
+It is not over yet. I'll land one more blow on you!
+
+@50031
+Not yet! I'll stake it all on one last blow!
+
+@50031.1
+I won't retreat. I'll take you with me!
+
+@50031.2
+It is not over yet. I'll land one more blow on you!
+
+@50032
+Tch, I was asking too much of myself.
+
+@50032.1
+Th-this is bad.
+
+@50032.2
+It's hopeless like this.
+
+@50032.3
+Tch, it's too hard after all.
+
+@50032.4
+{C110}, I can't hold out any longer.
+
+@50033
+Can you dodge my {e2B}?
+
+@50033.1
+You can't dodge this. Take that!
+
+@50033.2
+Can you keep up with this?
+
+@50033.3
+You can't block this! Here I come!
+
+@50033.4
+You can't dodge this! Hiyaaah!
+
+@50033.5
+Come on, come on, how about this!
+
+@50034
+Ugh! You've scarred my face!
+
+@50034.1
+Ugh, a mere scratch like this!
+
+@50034.2
+Damn! M-my arm...
+
+@50034.3
+Ngh, careless of me. But a wound like this is nothing!
+
+@50034.4
+Ow! But one arm is enough for the likes of you!
+
+@50035
+Ugh, a mere scratch like this!
+
+@50035.1
+Damn! M-my arm...
+
+@50035.2
+Ugh, careless of me. But a wound like this is nothing!
+
+@50036
+{C110}... was that a mortal wound...
+
+@50036.1
+Damn! Who would have thought it would be fatal...
+
+@50037
+Hyaaaah!
+
+@50037.1
+Raaargh!
+
+@50037.2
+Take this!
+
+@50037.3
+Die!
+
+@50037.4
+Haaaah!
+
+@50037.5
+Yaaah!
+
+@50037.6
+An opening!
+
+@50038
+Take this!
+
+@50038.1
+Got you!
+
+@50038.3
+There!
+
+@50038.4
+An opening!
+
+@50039
+Back off, brat!
+
+@50039.1
+Back off, you sneak thief!
+
+@50039.2
+Back off, you worm!
+
+@50039.3
+Back off, you lowlife!
+
+@50039.4
+Back off, you scum!
+
+@50040
+Back off, little girl!
+
+@50040.1
+Back off, you vixen!
+
+@50041
+Eek!
+
+@50041.1
+Whoa!
+
+@50041.2
+Agh!
+
+@50042
+Heh! The weakest dogs bark the loudest.
+
+@50042.1
+Hmph, what nonsense.
+
+@50042.2
+Hmph! Do you think that will frighten me?
+
+@50042.3
+{C145}, howling from afar suits you well!
+
+@50042.4
+Tch, you're a full-grown warrior in voice alone.
+
+@50042.5
+Hmph, I'll soon make you stop boasting.
+
+@50042.6
+Shut up! I'll silence you soon enough!
+
+@50043
+Hmph! Do you think that will frighten me?
+
+@50044
+What was that?
+
+@50044.1
+Huh, what are you talking about?
+
+@50045
+Let me show you another way to use the {e2B}.
+
+@50045.1
+I don't even need a weapon to take you captive!
+
+@50045.2
+I'll take you captive.
+
+@50045.3
+I'll take you captive with ease.
+
+@50045.4
+I'll knock you off your horse!
+
+@50045.5
+I'll take you alive here.
+
+@50046
+For the likes of you, I don't even need a weapon.
+
+@50046.1
+I'll take you captive with ease.
+
+@50047
+For someone like you, I don't even need a weapon.
+
+@50047.1
+I'll take you captive with ease.
+
+@50048
+{C145}... I'm not that slow.
+
+@50048.1
+You would take me alive? Don't mock me!
+
+@50048.2
+Fool! It's no use!
+
+@50048.3
+{C145}, for your own sake, don't think of taking me alive.
+
+@50048.4
+Don't play games with me!
+
+@50048.5
+To think of taking me alive... You underestimate me.
+
+@50048.6
+With thoughts like that, you will never defeat me.
+
+@50048.7
+Curse you! You mock me!
+
+@50049
+No way!
+
+@50049.1
+What?!
+
+@50049.2
+Whoa!
+
+@50050
+Can you dodge my {e2B}?
+
+@50050.1
+Take this!
+
+@50050.2
+Can you dodge my {e2B}?
+
+@50050.3
+Lord {e02}, can you dodge this?
+
+@50051
+C-coward!
+
+@50051.1
+Damn! You had that hidden on you!
+
+@50051.2
+What?! Where were you hiding that?!
+
+@50052
+Did you think such a thing would work on me?
+
+@50052.1
+Clever thinking. But it's no use.
+
+@50052.2
+Hmph, cheeky.
+
+@50053
+Tch, such petty tricks! Fight fair and square!
+
+@50053.1
+Tch, what a dirty trick!
+
+@50054
+Did you think that would work on me?!
+
+@50055
+What? Something's odd. You're running far too easily.
+
+@50055.1
+Strange... You're running far too easily.
+
+@50055.2
+{e02}, stop this clumsy act. You can still fight.
+
+@50055.3
+Hm, the way you ran... Something is up.
+
+@50055.4
+Odd... It's far too early to run.
+
+@50055.5
+Heh. Did you think {e01} could not see through such a ploy?
+
+@50055.6
+{e02}, you are scheming something.
+
+@50055.7
+Enough of this. You can still fight.
+
+@50056
+{C80}! Then I'll cut you down no matter what!
+
+@50056.1
+Tch, you saw through it. No more tricks, then. Here I come!
+
+@50056.2
+Tch! You're calmer than I thought.
+
+@50056.3
+Damn, I underestimated you. Then I'll strike you down with my own hands.
+
+@50056.4
+I meant to take you alive, but it seems you want to die.
+
+@50056.5
+Oh? You saw through my plan... Interesting! Here I come!
+
+@50056.6
+Tch, you're good. Then I'll cut you down with my own hand.
+
+@50057
+Heh heh, how foolish. Now, men! Seize this one!
+
+@50057.1
+Fool! You fell for it! Now, men, seize them!
+
+@50058
+Damn, you tricked me, {e02}!
+
+@50059
+Well done, men.
+
+@50060
+Phew... That was close. But it took more than that ambush to capture {e01}.
+
+@50061
+Tch, to think they got away. I took them a little too lightly...
+
+@50062
+{e02}! Hear me out!
+
+@50062.1
+{e02}, stop this futile fight and hear me out!
+
+@50062.2
+{e02}, open your ears and listen well!
+
+@50063
+Traitor, making the people suffer for your own ambition! Have you no shame?
+
+@50063.1
+What good is serving the likes of {e05}? Lay down your arms quietly.
+
+@50063.2
+Is there any justice in {e05}'s war? If you have any doubt, lay down your arms and withdraw.
+
+@50063.3
+{e02}! Lay down your arms. No more pointless fighting.
+
+@50063.4
+What is the point of fighting for one like {e05}, who acts only out of ambition?!
+
+@50063.5
+Does someone like you truly see any meaning in fighting under {e05}?!
+
+@50064
+We fight for Han, not for ambition like {e05}. Surely you feel that too.
+
+@50065
+Hmph! Well, it can't be helped. I'll withdraw for now.
+
+@50065.1
+Tch, no choice. I'll fall back for the moment.
+
+@50065.2
+Ugh, I'll pull back for now.
+
+@50065.3
+Ugh, {e02}! We'll settle this another day!
+
+@50066
+...
+
+@50067
+Do not throw your life away, {e02}.
+
+@50068
+Very well. I will live and work for Lord {e02}.
+
+@50068.1
+All right, {e02}. Take me to {e05}.
+
+@50069
+Well done. Put that strength of yours to work for me.
+
+@50069.1
+Well done, {e02}. Put that strength to work for Lord {e03}.
+
+@50070
+Hmph, what drivel. You won't talk me round so easily.
+
+@50070.1
+{C145}, don't make me laugh. Here I come!
+
+@50070.2
+Silence! I won't listen!
+
+@50070.3
+Shut up! I'll silence you soon enough.
+
+@50070.4
+And I wondered what you'd say... Instead of babbling, die quietly on my blade!
+
+@50071
+You're better than I thought. It's almost a shame to leave you with {e05}.
+
+@50071.1
+{e02}! You're quite good.
+
+@50071.2
+A master worthy of the rumors. {e02}'s skill has not faded, it seems...
+
+@50071.3
+What fearsome spirit. But it's no use now...
+
+@50071.4
+A splendid sight, {e02}! But to me it looks only futile...
+
+@50072
+{e02}! You're quite good.
+
+@50072.1
+A master worthy of the rumors indeed. {e02}'s skill has not faded, it seems...
+
+@50073
+Such bravado. You'd do better to fall quietly.
+
+@50073.1
+Hmph. Is that all you have to say?
+
+@50073.2
+Ha, what now? Instead of talking back, worry about yourself.
+
+@50073.3
+Nonsense! If you want to surrender, now is your chance.
+
+@50073.4
+{C145}, {e02}! What are you trying to say?
+
+@50074
+{C145}, {e0B} has fallen to our army. What are you doing in a place like this?
+
+@50074.1
+{e02}, {e0B} has fallen. You have no castle left to return to.
+
+@50074.2
+{e0B} has fallen to us, and still you mean to fight?
+
+@50076
+So you didn't know yet. But it's too late. Surrender to us quietly.
+
+@50077
+{C80}! Curse you, {e02}! I'll leave your head on your shoulders for now.
+
+@50078
+{C145}, don't talk nonsense. Die quietly on my blade.
+
+@50078.1
+Hmph! Did you think {e01} would be fooled by such a rumor?
+
+@50078.2
+You say that because you know you can't win. I'll finish this quickly. Here I come!
+
+@50079
+{C145}, what nonsense you speak. Die quietly on my blade.
+
+@50079.1
+Hmph! {e01} won't be fooled by such a rumor. Here I come!
+
+@50079.2
+Stop these transparent lies! I'll shut that mouth of yours.
+
+@50080
+I'll stake everything on this blow!
+
+@50080.1
+Take this blow, with all my heart and soul behind it!
+
+@50080.2
+One blow. I'll settle it with one blow.
+
+@50080.3
+For the likes of you, one blow will do. Die!
+
+@50080.4
+I'll end this with one swing. Die!
+
+@50080.5
+I'll send you to the next world in one blow! Raaaaagh!
+
+@50081
+I stake everything on this blow!
+
+@50082
+I'll cut you in two with one swing!
+
+@50083
+One thrust is enough for you!
+
+@50083.1
+I'll run you through in one blow.
+
+@50084
+I'll smash your skull in one blow.
+
+@50085
+Too soft, too soft.
+
+@50085.1
+With that much...
+
+@50085.2
+That won't work on me.
+
+@50086
+Tch, we struck each other!
+
+@50086.1
+So we both had the same target.
+
+@50086.2
+So we were both aiming for it.
+
+@50087
+Ugh, so it seems.
+
+@50087.1
+{C145}, so it seems.
+
+@50088
+I'll circle around here...
+
+@50088.1
+Take this!
+
+@50088.2
+There!
+
+@50088.3
+Hyaah!
+
+@50088.4
+An opening! I'll run you through the flank!
+
+@50089
+There...
+
+@50089.1
+Take this...
+
+@50089.2
+I'll circle around here...
+
+@50089.3
+Your flank is open! There!
+
+@50090
+{C145}, too bad.
+
+@50090.1
+Wrong!
+
+@50090.2
+Close, that was close.
+
+@50090.3
+Phew... So that was the plan...
+
+@50091
+Now! I've been waiting for this very moment!
+
+@50091.1
+I've already read your attack!
+
+@50091.2
+I saw through your plan long ago.
+
+@50091.3
+Here! This is the moment!
+
+@50091.4
+Now! Hyaaaah!
+
+@50092
+Damn it all!
+
+@50092.1
+Ngh... careless of me.
+
+@50092.2
+Tch!
+
+@50092.3
+Ugh!
+
+@50092.4
+Nnngh...
+
+@50092.5
+Not here...
+
+@50092.6
+This is bad!
+
+@50092.7
+Damn!
+
+@50092.8
+Ugh.
+
+@50092.9
+Gah!
+
+@50092.10
+What? How could I...
+
+@50093
+Ugh...
+
+@50093.1
+Tch!
+
+@50093.2
+Nnngh...
+
+@50093.3
+Not here...
+
+@50093.4
+This is bad!
+
+@50093.5
+Damn!
+
+@50093.7
+Ugh, how could I...
+
+@50093.8
+Ow!
+
+@50094
+Whoever stands before {e01} will be cut down!
+
+@50094.1
+Let me show you something to take to the grave.
+
+@50094.2
+You've been good sport. But this is the end.
+
+@50094.3
+Heaven, grant me strength! I stake all on this technique!
+
+@50094.4
+To make me use this technique...
+
+@50094.5
+I'll praise you for making me serious.
+
+@50094.6
+It's your own fault for making me angry!
+
+@50094.7
+To push me this far!
+
+@50094.8
+I'll make you stop boasting.
+
+@50094.9
+I'll at least build you a grave.
+
+@50094.10
+{e02}! Curse your ill fortune in the next world.
+
+@50095.2
+You've been good sport. But this is the end.
+
+@50095.3
+Heaven, give me strength! I stake all on this technique!
+
+@50095.4
+To make me use this technique...
+
+@50096.1
+You've been good sport. But now this ends.
+
+@50096.2
+Heaven, grant me strength! I stake all on this technique!
+
+@50096.7
+I'll make you stop boasting.
+
+@50097.1
+You've been good sport. But this is the end.
+
+@50097.2
+Heaven, give me strength! I stake all on this technique!
+
+@50097.5
+It's your own fault for making me angry!
+
+@50098
+I devised this for this very day and hour! Here I come!
+
+@50098.1
+{e02}! You will regret this! Here I come!
+
+@50098.2
+Here I come, {e02}! Haaaaah!
+
+@50098.3
+{e02}! Prepare yourself! Nuooooh! Die!
+
+@50098.4
+Take thiiis! Raaaaagh!
+
+@50098.5
+Die, {e02}! Haaaah!
+
+@50099.3
+{e02}! Prepare yourself! Nuooooh!
+
+@50100
+I devised this for this very day and hour! Here I come, my special move!
+
+@50100.1
+{e02}! You'll regret this! Here I come!
+
+@50100.3
+{e02}! Prepare yourself! Yaaaaah!
+
+@50101
+Mountain-Crushing Dragon Claw!
+
+@50101.1
+Azure Dragon Rock Splitter!
+
+@50101.2
+Tiger Wheel Spinning Smash!
+
+@50101.3
+Divine Spear Meteor Strike!
+
+@50101.4
+Wild Dance of Peach Blossoms!
+
+@50101.5
+Heaven-Defying Skull Cleaver!
+
+@50101.6
+Fierce Spear Azure Dragon!
+
+@50101.7
+Horn Pierce! Sky Leap! Beacon Cleave!
+
+@50101.8
+Great Iron Mountain Assault!
+
+@50101.9
+Frenzy of E Lai!
+
+@50101.10
+Seven Stars Divine Flash!
+
+@50101.11
+Cauldron Crusheeer!
+
+@50101.12
+Mighty Axe Whirlwind Slash!
+
+@50101.13
+Swift Arrow Realm Breaker!
+
+@50101.14
+Vanish! Void! Slash!
+
+@50101.15
+True Demon's Wail!
+
+@50101.16
+Ultimate Bursting Blast!
+
+@50101.17
+Butterfly Mountain-Pushing Thrust!
+
+@50101.18
+Soaring Spear Fang Flurry!
+
+@50101.19
+Twin Halberd Rending Bite!
+
+@50101.20
+Spear of the Red Dust!
+
+@50101.21
+Tiger Claw Whirlwind Lock!
+
+@50101.22
+New Black Shark of the Seas!
+
+@50101.23
+Secret Blade Flash Cut!
+
+@50101.24
+Trident Thrust Assault!
+
+@50101.25
+True Peerless Rampage!
+
+@50101.26
+Heavenly Cross of the Gods!
+
+@50101.27
+Hell Dragon Smash!
+
+@50102
+Hyaaaah!
+
+@50102.1
+Yaaaah!
+
+@50102.2
+Taaaah!
+
+@50102.3
+Raaaaagh!
+
+@50102.4
+Deyaaah!
+
+@50102.5
+Ooryaaah!
+
+@50103
+Can you dodge my arrow?
+
+@50103.1
+Got you!
+
+@50103.2
+Now!
+
+@50103.3
+One arrow is enough for the likes of you.
+
+@50103.4
+I'll put an arrow through your head.
+
+@50103.5
+Here's my greeting! Take this!
+
+@50104
+You fell for it. Can you dodge this?
+
+@50104.1
+Chasing after me so carelessly... Take this!
+
+@50104.2
+You fell for it, fool. Take this arrow!
+
+@50104.3
+{C145}, did you really think I was withdrawing?!
+
+@50105
+{C145}, did you really think I was retreating?!
+
+@50105.1
+Fool! It's your own fault for being fooled!
+
+@50106
+You fell for it. Can you dodge this?
+
+@50106.1
+Chasing after me so carelessly... Take this!
+
+@50106.2
+You fell for it. You'll be food for my arrows.
+
+@50107
+How could I fail to dodge an arrow like this?
+
+@50107.1
+An arrow like that won't hit me!
+
+@50107.2
+You mock me! Did you think an arrow like this could bring me down?!
+
+@50107.3
+Did you think a feeble arrow like that would hit me?!
+
+@50108
+You mock me! You think an arrow like this can bring me down?
+
+@50108.1
+I'm not slow enough to be hit by an arrow like that!
+
+@50108.2
+An arrow like that won't hit me!
+
+@50109
+{C110}, this is getting nowhere, {e02}. We will settle this one day...
+
+@50109.1
+Tch, the gong to withdraw. {e02}, I'll pull back today, but we will fight again.
+
+@50109.2
+Ugh, withdraw? If it's an order, it can't be helped. We'll settle this another day.
+
+@50110.1
+Tch, the gong to withdraw. {e02}, I'll pull back today, but we will fight again.
+
+@50110.2
+Ugh, withdraw, they say? If it's an order, it can't be helped. We'll settle this another day.
+
+@50111
+{C110}, out of time... This bout is a draw.
+
+@50111.1
+Tch, I couldn't even finish off the likes of you... A pity, but it's a draw.
+
+@50111.2
+Ugh, is this the end?! It seems this won't be settled so easily.
+
+@50112
+Very well. Then I'll withdraw for now.
+
+@50112.1
+Agreed. I'll face you any time.
+
+@50112.2
+That suits me too. But next time we meet...
+
+@50113
+All right, I'll withdraw for now.
+
+@50113.1
+Agreed. I'll face you any time.
+
+@50113.2
+{C145}, {e02}, you've escaped with your life.
+
+@50114
+A draw... I suppose it can't be helped...
+
+@50114.1
+Hmm, it cannot be helped.
+
+@50114.2
+So it seems. I'll withdraw quietly for now.
+
+@50115
+Well done, for an enemy. But it won't go like this next time.
+
+@50115.1
+We'll settle this another day. Remember that!
+
+@50115.2
+Tch, I'm no match for this. {e02}! I'll leave your head on your shoulders for now.
+
+@50115.3
+{C110}, how could I... No choice. I'll fall back for now.
+
+@50115.4
+I-is this as far as I go... It would be wise to withdraw.
+
+@50115.5
+Ow! This is bad! The odds are against me. A pity, but I must retreat.
+
+@50115.6
+Ugh, I'll fall back for now. {e02}, we'll settle this later!
+
+@50115.7
+It galls me, but the tide is against me... Time to withdraw.
+
+@50116
+I-is this as far as I go... It would be wise to withdraw.
+
+@50116.1
+Ow! This is bad! The odds are against me. A pity, but I must retreat.
+
+@50116.2
+Ugh, I'll fall back for now. {e02}, we'll settle this later!
+
+@50116.3
+It galls me, but the tide is against me... Time to withdraw.
+
+@50117
+Well done, for an enemy. But not next time. Go, {e29}!
+
+@50117.1
+We'll settle this another day. Remember that! Go, {e29}!
+
+@50117.2
+{C110}, how could I... I'll fall back for now. Please, {e29}!
+
+@50117.3
+I-is this as far as I go... Wiser to withdraw. Please, {e29}!
+
+@50117.4
+Ugh, I'll fall back for now. {e02}, we'll settle this later! Go, {e29}!
+
+@50117.5
+It galls me, but the tide is against me... Time to withdraw. Please, {e29}!
+
+@50118
+Well done, for an enemy. But not next time. Go, {e29}!
+
+@50118.1
+I-is this as far as I go... Wiser to withdraw. Please, {e29}!
+
+@50118.2
+Ugh, I'll fall back for now. {e02}, we'll settle this later! Go, {e29}!
+
+@50118.3
+It galls me, but the tide is against me... Time to withdraw. Please, {e29}!
+
+@50119
+Tch, with that wound you can fight no more. We'll fight again another day.
+
+@50120
+That was close.
+
+@50120.1
+I will repay this humiliation...
+
+@50120.2
+I will wipe out this disgrace, mark my words.
+
+@50121
+Coward! Running away is base!
+
+@50121.1
+{C145}, running with the enemy before you! I won't allow it!
+
+@50121.2
+{C145}, all talk. But I can't just let you escape.
+
+@50121.3
+What! Running away?! Pathetic. I'll finish you off!
+
+@50121.4
+You turn your back on me? I won't let you escape!
+
+@50121.5
+Tch, you spineless wretch! You won't escape so easily!
+
+@50121.6
+If you were going to run, you shouldn't have come out! That softness will cost you your life!
+
+@50121.7
+I've driven you this far, and I won't let you go! Wait, {e02}!
+
+@50122
+Coward! Running away is base! Go, {e29}!
+
+@50122.1
+{C145}, running with the enemy before you! I won't allow it. Go, {e29}!
+
+@50122.2
+What, running away?! Pathetic. I'll finish you off!
+
+@50122.3
+You turn your back on me? You won't escape! Go, {e29}!
+
+@50122.4
+Tch, you spineless wretch! You won't escape so easily! Please, {e29}!
+
+@50122.5
+I've driven you this far, and I won't let you go! Please, {e29}!
+
+@50123
+This is no time to deal with the likes of {e02}.
+
+@50123.1
+I'll let you off with this today.
+
+@50124
+{C110}, the one that got away was a big one...
+
+@50124.1
+{C80}! So close!
+
+@50124.2
+Tch! They got away...
+
+@50124.3
+Damn! Just one step short!
+
+@50124.4
+I was careless at the end... What a blunder.
+
+@50125
+As expected of {e2A}. I can never catch that horse.
+

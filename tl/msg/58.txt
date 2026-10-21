@@ -1,0 +1,606 @@
+@58000
+Nanhua Rebukes Zhang Jiao
+
+@58001
+Zhang Jiao Dies Halfway
+
+@58002
+The Ten Attendants Murder He Jin
+
+@58003
+Yuan Shao and Cao Cao Slay Eunuchs
+
+@58004
+Dong Zhuo Answers He Jin's Summons
+
+@58005
+Eunuch Revolt: He Jin Dies
+
+@58006
+Eunuch Revolt: Eunuchs Slain
+
+@58007
+Eunuch Revolt: Dong Zhuo Enters
+
+@58008
+Eunuch Revolt: Purge and Dong Zhuo
+
+@58009
+Dong Zhuo Deposes Emperor Shao
+
+@58010
+Cao Cao Fails to Kill Dong Zhuo
+
+@58011
+The Alliance against Dong Zhuo
+
+@58012
+Dong Zhuo Burns Luoyang
+
+@58013
+Chain Plot: Banquet at Wang Yun's
+
+@58014
+Chain Plot: Tryst at Fengyi Pavilion
+
+@58015
+Chain Plot: The Imperial Envoy
+
+@58016
+Chain Plot: Death of Dong Zhuo
+
+@58017
+Chain Plot: Remnants Rise Up
+
+@58018
+Cao Cao's Father Killed by Zhang Kai
+
+@58019
+Tao Qian Cedes Xuzhou to Liu Bei
+
+@58020
+The Hunt at Xutian
+
+@58021
+Dong Cheng and the Jade Belt Edict
+
+@58022
+Dong Cheng Shows Liu Bei the Edict
+
+@58023
+Warming Wine and Discussing Heroes
+
+@58024
+Edict Exposed; Dong Cheng Executed
+
+@58025
+Military Farm Colonies Begin
+
+@58026
+Bronze Sparrow: Sparrow Unearthed
+
+@58027
+Bronze Sparrow: Building Begins
+
+@58028
+Bronze Sparrow: Terrace Completed
+
+@58029
+Bronze Sparrow: The Archery Contest
+
+@58030
+Zuo Ci Visits the Villain (Calm)
+
+@58031
+Zuo Ci Visits the Villain (Angry)
+
+@58032
+Zuo Ci Throws a Cup, Mocks Cao Cao
+
+@58033
+The Wily Hero Comes to Rest
+
+@58034
+The Nine-Rank System Established
+
+@58035
+Sun Ce Pawns the Seal for Troops
+
+@58036
+Sun Ce Angered by Yuan Shu's Claim
+
+@58037
+Sun Ce Kills Xu Gong
+
+@58038
+Xu Gong's Retainers Attack Sun Ce
+
+@58039
+The Dullard Meng of Wu
+
+@58040
+No Longer the Dullard of Wu
+
+@58041
+Idle Thighs: On Heroes
+
+@58042
+Idle Thighs: Restoring the Han
+
+@58043
+Water Mirror Names Dragon, Phoenix
+
+@58044
+The Coming of Xu Shu
+
+@58045
+Xu Shu Takes Leave of Liu Bei
+
+@58046
+Three Visits: Xu Shu's Advice
+
+@58047
+Three Visits: Water Mirror's Advice
+
+@58048
+Three Visits: Second (Xu Shu)
+
+@58049
+Three Visits: Second (Water Mirror)
+
+@58050
+Three Visits: Third (Guan, Zhang)
+
+@58051
+Three Visits: Third Visit
+
+@58052
+Kongming Leaves His Hut Unbidden
+
+@58053
+Jingzhou Strife: The Split
+
+@58054
+Jingzhou Strife: Cao Cao Goes South
+
+@58055
+Eve of Red Cliffs: Hunt at Jiangxia
+
+@58056
+Eve of Red Cliffs: Zhuge Liang to Wu
+
+@58057
+Eve of Red Cliffs: Guan Yu to Wu
+
+@58058
+Eve of Red Cliffs: Zhang Fei to Wu
+
+@58059
+Liu Bei Warns Kongming about Ma Su
+
+@58060
+The Phoenix Is No Mere County Talent
+
+@58061
+Zhang Song Seeks a Buyer for Shu
+
+@58062
+No Match for the Beautiful Beard
+
+@58063
+The Five Tiger Generals
+
+@58064
+The Five Tiger Generals: Wei Yan
+
+@58065
+Memorial on Dispatching the Troops
+
+@58066
+Huang Hao's Slander
+
+@58067
+The Emperor of Wei Enthroned
+
+@58068
+Shu-Han Emperor: Kongming Feigns Ill
+
+@58069
+The Emperor of Shu-Han Enthroned
+
+@58070
+The Emperor of Wu Enthroned
+
+@58071
+The Emperor of Cheng Enthroned
+
+@58072
+The King of Wei Enthroned
+
+@58073
+The King of Hanzhong Enthroned
+
+@58074
+The King of Wu Enthroned
+
+@58075
+The King of Yan Enthroned
+
+@58076
+Duke of Wei Dispute
+
+@58077
+Duke of Wei Dispute: Xun Yu's Death
+
+@58078
+Lu Bu of Men, Red Hare of Steeds
+
+@58079
+The Xuns Commend Cheng Zhongde
+
+@58080
+Cheng Zhongde Commends Guo Fengxiao
+
+@58081
+Guo Fengxiao Commends Liu Ziyang
+
+@58082
+Liu Ziyang Commends Boning and Zike
+
+@58083
+Boning and Zike Commend Mao Xiaoxian
+
+@58084
+Dian Wei Chases a Tiger in the Hills
+
+@58085
+Xu Chu vs. Dian Wei
+
+@58086
+Zhou Yu Asks Lu Zijing for Food
+
+@58087
+Zhou Yu Commends the Two Zhangs
+
+@58088
+Zhou Yu Commends Lu Zijing
+
+@58089
+Lu Zijing Commends Zhuge Ziyu
+
+@58090
+Zhang Zigang Commends Gu Yuantan
+
+@58091
+Zilong Takes Dilu from Bandits
+
+@58092
+Yi Jibo Commends the Ma Brothers
+
+@58093
+Death of Emperor Ling
+
+@58094
+Death of Emperor Shao
+
+@58095
+Kongming Passes His Art to Jiang Wei
+
+@58096
+Sima Yi's Last Words to His Two Sons
+
+@58097
+Zhuge Jin's Last Words to His Son
+
+@58098
+Guo Jia Dies Young
+
+@58099
+Zhou Yu Coughs Blood, Curses Heaven
+
+@58100
+Here we form the alliance against Dong Zhuo. Let us join our strength and face this crisis together!
+
+@58101
+We swear before Heaven: to save the Han from chaos and aid the Emperor, we shall sweep Dong Zhuo from the earth!
+
+@58102
+The alliance had formed to bring down Dong Zhuo, but when he moved the capital to Chang'an, it lost its aim...
+
+@58103
+The lords lost their unity, went home one by one and, chasing their own gain, turned against each other.
+
+@58104
+You are the one charged with the food of the whole allied army, are you not?
+
+@58105
+Why did you send no food to us on the front line? Answer well, or I will cut you down!
+
+@58106
+Th-that was not my doing! It was him! He played some petty trick on his own...
+
+@58107
+This is the Imperial Seal of the realm! I heard it was lost in the revolt of the Ten Attendants...
+
+@58108
+The Seal is the proof of the throne... What would Heaven have me do, giving it to me...?
+
+@58109
+Wentai, I hear you found the Imperial Seal last night. Come, show it to us.
+
+@58110
+Wh-what are you saying, all of a sudden? I have no such seal.
+
+@58111
+Do you mean to run off with a treasure of the House of Han!?
+
+@58112
+We raised our troops to rid the Han of the traitor...
+
+@58113
+Yet now you hold Luoyang and are content, and will not pursue the enemy... What does this mean?
+
+@58114
+(Every lord in this alliance has his own ambitions... This alliance is finished...)
+
+@58115
+Men who preach a just cause with their lips, but have none in their hearts, are no comrades of mine...
+
+@58116
+At last the alliance broke up. Cao Cao, Yuan Shao, Sun Jian and the rest withdrew to their own lands.
+
+@58117
+Nothing is to be gained by idling in Luoyang. We too shall withdraw.
+
+@58118
+Xuande, will you govern Pingyuan for me as its chancellor?
+
+@58119
+Gladly. Take good care of yourself, Bogui.
+
+@58120
+Gongsun Zan returned from Luoyang to his domain and worked to expand his power in Hebei.
+
+@58121
+Not ten years since the Yellow Turbans, and the land is in turmoil. The realm's fate is still undecided...
+
+@58122
+Then I shall use this chaos as my stepping stone and become master of Hebei!
+
+@58123
+Sun Ce borrowed several thousand troops from Yuan Shu and swiftly conquered the land of Jiangdong.
+
+@58124
+Master of the six commanderies of Jiangdong, more famed than his father Sun Jian, he came to be called "the Little Conqueror".
+
+@58125
+One day Sun Ce held a great hunt and, carried away by the chase, lost his way in the hills.
+
+@58126
+Ah, people at last... Whose men are you?
+
+@58127
+We serve Lord Xu Gong, whom you killed! We will have vengeance for our master!
+
+@58128
+Wh-why, you...! Assassins!
+
+@58129
+The three were retainers of Xu Gong, whom Sun Ce had executed, and had been secretly waiting for revenge.
+
+@58130
+Cheng Pu and the others rushed to the scene and cut the three down, and Sun Ce's life was spared.
+
+@58131
+To be ambushed by such weaklings in such a place... Perhaps I was a little careless.
+
+@58132
+Your life is precious, my lord. Please take care.
+
+@58133
+Yes, yes. Do not worry so.
+
+@58134
+My lord, Lord Zhang Hong has just returned from his mission to Xuchang.
+
+@58135
+Ah, back at last! How was Xuchang? Did Cao Cao say anything?
+
+@58136
+Cao Cao fears your valor, my lord. His officers also spoke of you with respect.
+
+@58137
+Only Guo Jia made light of you and spoke ill of you.
+
+@58138
+Oh...? And what did Guo Jia say?
+
+@58139
+He said: "Sun Bofu has a common man's courage. Sooner or later he will die at the hands of a nobody."
+
+@58140
+......Hmph! He must be terrified of my great talent.
+
+@58141
+One day Xuchang will be mine too. Then I will show them whether I am a common man!
+
+@58142
+Master of Hebei, Yuan Shao marched 700,000 men to Guandu to settle the contest with Cao Cao.
+
+@58143
+The battle swung back and forth, but when Xu You betrayed him and his depot at Wuchao was burned, Yuan Shao was crushed.
+
+@58144
+Yuan Shao fought on stubbornly, but after the defeat at Liyang, grief at last laid him low with illness.
+
+@58145
+Father! Be strong!
+
+@58146
+...It is over. I shall die soon.
+
+@58147
+After my death, the one to inherit the house is...
+
+@58148
+...My lord!? What is it!? Who is to inherit?
+
+@58149
+Alas, it cannot be... He is already gone.
+
+@58150
+...Father!
+
+@58151
+(...Our lord has died without naming an heir. There will be strife over this.)
+
+@58152
+Our spies report that Yuan Shao has died of illness.
+
+@58153
+They say his third son, Yuan Shang, has succeeded him, but...
+
+@58154
+The eldest son, Yuan Tan, will not accept it. Hebei is split between Yuan Tan's faction and Yuan Shang's.
+
+@58155
+The second son, Yuan Xi, backs Yuan Shang; the two hold Jizhou and Youzhou, while Yuan Tan holds Qingzhou.
+
+@58156
+Hmm... What should we do?
+
+@58157
+The three Yuan brothers are fighting among themselves. Now is the chance to wipe out the Yuan clan.
+
+@58158
+In the 12th year of Jianxing (234), Zhuge Liang, Prime Minister of Shu-Han, ended his life at the Wuzhang Plains.
+
+@58159
+Having lost the pillar of the state, Shu-Han had to halt the northern campaigns and rebuild its strength.
+
+@58160
+The Prime Minister's wish was to destroy the traitors and retake the old capital! Why not resume the campaigns?
+
+@58161
+Five northern campaigns have badly drained Shu-Han. If we attacked now, we could not win...
+
+@58162
+Our talents fall short of Prime Minister Zhuge's, and even he could not make the campaigns succeed.
+
+@58163
+Better to wait for the right time for now and build up the nation's strength.
+
+@58164
+Thanks to the efforts of Jiang Wan, Fei Yi and others, Shu-Han slowly regained its strength.
+
+@58165
+Time passed, and in the 12th year of Yanxi (249) of Shu-Han, a great upheaval broke out in Wei.
+
+@58166
+The senior minister Sima Yi had taken up arms against the Cao Shuang clan, who held power.
+
+@58167
+Sima Yi's coup succeeded, and the Cao Shuang clan were executed as rebels.
+
+@58168
+Sima Yi set out to wipe out his rivals, and officers falsely accused fled abroad.
+
+@58169
+I am Xiahou Ba, styled Zhongquan. You must already know of Sima Yi's treachery.
+
+@58170
+As a kinsman of Cao Shuang, I too was marked for death by him, so I had no choice but to come to you.
+
+@58171
+...A wise decision. Our Han court welcomes your allegiance.
+
+@58172
+(Wei is in turmoil, and we have gained the fine general Xiahou Ba. Now is the time to resume the campaigns!)
+
+@58173
+Sima Yi's coup has thrown Wei into chaos, and even Xiahou Ba has come over to us.
+
+@58174
+The strength of Han is fully restored.
+
+@58175
+Now is the time to resume the campaigns, as the Prime Minister wished. Your Majesty, permit us to march north!
+
+@58176
+Wait, I beg you! With Lord Jiang Wan and Lord Dong Yun gone, the court lacks able men.
+
+@58177
+If we act in haste and fail, all our efforts will be wasted. Your Majesty, what is your will?
+
+@58178
+We leave affairs of state to the two of you. Consult well and do your best.
+
+@58179
+Yes, Your Majesty. As you command.
+
+@58180
+Zhuge Dan, styled Gongxiu, was a younger kinsman of Zhuge Liang, Prime Minister of Shu-Han.
+
+@58181
+In the 2nd year of Ganlu (257), Zhuge Dan was in Huainan as Wei's Grand General Who Conquers the East.
+
+@58182
+In Luoyang, meanwhile, Sima Zhao ruled as he pleased and secretly plotted to usurp the throne.
+
+@58183
+Sima Zhao resented Zhuge Dan, who professed loyalty to the Emperor of Wei, and resolved to do away with him.
+
+@58184
+An imperial edict, my lord. You are appointed Minister of Works and are to return to Luoyang...
+
+@58185
+A high post for no reason...? Ha, I see! This is Sima Zhao's scheme!
+
+@58186
+......!
+
+@58187
+Tell me the truth! Then I will spare your life.
+
+@58188
+Forgive me! It is just as Your Excellency says!
+
+@58189
+Sima Zhao's ambition is now plain. We can no longer let him have his way!
+
+@58190
+My lord! Zhuge Dan has raised an army in Huainan!
+
+@58191
+I see... As expected of Zhuge Dan. He saw that the Minister of Works post was false.
+
+@58192
+If this goes on, it will get out of hand. We must act at once.
+
+@58193
+What can a small force in Huainan do? I will crush it at once.
+
+@58194
+In the 2nd year of Ganlu (257) of Wei, Zhuge Dan, unable to bear Sima Zhao's tyranny, raised troops in Huainan to overthrow him.
+
+@58195
+Hearing of Zhuge Dan's uprising, Wen Qin and his son Wen Yang came too, leading an army.
+
+@58196
+Gongxiu! When I heard you had raised troops at last, I came at once!
+
+@58197
+Ah, Lord Wen Qin! I am grateful.
+
+@58198
+Like Zhuge Dan, Wen Qin and Wen Yang opposed the Sima clan, and had fled to Wu two years before.
+
+@58199
+Though my son and I fled to Wu, we never gave up our loyalty to Wei. Let us strike down the traitor Sima Zhao together!
+
+@58200
+Sima Zhao is a court minister, yet he slights the Son of Heaven and even harbors thoughts of usurping the throne. He is a great villain!
+
+@58201
+Let us strike down Sima Zhao, the traitor at the Emperor's side, and restore the court of Wei to its rightful state!
+

@@ -1,0 +1,396 @@
+@13000
+Rejoice! {e03} has agreed to an alliance with us.
+
+@13000.1
+{C12}, it went well. {e03} gladly accepted.
+
+@13000.2
+{e03} has sworn to be our ally. That makes one enemy fewer.
+
+@13001
+{C10}, rejoice! The negotiations went just as we hoped.
+
+@13001.1
+Success! {e03} accepted our offer {C45}.
+
+@13001.2
+My lord {e02}, the talks succeeded. {e03} has agreed.
+
+@13002
+{e03} is now our ally. That makes one enemy fewer.
+
+@13003
+{e03} refused us sternly. Their hostility toward us seems considerable.
+
+@13003.1
+{e03} turned down the alliance. They think little of us, it seems.
+
+@13003.2
+{e03} rejected the alliance. Let us make them regret scorning our offer!
+
+@13004
+My lord {e02}, forgive me. Our offer was refused {C43}.
+
+@13004.1
+{C10}, the talks failed. {e03} rejected our offer {C43}.
+
+@13004.2
+I am truly sorry. Our request was not heeded {C44}.
+
+@13004.3
+The negotiations have failed. My own lack of skill... I am truly sorry.
+
+@13005
+Curse {e03}, refusing an alliance! They think little of us.
+
+@13006
+You have agreed with {e02} to attack {e0B} together within %d months. Cancel it?
+
+@13007
+{e03} has promised to join our side when we attack {e0B}.
+
+@13007.1
+{e03} has privately agreed to aid {C10} in taking {e0B}.
+
+@13007.2
+{e03} says they will help us when we strike at {e0B}.
+
+@13008
+When we attack {e0B}, {e03} promised to fight on our side!
+
+@13009
+{e03} flatly declared that no troops would be sent. What do they take our alliance for?
+
+@13009.1
+{e03} refused us bluntly. Ally or not, they seem to bear us real ill will.
+
+@13009.2
+They turned down the joint attack. Perhaps {e03} has some reason not to send troops.
+
+@13009.3
+The joint attack was refused. {e03} may have reasons for not sending troops...
+
+@13009.4
+Sadly, the joint attack was refused. There may be some reason they cannot send troops.
+
+@13009.5
+{e03} says they have no troops to spare... A polite refusal of the joint attack.
+
+@13010
+{e03} gladly accepted the gift and seemed greatly pleased.
+
+@13010.1
+It went well. One look at the gifts put {e03} in high spirits, and they sent their thanks to {C10}.
+
+@13010.2
+The moment {e03} saw the gift, their eyes lit up with delight.
+
+@13011
+{e03} gladly accepted the gift and was greatly pleased!
+
+@13012
+{e03} humbly accepted and sends their regards to {C10}.
+
+@13012.1
+{e03} was overjoyed to hear of a title, entertained me, and sends thanks to {C10}.
+
+@13013
+{e03} calmly gave thanks for the title, but seemed to be hiding their joy.
+
+@13014
+{e03} refused the gift. They are warier of us than we thought.
+
+@13014.1
+Forgive me. I have only angered {e03}.
+
+@13015
+{C80}! And after we showed them every courtesy, in all sincerity...
+
+@13016
+{e03} has accepted our demand to surrender. All thanks to your virtue, my lord.
+
+@13017
+{e03} has decided to surrender. It was right that I went myself.
+
+@13018
+I am {e01}... From now on, I swear loyalty to {C10} as a humble retainer.
+
+@13018.1
+From this day on, I, {e01}, shall serve as {C10}'s hands and feet!
+
+@13019
+{e03} has accepted our demand to become a vassal. All thanks to your virtue, my lord.
+
+@13020
+{e03} has decided to become a vassal. It seems it was right that I went myself.
+
+@13020.1
+{e03} has decided to submit to us. Good thing I went myself.
+
+@13021
+I am {e01}. I shall look up to Lord {e02} as my overlord. I humbly ask for your favor.
+
+@13021.1
+From now on, I, {e01}, shall aid my overlord, Lord {e02}, in unifying the realm.
+
+@13022
+Sadly, {e03} has rejected our demand.
+
+@13022.1
+Our demand was rejected. We must first ease their hostility toward us...
+
+@13023
+{e03}, of all people, will not accept our demand so easily.
+
+@13024
+{e03} rebuffed our demand. Do I lack the virtue, then...?
+
+@13025
+The negotiations succeeded. I have brought {C13027} back safely.
+
+@13025.1
+{e03} agreed to our terms. {C13027} is home again after a long absence.
+
+@13026
+{C13027}, you have been through great hardship. Please keep lending me your strength.
+
+@13027.3
+Lord {e04}
+
+@13027.4
+Lord {e04}
+
+@13030
+I cannot thank you enough for going so far for my sake.
+
+@13030.1
+I have caused you much trouble. To repay your kindness, I promise to work harder than ever.
+
+@13031
+The negotiations have broken down. Now we have no choice but to take {e03}'s capital.
+
+@13031.1
+The talks failed. We have no choice but to take Lord {e04} back by force.
+
+@13032
+The talks broke down... I had hoped to win {e04} back without a fight...
+
+@13033
+The alliance with {e01} has been annulled.
+
+@13034
+We have broken off our vassalage to {e01} and declared independence.
+
+@13035
+{e01}, an emissary has arrived from Lord {e02}.
+
+@13036
+{e01} has become a vassal of {e02}.
+
+@13037
+{e01}, we have released the officers of {e02} whom we held prisoner.
+
+@13038
+{e01}, our officers held prisoner by {e02} have been returned.
+
+@13039
+{e01}, our officers held prisoner by {e02} have been sent back.
+
+@13040
+{e01} has released all prisoners.
+
+@13041
+{e01} has annulled every alliance.
+
+@13042
+{e01} has broken the promise of a joint attack.
+
+@13043
+{e01} has submitted to {e02}.
+
+@13044
+{e01} has annulled the alliance with {e02}.
+
+@13045
+{e01} has broken off the vassalage with {e02}.
+
+@13046
+It seems {e15} and {e16} have formed an alliance.
+
+@13047
+My name is {f01}! Whoever thinks they can fight, face me!
+
+@13047.1
+I am {f01}! Come at me, any one of you!
+
+@13047.2
+{C5} is here! Is there no one who will fight me?
+
+@13047.3
+{f01} has arrived! Whoever thinks they are a match for me, come on!
+
+@13047.4
+I am {C5}! Come out, {e02}! I will have your head this instant!
+
+@13047.5
+My name is {f01}! I will strike off your head, mark my words!
+
+@13049
+My name is {f01}! I will take anyone alive, with ease!
+
+@13050.5
+My name is {f01}! Whoever comes, I will hold this place!
+
+@13051
+Now {C5} will face you!
+
+@13051.1
+So you have some skill. Now {f01} will be your opponent!
+
+@13051.2
+I am more than enough for the likes of you. Here I come, {e02}!
+
+@13052
+I will protect {C12} with my life! Here I come, {e02}!
+
+@13053
+Come, {e02}! I will have your head this instant!
+
+@13053.1
+Found you, {e02}! This time you will not escape. Prepare yourself!
+
+@13053.2
+At last I have you cornered! Resign yourself and fight with honor!
+
+@13053.3
+There stands {e02}! I am {C5}, and your head is mine!
+
+@13053.4
+You must be Lord {e02}. My name is {e01}. Let us duel, fair and square!
+
+@13053.5
+{C5} will take you on! Here I come!
+
+@13053.6
+So it is {f02}! I am {C5}! Prepare yourself!
+
+@13054
+Come out, Lu Bu! As long as you live, I cannot sleep in peace!
+
+@13054.1
+Lu Bu! This time you will not escape. Here I come!
+
+@13054.2
+You alone I can never forgive. Prepare yourself, Lu Bu!
+
+@13055
+Come on, Lu Bu! This time we settle it!
+
+@13055.1
+Lu Bu! Today I will bring you down. Here I come!
+
+@13055.2
+To you alone I will not lose. Here I come, Lu Bu!
+
+@13056
+...Brother! Fight me!
+
+@13057
+Come at me, {e02}! Face me in a duel!
+
+@13057.1
+{e02}, say nothing. Just come at me.
+
+@13058
+Cao, you traitor! Face me like a man!
+
+@13058.1
+Lord {e02}, I serve one master alone. Here I take your life.
+
+@13059
+Cao, you traitor! Face me like a man!
+
+@13059.1
+Lord {e02}, I serve one master alone. Yield and be bound!
+
+@13060
+Green-eyed brat, purple-bearded rat! Do you know me? I am {f01}!
+
+@13061
+Is there no one who dares to face {C5}?
+
+@13061.1
+Facing {C5}... What bad luck for you!
+
+@13061.2
+{C145}! Is there no one who can stand up to {C5}?
+
+@13061.3
+I am {f01}! Whoever wishes to die, come at me!
+
+@13063
+I am {f01}! Whoever stands in my path, I will cut down!
+
+@13063.1
+{f01} is here! Face me in a fair fight!
+
+@13063.2
+{C40}! Do not throw your life away by blocking {f01}'s path.
+
+@13063.3
+{f01} has arrived! Have at you!
+
+@13063.4
+I am {C5}! If you are ready to die, come at me!
+
+@13063.5
+I am {C5}! Here I come!
+
+@13063.6
+I am {C5}! Now, come at me!
+
+@13063.7
+Do you not know {C5}? If you do not value your life, come at me!
+
+@13064
+I am {C5}! You will regret standing in my way!
+
+@13064.1
+I am {C5}! Face me in a fair fight!
+
+@13064.2
+I am {C5}! Have at you!
+
+@13064.3
+I am {C5}! Here I come!
+
+@13065
+I am Liu Xuande, descendant of Liu Sheng, Prince Jing of Zhongshan! Have at you!
+
+@13066
+I am {f01}, the Pole Star of Youzhou! Have at you!
+
+@13067
+I am {e01} of Xie in Hedong, the thundercloud of chivalry, styled\s
+
+@13067.1
+! Have at you!
+
+@13068
+{f01} is here! Face me in a fair fight!
+
+@13068.1
+{f01} has arrived! Have at you!
+
+@13068.2
+I am {C5}! Here I come!
+
+@13068.3
+I am {C5}! Now, come at me!
+
+@13069
+Lu Bu! This time you will not escape. Here I come!
+
+@13069.1
+You alone I can never forgive. Prepare yourself, Lu Bu!
+

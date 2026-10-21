@@ -1,0 +1,951 @@
+@21000
+Mother
+
+@21000.1
+Father
+
+@21001
+mother
+
+@21001.1
+father
+
+@21002
+daughter
+
+@21002.1
+son
+
+@21003
+eldest daughter
+
+@21003.1
+eldest son
+
+@21004
+I, {e01}
+
+@21005
+succeed
+
+@21005.1
+take over
+
+@21006
+child
+
+@21006.1
+daughter
+
+@21006.2
+son
+
+@21007
+Sister
+
+@21007.1
+Brother
+
+@21007.2
+my sister
+
+@21007.3
+my brother
+
+@21007.4
+my sister
+
+@21007.5
+Sister
+
+@21007.6
+my brother
+
+@21007.7
+Brother
+
+@21007.8
+Lord {f03}
+
+@21008
+Leave it to me, and I will see us through this crisis.
+
+@21008.1
+Only I can fulfill Lord {e03}'s dream.
+
+@21008.2
+Why not leave it to someone with drive? In that respect, I am the right choice.
+
+@21008.3
+{C21004}, am the fitting heir to Lord {e03}... Do you not agree?
+
+@21008.4
+Who but me could take over from Lord {e03}?
+
+@21008.5
+I beg you, entrust this great task to me.
+
+@21008.6
+Do not be bound by heredity. Leave this to me.
+
+@21008.7
+{C21004}, am the one to carry on Lord {e03}'s will. Of that I am sure.
+
+@21009
+Surely you have not forgotten that Lord {e03} named me heir.
+
+@21009.1
+As Lord {e03} said in life, {C21004} will {C21005}. That is only right.
+
+@21009.2
+Surely you have not forgotten whom Lord {e03} named heir.
+
+@21009.3
+By Lord {e03}'s last will, {C21004} will {C21005}. No objections, I trust.
+
+@21010
+My child\s
+
+@21010.1
+\ssaid that their {C21001} should be the heir, did they not?
+
+@21010.2
+'s word was that {C21004}, their {C21001}, should become heir. That is only right.
+
+@21011
+Did {C21000} not name me, {C21002} of the house, as heir?
+
+@21011.1
+As {C21000} said in life, {C21004}, {C21002} of the house, should rightly become heir.
+
+@21011.2
+Surely no one has forgotten whom {C21000} named heir.
+
+@21011.3
+By {C21000}'s last will, {C21004} will {C21005}. Does anyone object?
+
+@21012
+Did {C21007} not say that I would be the heir?
+
+@21012.1
+As {C21007} said in life, it is proper that {C21004} {C21005}.
+
+@21012.2
+Surely no one has forgotten whom {C21007} named heir before passing.
+
+@21012.3
+By the will of {C21007}, {C21004} will {C21005}. Does anyone object?
+
+@21013
+Anyone with foresight can see that I should be heir.
+
+@21013.1
+It seems to me that many support me...
+
+@21013.2
+To unite everyone, will you not leave this to me?
+
+@21013.3
+Take my advice... Make me the heir.
+
+@21013.4
+Unless one with everyone's trust, like me, stands at the top, our force will decline!
+
+@21013.5
+Were our late lord here, they would surely have named me heir.
+
+@21014
+\sis gone, and the heir can only be me.
+
+@21014.1
+That {C21004} should carry on\s
+
+@21014.2
+'s will is the wish of all the retainers, and of Heaven too.
+
+@21014.3
+Unless one with everyone's trust, like me, stands at the top, our force will decline!
+
+@21014.4
+'s will shall be carried on by {C21004}, their {C21001}! I trust you all agree.
+
+@21015
+With {C21000} gone, everyone says the heir can only be me.
+
+@21015.1
+Everyone supports me. I should succeed {C21000}.
+
+@21015.2
+Many will accept no one but me as heir.
+
+@21015.3
+We need not ask everyone who is fit to be heir.
+
+@21016
+Many seem to say I should succeed {C21007}...
+
+@21016.1
+As all say, no one but me can take the place of {C21007}.
+
+@21016.2
+Listen to those who support me. A ruler needs the people's trust.
+
+@21016.3
+I will succeed {C21007}. Many surely wish it.
+
+@21017
+With Lord {e03} gone, the heir can only be me.
+
+@21017.1
+I, {e01}, will be a worthy successor to Lord {e03}. Lend me your strength, all of you.
+
+@21017.2
+So it falls to me to carry on Lord {e03}'s will.
+
+@21017.3
+{C21004} will succeed Lord {e03}... That is only natural.
+
+@21018
+'s successor can be none other than {C21004}, their {C21001}.
+
+@21018.1
+{C21004}, their {C21001}, should succeed\s
+
+@21018.2
+. That is only right.
+
+@21018.3
+{C21004}, their {C21001}, will succeed\s
+
+@21018.4
+. That is the proper way.
+
+@21018.5
+\sis gone, so I, their {C21001}, will unite this land in their place. Does anyone object?
+
+@21019
+The one to succeed {C21000} can be none other than {C21004}, the {C21003}.
+
+@21019.1
+The one to succeed {C21000} is {C21004}, the {C21003}. That is settled.
+
+@21019.2
+{C21004}, the {C21003}, should succeed {C21000}.
+
+@21019.3
+{C21004}, the {C21003}, will succeed {C21000}. That is the proper way.
+
+@21019.4
+{C21004}, the {C21003}, am the fitting heir to {C21000}!
+
+@21019.5
+In place of {C21000}, {C21004} will rule here! Does anyone object?
+
+@21020
+The one to succeed {C21007} can be none other than {C21004}.
+
+@21020.1
+{C21004} should succeed {C21007}.
+
+@21020.2
+By blood, too, it is proper that {C21004} succeed {C21007}.
+
+@21020.3
+By blood, too, I think I am the fitting heir to {C21007}...
+
+@21020.4
+By blood, too, the one to succeed {C21007} is {C21004}.
+
+@21020.5
+In place of {C21007}, {C21004} will rule here! Does anyone object?
+
+@21021
+As the eldest of the family, {C21004} should {C21005}.
+
+@21021.1
+As the family's elder, {C21004} should succeed our late lord. That is the proper way.
+
+@21021.2
+Who of the family should be heir? Leave it to me, the eldest.
+
+@21021.3
+It seems I am the eldest of the family... Will you not leave it to me?
+
+@21021.4
+Age brings wisdom... Leave this to me.
+
+@21021.5
+The one to succeed our late lord must be me, the eldest of the family.
+
+@21022
+I have the confidence to lead everyone in place of {C21000}!
+
+@21022.1
+Whatever anyone says, no one but me can take {C21000}'s place.
+
+@21022.2
+I mean to rule here in place of {C21000}.
+
+@21022.3
+I beg you, make me the heir! I will be a worthy successor to {C21000}.
+
+@21022.4
+The one to carry on {C21000}'s will can be none other than me.
+
+@21022.5
+With {C21000} gone, it is I, {e01}, who will rule the realm!
+
+@21023
+'s successor can be none other than {C21004}, their {C21001}.
+
+@21023.1
+{C21004}, their {C21001}, should succeed\s
+
+@21023.2
+. That is only right.
+
+@21023.3
+\sis gone. Only {C21004}, their {C21001}, can rule this land now.
+
+@21023.4
+'s dream went unfulfilled. To make it come true, lend me your strength, all of you!
+
+@21024
+Without the capacity, one has no right to be heir. I am the fitting one!
+
+@21024.1
+Whatever anyone says, no one but me can take the place of {C21007}.
+
+@21024.2
+I can carry on the will of {C21007} and rule this land.
+
+@21024.3
+With {C21007} gone, only I can win the realm.
+
+@21024.4
+Now that {C21007} is gone, {C21004} should {C21005}.
+
+@21024.5
+Were {C21007} here now, they would surely name me heir.
+
+@21025
+Even within the family, no one but me is fit to lead others.
+
+@21025.1
+The others lack the capacity to lead. I am the right one.
+
+@21025.2
+Look at the family: no one is better suited to be heir than I.
+
+@21025.3
+By ability and by blood, {C21004} should {C21005}.
+
+@21025.4
+{C21004}, of Lord {e03}'s blood, am fit to {C21005}!
+
+@21025.5
+Of all the family, {C21004}, with both trust and ability, am fit to {C21005}!
+
+@21026
+mother
+
+@21026.1
+father
+
+@21027
+eldest daughter
+
+@21027.1
+eldest son
+
+@21028
+child
+
+@21028.1
+daughter
+
+@21028.2
+son
+
+@21029
+Sister
+
+@21029.1
+Brother
+
+@21029.2
+Brother
+
+@21029.3
+my sister
+
+@21029.4
+my brother
+
+@21029.5
+my sister
+
+@21029.6
+Sister
+
+@21029.7
+my brother
+
+@21029.8
+Brother
+
+@21029.9
+Brother
+
+@21030
+my daughter
+
+@21030.1
+my son
+
+@21030.2
+Mother
+
+@21030.3
+Father
+
+@21030.4
+Lord {e02}
+
+@21031
+I think {C21030} is the fitting heir to Lord {e03}.
+
+@21031.1
+Only {C21030} can fulfill our late lord's dream.
+
+@21031.2
+Surely {C21030} is the one who should lead us.
+
+@21031.3
+Surely {C21030} is fit to {C21005}.
+
+@21031.4
+I think it best to leave this to {C21030}.
+
+@21031.5
+If {C21030} were to {C21005}, no one would object.
+
+@21031.6
+I can think of no one but {C21030} fit to {C21005}.
+
+@21031.7
+Under {C21030}, we will surely prosper.
+
+@21031.8
+Our only path is to take {C21030} as our lord and unite under them.
+
+@21031.9
+I will follow {C21030}!
+
+@21031.10
+No one but {C21030} can take over from Lord {e03}.
+
+@21031.11
+Without being bound by heredity, why not leave this to {C21030}?
+
+@21032
+We should follow our late lord's will and make {C21030} the heir.
+
+@21032.1
+By Lord {e03}'s word, it is proper to make {C21030} the heir.
+
+@21032.2
+It was {C21030} whom Lord {e03} named heir. Surely no one objects.
+
+@21032.3
+Following Lord {e03}'s will, it is our duty to support {C21030}.
+
+@21032.4
+Surely no one has forgotten whom Lord {e03} named heir.
+
+@21032.5
+There is nothing to discuss. Lord {e03}'s heir is already decided.
+
+@21032.6
+With {C21030}, everyone will be satisfied.
+
+@21032.7
+Lord {e03} recognized {C21030} as heir... How could I oppose that?
+
+@21032.8
+Lord {e03} entrusted their dream to {C21030}. What reason is there to oppose?
+
+@21032.9
+Who would dare defy our late lord's will?
+
+@21032.10
+Now we must all unite around {C21030}...
+
+@21032.11
+Anyone who will not accept {C21030} as heir must harbor evil intent.
+
+@21033
+I ask that you respect\s
+
+@21033.1
+'s will.
+
+@21033.2
+It is only right to follow\s
+
+@21033.3
+'s last will and make {C21030} the heir.
+
+@21033.4
+There is nothing to discuss. We will do as\s
+
+@21033.5
+'s last will says.
+
+@21033.6
+\schose this heir. How could we oppose that?
+
+@21034
+We should respect {C21000}'s will and make {C21030} the heir.
+
+@21034.1
+As {C21000} said in life, it is proper to make {C21030} the heir.
+
+@21034.2
+The heir can only be {C21030}. That was {C21000}'s will. Surely no one objects.
+
+@21034.3
+Not only {C21000}, anyone would want {C21030} to succeed.
+
+@21034.4
+Following {C21000}'s will, it is a retainer's duty to support {C21030}.
+
+@21034.5
+Surely no one has forgotten whom {C21000} named heir.
+
+@21034.6
+There is nothing to discuss. It is settled that {C21030} succeeds {C21000}.
+
+@21034.7
+With {C21030}, everyone will be satisfied.
+
+@21034.8
+{C21000} recognized {C21030} as heir. How could anyone oppose it?
+
+@21034.9
+{C21000} entrusted their dream to {C21030}. What reason is there to oppose?
+
+@21034.10
+{C21000} said that {C21030} should be heir after their death!
+
+@21034.11
+Anyone who will not accept {C21030} as heir must harbor evil intent.
+
+@21035
+As retainers, we should respect the will of {C21007} and make {C21030} the heir.
+
+@21035.1
+As {C21007} said in life, it is proper to make {C21030} the heir.
+
+@21035.2
+The heir can only be {C21030}. That was the will of {C21007}. Surely no one objects.
+
+@21035.3
+Not only {C21007}, anyone would want {C21030} to succeed.
+
+@21035.4
+Following the will of {C21007}, it is a retainer's duty to support {C21030}.
+
+@21035.5
+Surely no one has forgotten whom {C21007} named heir.
+
+@21035.6
+It is settled that {C21030} succeeds {C21007}. There is nothing to discuss.
+
+@21035.7
+With {C21030}, everyone will be satisfied.
+
+@21035.8
+It was {C21030} whom {C21007} recognized as heir. How could anyone oppose it?
+
+@21035.9
+It was to {C21030} that {C21007} entrusted their dream. What reason is there to oppose?
+
+@21035.10
+It was {C21030} whom {C21007} named heir to follow them!
+
+@21035.11
+Anyone who will not accept {C21030} as heir must harbor evil intent.
+
+@21036
+I think {C21030} is the fitting heir.
+
+@21036.1
+If anyone is fit to be heir, it is {C21030}.
+
+@21036.2
+Do you not think {C21030} is fit to {C21005}?
+
+@21036.3
+Only {C21030} can see us through this crisis.
+
+@21036.4
+What matters now is to take {C21030} as our lord and unite everyone!
+
+@21036.5
+For our future, there is no way but for {C21030} to succeed.
+
+@21036.6
+I am convinced {C21030} is the one who should lead us.
+
+@21036.7
+I mean to follow {C21030}!
+
+@21036.8
+No one less than {C21030} could succeed our late lord.
+
+@21036.9
+I see no one else with the stature of {C21030}!
+
+@21036.10
+Everyone acknowledges the ability of {C21030}.
+
+@21036.11
+Only {C21030} can unite everyone now.
+
+@21037
+It is proper to make {C21030}, {C21026} of the late Lord {e03}, the heir.
+
+@21037.1
+I think {C21030}, {C21026} of the late Lord {e03}, is the fitting heir.
+
+@21037.2
+Only {C21030}, {C21026} of our late lord, can see us through this crisis.
+
+@21037.3
+Our late lord's {C21026} is {C21030}... They must take the lead.
+
+@21037.4
+Surely {C21030}, {C21026} of our late lord, should lead us.
+
+@21037.5
+It is proper to make {C21030}, {C21026} of our late lord, the heir.
+
+@21037.6
+No one but {C21030} is fit to be heir.
+
+@21037.7
+For our force to survive, there is no way but for {C21030} to succeed.
+
+@21037.8
+I think it best that {C21030} become our lord.
+
+@21037.9
+What matters now is to take {C21030} as our lord and unite our strength.
+
+@21037.10
+No one less than {C21030} could fulfill this great task.
+
+@21037.11
+Only {C21030} can rule this land now.
+
+@21038
+It is only right to make {C21030}, our late lord's {C21006}, the heir.
+
+@21038.1
+The one to succeed our late lord can be none other than {C21030}, their {C21006}.
+
+@21038.2
+Any way you look at it, the heir must be {C21030}, the late lord's {C21006}.
+
+@21038.3
+It is proper that {C21030}, the late lord's {C21006}, {C21005}.
+
+@21038.4
+If {C21030}, the late lord's {C21006}, is heir, surely no one objects.
+
+@21038.5
+It is our duty to support {C21030}, the late lord's {C21006}.
+
+@21038.6
+We should make {C21030}, our late lord's {C21006}, the heir.
+
+@21038.7
+I think {C21030}, our late lord's {C21006}, is fit to succeed...
+
+@21038.8
+Who could be more fit to {C21005} than {C21030}, our late lord's {C21006}?
+
+@21038.9
+Our late lord's {C21006}, {C21030}, has truly inherited their blood.
+
+@21038.10
+With {C21030}, Lord {e03}'s place will be well filled.
+
+@21038.11
+No one but {C21030}, the late lord's {C21006}, is fit to rule this land.
+
+@21039
+'s successor can be none other than {e02}.
+
+@21039.1
+'s place should go to {e02}, their child. That is only right.
+
+@21039.2
+'s child, {e02}, as heir... Surely no one would object.
+
+@21039.3
+'s child, {e02}, is the one we retainers must support.
+
+@21040
+The one to succeed {C21000} is none other than\s
+
+@21040.1
+, {C21030}.
+
+@21040.2
+, {C21030}, is the fitting one to succeed {C21000}.
+
+@21040.3
+{C21000}'s place should go to the {C21027},\s
+
+@21040.4
+, {C21030}. That is only right.
+
+@21040.5
+{C21000}'s place goes to the {C21027},\s
+
+@21040.6
+, {C21030}. That is the proper way.
+
+@21040.7
+The one to succeed {C21000} is\s
+
+@21040.8
+, {C21030}. That is settled; there is nothing to discuss.
+
+@21040.9
+It is only right that the {C21027},\s
+
+@21040.10
+, {C21030}, succeed {C21000}.
+
+@21040.11
+If the {C21027},\s
+
+@21040.12
+, {C21030}, is heir, surely no one will object.
+
+@21040.13
+At a time like this, we must support\s
+
+@21040.14
+, {C21030}.
+
+@21040.15
+We should make the {C21027},\s
+
+@21040.16
+, {C21030}, the heir.
+
+@21040.17
+I think\s
+
+@21040.18
+, {C21030}, is fit to succeed {C21000}...
+
+@21040.19
+, {C21030}, would surely be a worthy successor to {C21000}.
+
+@21040.20
+The only one who can rule this land is\s
+
+@21040.21
+, {C21030}.
+
+@21041
+The one to succeed {C21007} can be none other than their {C21028}, {C21030}.
+
+@21041.1
+Surely {C21030}, the {C21028} of {C21007}, is fit to succeed them.
+
+@21041.2
+The place of {C21007} should go to their {C21028}, {C21030}.
+
+@21041.3
+The place of {C21007} goes to their {C21028}, {C21030}. That is the proper way.
+
+@21041.4
+It is settled that their {C21028}, {C21030}, will succeed {C21007}.
+
+@21041.5
+It is only right that {C21030}, {C21028} of {C21007}, {C21005}.
+
+@21041.6
+If {C21030}, {C21028} of {C21007}, is heir, surely no one will object.
+
+@21041.7
+Now is the time to support {C21030}, {C21028} of {C21007}.
+
+@21041.8
+To make {C21030}, {C21028} of {C21007}, the heir... That is the way of the world.
+
+@21041.9
+I think {C21030}, {C21028} of {C21007}, is fit to {C21005}.
+
+@21041.10
+Surely {C21030}, {C21028} of {C21007}, will be a worthy successor.
+
+@21041.11
+The only one fit to rule this land is {C21030}, {C21028} of {C21007}.
+
+@21042
+Do you not think {C21030} is fit to succeed Lord {e03}?
+
+@21042.1
+Only {C21030} can fulfill Lord {e03}'s dream.
+
+@21042.2
+I think {C21030} is the one who should lead us...
+
+@21042.3
+Surely {C21030} should {C21005}.
+
+@21042.4
+I think we should leave this to {C21030}...
+
+@21042.5
+By blood, too, I think {C21030} is the right one.
+
+@21042.6
+If {C21030} is to {C21005}, I have no objection.
+
+@21042.7
+I can think of no one but {C21030} fit to {C21005}.
+
+@21042.9
+What matters is to make {C21030} our lord and stand united...
+
+@21042.10
+I will follow {C21030}!
+
+@21042.11
+No one but {C21030} can take over from Lord {e03}.
+
+@21043.1
+'s place goes to\s
+
+@21043.2
+. That is only right.
+
+@21043.3
+If {e02} is heir, surely no one will object.
+
+@21043.4
+The only one who can rule this land is {e02}.
+
+@21044
+The one to succeed {C21007} is none other than\s
+
+@21044.2
+, {C21030}, is the one fit to {C21005}.
+
+@21044.3
+The place of {C21007} should go to\s
+
+@21044.5
+The place of {C21007} goes to\s
+
+@21044.6
+, {C21030}. That is the proper way.
+
+@21044.7
+The one to succeed {C21007} can only be\s
+
+@21044.8
+, {C21030}.
+
+@21044.9
+The one to {C21005} is\s
+
+@21044.10
+, {C21030}. That is settled.
+
+@21044.11
+It is only right that\s
+
+@21044.12
+, {C21030}, {C21005}.
+
+@21044.13
+, {C21030}? No one would object to that.
+
+@21044.14
+Now is the time to support\s
+
+@21044.15
+, {C21030}.
+
+@21044.16
+, {C21030}, is the rightful heir.
+
+@21044.17
+, {C21030}, is fit to {C21005}, I think...
+
+@21044.18
+The only one fit to rule this land is\s
+
+@21046
+I think {C21030} is fit to {C21005}.
+
+@21046.1
+It is right to make {C21030} the heir.
+
+@21046.2
+I think it best to leave this to {C21030}.
+
+@21046.3
+No one but {C21030} is fit to rule this land.
+
+@21048
+Who becomes heir will decide our rise or fall. Choose with care.
+
+@21048.1
+Choosing an heir lightly could lead to our decline.
+
+@21048.2
+If you do not heed your retainers, you will sow the seeds of strife.
+
+@21048.3
+Think about whom to raise up so that everyone will be united.
+
+@21048.4
+It is not rare for a house to split over the succession. Think it over well.
+
+@21048.5
+A wrong judgment here cannot be undone... You understand, surely.
+
+@21049
+Who will be the new ruler?
+
+@21050
+{e01} has succeeded {e02}.
+
+@21051
+Mother
+
+@21051.1
+Father
+
+@21052
+Now that Lord {e02} is gone, whom shall we take as our lord...
+
+@21053
+Now that {C21051} is gone, whom shall we take as our lord...
+
+@21054
+Now that my child {e02} is gone, whom shall we take as our lord...
+
+@21055
+Now that {C21029} is gone, whom shall we take as our lord...
+

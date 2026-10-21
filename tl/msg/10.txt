@@ -1,0 +1,597 @@
+@10000
+Is Prime Minister, based in {e0B}.
+
+@10001
+Is Grand Marshal, based in {e0B}.
+
+@10002
+Is Grand Commander, based in {e0B}.
+
+@10003
+Is Minister of Interior, based in {e0B}.
+
+@10004
+Is Minister of Works, based in {e0B}.
+
+@10005
+Is Lord of the Palace, based in {e0B}.
+
+@10006
+Is Lord of the Capital, based in {e0B}.
+
+@10007
+Is Lord of the Guards, based in {e0B}.
+
+@10008
+Is Commander of Five Posts, based in {e0B}.
+
+@10009
+Is Commander of Left Corps, based in {e0B}.
+
+@10010
+Is Commander of Right Corps, based in {e0B}.
+
+@10011
+Is Commander of South Corps, based in {e0B}.
+
+@10012
+Is Commander of North Corps, based in {e0B}.
+
+@10013
+Is Commander of Tiger Guard, based in {e0B}.
+
+@10014
+Is Commander of Royal Guard, based in {e0B}.
+
+@10015
+Is appointed {e3D}.
+
+@10016
+Is appointed {e3D} by {e02}.
+
+@10017
+{e02} is appointed {e3D}.
+
+@10018
+{e01} is appointed {e3D} by {e02}.
+
+@10019
+{e02} becomes king.
+
+@10020
+{e02} is made a king.
+
+@10021
+{e02} is made a king by {e03}.
+
+@10022
+{e02} is made a duke.
+
+@10023
+{e02} is made a duke by {e03}.
+
+@10024
+{e02} is appointed Prime Minister.
+
+@10025
+{e02} is appointed Prime Minister by {e03}.
+
+@10026
+{e02} is appointed Grand Marshal.
+
+@10027
+{e02} is appointed Grand Marshal by {e03}.
+
+@10028
+{e02} is appointed Grand Commander.
+
+@10029
+{e02} is appointed Grand Commander by {e03}.
+
+@10030
+{e02} is appointed Minister of Interior.
+
+@10031
+{e02} is appointed Minister of Interior by {e03}.
+
+@10032
+{e02} is appointed Minister of Interior.
+
+@10033
+{e02} is appointed Minister of Interior by {e03}.
+
+@10034
+{e02} takes the Han Emperor under their protection.
+
+@10035
+The Han Emperor escapes from {e02}.
+
+@10036
+Ignores {e02}'s request for a joint attack.
+
+@10037
+Ignores {e02}'s request for relief.
+
+@10038
+Takes {e0B}, held by {e02}.
+
+@10039
+Defends {e0B} against an attack by {e02}.
+
+@10040
+Fights the army of {e02} at {e51} and wins.
+
+@10041
+Fights at {e0B} alongside {e02} and wins.
+
+@10042
+Fights at {e51} alongside {e02} and wins.
+
+@10043
+Fails in an attack on {e0B}, held by {e02}.
+
+@10044
+Loses {e0B} to {e02}.
+
+@10045
+Fights the army of {e02} at {e51} and is defeated.
+
+@10046
+Fights at {e0B} alongside {e02}, but is defeated.
+
+@10047
+Fights at {e51} alongside {e02}, but is defeated.
+
+@10048
+Takes {e02} into service.
+
+@10049
+Takes {e02} and others into service.
+
+@10050
+{e02} enters the service of {e03}.
+
+@10051
+{e02} and others enter the service of {e03}.
+
+@10052
+A great rebellion breaks out in the lands of {e02}.
+
+@10053
+The rebel leader {e02} declares independence in {e0B}.
+
+@10054
+The officers who plotted the rebellion all leave to become free officers.
+
+@10055
+{e02} rebels and breaks away from {e03}.
+
+@10056
+{e02} seizes {e0B} and makes it a base.
+
+@10057
+The clan of {e02} vanishes from the land.
+
+@10058
+He Jin is assassinated in the palace.
+
+@10059
+Yuan Shao, Cao Cao and others slay the Ten Attendants.
+
+@10060
+Summoned by a secret letter from He Jin, Dong Zhuo enters the capital.
+
+@10061
+Dong Zhuo deposes Emperor Shao and enthrones Prince Xie.
+
+@10062
+Fearing Dong Zhuo, Yuan Shao flees to Jizhou.
+
+@10063
+Cao Cao fails to assassinate Dong Zhuo and flees.
+
+@10064
+Cao Cao raises volunteers and takes up arms against Dong Zhuo.
+
+@10065
+The alliance against Dong Zhuo is formed.
+
+@10066
+Dong Zhuo burns Luoyang and moves the capital to Chang'an.
+
+@10067
+Wang Yun and Lu Bu assassinate Dong Zhuo in the palace.
+
+@10068
+Remnants of Dong Zhuo's forces rise up in {e0B}.
+
+@10069
+Cao Cao's father Cao Song is murdered by Zhang Kai.
+
+@10070
+Liu Bei saves Xuzhou from Cao Cao's invasion.
+
+@10071
+Tao Qian cedes Xuzhou to Liu Bei.
+
+@10072
+Lu Bu seeks refuge with Liu Bei in Xuzhou.
+
+@10073
+Liu Bei gives Lu Bu the castle of Xiaopei.
+
+@10074
+Lu Bu seizes Xiapi castle while Liu Bei is away.
+
+@10075
+Lu Bu attacks Xiapi castle while Liu Bei is away.
+
+@10076
+Cao Cao holds a great hunt at Xutian.
+
+@10077
+Dong Cheng receives a secret edict to destroy Cao Cao.
+
+@10078
+The secret edict is discovered; Dong Cheng is executed.
+
+@10079
+To protect Liu Bei's wives, Guan Yu surrenders to Cao Cao.
+
+@10080
+Guan Yu takes his leave of Cao Cao.
+
+@10081
+Liu Bei is reunited with Guan Yu.
+
+@10082
+Guan Ping becomes Guan Yu's adopted son.
+
+@10083
+Liu Bei seeks refuge with Liu Biao in Jingzhou.
+
+@10084
+Liu Biao gives Liu Bei the castle of Xinye.
+
+@10085
+Sun Ce is attacked by retainers of Xu Gong.
+
+@10086
+Sun Ce entrusts his affairs to his brother Sun Quan.
+
+@10087
+Liu Bei makes Xu Shu his advisor.
+
+@10088
+Tricked by Cao Cao, Xu Shu leaves Liu Bei.
+
+@10089
+Liu Bei makes Zhuge Liang his advisor.
+
+@10090
+Zhang Jiao dies of illness.
+
+@10091
+Zhuge Liang presents the Memorial on Dispatching the Troops.
+
+@10092
+With Su Fei's help, Gan Ning defects to Wu.
+
+@10093
+Liu Bei names five of his officers the Five Tiger Generals.
+
+@10094
+Slandered by Huang Hao, Jiang Wei is recalled from the front.
+
+@10095
+Sun Ce pawns the Imperial Seal to borrow troops from Yuan Shu.
+
+@10096
+{e02} receives the abdication of the Han and becomes Emperor of Wei.
+
+@10097
+{e02} becomes Emperor of Shu-Han in opposition to Wei.
+
+@10098
+{e02} becomes the first Emperor of Wu.
+
+@10099
+Yuan Shu proclaims himself emperor.
+
+@10100
+Cao Cao becomes King of Wei.
+
+@10101
+Liu Bei becomes King of Hanzhong.
+
+@10102
+{e02} becomes King of Wu.
+
+@10103
+Gongsun Yuan proclaims himself King of Yan.
+
+@10104
+Liu Qi and Liu Cong vie for the succession.
+
+@10105
+Fearing Cao Cao's march south, Liu Cong surrenders.
+
+@10106
+Liu Bei's army suffers a crushing defeat at Changban.
+
+@10107
+Liu Qi of Jiangxia joins forces with Liu Bei.
+
+@10108
+{e02} meets with Sun Quan.
+
+@10109
+Cao Cao executes Zhang Song, Liu Zhang's envoy.
+
+@10110
+On Han Hao's advice, {e02} sets up military farm colonies.
+
+@10111
+{e02} establishes the Nine-Rank System.
+
+@10112
+{e02} moves tens of thousands of people from Yi Isle to Yangzhou.
+
+@10113
+{e02} wins Lu Bu over with the gift of Red Hare.
+
+@10114
+Visited three times by {e02}, Zhuge Liang leaves his hut.
+
+@10115
+{e02} finds a bronze sparrow statue at Ye.
+
+@10116
+{e02} begins building the Bronze Sparrow Terrace.
+
+@10117
+Work on the Bronze Sparrow Terrace is halted.
+
+@10118
+The Bronze Sparrow Terrace is completed at Ye.
+
+@10119
+Xun Yu opposes {e02} becoming Duke of Wei and takes his own life.
+
+@10120
+{e02} declines the title of Duke of Wei.
+
+@10121
+Emperor Ling dies; Emperor Shao (Liu Bian) takes the throne.
+
+@10122
+Emperor Shao dies; Emperor Xian (Liu Xie) takes the throne.
+
+@10123
+{e02} ascends the imperial throne.
+
+@10124
+{e02} becomes king.
+
+@10125
+Battle of Hulao Pass (Dong Zhuo vs. the allied lords)
+
+@10126
+Battle of Jieqiao (Yuan Shao vs. Gongsun Zan)
+
+@10127
+Battle of Xuzhou (Cao Cao vs. Tao Qian and Liu Bei)
+
+@10128
+Battle of Guandu (Cao Cao vs. Yuan Shao)
+
+@10129
+Battle of Red Cliffs (Sun Quan and Liu Bei vs. Cao Cao)
+
+@10130
+Battle of Yiling (Lu Xun vs. Liu Bei)
+
+@10131
+Battle of Jieting (Sima Yi vs. Ma Su)
+
+@10132
+Battle of Wuzhang Plains (Sima Yi vs. Zhuge Liang)
+
+@10133
+On Zhang Hong's dying advice, {e02} moves the capital to Jianye.
+
+@10134
+{e02}, child of {e01}, comes of age.
+
+@10135
+{e02} dies in battle at {e51}.
+
+@10136
+{e02} dies in battle at {e0B}.
+
+@10137
+{e02} dies of illness.
+
+@10138
+{e02} becomes the heir.
+
+@10139
+Banishes {e02}.
+
+@10140
+Takes {e02} into service.
+
+@10141
+{e02} defects to {e03}.
+
+@10142
+{e02} resigns and becomes a free officer.
+
+@10143
+{e02}, in despair at {e01}, dies in anguish.
+
+@10144
+Receives an imperial edict to destroy {e02}.
+
+@10145
+Becomes the target of an Attack Order.
+
+@10146
+Forms an alliance with {e02}.
+
+@10147
+Accepts {e02}'s offer of alliance.
+
+@10148
+Makes {e02} a vassal.
+
+@10149
+Receives a demand for vassalage from {e02}.
+
+@10150
+Annuls the alliance with {e02}.
+
+@10151
+The alliance is annulled by {e02}.
+
+@10152
+Ends the vassalage with {e02}.
+
+@10153
+The vassalage is annulled by {e02}.
+
+@10154
+Forces {e02} into service by threats.
+
+@10155
+Yields to {e02}'s threats.
+
+@10156
+The alliance with {e02} expires.
+
+@10157
+{e02} absorbs the force of {e03}.
+
+@10158
+An Attack Order is issued against {e02}.
+
+@10159
+Is appointed Lord of the Palace.
+
+@10160
+Is appointed Lord of the Capital.
+
+@10161
+Is appointed Lord of the Guards.
+
+@10162
+Is appointed Commander of Five Posts.
+
+@10163
+Is appointed Commander of Left Corps.
+
+@10164
+Is appointed Commander of Right Corps.
+
+@10165
+Is appointed Commander of South Corps.
+
+@10166
+Is appointed Commander of North Corps.
+
+@10167
+Is appointed Commander of Tiger Guard.
+
+@10168
+Is appointed Commander of Royal Guard.
+
+@10169
+Receives the title of Lord of the Palace from {e02}.
+
+@10170
+Receives the title of Lord of the Capital from {e02}.
+
+@10171
+Receives the title of Lord of the Guards from {e02}.
+
+@10172
+Receives the title of Commander of Five Posts from {e02}.
+
+@10173
+Receives the title of Commander of Left Corps from {e02}.
+
+@10174
+Receives the title of Commander of Right Corps from {e02}.
+
+@10175
+Receives the title of Commander of South Corps from {e02}.
+
+@10176
+Receives the title of Commander of North Corps from {e02}.
+
+@10177
+Receives the title of Commander of Tiger Guard from {e02}.
+
+@10178
+Receives the title of Commander of Royal Guard from {e02}.
+
+@10179
+Is appointed Governor of {e47}.
+
+@10180
+Is appointed Inspector of {e47}.
+
+@10181
+Receives the title of Governor of {e47} from {e02}.
+
+@10182
+Receives the title of Inspector of {e47} from {e02}.
+
+@10183
+Becomes Governor of {e47}.
+
+@10184
+Becomes Inspector of {e47}.
+
+@10185
+Plague spreads around {e0B}.
+
+@10186
+Great swarms of locusts appear around {e0B}.
+
+@10187
+A typhoon passes over the area around {e0B}.
+
+@10188
+Rivers around {e0B} burst their banks; floods follow.
+
+@10189
+The area around {e0B} enjoys a good harvest.
+
+@10190
+The area around {e0B} suffers a poor harvest.
+
+@10191
+Remnants of the Yellow Turbans rise up in {e0B}.
+
+@10192
+Remnants of the Yellow Turbans rise up in great numbers in {e0B} and elsewhere.
+
+@10193
+The people of {e0B} revolt.
+
+@10194
+The people of {e0B} and other cities revolt one after another.
+
+@10195
+{e02} rebels but fails and flees.
+
+@10196
+By imperial order, forms an alliance with {e02}.
+
+@10197
+{e02} makes {e0B} the Imperial City.
+
+@10198
+{e02} rebuilds the scorched city of {e0B}.
+

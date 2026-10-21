@@ -1,0 +1,210 @@
+@61000
+The highest authority of the state. Created by the First Emperor of Qin to mark his unification of the realm; named, it is said, after the ancient sage rulers, the Three Sovereigns and Five Emperors.
+
+@61001
+The rank below Emperor. Existed from the Shang and Zhou eras; claimed by many lords in the Warring States era. The First Emperor of Qin created the title of Emperor to stand above King.
+
+@61002
+The rank taken by Cao Cao. The Later Han had only two noble ranks, King and Marquis, so Duke was set above Marquis, after the five Zhou ranks (Duke, Marquis, Earl, Viscount, Baron).
+
+@61003
+The highest office of the court. Abolished since the Former Han, but Dong Zhuo, holding Emperor Xian, made himself Chancellor of State (the same post). Later formally restored by Cao Cao.
+
+@61004
+Supreme commander of the army. Merged into the Grand Commander's post early in the Later Han and abolished; revived in the late Later Han. Ranks above Grand Commander.
+
+@61005
+First of the Three Excellencies; heads all military affairs. Until the Prime Minister and Grand Marshal were revived, in effect the same as Prime Minister. May open an office and appoint staff.
+
+@61006
+One of the Three Excellencies; heads civil affairs. An honorary post without real power in the Later Han, equal to Grand Commander. Held by Wang Yun, who had Dong Zhuo killed.
+
+@61007
+One of the Three Excellencies; in charge of building and flood control, with powers equal to the other two. Cao Cao, holding Emperor Xian, gave Yuan Shao the Supreme Command and took this post.
+
+@61008
+One of the Nine Ministers, also called Minister of the Palace. Guards the palace; as chief of the Emperor's guard, commands the palace guards and attendants.
+
+@61009
+One of the Nine Ministers. Commands the Northern Army of the imperial guard: watch, order and fire defense outside the palace. Given to Jia Xu after he and Zhang Xiu surrendered to Cao Cao.
+
+@61010
+One of the Nine Ministers. Commands the Southern Army of the imperial guard. While the Lord of the Capital guards outside the palace, this post keeps watch, order and guard within it.
+
+@61011
+Under the Lord of the Palace. A Corps Commander leads the palace gentlemen of his corps; the Commander of Five Posts leads those aged 50 or over.
+
+@61012
+Under the Lord of the Palace. Leads palace gentlemen under 50; also used in place of a general's rank. In the late Later Han, Huangfu Song held it and was sent against the Yellow Turbans.
+
+@61013
+Under the Lord of the Palace. Leads palace gentlemen under 50; also used in place of a general's rank. In the late Later Han, Zhu Jun held it and was sent against the Yellow Turbans.
+
+@61014
+Under the Lord of the Palace. One of the corps commands created against the Yellow Turbans to make up for too few generals. Equal to the Left and Right Corps.
+
+@61015
+Under the Lord of the Palace. One of the corps commands created against the Yellow Turbans to make up for too few generals. Held by Lu Zhi in the late Later Han.
+
+@61016
+Under the Lord of the Palace. Leads the Tiger Guard, the Emperor's own troops: an honored bodyguard full of men of great valor.
+
+@61017
+Under the Lord of the Palace. Leads the Royal Guard, the Emperor's personal escort, more attendants than soldiers. Many came from Liangzhou and Bingzhou.
+
+@61018
+Head of a whole province. The Inspector had no power to govern, so on Liu Yan's proposal this post was created with powers of government and command of troops.
+
+@61019
+Overseer of a province. Its task was to oversee commandery Protectors, yet it ranked below them and its power was often ignored. In the late Later Han it gained powers of rule and command.
+
+@61020
+The highest general's rank, holding supreme command of the army. In the Later Han equal to the Three Excellencies; in the Three Kingdoms era ranked above them.
+
+@61021
+One of the standing general's ranks of the Later Han and Three Kingdoms. Commands the central army; second only to Prime Minister. Like the Three Excellencies, may open an office and appoint staff.
+
+@61022
+A standing general's rank of the Later Han and Three Kingdoms, equal to General of Cavalry. In the Later Han mostly held by the Emperor's in-laws; in Shu-Han by Zhang Fei, Xiahou Ba and others.
+
+@61023
+A standing general's rank of the Later Han and Three Kingdoms, equal to General of Cavalry. Held by Jiang Wei, who took command of Shu-Han's armies after Fei Yi's death.
+
+@61024
+One of the four Conquering Generals of the late Later Han. May open an office and appoint staff. Commander of the eastern front; in Wei, commander against Wu in Yangzhou.
+
+@61025
+One of the four Conquering Generals, with the same powers as the 1st General of the East. Commander of the southern front; in Wei, commander against Wu and Shu-Han in Jingzhou.
+
+@61026
+One of the four Conquering Generals, with the same powers as the 1st General of the East. Held by Ma Teng in the late Later Han; in Wei, commander against Shu-Han in Yongzhou and Liangzhou.
+
+@61027
+One of the four Conquering Generals, with the same powers as the 1st General of the East. Commander of the northern front; in Wei, commander against the northern tribes.
+
+@61028
+One of the four Guardian Generals of the late Later Han, ranked below the Conquering Generals. May open an office and appoint staff. Deputy on the eastern front, aiding the 1st General.
+
+@61029
+One of the four Guardian Generals, with the same powers as the 2nd General of the East; aids the 1st General of the South. Given to Zhang Lu, master of the Five Pecks sect, after he yielded to Cao Cao.
+
+@61030
+One of the four Guardian Generals, with the same powers as the 2nd General of the East; aids the 1st General of the West. Held by Han Sui, who rose with Ma Teng against Li Jue.
+
+@61031
+One of the four Guardian Generals, with the same powers as the 2nd General of the East; aids the 1st General of the North. In Shu-Han, Wei Yan held it while guarding Hanzhong.
+
+@61032
+One of the four Pacifying Generals of the late Later Han, below the Guardian Generals; may appoint staff only of 6th grade or lower (the Guardians, 5th grade). Aids the 2nd General of the East.
+
+@61033
+One of the four Pacifying Generals, equal to the 3rd General of the East; aids the 1st and 2nd Generals of the South. Held by Ma Zhong and others in Shu-Han.
+
+@61034
+One of the four Pacifying Generals, equal to the 3rd General of the East; aids the 1st and 2nd Generals of the West. In Wei, held by Xiahou Mao in 220 and Deng Ai in 255.
+
+@61035
+One of the four Pacifying Generals, equal to the 3rd General of the East; aids the 1st and 2nd Generals of the North. In Wei, created in the Huangchu and Taihe eras.
+
+@61036
+One of the four Calming Generals of the late Later Han, below the Pacifying Generals; may appoint staff of 6th grade or lower. Until mid Later Han, all four-direction ranks were minor titles.
+
+@61037
+One of the four Calming Generals, equal to the 4th General of the East; covers the south. In Wei, Sima Jun of the Sima clan held it in 262.
+
+@61038
+One of the four Calming Generals, equal to the 4th General of the East; covers the west. Ma Chao received it when Liu Bei became King of Hanzhong.
+
+@61039
+One of the four Calming Generals, equal to the 4th General of the East; covers the north. Held by Pan Zhang in Wu and Ma Dai in Shu-Han.
+
+@61040
+A standing general's rank of the Later Han and Three Kingdoms, below the Nine Ministers; first of Left, Right, Front and Rear. Defends the capital and frontiers. Famous as Liu Bei's rank.
+
+@61041
+A standing general's rank of the Later Han and Three Kingdoms, below the General of the Left. Held by Yue Jin after Cao Cao became King of Wei, and by Xu Huang after Yue Jin's death.
+
+@61042
+A standing general's rank of the Later Han and Three Kingdoms, below the General of the Right. Guan Yu received it when Liu Bei became King of Hanzhong; in Wei, Xiahou Dun held it.
+
+@61043
+A standing general's rank, below the General of the Front. Huang Zhong received it when Liu Bei became King of Hanzhong; at the same time Ma Chao became General of the Left, Zhang Fei of the Right.
+
+@61044
+A general's rank of the Later Han and Three Kingdoms, below the General of the Rear; in Wei, below the General Who Conquers Shu. The first general's rank Zhang Fei ever held.
+
+@61045
+A general's rank of the Later Han and Three Kingdoms, below the General of Barbarians. Zhao Yun, 2nd General of the East, was demoted to it after the failure of the first northern campaign.
+
+@61046
+A general's rank of the Later Han and Three Kingdoms, below the General of Pacification. Given by Cao Pi to Yu Jin, General of the Left, on his return after being captured by Guan Yu.
+
+@61047
+A general's rank of the Later Han and Three Kingdoms, below the General of Outer Peace. Means "aiding the state"; called "aiding Han" in Shu-Han and "aiding Wu" in Wu.
+
+@61048
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Wei and Wu. In Wei, Jia Kui held it around the Battle of Shiting.
+
+@61049
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Wei and Wu. Given by Cao Pi to Meng Da after he surrendered to Wei.
+
+@61050
+A general's rank of the Later Han and Three Kingdoms. Held by Liu Zhang in the Later Han, and in Wei by Wu Zhi after Cao Pi became emperor.
+
+@61051
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Wei. Held by Liu Yao in the Later Han and by Sun Li in Wei.
+
+@61052
+A general's rank of the Later Han and Three Kingdoms. Held by Ju Shou in the Later Han, Chen Tai and Man Chong in Wei, Ma Zhong in Shu-Han, and Sun Yu, Zhou Tai and Lu Kang in Wu.
+
+@61053
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Wei and Wu. The rank Cao Cao claimed when the alliance against Dong Zhuo was formed.
+
+@61054
+A general's rank of the Later Han and Three Kingdoms. Held by Zang Ba in Wei and Sun Shao in Wu.
+
+@61055
+A general's rank of the Later Han and Three Kingdoms. Given to Zhang Xiu after he yielded to Cao Cao; in Shu-Han, to Deng Zhi in Zhuge Liang's first northern campaign.
+
+@61056
+A general's rank of the Later Han and Three Kingdoms. Guan Yu received it after Liu Bei entered Shu; many great warriors held it, such as Zhang Liao and Zhang He in Wei, Cheng Pu and Jiang Qin in Wu.
+
+@61057
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Wei and Wu. In Wei, Zhuge Dan received it in 243 along with the post of Inspector of Yangzhou.
+
+@61058
+A general's rank of the Later Han and Three Kingdoms; in the Three Kingdoms era found only in Shu-Han. Yi Ji received it when Liu Bei became King of Hanzhong. The novel calls it Scholar of Literature.
+
+@61059
+A general's rank of the Later Han and Three Kingdoms. Held by Sun Ce in the late Later Han, so after his death Wu always left it vacant.
+
+@61060
+A general's rank of the Later Han and Three Kingdoms. Held by Sun Jian in the late Later Han, so after his death Wu always left it vacant.
+
+@61061
+A general's rank of the Later Han and Three Kingdoms; commands the navy. Held by Lu Su in Wu; in Wei it was renamed General of the Sea. Shu-Han had neither rank.
+
+@61062
+A general's rank of the Later Han and Three Kingdoms, meaning "bringing peace to the state". In Shu-Han called "bringing peace to Han"; Wei had no such rank. In Wu, Zhu Zhi held it.
+
+@61063
+A general's rank set up by Liu Bei on entering Shu. Combines the advisor who plans the campaign and the general who carries it out. Held by Zhuge Liang.
+
+@61064
+A general's rank equal to the Generals of South and North Glory.
+
+@61065
+A general's rank of the Three Kingdoms era, found only in Wu. Xue Xu received it in 269.
+
+@61066
+A general's rank equal to the Generals of South and North Glory.
+
+@61067
+A general's rank of the Three Kingdoms era, found only in Wu. Zhuge Ke received it in 237.
+
+@61068
+One of the minor general's ranks of the Later Han and Three Kingdoms. No fixed number; aids the standing generals. Given to Guan Yu by Emperor Xian when he briefly yielded to Cao Cao.
+
+@61069
+One of the minor general's ranks of the Later Han and Three Kingdoms. No fixed number; aids the standing generals. Ranks below the Horse General.
+

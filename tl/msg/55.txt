@@ -1,0 +1,246 @@
+@55000
+How will this year's harvest be?
+
+@55001
+No rain at all...
+
+@55002
+There's nothing left to plow.
+
+@55003
+Too tired to plow...
+
+@55004
+This is as far as clearing goes for now.
+
+@55005
+I'm plowing in top form!
+
+@55006
+The plowing is going well.
+
+@55007
+The clearing isn't getting anywhere.
+
+@55008
+Plowing again today!
+
+@55009
+Oh no, the town has burned...
+
+@55010
+Taxes are due next month.
+
+@55011
+We're building His Majesty's palace!
+
+@55012
+What a splendid Imperial City.
+
+@55013
+The town is fully developed now.
+
+@55014
+Phew, building a town is tiring.
+
+@55015
+This is as far as the town grows for now.
+
+@55016
+This town has a bright future!
+
+@55017
+The town is growing nicely.
+
+@55018
+What a run-down town...
+
+@55019
+Back to work today!
+
+@55020
+We're closed for the day.
+
+@55021
+I must stock the finest horses.
+
+@55022
+They have fine horses here.
+
+@55023
+Shipbuilding thrives in this town.
+
+@55024
+Maybe I'll go pick herbs in the hills.
+
+@55025
+The Shanyue sure are quick in the hills.
+
+@55026
+They say the folk here are strong.
+
+@55027
+Food, big sale!
+
+@55028
+Buying food at high prices!
+
+@55029
+Welcome!
+
+@55030
+What, an enemy attack?!
+
+@55031
+There's someone suspicious!
+
+@55032
+This town is perfectly peaceful.
+
+@55033
+Guarding the castle is tiring.
+
+@55034
+This is as safe as it gets for now.
+
+@55035
+Our watch is flawless!
+
+@55036
+Let's make the town even safer.
+
+@55037
+Hey, a thief!
+
+@55038
+A peaceful town.
+
+@55039
+A quiet night...
+
+@55040
+This town is getting dangerous lately.
+
+@55041
+All clear!
+
+@55042
+I can handle this alone!
+
+@55043
+How to fight with so few men...
+
+@55044
+I'd like to win without losses...
+
+@55045
+Must watch out for traps...
+
+@55046
+I hate war...
+
+@55047
+We'll charge in at once!
+
+@55048
+I'll win glory!
+
+@55049
+Oh, a merchant.
+
+@55050
+Good day.
+
+@55051
+What fine weather.
+
+@55052
+Good morning.
+
+@55053
+Let's work hard today too.
+
+@55054
+Good evening.
+
+@55055
+I must hurry home.
+
+@55056
+It's the middle of the night.
+
+@55057
+I'll do my best!
+
+@55058
+Rumor says a great talent is in town.
+
+@55059
+They say some folk are discontented.
+
+@55060
+They say the Protector is acting odd.
+
+@55061
+Lord {e01} is acting suspiciously.
+
+@55062
+Our infantry is the strongest!
+
+@55063
+Our armored cavalry is invincible!
+
+@55064
+We Shanyue are the strongest in the hills!
+
+@55065
+This land suits cavalry.
+
+@55066
+This land suits hillmen.
+
+@55067
+This land suits the navy.
+
+@55068
+What will become of the Han?
+
+@55069
+"The Blue Heaven is already dead"...
+
+@55070
+Not many people around...
+
+@55071
+So many people in the big city!
+
+@55072
+Oh no, the house is flooded!
+
+@55073
+What a typhoon this year.
+
+@55074
+A poor harvest... all those fields...
+
+@55075
+Hooray, a good harvest!
+
+@55076
+Oh no, locusts...
+
+@55077
+If only Dr. Hua Tuo were here, the plague...
+
+@55078
+I'll profit from trade with the Wuhuan and Xiongnu.
+
+@55079
+Let's make money in the Nanhai trade.
+
+@55080
+Trade with the west thrives here.
+
+@55081
+Trade with the southwest pays well.
+

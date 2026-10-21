@@ -1,0 +1,639 @@
+@52000
+Lord {e02}, quarrels seem to be breaking out among your retainers.
+
+@52001
+Ah, how long must We live as a wanderer here in {e0B}?
+
+@52001.1
+Is there no loyal subject anywhere who will rescue Us from {e0B}?
+
+@52002
+Throne lost, a wanderer's days... Must We simply wait to wither away here in {e0B}?
+
+@52002.1
+We have lost the throne, and no one will help Us. What will become of Us?
+
+@52003
+Ah, has the fate of the Han run its course...
+
+@52003.1
+Even {e01}, whom We thought loyal, only means to use Us after all?
+
+@52003.2
+Will no one rescue Us from this place, {e0B}...
+
+@52004
+Now the Han too has fallen... What will become of the realm...
+
+@52004.1
+Here in {e0B}, We can only pray for an age of peace.
+
+@52005
+{e0B} is quite a fine place.
+
+@52005.1
+{e01} is a true loyal subject of the Han. That one will surely restore the dynasty.
+
+@52006
+Ah, must We end Our days here in {e0B}, a captive of the false emperor {e01}...
+
+@52006.1
+Is there no loyal subject anywhere to rescue Us from the false emperor {e01}...
+
+@52006.2
+Has the fate of the Han run its course... Is {e01} to be the true emperor now...
+
+@52007
+The peace of all the people rests on your shoulders, Lord {f01}. We rely on you, Lord {f01}...
+
+@52008
+You alone are Our light of hope. We wish you would unite the land soon and bring an age of peace.
+
+@52009
+Heir to Lord Xuande's ideals, Lord\s
+
+@52009.1
+, the peace of all the people rests on your shoulders.
+
+@52010
+In the age of Lord {e01}, heir to Lord Xuande's ideals, true peace will surely come.
+
+@52011
+Lord {e01}, the Son of Heaven has sent a secret envoy.
+
+@52012
+Lord {e01}, a secret edict from the Son of Heaven.
+
+@52012.1
+A secret edict from the Son of Heaven. Please read it.
+
+@52012.2
+This is a secret edict from His Majesty the Emperor, so please keep it to yourself...
+
+@52013
+The House of Han is now in dire poverty and declines ever further.
+
+@52014
+And so, {e01}, would you present %u gold to the court?
+
+@52015
+Your long strife with {e02} seems to make the people suffer.
+
+@52016
+What say you? Will both sides not lay down their arms and make a pact?
+
+@52017
+We can no longer bear {e02}'s arrogant conduct. And so We ask a favor of you.
+
+@52018
+We do not say at once. When Heaven grants the moment, strike down {e02} and save Us.
+
+@52019
+"Present %u gold"\nLord {e01}, will you accept the decree?\n(Gold: %u)
+
+@52020
+"Alliance with {e02}"\nLord {e01}, will you accept the decree?
+
+@52021
+"Hunt down {e02}"\nLord {e01}, will you accept the decree?
+
+@52022
+As a subject of Han, I cannot ignore the court's hardship. Please accept this.
+
+@52022.1
+How terrible... How His Majesty must suffer... I agree to present the gold.
+
+@52022.2
+...Understood. I will prepare it at once. Please wait a little.
+
+@52023
+As you command. Following His Majesty's wish, I will make the pact.
+
+@52023.1
+To have caused the people such trouble... I will make peace at once.
+
+@52023.2
+Certainly. If that is His Majesty's will, I will make the pact at once.
+
+@52024
+As you command. I will surely strike down the traitor and save His Majesty.
+
+@52024.1
+Understood. I will surely rid His Majesty of this thorn in his side.
+
+@52024.2
+I promise on the pride of {e01}. Please await that day.
+
+@52025
+Oh, you have Our welfare at heart. We are glad.
+
+@52025.1
+We shall not forget your loyalty.
+
+@52025.2
+When the Han is restored, you shall be first among those We reward.
+
+@52026
+Good, you understand. We too are glad.
+
+@52027
+You alone are the one We rely on. We expect much of you.
+
+@52027.1
+Lend Us your strength from now on as well. We rely on you.
+
+@52027.2
+{e01}, We expect great things of you. We count on you.
+
+@52028
+Then, in recognition of {e01}'s loyalty, We hereby appoint {e01} {e3D}.
+
+@52030
+I would dearly like to meet His Majesty's hopes, but... once we have means, I will surely...
+
+@52030.1
+We too are in dire poverty, and so, regrettably... I am sorry.
+
+@52031
+To let a traitor to the state live would bring disaster later. We should strike, not make a pact.
+
+@52031.1
+I cannot let a villain run rampant! Please convey my regrets to His Majesty.
+
+@52031.2
+I am sorry. I cannot let one who brings disaster on the world live...
+
+@52032
+I am sorry. It truly grieves me that I cannot meet the Emperor's hopes.
+
+@52032.1
+I am truly sorry. To refuse an imperial decree breaks my heart.
+
+@52033
+A pity, but it cannot be helped. No, forgive Us for asking too much.
+
+@52034
+I see, a pity. We can almost hear the people's bitter cries.
+
+@52035
+Ah, is there no one who will help Us?
+
+@52036
+Hostility toward {e15} has risen.
+
+@52037
+You formed an alliance with {e15}.
+
+@52039
+You presented %u gold.
+
+@52040
+{e01} unified all of China in\s
+
+@52040.1
+.
+
+@52041
+{e01}, Emperor of {f15}, unified all of China in\s
+
+@52041.1
+.
+
+@52042
+{e01} unified all of China in\s
+
+@52042.1
+.
+
+@52043
+The age of rival warlords is over. Now a new age is about to begin.
+
+@52044
+Many years have passed since the oath in the Peach Garden... Restoring the Han has been his cherished wish ever since.
+
+@52045
+The realm has returned to the Han... but this too is thanks to the loyalty of retainers who revered their late lord.
+
+@52046
+In his youth Cao Cao was called "a villain in a time of chaos." At last he has taken the throne and unified the realm.
+
+@52047
+How many years have passed since the coronation? Now the realm belongs to {f15} in name and in fact.
+
+@52048
+Sun Jian, said to descend from the great general Sun Tzu... At last he has taken the throne and unified the realm.
+
+@52049
+Sun Jian, the father, was renowned as a great general... His son {e01} carried on his father's work and unified the realm.
+
+@52050
+Seeing that Heaven's time had come, Yuan Shu took the throne. With every scheme he could devise, he seized the realm.
+
+@52051
+The age of turmoil has ended... Now a new age is about to begin.
+
+@52052
+Many years have passed since the oath in the Peach Garden... Restoring the Han has been his cherished wish ever since.
+
+@52053
+In his youth, told he was "a villain in a time of chaos," the young Cao Cao roared with laughter.
+
+@52054
+Sun Jian, the father, was renowned as a great general... His son {e01} has at last unified the realm.
+
+@52055
+As head of the illustrious Yuan clan, he commands the realm... His long-cherished wish is fulfilled at last.
+
+@52056
+The Yellow Turban Rebellion threw the realm into chaos... The House of Han was as precarious as a stack of eggs.
+
+@52057
+His valor without equal... He rode through countless battlefields and built a legend of never knowing defeat.
+
+@52058
+The land was in chaos because of the empress's kin He Jin and the eunuchs, the Ten Attendants. To save it rose Zhang Jiao, the Great Teacher of Virtue.
+
+@52059
+What that age will be like... rests entirely on the shoulders of {e01}.
+
+@52060
+And now, as Emperor himself, he greets the day of unification. What thoughts must be stirring in his heart?
+
+@52061
+If he is not made arrogant by the throne and listens to his loyal subjects, the Liu dynasty should enjoy peace for some time...
+
+@52062
+A villain who loved talent, poetry and wine... a hero fit for a time of chaos, one might say.
+
+@52063
+To complete his forefathers' work and make the Cao dynasty secure, a new struggle begins now.
+
+@52064
+He has achieved great deeds worthy of his ancestors. He is the new master of the realm.
+
+@52065
+{e01} has surpassed a great father. It is an achievement worthy of the master of the land.
+
+@52066
+The hardships after the coronation are now in the past... The one to replace the Liu was indeed "Dangtugao" of the prophecy.
+
+@52067
+What that age will be like... rests entirely on the shoulders of the new Emperor.
+
+@52068
+Now that peace has come to the land... what thoughts lie in his heart?
+
+@52069
+Later, the Yellow Turban Rebellion threw the realm into chaos... The one who quelled it was the villain Cao Cao.
+
+@52070
+One might say {e01} has surpassed a great father...
+
+@52071
+He showed no interest at all in the throne. Loyalty to the Han, or the ease of a noble house...
+
+@52072
+But the one who saved the Han from this crisis was {e01}, a member of the imperial clan.
+
+@52073
+Not even Xiang Yu, once called the Hegemon King, could match him. Truly a man born for a time of chaos.
+
+@52074
+And at last the wars have ended... Now begins the age of the Yellow Turbans.
+
+@52075
+The realm has returned to the Han... but this too is thanks to the loyalty of retainers who revered their late lord.
+
+@52076
+If he is not made arrogant by the throne and listens to his loyal subjects, the Liu dynasty should enjoy peace for some time...
+
+@52077
+In his youth Cao Cao was called "a villain in a time of chaos." At last he has taken the throne and unified the realm.
+
+@52078
+A villain who loved talent, poetry and wine... a hero fit for a time of chaos, one might say.
+
+@52079
+How many years have passed since the coronation? Now the realm belongs to {f15} in name and in fact.
+
+@52080
+To complete his forefathers' work and make the Cao dynasty secure, a new struggle begins now.
+
+@52081
+Sun Jian, said to descend from the great general Sun Tzu... At last he has taken the throne and unified the realm.
+
+@52082
+He has achieved great deeds worthy of his ancestors. He is the new master of the realm.
+
+@52083
+Sun Jian, the father, was renowned as a great general... His son {e01} carried on his father's work and unified the realm.
+
+@52084
+{e01} has surpassed a great father. It is an achievement worthy of the master of the land.
+
+@52085
+Seeing that Heaven's time had come, Yuan Shu took the throne. With every scheme he could devise, he seized the realm.
+
+@52086
+The hardships after the coronation are now in the past... The one to replace the Liu was indeed "Dangtugao" of the prophecy.
+
+@52087
+The age of turmoil has ended... Now a new age is about to begin.
+
+@52088
+What that age will be like... rests entirely on the shoulders of the new Emperor.
+
+@52089
+Many years have passed since the oath in the Peach Garden... Restoring the Han has been his cherished wish ever since.
+
+@52090
+Now that peace has come to the land... what thoughts lie in his heart?
+
+@52091
+In his youth, told he was "a villain in a time of chaos," the young Cao Cao roared with laughter.
+
+@52092
+Later, the Yellow Turban Rebellion threw the realm into chaos... The one who quelled it was the villain Cao Cao.
+
+@52093
+Sun Jian, the father, was renowned as a great general... His son {e01} has at last unified the realm.
+
+@52094
+One might say {e01} has surpassed a great father...
+
+@52095
+As head of the illustrious Yuan clan, he commands the realm... His long-cherished wish is fulfilled at last.
+
+@52096
+He showed no interest at all in the throne. Loyalty to the Han, or the ease of a noble house...
+
+@52097
+The Yellow Turban Rebellion threw the realm into chaos... The House of Han was as precarious as a stack of eggs.
+
+@52098
+But the one who saved the Han from this crisis was {e01}, a member of the imperial clan.
+
+@52099
+His valor without equal... He rode through countless battlefields and built a legend of never knowing defeat.
+
+@52100
+Not even Xiang Yu, once called the Hegemon King, could match him. Truly a man born for a time of chaos.
+
+@52101
+The land was in chaos because of the empress's kin He Jin and the eunuchs, the Ten Attendants. To save it rose Zhang Jiao, the Great Teacher of Virtue.
+
+@52102
+And at last the wars have ended... Now begins the age of the Yellow Turbans.
+
+@52103
+The age of rival warlords is over. Now a new age is about to begin.
+
+@52104
+What that age will be like... rests entirely on the shoulders of {e01}.
+
+@52105
+Your Majesty, congratulations on unifying the land.
+
+@52106
+We have all been longing for this day to come.
+
+@52107
+From officers and soldiers to all the people, everyone celebrates this great achievement.
+
+@52108
+It is all thanks to you. I thank you.
+
+@52109
+Lord {e02}, congratulations on unifying the land.
+
+@52110
+This too is the fruit of your great prestige, Lord {e02}.
+
+@52111
+That the world is at peace is all thanks to you, Lord {e02}.
+
+@52112
+Not at all. It is thanks to all your hard work.
+
+@52113
+At last we have unified the realm.
+
+@52114
+So many years since we raised our army... It has been my great fortune to serve you, Lord {e02}.
+
+@52115
+It is thanks to all your hard work.
+
+@52116
+But though it was for the sake of unification, I feel we rushed things a little.
+
+@52117
+All the people seem to hope for good government from you, Lord {e02}.
+
+@52118
+Now that the world is at peace, I humbly beg you to cherish the people with benevolence.
+
+@52119
+By the way, Lord {e02}, now that you have unified the realm...
+
+@52120
+why not seek the supreme throne itself?
+
+@52121
+I have no such ambition... I will follow the example of King Wen of Zhou.
+
+@52122
+That the Imperial Seal is now in Your Majesty's hands must surely be the Mandate of Heaven.
+
+@52123
+Indeed. The Imperial Seal is proof of the throne, the treasure of the one who rules the realm.
+
+@52124
+I think so too. This is my treasure.
+
+@52125
+The Imperial Seal you hold, Lord {e02}, is said to be the proof of one who takes the throne.
+
+@52126
+That the Imperial Seal of the realm is now in your hands, Lord {e02}, must surely be the Mandate of Heaven.
+
+@52127
+But I have no interest in the throne... It is of no use in governing the realm.
+
+@52128
+No one in this land dares defy you any longer, Lord {e02}.
+
+@52129
+Your unification rivals the deeds of the First Emperor of Qin and of Emperor Gaozu of Han.
+
+@52130
+But that wretch {e02} still holds power. What do you intend to do?
+
+@52131
+No need to rush. {e02} has submitted to me in heart.
+
+@52132
+Just so. As the old saying goes, "The armies of the Son of Heaven subdue without battle."
+
+@52133
+But {e02} still holds power. What shall we do?
+
+@52134
+{e02} serves me, after a fashion. There's no need to rush.
+
+@52135
+Just so. They are no match for our armies, after all.
+
+@52136
+We did it, Brother!
+
+@52137
+Peace at last... I'm so happy...
+
+@52138
+Hey, Zhang Fei, why are you crying? No tears at a happy feast.
+
+@52139
+Hah! Look who's talking, Brother!
+
+@52141
+In the Peach Garden, we swore to save the people from their suffering...
+
+@52142
+At last it has come true. And it is thanks to you two.
+
+@52143
+I, Xuande, thank you from my heart. Thank you...
+
+@52144
+Mengde! It's over at last.
+
+@52145
+Yuanrang, Miaocai... Yes, at last it is over.
+
+@52146
+You were no ordinary man after all, Mengde. "A villain in a time of chaos" was not far off the mark, it seems.
+
+@52147
+Hahaha, perhaps so.
+
+@52148
+Villain or not, I fought meaning at least to become one of the heroes of the realm.
+
+@52149
+...That I have come this far is all thanks to you.
+
+@52150
+Now that I rule the realm, there is no need for us to be lord and vassal any longer.
+
+@52151
+Yuanrang, Miaocai... From now on, help me as friends.
+
+@52152
+As expected of young Master Sun, to settle the realm's affairs so easily.
+
+@52153
+It is just as I foresaw.
+
+@52154
+...Well, well, it has been a long road.
+
+@52155
+I too feel that a weight has finally been lifted from my shoulders.
+
+@52156
+I came this far thanks to you two.
+
+@52157
+We have unified the realm, but as for keeping it... I am not very confident.
+
+@52158
+I think I will often need your strength from now on... I am counting on you.
+
+@52159
+Congratulations. The realm now belongs to Lord Yuan Shao. A splendid unification.
+
+@52160
+It is thanks to your support.
+
+@52161
+With those words, I feel my loyal service has been rewarded.
+
+@52162
+But it is a problem. In too peaceful a world, there is no chance to show my skill.
+
+@52163
+Without your valor, I might have been in danger.
+
+@52164
+Keep up your good work for me.
+
+@52165
+Hahaha, leave it to me.
+
+@52166
+How about that, Diao Chan! I've finally taken the realm!
+
+@52168
+Lord Lu Bu... I...
+
+@52169
+You need not say anything... I understand it all.
+
+@52170
+...What?
+
+@52171
+Diao Chan, it's enough that you are with me.
+
+@52172
+Lord Lu Bu...
+
+@52173
+I have overcome the hardships of founding a dynasty, but...
+
+@52174
+which is harder, founding a dynasty or preserving it?
+
+@52175
+To defeat the rebels and win in a realm of chaos, where warlords fight each other, is truly hard.
+
+@52176
+So I believe founding is the harder.
+
+@52177
+No, that is not so. Defeating rebels is Heaven's will, so it is not hard.
+
+@52178
+But once it comes to preserving, people forget the spirit of founding and drift into ease.
+
+@52179
+That would be a disaster, and the realm would fall into chaos again... So preserving is harder, I think...
+
+@52180
+I see. Each of your views has its own truth.
+
+@52181
+...Now that the realm is unified, the hardships of founding are in the past.
+
+@52182
+From now on, let us overcome the hardships of preserving it together.
+
+@52183
+The days of war are over. From now on we must govern the state, cherish the people and lead them to peace.
+
+@52184
+For that, I need the strength of you all.
+
+@52185
+I hope you will keep helping me.
+
+@52186
+Of course. We beg you to extend your benevolence widely to the people.
+
+@52187
+Have no worries about affairs of state... I intend to serve you with my very life.
+
+@52188
+We all swear unchanging loyalty to you, Lord {e02}.
+

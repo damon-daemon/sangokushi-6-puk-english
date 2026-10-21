@@ -1,0 +1,561 @@
+@45000
+{C159}, we questioned {e03}, a retainer of {e04}, at {e0B}, and found a letter.
+
+@45000.1
+{C159}, {e03}, a retainer of {e04}, tried to pass through {e0B} carrying what seems a secret letter.
+
+@45000.2
+{e03}, a retainer of {e04}, tried to pass through {e0B}. We searched them and found a letter.
+
+@45000.3
+{C159}, we searched {e03}, a retainer of {e04}, at the {e0B} checkpoint and found a letter.
+
+@45001
+{C159}, we questioned {e03} at {e0B}, and found a letter.
+
+@45001.1
+{C159}, {e03} tried to pass through {e0B} carrying what seems a secret letter.
+
+@45001.2
+{e03} tried to pass through {e0B}. We searched them and found a letter.
+
+@45001.3
+{C159}, we searched {e03}, who tried to slip through the {e0B} checkpoint, and found a letter.
+
+@45002
+We questioned {e03}, a retainer of {e04}, at {e0B}, and found a letter.
+
+@45002.1
+{e03}, a retainer of {e04}, was passing through {e0B} with what seems a secret letter.
+
+@45002.2
+{e03}, a retainer of {e04}, tried to pass through {e0B}. We searched them and found a letter.
+
+@45002.3
+We searched {e03}, a retainer of {e04}, at the {e0B} checkpoint and found a letter.
+
+@45003
+We questioned {e03} at {e0B}, and found a letter.
+
+@45003.1
+{e03} was passing through {e0B} with what seems a secret letter.
+
+@45003.2
+{e03} tried to pass through {e0B}. We searched them and found a letter.
+
+@45003.3
+We searched {e03}, who tried to slip through the {e0B} checkpoint, and found a letter.
+
+@45004
+Lord {e01}, examine the letter?
+
+@45005
+{C159}, here is the letter. What will you do?
+
+@45005.1
+Here is the letter. {C159}, please examine it.
+
+@45006
+So this is the letter. What shall I do?
+
+@45007
+To Lord {e16}:\nLet us form an alliance and pledge lasting friendship and cooperation.\n-- {e15}
+
+@45008
+To Lord {e16}:\nLet us jointly attack {e0B}, a domain of {e17}.\n-- {e15}
+
+@45009
+To Lord {e16}:\nI send this as a token of my sincerity. Please accept it.\n-- {e15}
+
+@45010
+To Lord {e16}:\nBecome my vassal and enjoy wealth and honor to the end.\n-- {e15}
+
+@45011
+To Lord {e16}:\nAccept me as your overlord and help bring peace to the realm.\n-- {e15}
+
+@45012
+To Lord {e16}:\nI ask that you return my retainer {e01}.\n-- {e15}
+
+@45013
+To Lord {e01}:\nAbandon {e16}, serve me, and use your talents to the full.\n-- {e15}
+
+@45014
+To Lord {e01}:\nLend me your strength so that I may achieve my great ambition.\n-- {e15}
+
+@45015
+To Lord {e01}:\nGive up on {e16}, who has no future, and aid us when war comes.\n-- {e15}
+
+@45016
+To Lord {e01}:\nRumor says your lord {e16} heeds slanderers and means to purge you. It would be wise to strike first.
+
+@45017
+To the elders of {e0B}:\nI shall strike down the wicked {e16}. When I do, lend me your aid.\n-- {e15}
+
+@45018
+To the people of {e0B}:\n{e16} is a wicked tyrant, a wolf who cares nothing for the people. Abandon such a ruler quickly, for your own good.
+
+@45019
+To Lord {e16}:\nRumor says {e15} will send troops from {e0B} against your {e0C}. Be on your guard.
+
+@45020
+{C159}, I am ashamed. {e03} stopped me, and I had no choice but to return.
+
+@45020.1
+I am terribly sorry. {e03} took the letter from me.
+
+@45020.2
+{e03} took the letter and I had to turn back. {C159}, I am sorry.
+
+@45021
+Ngh, to have the letter taken by the likes of {e03}... How bitter.
+
+@45021.1
+Curse you, {e03}! Getting in my way... I won't forgive this!
+
+@45021.2
+Curse you, {e03}! What do you gain by getting in my way?
+
+@45022
+I humbly accept. I will spare no effort to assist you, {C10}.
+
+@45022.1
+Understood. I will strive to live up to your hopes, {C10}.
+
+@45022.2
+Leave it to me. I will strive to give sound advice.
+
+@45022.3
+Leave it to me. I will do my best to be of use to you, {C10}.
+
+@45023
+If it is an order, I suppose it cannot be helped...
+
+@45023.1
+What a bother, but it cannot be helped.
+
+@45024
+I am deeply grateful. This makes me all the keener to work.
+
+@45024.1
+Thank you. I intend to serve more faithfully than ever.
+
+@45024.2
+Thank you so much. Expect even greater deeds from me.
+
+@45025
+I will strive to assist you, {C10}, in restoring the Han dynasty.
+
+@45025.1
+I will assist you with all my strength, {C10}, so that you may restore the Han dynasty.
+
+@45025.2
+I hope to assist you, {C10}, in easing the sorrows of His Majesty the Emperor.
+
+@45026
+I wish to work with you, {C10}, so that the people may live better lives.
+
+@45026.1
+I will strive to assist you, {C10}, in a government that puts the people first.
+
+@45027
+I am deeply grateful. I will assist you with all my strength until the day you rule supreme, {C10}.
+
+@45027.1
+Thank you. As your advisor, {C10}, I will surely prove my worth.
+
+@45027.2
+Thank you. Consult me on anything at all.
+
+@45027.3
+I am deeply grateful. From now on, ask me about even the smallest matter.
+
+@45028
+Well, if we leave the rest to Lord Kongming, nothing can go wrong.
+
+@45028.1
+I do not quite understand, but {C10} must have some reason.
+
+@45028.2
+I have my doubts, but {C10} must have some reason.
+
+@45029
+Whew, now perhaps things will be a little easier.
+
+@45029.1
+Well, well, a weight off my shoulders...
+
+@45030
+Curses! As long as {e03} is here, I have no hope of advancement...
+
+@45031
+Ngh... replaced by a youngster like {e03}!
+
+@45031.1
+Curses, to lose this post now to an old fool like {e03}!
+
+@45031.2
+Ngh... Am I inferior to {e03}, then...
+
+@45031.3
+Why? Did I make some mistake?!
+
+@45031.4
+Curses, to think {e03} would take this post from me!
+
+@45032
+I fear {C10} slights us old retainers...
+
+@45032.1
+Why does {C10} favor that newcomer so...
+
+@45032.2
+To be replaced by a newcomer so easily... I am left with no standing...
+
+@45032.3
+{C10} trusts newcomers too much...
+
+@45033
+Lord {e03} will surely assist {C10} better than I could.
+
+@45033.1
+Lord {e03} is sharp, so I can leave it to them with peace of mind.
+
+@45033.2
+Lord {e03}'s judgment is always sound. For {C10}'s sake, it cannot be helped.
+
+@45033.3
+Lord {e03} has ten times my talent, well fit to be advisor.
+
+@45034
+I have my doubts, but {C10} must have some reason.
+
+@45034.1
+I do not quite understand, but {C10} must have some reason.
+
+@45035
+Wh-why? What did I do...
+
+@45035.1
+Hmm, why am I dismissed... Did I do something wrong...
+
+@45035.2
+Hmm, why? What can {C10} be thinking?
+
+@45035.3
+Dismissed? Whatever can {C10} intend...
+
+@45036
+I humbly accept. From now on I will serve as Protector of {e0B}.
+
+@45036.1
+I have received the seal of Protector of {e0B}.
+
+@45037
+Me, Protector of {e0B}! I will strive to live up to your hopes, {C10}.
+
+@45038
+I humbly accept. First I must do something about the poor public safety in {e0B}.
+
+@45038.1
+I accept. I will start restoring order in {e0B} at once.
+
+@45038.2
+Understood. I will begin by restoring order in {e0B}.
+
+@45039
+I humbly accept. I would like to put more effort into farming in {e0B}.
+
+@45040
+Leave it to me. From now on I mean to promote commerce in {e0B}.
+
+@45041
+Understood. I will strive to govern so the people can live in peace.
+
+@45042
+I am deeply grateful. Leave {e0B} to me.
+
+@45042.1
+Ah, you make me Protector of {e0B}! Thank you.
+
+@45042.2
+Leave it to me. I will govern {e0B} well.
+
+@45043
+Ah, at last I am Protector of {e0B}...
+
+@45043.1
+Ah, you entrust {e0B} to me!
+
+@45043.2
+You entrust {e0B} to me? Thank you!
+
+@45044
+{e0B} is orderly and its people all love you, {C10}. I gladly accept.
+
+@45044.1
+Protector of a city as orderly as {e0B}... Thank you so much.
+
+@45045
+Protector of a land as rich as {e0B}? I gladly accept.
+
+@45046
+They say {e0B} is a city of thriving commerce... I gladly accept.
+
+@45047
+I have my doubts, but {C10} must have some reason.
+
+@45047.1
+{C10} must have some reason for this.
+
+@45047.2
+I do not agree with this appointment, but if {C10} wills it, it cannot be helped...
+
+@45048
+Curses, as long as I am here, the post of Protector is far off...
+
+@45049
+Anyone can see {C166} is better fit to be Protector...
+
+@45049.1
+Even I can see that {C166} is better fit to be Protector.
+
+@45049.2
+For {C166}, I would gladly give up the post of Protector.
+
+@45050
+I humbly accept. I will strive to be worthy of the rank of {e33}.
+
+@45051
+It seems I cannot retire from service just yet.
+
+@45052
+I am deeply grateful. Expect great deeds from me in the next battle.
+
+@45052.1
+I am deeply grateful. Expect great work from me as {e33}.
+
+@45053
+I must work harder too...
+
+@45053.1
+I must strive even harder.
+
+@45053.2
+Hmm, I must win more honors... I cannot sit idle.
+
+@45054
+{C159}, why must I suffer the shame of demotion?!
+
+@45054.1
+What! I am demoted?! What can {C10} be thinking?
+
+@45054.2
+Nonsense! There is no way I could be demoted...
+
+@45054.3
+Why?! Why am I demoted?
+
+@45055
+Hmm, why this demotion... {C159}, I do not understand your thinking.
+
+@45055.1
+{C159}, does this demotion mean you no longer need someone like me?
+
+@45055.2
+I am demoted?! {C159}, what is the meaning of this?
+
+@45056
+Still, I cannot accept {C166} as {e33}.
+
+@45056.1
+If it is your wish, {C159}, it cannot be helped, but I have doubts about {C166} as {e33}.
+
+@45056.2
+What worries me is {C166} as {e33}... I fear a lack of experience.
+
+@45056.3
+{C159}, {C166} has little military experience. Is it wise to make them {e33}?
+
+@45057
+Yes, I gratefully accept this post. You can count on me.
+
+@45057.1
+Leave it to me. I will surely not fail your hopes, {C10}.
+
+@45058
+A spymaster does important work, supporting our army's Info Network. And you give it to me!
+
+@45058.1
+You will make me spymaster? Thank you!
+
+@45059
+To be given so important a post is a great honor.
+
+@45060
+I am deeply grateful. This is just the place to show my talents.
+
+@45060.1
+I am confident in spying. Expect results.
+
+@45060.2
+This kind of task is my specialty. Leave it to me.
+
+@45060.3
+Understood. I will strengthen our army's spying further.
+
+@45061
+Spymaster is the perfect role for me. I thank you, {C10}.
+
+@45061.1
+Ah, just what I wished for. I am in your debt for this kindness, {C10}.
+
+@45062
+I have my doubts, but {C10} must have some reason.
+
+@45062.1
+Hmm, I cannot accept this appointment. What can {C10} be thinking...
+
+@45062.2
+Why! Why on earth did {C10} choose Lord {e03}...
+
+@45063
+It cannot be helped. Lord {e03} excels at such work.
+
+@45063.1
+It cannot be helped. I am no match for Lord {e03}.
+
+@45063.2
+It cannot be helped. For {C10}'s sake...
+
+@45064
+You'll regret this, {e02}. One day on the battlefield I will have your head!
+
+@45064.1
+Please hear my side too, {C10}, I beg you.
+
+@45064.2
+Please wait, {C10}. Hear my side too.
+
+@45064.3
+You say this so suddenly... I have no idea what is going on...
+
+@45064.4
+How cruel! Please explain your reasons.
+
+@45064.5
+Why would you... What on earth is happening?
+
+@45065
+Curse you, {e02}! I will never forget this humiliation!
+
+@45065.1
+Tch, I will make you regret this. Remember that!
+
+@45065.2
+One day I will be your equal, no, your better, and I will defeat you!
+
+@45065.3
+What! {C10}, what have I done?!
+
+@45065.4
+We will never meet again. And if we do, then...
+
+@45066
+Curse you, {e02}, you saw through it?
+
+@45066.1
+Hmm, found out? No, but that cannot be!
+
+@45066.2
+Surely they did not see through me! No, that cannot be...
+
+@45067
+I am glad of your kindness. Expect even more of me than before.
+
+@45067.1
+Such consideration, for someone like me...
+
+@45067.2
+Such kindness... I must strive to live up to your hopes, {C10}.
+
+@45068
+I am deeply grateful. With this I am twice as strong. Leave anything to me...
+
+@45068.1
+I am deeply grateful. I see how much {C10} expects of me.
+
+@45068.2
+I am deeply grateful. No one can wield {e29} better than I.
+
+@45069
+This is Red Hare, which runs a thousand li a day. How can I ever repay the gift of so fine a horse?
+
+@45070
+Is this not the Seven Star Sword, an heirloom of Lord Wang Yun's house? To receive such a thing...
+
+@45071
+In the next battle I will bring back the heads of two or three enemy commanders.
+
+@45071.1
+With this, I don't feel I could lose a duel.
+
+@45071.2
+With this, I will make blood rain in the next battle.
+
+@45072
+With this horse, I could ride through an enemy host of a million as if through an empty field.
+
+@45073
+{e29}, for me... Understood. I return {e2A}.
+
+@45073.1
+You give me {e29}? Understood. I return {e2A}.
+
+@45073.2
+Understood. I will trade it for {e2A}.
+
+@45074
+Ah, that is just what I wanted! Please, let us trade.
+
+@45074.1
+Oh, that is truly the legendary "{e29}". I am overjoyed.
+
+@45074.2
+What, trade for this? Is that not "{e29}"? Please, let us trade.
+
+@45075
+Is that not the very "{e29}" I have sought... You will trade it with me?
+
+@45076
+Oh, is that not the famous horse "{e29}"? Please, let us trade.
+
+@45077
+{C10} would not do such a thing without reason. I know that, but...
+
+@45078
+Does {C10} not know how much I love this {e29}...
+
+@45079
+Who but me could wield {e29}?
+
+@45080
+Yes, I gratefully accept this post. You can count on me.
+
+@45081
+Hmm, why am I dismissed... Did I do something wrong...
+
+@45082
+Leave it to me. I will surely not fail your hopes, {C10}.
+
+@45083
+Hmm, why am I dismissed... Did I do something wrong...
+
+@45084
+I will surely not fail your hopes, {C10}.
+
+@45085
+Hmm, why am I dismissed... Did I do something wrong...
+
+@45086
+The rank of an officer already sent to war cannot be changed.
+

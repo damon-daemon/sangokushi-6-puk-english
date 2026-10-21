@@ -1,0 +1,984 @@
+@59000
+Seeking revenge for the murder of his father Cao Song, Cao Cao invaded Xu Province, took over ten towns and slaughtered over 100,000 people.
+
+@59001
+His deeds roused the distrust of Zhang Miao and the others guarding his lands. They plotted with Lu Bu, seized Puyang and rebelled.
+
+@59002
+Cao Cao turned back at once and attacked Puyang, but after breaking into the castle he was badly beaten by Lu Bu's army.
+
+@59003
+Dian Wei! Which gate can we escape through?
+
+@59004
+Only the north gate. I will clear the way, so follow me.
+
+@59005
+But it is a sea of fire! You mean to charge into that?
+
+@59006
+There is no other way out of the castle. Come, let us go!
+
+@59007
+Dian Wei dashed through the fire and smoke, and Cao Cao followed. But just short of it, the gate burned and collapsed.
+
+@59008
+Oh... Aaargh! Dian Weeei!
+
+@59009
+My lord, you have come to.
+
+@59010
+Ah, Dian Wei. So I am saved.
+
+@59011
+Yes, but you are burned all over.
+
+@59012
+Never mind that, Dian Wei. You did well to rescue me. You have my thanks.
+
+@59013
+Not at all. As long as you are safe, my lord, we can always start again.
+
+@59014
+Hahaha! Lu Bu must surely think I am dead.
+
+@59015
+When he comes to attack, we strike him with an ambush. We are sure to take Lu Bu captive.
+
+@59016
+Cao Cao held a false funeral for himself to lure Lu Bu out, and beat him soundly.
+
+@59017
+Riding the momentum, Cao Cao attacked Puyang again, but this time a great swarm of locusts struck and he ran short of food.
+
+@59018
+Forced into a truce, Cao Cao moved to Runan, made thorough preparations, and clashed with Lu Bu once again...
+
+@59019
+After beating Lu Bu at Dingtao, Cao Cao retook Yan Province and defeated the powers around him one by one.
+
+@59020
+Meanwhile, Yuan Shao grew powerful in Hebei. In the 5th year of Jian'an (200), he crossed the Yellow River and invaded Cao Cao's lands.
+
+@59021
+Just before this, Cao Cao had struck Liu Bei in Xu Province and captured Guan Yu, treating him lavishly to win him over.
+
+@59022
+Hahaha! Wine shared with a hero of the realm tastes all the better.
+
+@59023
+Guan Yu, you do not seem to be drinking much...
+
+@59024
+No, I have had plenty.
+
+@59025
+I see... By the way, Guan Yu, how long is that beard of yours?
+
+@59026
+I would say some five or six hundred hairs.
+
+@59027
+Each year, when it turns cold, many fall out, so in winter I wrap it in a gauze bag.
+
+@59028
+Oh, is that so? Then I shall have a bag made of brocade and give it to you.
+
+@59029
+...I am most grateful.
+
+@59030
+Not at all... Ah, yes, Guan Yu. Tomorrow you should have an audience with the Emperor.
+
+@59031
+I have already obtained permission.
+
+@59032
+Your Majesty, this is Guan Yu, Liu Bei's sworn brother.
+
+@59033
+Oh, so you are Guan Yu. Even We have heard of you. They say you are a stalwart warrior.
+
+@59034
+Your words are more than I deserve. I am honored.
+
+@59035
+And such a splendid beard... Truly the Lord of the Beautiful Beard.
+
+@59036
+But news came to Xuchang that Yuan Shao's army was attacking, and when the war began, Guan Yu too had to march.
+
+@59037
+Visiting Liu Bei's wives, held captive with him by Cao Cao, Guan Yu told them his true intentions.
+
+@59038
+Lord Guan Yu, please be sure to come back safely.
+
+@59039
+I cannot die until I have seen my brother again.
+
+@59040
+If only we could soon hear news of our lord...
+
+@59041
+About that... I have heard a rumor that my brother is with Yuan Shao.
+
+@59042
+If it is true, he may be fighting in this battle too.
+
+@59043
+Oh, is that so? I would be so glad if he were alive...
+
+@59044
+And so Guan Yu was about to join the war between Yuan Shao and Cao Cao as an officer of Cao Cao's army.
+
+@59045
+Cao Cao's army crushed Yuan Shao's at Baima. But it was no more than a local victory.
+
+@59046
+The front lines stalled, and the two armies faced each other for 3 months. Then, to settle it, Yuan Shao marched with his whole army.
+
+@59047
+My lord, Lord Tian Feng has sent a letter from prison.
+
+@59048
+"This is the time to wait, not to raise troops. It will go badly for our side," he says.
+
+@59049
+When we marched on Baima, he said the same ill-omened things...
+
+@59050
+Even locked in prison he still says such things?
+
+@59051
+Pouring cold water on our lord's army of benevolence and justice...
+
+@59052
+How truly unpleasant! Have Tian Feng beheaded at once!
+
+@59053
+My lord, you must not! Have you forgotten all that Lord Tian Feng has done for you?
+
+@59054
+Hmm... I will deal with him after I have beaten Cao Cao.
+
+@59055
+More to the point, my lord, the enemy is elite, but they have less food than our army.
+
+@59056
+If we hold firm, I believe the enemy will destroy themselves without a fight...
+
+@59057
+Hold firm, you say! Lord Ju Shou, why do you say things that sap our army's morale?
+
+@59058
+And why do you rush our lord?! Now we must hold firm and wait...
+
+@59059
+Enough! Silence, Ju Shou! I will crush Cao Cao with ease! No more debate!
+
+@59060
+So Yuan Shao ignored Tian Feng and Ju Shou and sought a decisive battle. Meanwhile, Cao Cao, with the war going badly...
+
+@59061
+At this rate their greater numbers will wear us down. Xun You, is there no good plan?
+
+@59062
+Now is the time to endure. Yuan Shao's retainers are always quarreling...
+
+@59063
+And Yuan Shao lacks the stature to unite them. There will surely be a gap to exploit.
+
+@59064
+Hmm... But will our army last until then...
+
+@59065
+My lord, a man named Xu You from Yuan Shao's camp wishes to defect to us...
+
+@59066
+Xu You?! Oh, show him in at once.
+
+@59067
+It has been a long time. Despairing of Yuan Shao, I have shamelessly come, trusting in our old friendship.
+
+@59068
+Not at all. With you here, my cause is as good as won.
+
+@59069
+Tell me at once your plan to defeat Yuan Shao.
+
+@59070
+Before that, Prime Minister, how much food do you have left?
+
+@59071
+Let me see... Enough for a year, I suppose.
+
+@59072
+Hahaha, how suspicious you are. I had heard you were a cunning villain, Prime Minister. It seems to be true.
+
+@59073
+I came to you with a sincere heart, but it seems you do not believe me.
+
+@59074
+All right, I was wrong. The truth is, our food is almost gone.
+
+@59075
+Just as I thought. Then there is no time to lose.
+
+@59076
+Reinforcements under Yuan Shao's son Yuan Tan are on the way, but they seem to be late.
+
+@59077
+And Liu Bei in Runan, leading a detached force of Yuan Shao's, is said to be scheming something for the decisive battle...
+
+@59078
+I believe you should not drag this out, but strike Wuchao, the enemy's base, at once.
+
+@59079
+What! Our own reinforcements were due to arrive soon, but...
+
+@59080
+Yuan Shao's men are at odds, and his base is now poorly guarded.
+
+@59081
+If there is any chance of victory, it lies in exploiting that.
+
+@59082
+Xu You, you did well to tell me. I cannot wait for reinforcements. We march at once!!
+
+@59083
+Victorious at Guandu, Cao Cao swept away the power of the Yuan clan, took Hebei and at last became master of the Central Plains.
+
+@59084
+But Sun Quan and Liu Bei in the south and Ma Chao and Han Sui in the west, among others, still opposed him.
+
+@59085
+Cao Cao marched on Jing Province and Wu to conquer the south, but was beaten by Wu at Red Cliffs, and his plans fell through.
+
+@59086
+Three years later, in the 16th year of Jian'an (211), Ma Chao of Xiliang rebelled and marched on the key stronghold of Tong Pass.
+
+@59087
+Cao Hong, Xu Huang! Lead 10,000 horsemen to Tong Pass at once.
+
+@59088
+Then hold it for 10 days without leaving the pass. In that time I will bring the main army to your aid.
+
+@59089
+Prime Minister, please wait. Cao Hong is short-tempered. I fear he is not suited to this task...
+
+@59090
+That is why I am sending Xu Huang with him. They can hold out for 10 days.
+
+@59091
+Cao Hong and Xu Huang set out for Tong Pass. On the 9th day of their defense, with Cao Cao about to arrive...
+
+@59092
+Prime Minister, forgive me. Tong Pass has fallen...
+
+@59093
+Cao Hong, I told you to hold it for 10 days. Why could you not hold it?
+
+@59094
+The enemy hurled every insult at us, and on top of that their fighting spirit seemed to flag, so...
+
+@59095
+Not wanting to miss the chance, I sallied out and fell into the rebels' trap...
+
+@59096
+Sallied out?! Did I not tell you to stay inside the pass?
+
+@59097
+Xu Huang, you were with him. Why did you not stop him?
+
+@59098
+I warned him many times, and Lord Cao Hong held back for a long while.
+
+@59099
+But the enemy's abuse was too much, and at last his patience snapped...
+
+@59100
+I was inspecting the supply stores at the time, and could not stop him.
+
+@59101
+Grrr... To fall for the rebels' trap and sally out!!
+
+@59102
+Cao Hong, had you obeyed my orders, Tong Pass would never have been lost!
+
+@59103
+Your crime is grave. Off with his head!!
+
+@59104
+Prime Minister, please wait. I understand you wish to uphold military law, but...
+
+@59105
+Please consider all that Lord Cao Hong has done. I beg you, show mercy...
+
+@59106
+...Hmm, very well. For your past deeds, I spare your head.
+
+@59107
+Win glory in the next battle and clear your name!!
+
+@59108
+We retake Tong Pass at once! All troops, march on Tong Pass!
+
+@59109
+Cao Cao beat Ma Chao at Tong Pass and put down the revolt. The defeated Ma Chao fled to Zhang Lu in Hanzhong.
+
+@59110
+Cao Cao defeated Zhang Lu and once pacified Hanzhong, but Liu Bei took it from him.
+
+@59111
+Then Guan Yu at Jiangling began his march on Xiangyang. The news was enough to shake Cao Cao in Xuchang.
+
+@59112
+So Guan Yu has at last begun to march on Xiangyang.
+
+@59113
+And they say he is pressing on toward Xuchang itself...
+
+@59114
+If Guan Yu takes Xiangyang, Xuchang will be in danger. Perhaps we should move the capital...
+
+@59115
+You must not. Xiangyang has not fallen yet.
+
+@59116
+To decide on moving the capital, a great matter of state, for the sake of Guan Yu alone would hurt the prestige of Wei.
+
+@59117
+Lord Zhongda is right. I believe we should send reinforcements to Xiangyang and weather this crisis.
+
+@59118
+Yes, you are right. I lost my nerve a little.
+
+@59119
+Yu Jin, take Xu Huang, go to Xiangyang at once and help Cao Ren hold the castle!
+
+@59120
+Yes, sire... But Guan Yu is a warrior famed throughout the world...
+
+@59121
+I would be grateful if you could give me one more lieutenant.
+
+@59122
+Hmm, let me see...
+
+@59123
+Give that task to me!
+
+@59124
+Now is the time to repay the great kindness of the King of Wei. I will surely slay Guan Yu for you.
+
+@59125
+Pang De had taken refuge with Zhang Lu along with Ma Chao, but was captured when Cao Cao struck Zhang Lu, and joined Wei.
+
+@59126
+Very well! Then Yu Jin, take Xu Huang and Pang De and go to Xiangyang at once.
+
+@59127
+King of Wei, before the army marches, there is something I must tell you.
+
+@59128
+Oh, what is it? Speak.
+
+@59129
+I happened to overhear the soldiers talking...
+
+@59130
+Ma Chao, Pang De's former lord, is now one of Shu's Five Tiger Generals, and his elder brother also serves Shu, they say.
+
+@59131
+Can Pang De, who joined Wei only out of necessity, fight Shu? Many have doubts about him.
+
+@59132
+Hmm, I see... If the soldiers have doubts, perhaps it cannot be helped...
+
+@59133
+King of Wei, you sent for me?
+
+@59134
+Yes... It is about the campaign. Some say they cannot fight easy beside you, since you are a surrendered general.
+
+@59135
+What! I meant to repay the kindness you showed in taking me in, King of Wei...
+
+@59136
+Of course I trust you. But the soldiers...
+
+@59137
+They are uneasy fighting alongside me...
+
+@59138
+Hmm..........
+
+@59139
+I, Pang De, meant to risk my life fighting Guan Yu to repay your great kindness, King of Wei... It is truly a shame.
+
+@59140
+.....................
+
+@59141
+Very well! Whatever anyone else says, I will trust you.
+
+@59142
+Win great glory and prove your innocence.
+
+@59143
+Thank you, my lord! I will surely bring back Guan Yu's head!
+
+@59144
+And so Pang De marched, ready to die. Could Yu Jin's relief force save Cao Ren and hold Jing Province...?
+
+@59145
+And so Cao Ren held Xiangyang to the end, and Guan Yu was captured by the Wu army and beheaded.
+
+@59146
+Freed from the fear of Guan Yu, Cao Cao saw peaceful days return to Wei's Xuchang.
+
+@59147
+King of Wei, an envoy has come from Wu, bearing a memorial from Sun Quan.
+
+@59148
+Oh, what is it? Read it.
+
+@59149
+"The Mandate of Heaven is already yours, King of Wei. Your servant Sun Quan begs you to take the throne of the Son of Heaven at once."
+
+@59150
+Hahaha! That Sun Quan, telling me to take the throne... He wants me to pull his chestnuts out of the fire.
+
+@59151
+Everyone knows the House of Han is at its lowest ebb. Sun Quan's letter is a sign that Heaven's time is ripe...
+
+@59152
+I beg you to answer the Mandate of Heaven, follow the people's wishes and become Son of Heaven as soon as you can.
+
+@59153
+I am already King of Wei, the highest rank a subject can hold. What more could I want?
+
+@59154
+Since ancient times, he who rids the people of disaster and wins their allegiance has become their sovereign.
+
+@59155
+Your achievements and virtue are plain to all, King of Wei. Why hesitate to answer the people's will?
+
+@59156
+Enough, say no more. Even if the Mandate is mine, I shall be like King Wen of Zhou.
+
+@59157
+In time Cao Cao was often confined to his sickbed. One day he called his chief ministers to his side and said this:
+
+@59158
+In my sixty-odd years I have struck down many warlords, but Sun Quan of Wu and Liu Bei of Shu remain.
+
+@59159
+Cao Hong, Chen Qun, Jia Xu, Sima Yi... I leave what comes after my death in your hands.
+
+@59160
+King of Wei, what are you saying? You will surely recover.
+
+@59161
+When I die, make the Crown Prince, Cao Pi, my heir, and support him well...
+
+@59162
+Thus Cao Cao gave his last wishes to Cao Hong and the others, and in the 25th year of Jian'an (220) his long life of war came to an end.
+
+@59163
+Chen Shou, author of the Records of the Three Kingdoms, judged Cao Cao thus: "Emperor Wu of Wei laid his own plans and schemes...
+
+@59164
+...gave office to men of talent, unbound by the customs of old.
+
+@59165
+That he achieved his great work was due solely to his clear and superior resourcefulness."
+
+@59166
+King of Wei, you look rather pale. What is the matter?
+
+@59167
+I had a strange dream last night. Three horses were eating fodder from the same trough.
+
+@59168
+I wondered if it meant a revolt by Ma Teng and his sons, but they are already dead...
+
+@59169
+That is a good omen. The "trough" (cao) stands for "Cao": the house of Cao rears horses, the weapons of war...
+
+@59170
+And since the house rears all three at once, it must surely be a good omen.
+
+@59171
+Hmm... I see...
+
+@59172
+Time passed. It was the 1st year of Taihe (227) in Wei. Cao Cao was gone, and his grandson Cao Rui had taken the throne.
+
+@59173
+Zhuge Liang of Shu-Han advanced to Qishan and beat Xiahou Mao and Cao Zhen. Wei ordered Sima Yi to meet the Shu-Han army.
+
+@59174
+Zhang He, what is the shortest route from Hanzhong to Chang'an?
+
+@59175
+That would be the route straight to Chang'an through the Ziwu Valley.
+
+@59176
+Yet Zhuge Liang is heading west, aiming for Chang'an by way of Qishan.
+
+@59177
+This means Zhuge Liang dislikes risk and chose the surer road.
+
+@59178
+I see. A safe strategy, then.
+
+@59179
+Yes. Since the enemy comes so cautiously, we cannot attack carelessly. Fortunately, they are far from home...
+
+@59180
+If we hold firm, the enemy will not find it easy to strike us.
+
+@59181
+Father, then where shall we meet the Shu army?
+
+@59182
+Well, I just said we should hold firm, but there is one plan that will easily force the Shu army to retreat.
+
+@59183
+Oh? What plan is that?
+
+@59184
+On the Shu army's road to Chang'an there is a key point called Jieting.
+
+@59185
+The road there is narrow and hard to defend. In other words, the perfect spot for a surprise attack.
+
+@59186
+If we lie in ambush there and crush the Shu vanguard, our victory is certain.
+
+@59187
+What! I never imagined such a plan! It is truly divine strategy.
+
+@59188
+But we must not underestimate Zhuge Liang. He may well have sent troops there already.
+
+@59189
+If Jieting has been taken, we will have to hold firm after all.
+
+@59190
+My lord, it seems the Shu army has already sent troops to Jieting.
+
+@59191
+What!! So Zhuge Liang saw it coming after all.
+
+@59192
+And who leads the army sent to Jieting?
+
+@59193
+It seems to be Ma Su.
+
+@59194
+Ma Su... I see. We must win the first battle and stop the Shu army's momentum.
+
+@59195
+Right! We meet the Shu army at Jieting! Let us go! March!!
+
+@59196
+When Ma Su was defeated at Jieting, the Shu-Han army retreated to Hanzhong, just as Sima Yi had foreseen.
+
+@59197
+After that, Zhuge Liang led northern campaign after northern campaign, but always suffered from supply problems and never took Chang'an.
+
+@59198
+In the 2nd year of Qinglong (234) in Wei, Zhuge Liang launched his fifth northern campaign and faced Sima Yi's Wei army at Wuzhang Plains.
+
+@59199
+Father, an envoy from the Shu army has brought a gift and a letter.
+
+@59200
+What is it? Open it.
+
+@59201
+This is... a woman's robe.
+
+@59202
+A woman's robe? I do not understand. Read the letter.
+
+@59203
+"Zhongda! You lead a great army as its general, yet you shun battle and skulk behind your walls. What is this?
+
+@59204
+To a coward like a woman, I send this fitting gift. Pray accept it."
+
+@59206
+Hahaha! It seems Kongming likes a joke.
+
+@59207
+Father, we cannot bear such an insult! Let us sally out at once and scatter the Shu army!
+
+@59208
+Do not be hasty. Because we hold firm, the enemy cannot touch us.
+
+@59209
+More importantly, I want to speak with the envoy. There is something I wish to ask.
+
+@59210
+How does Lord Kongming spend his days lately?
+
+@59211
+He works on military affairs from early morning until late at night.
+
+@59212
+I see. And does he eat?
+
+@59213
+No, he is so busy he has no time to eat properly.
+
+@59214
+I see, I see... So he is that busy...
+
+@59215
+Prime Minister, I have returned.
+
+@59216
+Well done. Did Sima Yi accept the gift?
+
+@59217
+Yes, but he did not seem angry at all.
+
+@59218
+I see... Was there anything else unusual?
+
+@59219
+He asked about your daily life, Prime Minister.
+
+@59220
+What? And how did you answer?
+
+@59221
+I said you are busy with military affairs from early morning until late at night.
+
+@59222
+I-I see. Very well, you may go.
+
+@59224
+That Zhongda... Is he counting the days I have left...?
+
+@59225
+Zhuge Liang knew that he did not have long to live.
+
+@59226
+At Wuzhang Plains, likely the last battlefield for Zhongda and Kongming, autumn was already deepening.
+
+@59227
+When Zhuge Liang died in camp at Wuzhang Plains, Shu-Han withdrew its army, and for a while peaceful days went on in Wei.
+
+@59228
+Three years after the Battle of Wuzhang, Gongsun Yuan of Xiangping, discontented with Wei, was preparing a revolt.
+
+@59229
+Wei does not slight you at all, my lord. Why would you rebel?
+
+@59230
+Sima Yi is a seasoned general. Even Kongming of Shu could not beat him, let alone you, my lord...
+
+@59231
+What? You say I cannot beat Sima Yi? How insolent!
+
+@59232
+And yet strange events, which can only be called ill omens, have occurred in our lands of late.
+
+@59233
+A dog walked upright like a man, and when someone cooked rice in a pot and opened it, a steamed baby's corpse was inside...
+
+@59234
+I beg you not to act rashly. I believe you should restrain yourself.
+
+@59235
+Grr, you would make a fool of me! I will not stand for it! Cut these men down!!
+
+@59236
+Ignoring his retainers' warnings, Gongsun Yuan at last raised an army in Xiangping. Wei ordered Sima Yi to crush him.
+
+@59237
+Lord Sima Yi, the enemy has massed troops at Liaosui, dug trenches and built camps. They seem to mean to meet us there.
+
+@59238
+Hahaha! So the enemy plans to hold fast in camp and not fight. But their base, Xiangping, must be poorly guarded.
+
+@59239
+If we head for Xiangping, the troops at Liaosui are sure to rush back to their base.
+
+@59240
+I see. If we strike them then, we can wipe them out with ease.
+
+@59241
+Exactly. We will not go to Liaosui. We advance on Xiangping.
+
+@59242
+So Sima Yi advanced on Xiangping, and crushed Gongsun Yuan's army with an ambush as it rushed after him.
+
+@59243
+The beaten Gongsun Yuan army shut itself up in Xiangping castle, ready to resist to the last.
+
+@59244
+Sima Yi won Cao Rui's deep trust by crushing the rebels. Later, on his deathbed, Cao Rui entrusted the future to Cao Shuang and Sima Yi.
+
+@59245
+But after Cao Rui's death, it was Cao Shuang who truly held power. He gave key posts to his kin and ran the court as he pleased.
+
+@59246
+Sima Yi, set aside in an honorary post, waited for his chance, raised troops and swiftly took Luoyang.
+
+@59247
+He then rounded up Cao Shuang's faction and executed them. The real power in Wei passed wholly to the Sima clan.
+
+@59248
+Cao Cao's dream of three horses at one trough had foretold that the Sima would take the realm from the Cao.
+
+@59249
+It was the 2nd year of Ganlu (257) in Wei. Sima Yi and Sima Shi were gone, and the age of Sima Zhao had come.
+
+@59250
+Lord Sima Zhao, you do indeed hold the great power of Wei now, but...
+
+@59251
+Not every heart in the land has turned to you.
+
+@59252
+Yes, there must still be many who swear loyalty to the Cao house of Wei.
+
+@59253
+Why not find out what each man thinks before you attempt the great undertaking?
+
+@59254
+Quite so. And whom do you suspect?
+
+@59255
+I believe Zhuge Dan of Shouchun and his like are suspect.
+
+@59256
+Two years ago, Guanqiu Jian and others rose up in Huainan, and the late Lord Sima Shi put them down himself.
+
+@59257
+It borders Wu and is far from the capital. A revolt there would not be easy to crush.
+
+@59258
+Very well. Go to Huainan on the pretext of rewarding the army, and sound out Zhuge Dan.
+
+@59260
+Sima Zhao's confidant Jia Chong went down to Huainan and visited Zhuge Dan, the 1st General of the East at Shouchun.
+
+@59261
+Zhuge Dan had been close to Xiahou Xuan, who was executed for plotting to kill Sima Shi, so...
+
+@59262
+he secretly feared that he too would one day be suspected of treason.
+
+@59263
+Lately in Luoyang I hear voices saying Lord Sima Zhao should become the Son of Heaven.
+
+@59264
+What do you think about this, sir?
+
+@59265
+Are you not the son of Lord Jia Kui? Your family has eaten Wei's bread for generations. Do you mean to betray it?
+
+@59266
+No, I only mention it because there are scoundrels saying such things.
+
+@59267
+If anything should happen to the Son of Heaven, I will not let it pass!
+
+@59268
+When Jia Chong returned to Luoyang and reported this, Sima Zhao tried to summon Zhuge Dan to Luoyang, but...
+
+@59269
+Sensing danger, Zhuge Dan at last rebelled. He sent his son Zhuge Jing to Wu as a hostage and asked for reinforcements.
+
+@59270
+Sima Zhao forced the Wei Emperor Cao Mao to lead the campaign, followed him, and closed in on Shouchun, held by Zhuge Dan.
+
+@59271
+Five years after crushing Zhuge Dan's revolt, Sima Zhao ordered Deng Ai and Zhong Hui to lead a great army against Shu.
+
+@59272
+When the Wei general Deng Ai took the steep mountain paths of Yinping and struck Mianzhu, Liu Shan surrendered, and Shu-Han fell.
+
+@59273
+For this, Sima Zhao was made King of Jin, but he died in the 2nd year of Xianxi (265), and his eldest son Sima Yan succeeded him.
+
+@59274
+Long ago, the Grand Ancestor of Wei is said to have said, "Even if the Mandate is mine, I shall be like King Wen of Zhou."
+
+@59275
+...What did he truly mean by it?
+
+@59276
+Cao Cao did not want the world to call him a usurper, so he said that, I suppose.
+
+@59277
+King Wen of Zhou did not become Son of Heaven himself; his son, King Wu, did.
+
+@59278
+Likening himself to King Wen, Cao Cao must have been hinting that his son Cao Pi should become Son of Heaven.
+
+@59279
+And how does my father compare with Cao Cao?
+
+@59280
+Cao Cao's achievements were indeed exceptional, but the people feared his might and could not love him.
+
+@59281
+And Cao Pi only drove men to war; the people never knew a moment's rest.
+
+@59282
+Your father, by contrast, achieved the conquest of Shu, a deed unmatched in the realm.
+
+@59283
+Cao Pi too succeeded the Han. Then there is nothing wrong with my succeeding Wei...
+
+@59284
+Indeed, my lord! It is just as you say.
+
+@59285
+The next day, Sima Yan stormed into the inner palace with a sword at his side. The Son of Heaven of Wei was then Cao Huan, set up by Sima Zhao.
+
+@59286
+Your Majesty, to whose deeds do you think the realm of Wei owes its present state?
+
+@59287
+We believe it is thanks to your father, Sima Zhao.
+
+@59288
+As far as I can see, Your Majesty does not have the makings of a sovereign.
+
+@59289
+Why not yield the realm to a man of talent and virtue?
+
+@59290
+..........
+
+@59291
+His Majesty fully possesses the virtue of a Son of Heaven.
+
+@59292
+Nor has he committed any crime for which he must give up the throne.
+
+@59293
+Why then should His Majesty give up the throne?!
+
+@59294
+The realm belonged to the Han in the first place. Cao Cao used the Son of Heaven to command the lords, and Cao Pi seized the throne.
+
+@59295
+And the realm of Wei was never upheld by the Cao alone. It owed a great deal to the deeds of us Sima.
+
+@59296
+Since all the world knows this to be true, what is wrong with my succeeding to the realm of Wei?!
+
+@59297
+Silence! You traitor, scheming to usurp the throne!
+
+@59298
+Grr! Then so be it!!
+
+@59299
+Oh, oh... Zhang Jie... W-what then should We do?
+
+@59300
+Follow the example of Emperor Xian of Han: raise an abdication altar and yield the throne to Lord Sima Yan.
+
+@59301
+V-very well. We shall do as you say.
+
+@59302
+And so, in the 2nd year of Xianxi (265) in Wei, Sima Yan took the throne, and Wei came to an end.
+
+@59303
+It was 45 years after Wei received the Han throne by abdication in the 25th year of Jian'an (220).
+
+@59304
+Emperor Sima Yan of Jin named his grandfather Sima Yi Emperor Xuan, his uncle Sima Shi Emperor Jing, his father Sima Zhao Emperor Wen.
+
+@59305
+Your Majesty, Sun Hao of Wu is depraved and cruel beyond measure. Now is the perfect chance to strike Wu.
+
+@59306
+I am against it. Sun Hao is eager to strike us and his troops are in high spirits.
+
+@59307
+Rather than clash with Wu's army now, it would be wiser to wait a year and let their spirit wane.
+
+@59308
+No, in all things we must weigh gain against harm.
+
+@59309
+In this campaign against Wu, there is gain nine times in ten, and no harm at all.
+
+@59310
+Your Majesty is wise and Jin is strong, but Sun Hao is a fool, and Wu is ready to collapse at any moment.
+
+@59311
+If we attack Wu now, I believe we can topple it with little effort.
+
+@59312
+Very well, we raise an army against Wu! Form the expedition at once!!
+
+@59313
+After beating Wu's main army, the Jin army swept toward Jianye like a knife through bamboo.
+
+@59314
+Your Majesty, it seems our Zhang Xiang has defected, opened the castle gates and let the enemy in.
+
+@59315
+Wh-what! Hmm... Is this the end, then...
+
+@59316
+Your Majesty, do not act rashly. I think it would be best to surrender...
+
+@59317
+I see... Very well. Send an envoy to Wang Jun, the Jin general.
+
+@59319
+Thus, with Sun Hao's surrender, Wu fell, and all its lands passed to Jin.
+
+@59320
+On his triumphant return, the Jin general Wang Jun took Sun Hao to Luoyang to meet Sima Yan.
+
+@59321
+Lord Sun Hao, welcome. We have set out a seat for you and waited for you.
+
+@59322
+I too had set out a seat in Jiangdong and waited for Your Majesty.
+
+@59323
+Hahaha! I see, I see.
+
+@59324
+Lord Sun Hao, they say that in Jiangnan you gouged out people's eyes...
+
+@59325
+and flayed the skin from their faces. What sort of punishments were these?
+
+@59326
+Punishments for subjects who murder their lords or are disloyal to them.
+
+@59327
+I... I see...
+
+@59328
+And so the Three Kingdoms were united by Sima Yan of Jin.
+
+@59329
+It is the way of the realm: long united, it must divide; long divided, it must unite.
+
+@59330
+Liu Shan died in the 7th year of Taishi (271), Sun Hao in the 4th year of Taikang (283), and Cao Huan in the 1st year of Tai'an (302).
+
+@59331
+None of them were killed or poisoned; all lived out their lives.
+

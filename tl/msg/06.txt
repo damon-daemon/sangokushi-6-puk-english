@@ -1,0 +1,63 @@
+@6000
+King of the Di of Wudu. Moved to Guangdu by Liu Shan's order. Later turned against Shu-Han, but submitted again in 251. Appears only in the official history.
+
+@6001
+A Shu-Han officer who joined Liu Bei in his Yuzhou days and fought far and wide; loyal and brave, always second only to Zhao Yun in fame and rank. Commander of Yong'an and 1st General of the West under Liu Shan. Only in the official history.
+
+@6002
+A Shu-Han retainer who served as Protector and Palace Attendant. Made a Colonel, he complained of the post and was exiled; in exile, he wept on hearing of Zhuge Liang's death.
+
+@6003
+A Shu-Han officer, Guan Xing's son and Guan Yu's grandson. Inherited the title Marquis of Hanshou, married a princess and became Commander of the Tiger Guard. From the official history.
+
+@6004
+A Wu retainer whose literary talent won him Sun Hao's favor, but he was executed as defiant. From the official history, where he is written "Wei Yao" to avoid the name of Jin's Emperor Wen, Sima Zhao.
+
+@6005
+A Wu officer who served Sun Ce and Sun Quan and fought well against the Shanyue with Lu Xun. Fond of luxury, he liked fine, showy weapons, armor and warships. From the official history.
+
+@6006
+An officer under Liu Yu, from Youbeiping. When Liu Yu thought of attacking Gongsun Zan, he urged him to "overlook small faults". From the official history.
+
+@6007
+Gongsun Zan's cousin. Once given Yuan Shao's seal as Protector of Bohai to placate Gongsun Zan, who had marched to avenge his brother Yue. From the official history.
+
+@6008
+Gongsun Zan's son. Fought Yuan Shao with his father, but after the crushing defeat at Yijing he killed himself with his parents in a burning tower. From the official history.
+
+@6009
+An officer under Gongsun Zan, made Inspector of Yanzhou to hold the front against Yuan Shao. Beaten by Cao Cao's army, Yuan Shao's ally. From the official history.
+
+@6010
+A Wei retainer, found by Cao Cao when Hebei was pacified. As Inspector of Liangzhou he won the Qiang with kindness and might and opened the way west. Fond of wine, he broke the ban but talked his way out. From the official history.
+
+@6011
+Made Inspector of Qingzhou by Gongsun Zan. Fought well with Liu Bei against Yuan Shao, and went with Liu Bei to aid Tao Qian when Cao Cao attacked. From the official history.
+
+@6012
+A Wu officer who married Sun Quan's daughter. Gifted in letters and arms: General of the Left, then of Cavalry. Backed crown prince Sun He in the fight over the succession and was demoted; later a forged edict ordered his suicide.
+
+@6013
+Later Han's Protector of Jiaozhi, of a clan powerful in Jiaozhou since the end of the Former Han. Submitted to Sun Quan in 210 and became General of the Left, later rising to General of Defense. From the official history.
+
+@6014
+A Wu officer, Shi Xie's brother. Followed his brother's submission and became a Wu Horse General and marquis. Made a commoner for his nephew Shi Hui's revolt. From the official history.
+
+@6015
+A Wu officer, Shi Xie's son and Shi Hui's elder brother. Killed by Lu Dai for defying Sun Quan with Shi Hui. From the official history.
+
+@6016
+A Wu officer, Shi Xie's son. Inherited his father's place as General of Outer Peace and Protector of Jiuzhen. Fearing to be ousted by the Protector Sun Quan sent, he rebelled but failed. From the official history.
+
+@6017
+A Wu officer, Shi Yi's son. Served Wu as a General of the Household, but was made a commoner when his cousin Shi Hui rebelled. From the official history.
+
+@6018
+Later Han's Protector of Henei. Answered the call of Yuan Shao and Cao Cao against Dong Zhuo and joined with a large army. Sent his officer Fang Yue against Lu Bu, who killed him in under five blows.
+
+@6019
+A Later Han Commandant of Cavalry. Served Li Jue, then fled and built his own power. Helped Emperor Xian escape Chang'an. Lost a power struggle with Cao Cao and fled to Yuan Shu.
+
+@6020
+No biography.
+

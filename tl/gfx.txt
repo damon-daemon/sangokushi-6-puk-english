@@ -1,0 +1,169 @@
+# Image English: FILE.tim[.spot]<TAB>text ('|' line break, '^' date column); see tools/gfx.py
+# GRP/G_IMENU: main menu (2 columns x 10 bars, spot = row*2 + column)
+GRP/G_IMENU.0.0	New Game
+GRP/G_IMENU.0.1	Load Game
+GRP/G_IMENU.0.2	Register Officers
+GRP/G_IMENU.0.3	Full Scenarios
+GRP/G_IMENU.0.4	Short Scenarios
+GRP/G_IMENU.0.5	Feb 184^Yellow Turban Rebellion
+GRP/G_IMENU.0.6	Dec 189^Dong Zhuo's Ambition
+GRP/G_IMENU.0.7	Oct 194^Rise of the Warlords
+GRP/G_IMENU.0.8	Feb 200^Strife in Hebei
+GRP/G_IMENU.0.9	Mar 207^Dragon and Phoenix
+GRP/G_IMENU.0.10	Jul 219^Liu Bei, King of Hanzhong
+GRP/G_IMENU.0.11	Sep 234^A Star Falls at Wuzhang
+GRP/G_IMENU.0.12	Feb 184^The Volunteers' First Battle
+GRP/G_IMENU.0.13	Oct 196^The Campaign against Lu Bu
+GRP/G_IMENU.0.14	Jan 197^The Unification of Hebei
+GRP/G_IMENU.0.15	Mar 197^Emperor Yuan Shu
+GRP/G_IMENU.0.16	Sep 208^The Battle of Red Cliffs
+GRP/G_IMENU.0.17	Apr 211^Ma Chao's Revenge
+GRP/G_IMENU.0.18	Mar 227^The Northern Expedition
+GRP/G_IMENU.0.19	5-Man Elimination
+# GRP/G_IMENU2: PUK main menu page
+GRP/G_IMENU2.0.0	Tactics Mode
+GRP/G_IMENU2.0.1	Duel Mode
+GRP/G_IMENU2.0.2	Register Items
+GRP/G_IMENU2.0.3	Historical Events
+GRP/G_IMENU2.0.4	Practice Match
+GRP/G_IMENU2.0.5	Tournament
+GRP/G_IMENU2.0.6	Elimination
+GRP/G_IMENU2.0.7	Singles
+GRP/G_IMENU2.0.8	Teams
+GRP/G_IMENU2.0.9	3-Man Round Robin
+GRP/G_IMENU2.0.10	5-Man Round Robin
+GRP/G_IMENU2.0.11	3-Man Elimination
+GRP/G_IMENU2.0.12	Apr 192^Death of Dong Zhuo
+GRP/G_IMENU2.0.13	Feb 200^The Little Conqueror Strikes
+GRP/G_IMENU2.0.14	Jan 210^Into Shu
+GRP/G_IMENU2.0.15	May 202^Driving Out the Yuan
+GRP/G_IMENU2.0.16	May 223^Death of Liu Bei
+GRP/G_IMENU2.0.17	Mar 249^The Northern Campaigns
+GRP/G_IMENU2.0.18	Jul 191^The White Horse General
+GRP/G_IMENU2.0.19	Apr 257^Zhuge Dan's Uprising
+# GRP/G_INIT: officer register menu (0: 4 buttons; 1: dream tiles 3x3)
+GRP/G_INIT.0.0	Create
+GRP/G_INIT.0.1	Modify
+GRP/G_INIT.0.2	Delete
+GRP/G_INIT.0.3	Load
+GRP/G_INIT.1.0	Advisor
+GRP/G_INIT.1.1	Territory
+GRP/G_INIT.1.2	Empire
+GRP/G_INIT.1.3	Justice
+GRP/G_INIT.1.4	Preser-|vation
+GRP/G_INIT.1.5	Conquest
+GRP/G_INIT.1.6	Talent
+GRP/G_INIT.1.7	Safety
+GRP/G_INIT.1.8	Advance-|ment
+# GRP/EDG: officer edit tiles (dreams, growth types; spots 14 and 17 = placeholder tile, not drawn)
+GRP/EDG.0.0	Advisor
+GRP/EDG.0.1	Territory
+GRP/EDG.0.2	Empire
+GRP/EDG.0.3	Justice
+GRP/EDG.0.4	Preser-|vation
+GRP/EDG.0.5	Conquest
+GRP/EDG.0.6	Talent
+GRP/EDG.0.7	Safety
+GRP/EDG.0.8	Advance-|ment
+GRP/EDG.0.9	Prodigy
+GRP/EDG.0.10	Gifted
+GRP/EDG.0.11	Normal
+GRP/EDG.0.12	Early|Bloomer
+GRP/EDG.0.13	Late|Bloomer
+GRP/EDG.0.15	Chivalry
+GRP/EDG.0.16	Seclusion
+# GRP/MKNIKIND: item types (4x2 tiles)
+GRP/MKNIKIND.0.0	Map
+GRP/MKNIKIND.0.1	Weapon
+GRP/MKNIKIND.0.2	Military|Book
+GRP/MKNIKIND.0.3	History|Book
+GRP/MKNIKIND.0.4	Seal
+GRP/MKNIKIND.0.5	Horse
+GRP/MKNIKIND.0.6	Medical|Book
+GRP/MKNIKIND.0.7	Hidden|Weapon
+# GRP/MKNIMARK: item register menu (4 buttons)
+GRP/MKNIMARK.0.0	Create
+GRP/MKNIMARK.0.1	Modify
+GRP/MKNIMARK.0.2	Delete
+GRP/MKNIMARK.0.3	Load
+# GRP/MMARK1: map icons 16x16 (tinyfont codes, glossary section 19)
+GRP/MMARK1.0.0	Sp
+GRP/MMARK1.0.1	Su
+GRP/MMARK1.1.0	Au
+GRP/MMARK1.1.1	Wi
+GRP/MMARK1.2.0	Civil
+GRP/MMARK1.2.1	Mil.
+GRP/MMARK1.2.2	Battle
+GRP/MMARK1.3.0	G
+GRP/MMARK1.3.1	Fd
+GRP/MMARK1.4.0	F
+GRP/MMARK1.4.1	CM
+GRP/MMARK1.4.2	PS
+GRP/MMARK1.5.0	Of
+GRP/MMARK1.5.1	Ud
+GRP/MMARK1.5.2	Fr
+GRP/MMARK1.6.0	Tr
+GRP/MMARK1.6.1	DP
+GRP/MMARK1.6.2	In
+GRP/MMARK1.6.3	Vi
+GRP/MMARK1.6.4	HQ
+GRP/MMARK1.6.5	Pr
+GRP/MMARK1.6.6	POP
+GRP/MMARK1.6.7	TT
+GRP/MMARK1.7.0	It
+# GRP/BUTTON 17: Short / Full toggle; GRP/G_INIT 2: Historical / Fictional officer marks
+GRP/BUTTON.17.0	S
+GRP/BUTTON.17.1	F
+GRP/G_INIT.2.0	H
+GRP/G_INIT.2.1	F
+# GRP/MANIME 12: phase banner
+GRP/MANIME.12	Military Council
+# HEX/HEXMARK: hex battle (3 morale bar label; 10 status icons; 12 terrain; 17 commander / advisor marks)
+HEX/HEXMARK.3	MRL
+HEX/HEXMARK.3.1	
+HEX/HEXMARK.10.0	PANIC
+HEX/HEXMARK.10.1	TAUNT
+HEX/HEXMARK.10.2	ROUT
+HEX/HEXMARK.10.3	UNRULY
+HEX/HEXMARK.12.0	Plains
+HEX/HEXMARK.12.1	Mtns
+HEX/HEXMARK.12.2	Lakes
+HEX/HEXMARK.17.0	C
+HEX/HEXMARK.17.1	AD
+# IKKI/IKGRP 0: duel HUD (War stat of each side, Body bar)
+IKKI/IKGRP.0.0	WAR
+IKKI/IKGRP.0.1	WAR
+IKKI/IKGRP.0.2	BODY
+# GRP/IKMODE 5: tournament match marks (skip / manual / watch)
+GRP/IKMODE.5.0	Sk
+GRP/IKMODE.5.1	Mn
+GRP/IKMODE.5.2	Wt
+# GRP/IKMODE 6: tournament winner banner (vertical 32x64)
+GRP/IKMODE.6	W|I|N
+# HEX/SSLG: Tactics Mode battle title banners (glossary section 14)
+HEX/SSLG.0	Battle of Dingtao
+HEX/SSLG.1	Battle of Baima
+HEX/SSLG.2	Battle of Guandu
+HEX/SSLG.3	Battle of Tong Pass
+HEX/SSLG.4	Battle for Jing
+HEX/SSLG.5	Battle for Niuzhu
+HEX/SSLG.6	Battle of Jiangxia
+HEX/SSLG.7	Battle of Red Cliffs
+HEX/SSLG.8	Battle of Ruxu
+HEX/SSLG.9	Battle of Yiling
+HEX/SSLG.10	Battle of Bowang
+HEX/SSLG.11	Battle for Luo Castle
+HEX/SSLG.12	Battle of Mount Dingjun
+HEX/SSLG.13	Southern Campaign
+HEX/SSLG.14	Battle of Qishan
+HEX/SSLG.15	Battle of Jieting
+HEX/SSLG.16	Battle of Wuzhang
+HEX/SSLG.17	Siege of Xiangping
+HEX/SSLG.18	Siege of Shouchun
+HEX/SSLG.19	Conquest of Wu
+# GRP/LOGO: title logo subtitle (spots 0 and 2 = erase / underline bar, no text)
+GRP/LOGO.0.0	
+GRP/LOGO.0.1	Power-Up Kit
+GRP/LOGO.0.2	
+GRP/LOGO.0.3	
+GRP/LOGO.0.4	

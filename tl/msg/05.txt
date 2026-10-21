@@ -1,0 +1,300 @@
+@5000
+One of Han Sui's "Eight Riders". Took Chang'an with Ma Chao's army, then died with his comrade Zhang Heng and others fighting Cao Cao at Weinan.
+
+@5001
+A Wei retainer, Cheng Yu's son. As Xiahou Mao's advisor against Shu, he said, "Zhao Yun is all valor: catch him with an ambush," and had Zhao Yun surrounded and attacked.
+
+@5002
+A Wu retainer. When Shu-Han attacked to avenge Guan Yu, he went as envoy to make peace and delivered Zhang Fei's head to their camp. But Liu Bei was set on war with Wu, and the talks failed.
+
+@5003
+A Wei officer, Tian Chou's grandnephew. Joined Zhong Hui and Deng Ai's war on Shu-Han. Bearing a grudge against Deng Ai, he used Zhong Hui's revolt to kill Deng Ai and his son Deng Zhong as they were taken away under guard.
+
+@5004
+A retainer of Yuan Shao. When Cao Cao sought a man who knew the north, he was called on to guide the way to the Wuhuan. For that, and for his loyalty to the Yuan, he was made a Court Gentleman.
+
+@5005
+A Shu-Han retainer who followed Zhuge Liang south and north. Held Jiange with Jiang Wei against Wei's invasion. After Shu-Han fell, grief made him ill, and he died.
+
+@5006
+An officer under Liu Zhang. With Zhang Ren and others he visited Master Zixu to have the futures of Shu and himself told, but could not make use of the reading, and died from Huang Zhong's arrow.
+
+@5007
+A Wu officer, sent with the relief army when Zhuge Dan rebelled against the Sima. Beaten and captured, he surrendered to Wei, and later held high posts in the Wei army.
+
+@5008
+Later Han's General of Chariots, nephew of Emperor Ling's mother Empress Dong and Emperor Xian's father-in-law. Given the jade belt with the edict "Kill the traitor Cao Cao", he made a plot, but his servant Qin Qingtong betrayed it and he was executed.
+
+@5009
+A Wei officer, Deng Ai's son. With his father he beat Jiang Wei at Duan Valley, and at Changcheng clashed with Jiang Wei as an equal. Caught by Zhong Hui's scheme, he was seized with his father and killed.
+
+@5010
+Dong Zhuo's younger brother. Made General of the Left when Dong Zhuo seized power through Emperor Xian. When Lu Bu's betrayal brought Dong Zhuo's death, he was executed as an accomplice and his head displayed.
+
+@5011
+A Yellow Turban officer. Attacked Youzhou as Cheng Yuanzhi's second, but was felled in a single pass by Zhang Fei, then with the Youzhou volunteers; the first victim of Zhang Fei's serpent spear.
+
+@5012
+A retainer of Liu Bei, once Liu Zhang's man. When Liu Bei's army invaded, he urged Liu Zhang to seek Zhang Lu's aid. After Liu Bei entered Shu, he was made a General of the Household.
+
+@5013
+A Yellow Turban officer who held Runan after the rebellion. Caught by Xu Chu, then leading a volunteer band, and executed by Cao Cao.
+
+@5014
+A Shu-Han civil officer who served in the southern and northern campaigns. After Shu-Han fell he was sent to Luoyang with Liu Shan, and Sima Zhao made him a marquis.
+
+@5015
+A retainer of Guan Yu, a provincial aide skilled in government; Wang Fu judged him "suspicious, greedy, not to be trusted". When Wu attacked Jing Province while Guan Yu was away, he surrendered without a fight.
+
+@5016
+An officer under Dong Zhuo. After Dong Zhuo's death he beat and chased the armies of Ma Teng and Han Sui. He let Han Sui go for old times' sake as a fellow townsman, and Li Jue had him beheaded for treason.
+
+@5017
+An officer under Han Fu, Inspector of Jizhou. At Sishui Pass he took up his great axe and challenged Hua Xiong to a duel, but was outmatched and cut down.
+
+@5018
+One of Han Sui's "Eight Riders". When Ma Chao, fooled by Jia Xu's ruse to divide them, attacked, he tried to protect his lord Han Sui, but fell to a single blow.
+
+@5019
+Ma Teng's second son. Went with his father to Xuchang when Cao Cao summoned him. But their plot was found out, and Cao Cao seized and executed him.
+
+@5020
+A Wei officer, Protector of Tianshui. Drove off Shu-Han with Jiang Wei's plan. But Jiang Wei, caught by Zhuge Liang's ruse, turned traitor, and his officer Yin Shang opened the gates for him, so he fled to the barbarian lands.
+
+@5021
+Ma Teng's third son. Went to Xuchang with his father and his brother Ma Xiu. When the plot with Huang Kui was found out, he fled, was surrounded by Wei soldiers and died fighting.
+
+@5022
+A Wu officer guarding the right fort at Dongxing. When the Wei general Hu Zun attacked with a large army, he held the fort to the death with few men until Ding Feng's relief army arrived.
+
+@5023
+A Wu retainer, Commander of the Left. Proposed Sun He's son Sun Hao as Sun Xiu's successor. Made Prime Minister under Sun Hao, but his criticism angered the emperor, who killed him.
+
+@5024
+An officer under Gongsun Yuan. Lost to Sima Yi's army sent against Gongsun Yuan. After regrouping he challenged Wei again, but was felled by Xiahou Ba in a few blows.
+
+@5025
+A Shu-Han retainer, once Liu Zhang's man. Talked Guan Yu round when he refused to rank equal with the old general Huang Zhong. In the first northern campaign he stayed in Chengdu as secretary with Xi Zheng.
+
+@5026
+A Shu-Han officer who served as a deputy in the war to avenge Guan Yu. Surrounded the Wu general Sun Huan, but was beaten by Lu Xun's fire attack and died with his comrade Zhang Nan.
+
+@5027
+A Wu officer under Sun Yi. When Sun Yi was murdered by his men Dai Yuan and others, he joined with Sun Yi's wife, Lady Xu, to kill the two true culprits, and was made a Gate General for it.
+
+@5028
+An officer under Guan Yu, stationed at Gong'an to guard his rear, who surrendered when Wu invaded. At Yiling he tried to go back over to Shu-Han, but was not forgiven and was executed.
+
+@5029
+A Shu-Han officer, Fu Tong's son. Won merit slaying the Wei officers Li Peng and Wang Zhen. Held Yangping Pass against Wei's invasion of Shu, but his deputy Jiang Shu surrendered, and he died in the melee.
+
+@5030
+A retainer of Liu Biao who urged Liu Cong, Liu Biao's heir, to surrender to Cao Cao, who made him Marquis Within the Pass for it.
+
+@5031
+A Shu-Han officer, Protector of the Central Army. Covered the retreating army at Yiling, fighting hard against Wu's great army. "Would a Han general yield to the dogs of Wu?" he roared, and died spitting blood.
+
+@5032
+An officer under Kong Rong. At Hulao Pass he boldly challenged Lu Bu to a duel. Fought ten-odd bouts with his iron hammer, but his arm was cut off and he fled, dropping the hammer.
+
+@5033
+A Yellow Turban officer who wielded a meteor hammer; later served Cao Cao, guarding Yishui Pass. Hid troops at Zhenguo Temple to kill Guan Yu on his long ride, but the monk Pujing warned Guan Yu, who cut him down.
+
+@5034
+A retainer of Liu Zhang who, as Protector of Baxi, guarded against Zhang Lu of Hanzhong. Promoted after Liu Bei entered Shu, he was made a Marshal of the camp.
+
+@5035
+An officer under Zhao Fan, a Colonel of Guiyang, said to have shot two tigers dead. Feigned surrender when Zhao Yun attacked Guiyang, but was found out and beheaded.
+
+@5036
+A Wu retainer, Prime Minister. Defying the late emperor Sun Xiu's wishes, he put the older Sun Hao on the throne. Criticizing Sun Hao's tyranny brought his anger, and his whole clan was killed.
+
+@5037
+An officer under Liu Zhang, commanding at Baishui Pass. Plotted to kill Liu Bei with his comrade Gao Pei, but the plot was found out first; Liu Bei seized and executed him.
+
+@5038
+Protector of Jianning. Joined Meng Huo in revolt against Shu-Han, but Zhuge Liang's ruse set him against Gao Ding, Protector of Yuexi. Killed by Gao Ding's officer E Huan, and the revolt was put down.
+
+@5039
+One of Han Sui's "Eight Riders". Went as envoy to make peace with Cao Cao; when Han Sui fell out with Ma Chao, he became the envoy of surrender. Made a marquis after Ma Chao fled.
+
+@5040
+An aide to Zhang Lu, a small man greedy for gold and treasure. Took enemy bribes to isolate Ma Chao, and later made Pang De leave. Cao Cao executed him for "selling his lord".
+
+@5041
+An officer under Gongsun Yuan. Led the vanguard of 80,000 with Bei Yan. Faced Sima Yi with a waiting strategy, but Sima Yi's ruse lured him out instead; he was crushed and ran for his life.
+
+@5042
+A Later Han retainer, Minister of Interior and later Grand Commander. Urged the wandering Emperor Xian to rely on Cao Cao. Jailed by Cao Cao as Yuan Shu's kinsman, his life was saved by Kong Rong's plea.
+
+@5043
+An officer under Yuan Shu. Giving up on Yuan Shu, who took the throne and lived in luxury, he holed up on Mount Song with Chen Lan as a bandit. Later robbed the beaten Yuan Shu of his valuables.
+
+@5044
+A Wu retainer from Wushang in Kuaiji, widely known as a man of honest poverty devoted to his stepmother. Tried to challenge Zhuge Liang to debate when he came to Wu, but Huang Gai stopped him.
+
+@5045
+Son of Liu Du, Protector of Lingling. Fought Liu Bei's army but was taken alive by Zhang Fei, and freed on condition he win his father over. He kept his word and they surrendered, so he was pardoned and served Liu Bei.
+
+@5046
+Later Han's Inspector of Yanzhou. Led the fourth corps of the alliance against Dong Zhuo. Died in 192 fighting the Yellow Turbans of Qingzhou. Not the same man as Cao Cao's officer Liu Dai of the novel, who bears the same names.
+
+@5047
+A Shu-Han retainer, once on Liu Zhang's staff. Right after Liu Bei entered Shu, loyalty to Liu Zhang kept him from taking office, but Liu Bei came in person and won him over. Also served in the northern campaigns.
+
+@5048
+An officer under Yuan Shao, one of Chunyu Qiong's deputies guarding the depot at Wuchao. Cao Cao's raid struck while Chunyu Qiong was drunk, a blunder that led to defeat at Guandu.
+
+@5049
+One of Han Sui's "Eight Riders". When Ma Chao, fooled by Jia Xu's ruse, attacked their camp, he fought back, but was cut down in an instant.
+
+@5050
+A Shu-Han officer, once Liu Zhang's man, valued after Liu Bei entered Shu. A deputy of the rear army in the northern campaigns.
+
+@5051
+An officer under Cao Cao, made a Colonel on Liu Ye's recommendation along with Man Chong. Mostly led units in reserve, and fought in many battles.
+
+@5052
+An officer under Yuan Shang, Lu Kuang's younger brother, always at his brother's side. After surrendering to Cao Cao, he attacked Liu Bei at Xinye under Cao Ren with his brother, but Zhang Fei felled him in a single pass.
+
+@5053
+A Wu retainer of Lu Xun's clan, expert in the Book of Changes and the calendar. A tale is told that as a small boy, meeting Yuan Shu, he hid the oranges he was served in his robe to give to his mother.
+
+@5054
+A Shu-Han retainer, Li Yan's son. When Li Yan was dismissed for failing to keep a northern campaign supplied, he was made Chief Clerk in his place and stocked up provisions.
+
+@5055
+A retainer of Gongsun Yuan, his advisor. Beheaded for opposing Gongsun Yuan's revolt against Wei. Sima Yi, who later destroyed Gongsun Yuan, gave his descendants a noble title.
+
+@5056
+Shen Dan's younger brother. Surrendered with Meng Da when Meng Da went over to Wei, and became Protector of Jincheng. When Meng Da tried to return to Shu, he and his brother secretly sided with Sima Yi and brought him down.
+
+@5057
+An officer under Zhang Lu, Yang Song's brother, sent to watch Ma Chao when he marched for Zhang Lu. When Ma Chao joined Liu Bei, he was cut down as proof of his new allegiance.
+
+@5058
+Later Han's Governor of Youzhou, of the line of Prince Gong of Donghai. His mild policy toward the northern tribes made him Grand Commander. Fell out with Gongsun Zan over the tribes and was killed by him.
+
+@5059
+A retainer of Liu Biao. Told Liu Biao's son Liu Cong: "Now we have offered surrender to Cao Cao, this is our chance: attack!" Went with Liu Cong to Qingzhou, and was killed with his lord on the way.
+
+@5060
+An officer under Liu Biao, brother of his chief retainer Cai Mao. Surrendered to Cao Cao with his brother. Fighting Wu at Sanjiangkou, he was killed by the Wu general Gan Ning's arrow. Appears only in the novel.
+
+@5061
+An officer of Wei and Jin who did well leading an ambush against Zhuge Dan's revolt. Later made General of Cavalry by Sima Yan of Jin.
+
+@5062
+A eunuch, leader of the Ten Attendants who held power under Emperor Ling. Murdered He Jin to protect his power, but when Yuan Shao and others stormed the palace he drowned himself.
+
+@5063
+A retainer of Yuan Shao who withdrew when his plans went unused. Joined Cao Cao after Yuan Shao's defeat, but was jailed for opposing Cao Cao's rise to King of Wei, and beaten to death in prison.
+
+@5064
+Later Han's Protector of Wu commandery. Tried to send Cao Cao a secret letter, "Beware of Sun Ce", but Sun Ce found out and killed him. Later three of his retainers ambushed Sun Ce and gravely wounded him.
+
+@5065
+Father of Empress Fu. Advised Emperor Xian, troubled by Cao Cao's tyranny, to rely on Dong Cheng. Later received Empress Fu's secret letter calling for Cao Cao's death, but Cao Cao found out and executed his whole clan.
+
+@5066
+A Wu retainer of the Secretariat. Urged caution on Sun Hao, who wanted an aggressive foreign policy, but only angered him and was driven from court. Withdrew from the world, fearing for Wu's future.
+
+@5067
+Guan Xing's son by a concubine. Became head of the family as Guan Xing's heir Guan Tong had no son. Killed by Wei troops in Zhong Hui's revolt. Marquis of Hanshou.
+
+@5068
+A Wei officer, son of the fierce Xu Chu. In the war on Shu-Han he served under Zhong Hui, repairing roads in the vanguard; when the road gave way beneath Zhong Hui, he was beheaded.
+
+@5069
+An officer under Zhang Bao of the Yellow Turbans. Under attack by Zhu Jun's imperial army and Liu Bei, he holed up in Yangcheng. Seeing the city was doomed, he stabbed Zhang Bao to death and surrendered.
+
+@5070
+Zhang Bao's deputy among the Yellow Turbans. Marched out at Quyang; Liu Bei, in the imperial vanguard, sent Zhang Fei against him, and Zhang Fei knocked him from his horse in a few blows.
+
+@5071
+A Wu officer, Protector of Jianping. Seeing masses of wood chips floating down the Yangtze, he knew Jin was building warships and foresaw their attack. Held Jianping when Jin invaded; surrendered on hearing that Sun Hao had.
+
+@5072
+A Wei retainer, Chief Clerk and Zhuge Dan's confidant. In the revolt he went as envoy to Wu to ask for help, and did his task by delivering Zhuge Dan's son Zhuge Jing to Wu as a hostage.
+
+@5073
+A Wu retainer, Xue Zong's son, Lord of the Palace. When Jin advanced and Sun Hao meant to kill himself, he urged him to surrender, following Liu Shan's example.
+
+@5074
+A Wu officer, Quan Duan's son and Quan Cong's grandson. Came to aid Zhuge Dan's revolt against Wei. Surrounded by Sima Zhao's great army, he had to surrender, and was made a Wei Horse General.
+
+@5075
+A Wu officer, Quan Cong's son and Quan Yi's elder brother. Ordered by Sun Chen, who backed Zhuge Dan's revolt, to hold Shouchun against Wei; but at his son Quan Yi's urging he surrendered with Quan Yi.
+
+@5076
+A Jin retainer of the Imperial Library. While he played go with the emperor Sima Yan, a memorial urging war on Wu arrived. He backed it and strongly opposed Jia Chong's caution, and Jia Chong held it against him.
+
+@5077
+A Wei retainer, Gentleman of the Yellow Gate. Fiercely opposed Sima Yan forcing the Wei emperor Cao Huan to abdicate. This angered Sima Yan, and his soldiers beat him to death with clubs.
+
+@5078
+A Wu officer under Pan Zhang who captured Guan Yu with an ambush. Red Hare was his reward, but it is said the horse would eat nothing and died following its master.
+
+@5079
+An officer under Gao Ding, nine feet tall, who wielded a sky-piercer halberd. Fought Wei Yan and others in Gao Ding's vanguard but was captured. Surrendered with Gao Ding and was made a Gate General.
+
+@5080
+A Wei retainer and Academician. Oversaw the building of Chonghua Hall and other palaces for Cao Rui; gifted at inventing machines and arms.
+
+@5081
+A Wu officer, Taishi Ci's son, taken into Sun Quan's house after his father died. Later a Wu Colonel of Cavalry.
+
+@5082
+A Later Han Gentleman of the Palace (Palace Attendant in history). Petitioned to reward those who fought the Yellow Turbans, and also denounced the crimes of the Ten Attendants, who had him thrown out of the palace.
+
+@5083
+A eunuch who carried Empress Fu's secret letter, "Destroy Cao Cao", to her father Fu Wan. Hid Fu Wan's reply in his hair on his way back, but Cao Cao found it and executed him.
+
+@5084
+Chanyu (chief) of the Xiongnu, father of Liu Bao, Worthy King of the Left. Aided Yuan Shu against Cao Cao, but was crushed. A figure from the official history.
+
+@5085
+Younger brother of Yufuluo, Chanyu (chief) of the Xiongnu, and Chanyu after him. Met Cao Cao in 216 and was kept at court. A figure from the official history.
+
+@5086
+Worthy King of the Right of the Xiongnu; ruled the Xiongnu lands while the Chanyu Huchuquan was at the Wei court. From the official history.
+
+@5087
+A Wuhuan chief of Youbeiping. Chased by Cao Cao's army, he fled to Liaodong, but was seized and beheaded. From the official history.
+
+@5088
+A Wuhuan chief titled Marquis Who Returns to Righteousness. Killed fighting Xianbei chiefs. From the official history.
+
+@5089
+A Wuhuan chief. Rebelled against the Later Han with Zhang Chun of Zhongshan and ravaged four provinces: Youzhou, Jizhou, Qingzhou and Xuzhou. From the official history.
+
+@5090
+A Wei officer. Captured by the Wuhuan as a youth, he won their trust and with Wuhuan and Xianbei help seized the post of Wuhuan Colonel. Later joined Cao Cao and fought in his Wuhuan campaign. From the official history.
+
+@5091
+A Wuhuan chief who grew strong on the frontier in Cao Pi's day, but was attacked and slain by Tian Yu, the Wuhuan Colonel. From the official history.
+
+@5092
+A Shanyue chief based around Kuaiji. Surrendered to Wu when Lu Xun attacked. From the official history.
+
+@5093
+A Shanyue chief based at Poyang. Rebelled with a seal from Cao Cao, but Lu Xun put the revolt down. From the official history.
+
+@5094
+A Shanyue chief based at Danyang. Sided with Wei, but was killed by Lu Xun. From the official history.
+
+@5095
+A Qiang chief, defeated by Xu Miao, Wei's Qiang Colonel. From the official history.
+
+@5096
+A Qiang chief who rebelled against Wei and was defeated by Guo Huai. From the official history.
+
+@5097
+King of the Shaodang Qiang, who rebelled against Wei in 238. From the official history.
+
+@5098
+King of the Di, powerful across Shaanxi, Gansu and Sichuan. Rose with Ma Chao's revolt, but was beaten by Xiahou Yuan's army and fled. From the official history.
+
+@5099
+King of the Xingguo Di, a branch of the Di people on the upper Yellow River. Rose with Ma Chao's revolt, but was destroyed by Xiahou Yuan's army. From the official history.
+

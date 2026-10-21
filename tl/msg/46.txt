@@ -1,0 +1,1140 @@
+@46000
+I will go to the relief of {e0B} now.
+
+@46000.1
+I will go to the relief of {e0B} at once.
+
+@46000.2
+I will hurry to {e0B}. Leave it to me.
+
+@46001
+I will go to the relief of {e0B} now.
+
+@46001.1
+I go to the relief of {e0B} at once!
+
+@46001.2
+I will go to the relief of {e0B} myself.
+
+@46002
+I will head for {e0B} now. I will help the {f15} army and surely win results.
+
+@46002.1
+I will head for {e0B} at once. I will fight to the death to meet your hopes, {C10}.
+
+@46002.2
+I will hurry to {e0B}. I will help the {f15} army and surely bring back good news.
+
+@46003
+Good, let's go. We will help the {f15} army and surely take {e0B}.
+
+@46003.1
+Good, let us fight alongside the {f15} army!
+
+@46003.2
+Our goal is {e0B}!
+
+@46003.3
+I will head for {e0B} at once and fight alongside the {f15} army!
+
+@46004
+Choose an action.
+
+@46005
+Enemy armies are said to be heading for %d cities, including {e0B}.
+
+@46006
+Hmm, enemy armies are heading for %d cities, including {e0B}...
+
+@46007
+Word has come that an enemy army is heading for {e0B}.
+
+@46008
+Hmm, an enemy army is heading for {e0B}...
+
+@46009
+It seems other armies besides ours have marched on {e0B}.
+
+@46010
+Hmm, it seems other armies besides ours have marched on {e0B}.
+
+@46011
+As far as we can tell, no army is planning to attack {e0B}.
+
+@46012
+Hmm, it seems no army is planning to attack {e0B}.
+
+@46013
+As far as we can tell, no army is planning to attack our cities.
+
+@46014
+Hmm, it seems no army is planning to attack our cities.
+
+@46015
+I will report on each city. Choose a city. Choose "Done" to end the council.
+
+@46016
+Choose a city to hear its report. Choose "Done" to end the council.
+
+@46017
+Cities where you can halt a campaign or ask for help are marked.
+
+@46018
+Cities where you can halt a campaign or ask for help are marked.
+
+@46019
+{e0B} is not under the control of any force.
+
+@46020
+{e0B} is not yet under any force's control, but sooner or later...
+
+@46021
+An army led by {C46023} is heading for {e0B}.
+
+@46022
+An army led by {C46023} is heading for {e0B}.
+
+@46024
+Besides the army led by {C46023}, %d armies are heading for {e0B}.
+
+@46025
+Besides the army led by {C46023}, %d armies are heading for {e0B}.
+
+@46026
+The {f15} army seems to be heading for {e0B}.
+
+@46027
+So the {f15} army is heading for {e0B}.
+
+@46028
+It seems several forces, the {f15} among them, have set out to take {e0B}.
+
+@46029
+So several forces, the {f15} among them, have set out to take {e0B}.
+
+@46030
+It seems armies of other forces besides ours are also heading for {e0B}.
+
+@46031
+So armies of other forces besides ours are also heading for {e0B}.
+
+@46032
+An army is heading for {e0B}. Lord {e02} is our {C46034}, so we may be asked for help.
+
+@46033
+An army is heading for {e0B}. Lord {e02} is our {C46034}, so we may be asked for help.
+
+@46037
+{C46039} We had better prepare a joint force. A request will likely come.
+
+@46038
+{C46040} A request will come sooner or later... We had better prepare a joint force.
+
+@46039
+{e02}'s army from {e0B} seems to be heading for {e0C}, held by {C46035}.
+
+@46040
+So {e02}'s army from {e0B} is heading for {e0C}, held by {C46035}.
+
+@46041
+{e02}'s army from {e0B} seems to be heading for {e0C}.
+
+@46042
+So {e02}'s army from {e0B} is heading for {e0C}.
+
+@46043
+{C46039} But armies of other forces are said to be heading for {e0B}... A request for a joint force is uncertain.
+
+@46044
+{C46040} But armies of other forces seem to be heading for {e0B}. A request for a joint force is uncertain.
+
+@46045
+{C46039} However, there are reports that the {f15} army is heading for {e0B}.
+
+@46046
+{C46040} However, there is also word that the {f15} army is heading for {e0B}.
+
+@46047
+{C46041} However, there are reports that the {f15} army is heading for {e0B}.
+
+@46048
+{C46042} However, there is also word that the {f15} army is heading for {e0B}.
+
+@46049
+{C46039} However, several forces, the {f15} among them, seem to have set out to take {e0B}.
+
+@46050
+{C46040} However, several forces, the {f15} among them, have set out to take {e0B}.
+
+@46051
+{C46041} However, several forces, the {f15} among them, seem to have set out to take {e0B}.
+
+@46052
+{C46042} However, several forces, the {f15} among them, have set out to take {e0B}.
+
+@46057
+{e0B} is a city ruled by our {C46034}, Lord {e02}, but its supply line is cut and it is isolated.
+
+@46058
+{e0B} is a city ruled by our {C46034}, Lord {e02}.
+
+@46059
+{e0B} is a city ruled by our {C46034}, Lord {e02}.
+
+@46060
+{e0B} is a city ruled by our {C46034}, Lord {e02}, but its supply line is cut and it stands isolated.
+
+@46061
+{C46039} {C46065} {C46067}
+
+@46062
+{C46040} {C46066} {C46069}
+
+@46063
+{C46041} {C46065} {C46067}
+
+@46064
+{C46042} {C46066} {C46069}
+
+@46065
+Its commander is {e04}, with %d units and %s troops.
+
+@46066
+Commander {e04}, with %d units and %s troops...
+
+@46067
+At present, an army led by {C46071} is on its way to take {e0B}.
+
+@46068
+At present, I, {e05}, have been ordered to take {e0B}.
+
+@46069
+Hmm, an army led by {e05} was to attack {e0B}.
+
+@46070
+Hmm, I, {e05}, was to lead the attack on {e0B} myself.
+
+@46072
+{C46039} {C46065} {C46076}
+
+@46073
+{C46040} {C46066} {C46077}
+
+@46074
+{C46041} {C46065} {C46076}
+
+@46075
+{C46042} {C46066} {C46077}
+
+@46076
+The {f15} army also seems to be heading to attack {e0B}.
+
+@46077
+And the {f15} army is also heading to attack {e0B}.
+
+@46078
+{C46039} {C46065} {C46082}
+
+@46079
+{C46040} {C46066} {C46083}
+
+@46080
+{C46041} {C46065} {C46082}
+
+@46081
+{C46042} {C46066} {C46083}
+
+@46082
+Our army is planning to march on {e0B} to take it.
+
+@46083
+Our army was planning to march on {e0B} to take it.
+
+@46084
+{C46039} {C46065} {C46088}
+
+@46085
+{C46040} {C46066} {C46089}
+
+@46086
+{C46041} {C46065} {C46088}
+
+@46087
+{C46042} {C46066} {C46089}
+
+@46088
+Several armies also seem to be heading to attack {e0B}.
+
+@46089
+And several armies are also heading to attack {e0B}.
+
+@46090
+{C46039} {C46065} {C46094}
+
+@46091
+{C46040} {C46066} {C46095}
+
+@46092
+{C46041} {C46065} {C46094}
+
+@46093
+{C46042} {C46066} {C46095}
+
+@46094
+We are planning to attack {e0B}, but other forces seem to have their eyes on it too.
+
+@46095
+We are planning to attack {e0B}, yet other forces have their eyes on it too.
+
+@46096
+{C46039} {C46065}
+
+@46097
+{C46040} {C46066}
+
+@46098
+{C46041} {C46065}
+
+@46099
+{C46042} {C46066}
+
+@46100
+{C46104} {C46067}
+
+@46101
+{C46105} {C46069}
+
+@46102
+{C46106} {C46067}
+
+@46103
+{C46107} {C46069}
+
+@46104
+{e02}'s army from {e0B}, %s strong, seems to be heading for {e0C}, held by {C46035}.
+
+@46105
+So {e02}'s army from {e0B}, %s strong, is heading for {e0C}, held by {C46035}.
+
+@46106
+{e02}'s army from {e0B}, %s strong, seems to be heading for {e0C}.
+
+@46107
+So {e02}'s army from {e0B}, %s strong, is heading for {e0C}.
+
+@46108
+{C46104} {C46076}
+
+@46109
+{C46105} {C46077}
+
+@46110
+{C46106} {C46076}
+
+@46111
+{C46107} {C46077}
+
+@46112
+{C46104} {C46082}
+
+@46113
+{C46105} {C46083}
+
+@46114
+{C46106} {C46082}
+
+@46115
+{C46107} {C46083}
+
+@46116
+{C46104} {C46088}
+
+@46117
+{C46105} {C46089}
+
+@46118
+{C46106} {C46088}
+
+@46119
+{C46107} {C46089}
+
+@46120
+{C46104} {C46094}
+
+@46121
+{C46105} {C46095}
+
+@46122
+{C46106} {C46094}
+
+@46123
+{C46107} {C46095}
+
+@46128
+{C46132} {C46067}
+
+@46129
+{C46133} {C46069}
+
+@46130
+{C46134} {C46067}
+
+@46131
+{C46135} {C46069}
+
+@46132
+{e02}'s army from {e0B} seems to be heading for {e0C}, held by {C46035}.
+
+@46133
+So {e02}'s army from {e0B} is heading for {e0C}, held by {C46035}.
+
+@46134
+{e02}'s army from {e0B} seems about to head for {e0C}.
+
+@46135
+So {e02}'s army from {e0B} is heading for {e0C}.
+
+@46136
+{C46132} {C46076}
+
+@46137
+{C46133} {C46077}
+
+@46138
+{C46134} {C46076}
+
+@46139
+{C46135} {C46077}
+
+@46140
+{C46132} {C46082}
+
+@46141
+{C46133} {C46083}
+
+@46142
+{C46134} {C46082}
+
+@46143
+{C46135} {C46083}
+
+@46144
+{C46132} {C46088}
+
+@46145
+{C46133} {C46089}
+
+@46146
+{C46134} {C46088}
+
+@46147
+{C46135} {C46089}
+
+@46148
+{C46132} {C46094}
+
+@46149
+{C46133} {C46095}
+
+@46150
+{C46134} {C46094}
+
+@46151
+{C46135} {C46095}
+
+@46156
+{C46158} {C46067}
+
+@46157
+{C46159} {C46069}
+
+@46158
+We have two reports on {e02}'s army from {e0B}. One army is heading for {e0C}, %s strong; the other is heading for {e0D}, %s strong.
+
+@46159
+There seem to be two reports on {e02}'s army from {e0B}. One heads for {e0C}, %s strong; the other for {e0D}, %s strong...
+
+@46160
+{C46158} {C46076}
+
+@46161
+{C46159} {C46077}
+
+@46162
+{C46158} {C46082}
+
+@46163
+{C46159} {C46083}
+
+@46164
+{C46158} {C46088}
+
+@46165
+{C46159} {C46089}
+
+@46166
+{C46158} {C46094}
+
+@46167
+{C46159} {C46095}
+
+@46182
+{e0B} is under {e02}'s control. Our relations with {e02} are hostile.
+
+@46183
+{e0B} is under {e02}'s control. Our relations with {e02} are friendly.
+
+@46184
+{e0B} is under {e02}'s control. Our relations with {e02} are mostly good.
+
+@46185
+{e0B} is under {e02}'s control. Our relations with {e02} are not exactly friendly.
+
+@46186
+{e0B} is under {e02}'s control. We are enemies of {e02}.
+
+@46187
+{e0B} is under {e02}'s control. Our relations with {e02} are hostile.
+
+@46188
+{e0B} is under {e02}'s control. We have built friendly relations with {e02}.
+
+@46189
+{e0B} is under {e02}'s control. Our relations with {e02} are mostly good.
+
+@46190
+{e0B} is under {e02}'s control. Our relations with {e02} are not exactly friendly.
+
+@46191
+{e0B} is under {e02}'s control. We could call ourselves enemies of {e02}.
+
+@46192
+{C46194} {C46197} {C46199} {C46201}
+
+@46193
+{C46195} {C46198} {C46200} {C46202}
+
+@46194
+At present, a main force of %d units and %s troops under {C46023} is planning to take {e0C}.
+
+@46195
+A main force of %d units and %s troops under {e02} was planning to take {e0C}.
+
+@46196
+Hmm, I, {e02}, was to lead a main force of %d units and %s troops to take {e0C} myself.
+
+@46197
+However, armies of other forces also seem to be heading for {e0C}. Of the %d forces, ours looks set to arrive in position %d.
+
+@46198
+But armies of other forces are heading for {e0C} too... Of the %d forces, ours would arrive in position %d, then...
+
+@46199
+Also, there are reports that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46200
+And there is word that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46201
+If {e0B} were attacked now, it would fall at once. I think we should hold off on marching out...
+
+@46202
+If {e0B} were attacked now, it would fall at once. Should we hold off on marching out...?
+
+@46203
+{C46194} {C46197} {C46199} {C46205}
+
+@46204
+{C46195} {C46198} {C46200} {C46206}
+
+@46205
+With respect, might you consider calling off the campaign?
+
+@46206
+Hmm, perhaps it is wise to call off the campaign and strengthen our defenses...
+
+@46207
+{C46194} {C46197} {C46199} {C46209}
+
+@46208
+{C46195} {C46198} {C46200} {C46210}
+
+@46209
+Still, with the troops in {e0B}, I believe holding it would be easy.
+
+@46210
+Still, with the troops in {e0B}, holding it should be easy.
+
+@46211
+{C46194} {C46197} {C46199}
+
+@46212
+{C46195} {C46198} {C46200}
+
+@46213
+{C46194} {C46197} {C46215} {C46201}
+
+@46214
+{C46195} {C46198} {C46216} {C46202}
+
+@46215
+Also, there are reports of armies heading for this {e0B} from {e0D} and other cities.
+
+@46216
+And there is word of armies heading for this {e0B} from {e0D} and other cities.
+
+@46217
+{C46194} {C46197} {C46215} {C46205}
+
+@46218
+{C46195} {C46198} {C46216} {C46206}
+
+@46219
+{C46194} {C46197} {C46215} {C46209}
+
+@46220
+{C46195} {C46198} {C46216} {C46210}
+
+@46221
+{C46194} {C46197} {C46215}
+
+@46222
+{C46195} {C46198} {C46216}
+
+@46223
+{C46194} {C46197}
+
+@46224
+{C46195} {C46198}
+
+@46225
+{C46194} {C46227} {C46201}
+
+@46226
+{C46195} {C46228} {C46202}
+
+@46227
+However, there are also reports that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46228
+But there is also word that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46229
+{C46194} {C46227} {C46205}
+
+@46230
+{C46195} {C46228} {C46206}
+
+@46231
+{C46194} {C46227} {C46209}
+
+@46232
+{C46195} {C46228} {C46210}
+
+@46233
+{C46194} {C46227}
+
+@46234
+{C46195} {C46228}
+
+@46235
+{C46194} {C46237} {C46201}
+
+@46236
+{C46195} {C46238} {C46202}
+
+@46237
+However, there are also reports of armies heading for this {e0B} from {e0D} and other cities.
+
+@46238
+But there is also word of armies heading for this {e0B} from {e0D} and other cities.
+
+@46239
+{C46194} {C46237} {C46205}
+
+@46240
+{C46195} {C46238} {C46206}
+
+@46241
+{C46194} {C46237} {C46209}
+
+@46242
+{C46195} {C46238} {C46210}
+
+@46243
+{C46194} {C46237}
+
+@46244
+{C46195} {C46238}
+
+@46247
+{C46250} {C46255} {C46257} {C46199} {C46201}
+
+@46248
+{C46253} {C46256} {C46258} {C46200} {C46202}
+
+@46250
+As reinforcement for the army of {C46249} that set out from {e0E}, Lord {e02} is to march out from {e0B}.
+
+@46251
+As reinforcement for the army of {C46249} that set out from {e0E}, I, {e02}, am to march out from {e0B}.
+
+@46252
+As reinforcement for the army of {C46249} that set out from {e0E}, {C10} is to march out from {e0B} in person.
+
+@46253
+As reinforcement for the army of {C46249} that set out from {e0E}, {e02} was to march out.
+
+@46254
+As reinforcement for the army of {C46249} that set out from {e0E}, I was to march out myself.
+
+@46255
+This support force has %d units and %s troops, and is to head for {e0C}.
+
+@46256
+This support force had %d units and %s troops, with {e0C} as its target.
+
+@46257
+However, armies of other forces also seem to be marching on {e0C}.
+
+@46258
+But armies of other forces seem to be marching on {e0C} too...
+
+@46259
+{C46250} {C46255} {C46257} {C46199} {C46205}
+
+@46260
+{C46253} {C46256} {C46258} {C46200} {C46206}
+
+@46261
+{C46250} {C46255} {C46257} {C46199} {C46209}
+
+@46262
+{C46253} {C46256} {C46258} {C46200} {C46210}
+
+@46263
+{C46250} {C46255} {C46257} {C46199}
+
+@46264
+{C46253} {C46256} {C46258} {C46200}
+
+@46265
+{C46250} {C46255} {C46257} {C46215} {C46201}
+
+@46266
+{C46253} {C46256} {C46258} {C46216} {C46202}
+
+@46267
+{C46250} {C46255} {C46257} {C46215} {C46205}
+
+@46268
+{C46253} {C46256} {C46258} {C46216} {C46206}
+
+@46269
+{C46250} {C46255} {C46257} {C46215} {C46209}
+
+@46270
+{C46253} {C46256} {C46258} {C46216} {C46210}
+
+@46271
+{C46250} {C46255} {C46257} {C46215}
+
+@46272
+{C46253} {C46256} {C46258} {C46216}
+
+@46273
+{C46250} {C46255} {C46257}
+
+@46274
+{C46253} {C46256} {C46258}
+
+@46275
+{C46250} {C46255} {C46227} {C46201}
+
+@46276
+{C46253} {C46256} {C46228} {C46202}
+
+@46277
+{C46250} {C46255} {C46227} {C46205}
+
+@46278
+{C46253} {C46256} {C46228} {C46206}
+
+@46279
+{C46250} {C46255} {C46227} {C46209}
+
+@46280
+{C46253} {C46256} {C46228} {C46210}
+
+@46281
+{C46250} {C46255} {C46227}
+
+@46282
+{C46253} {C46256} {C46228}
+
+@46283
+{C46250} {C46255} {C46237} {C46201}
+
+@46284
+{C46253} {C46256} {C46238} {C46202}
+
+@46285
+{C46250} {C46255} {C46237} {C46205}
+
+@46286
+{C46253} {C46256} {C46238} {C46206}
+
+@46287
+{C46250} {C46255} {C46237} {C46209}
+
+@46288
+{C46253} {C46256} {C46238} {C46210}
+
+@46289
+{C46250} {C46255} {C46237}
+
+@46290
+{C46253} {C46256} {C46238}
+
+@46291
+{C46250} {C46255}
+
+@46292
+{C46253} {C46256}
+
+@46293
+{C46301} {C46303}
+
+@46294
+{C46302} {C46304}
+
+@46295
+{C46305} {C46303}
+
+@46296
+{C46306} {C46304}
+
+@46297
+No army seems to be heading for {e0B}, but its supply line is cut and it is isolated. There are now %d officers and %s troops in {e0B}.
+
+@46300
+No army seems to be heading for {e0B}, but its supply line is cut and it is isolated. %d officers and %s troops in {e0B} now...
+
+@46301
+There are reports that the {f15} army from {e0C} is heading for this {e0B}.
+
+@46302
+There is word that the {f15} army from {e0C} is heading for this {e0B}.
+
+@46303
+{e0B} lacks the strength to resist now. If attacked, it would fall at once.
+
+@46304
+{e0B} lacks the strength to resist now. If attacked, it would fall at once.
+
+@46305
+There are reports of armies heading for this {e0B} from {e0C} and other cities.
+
+@46306
+There is word of armies heading for this {e0B} from {e0C} and other cities.
+
+@46307
+As far as we can tell, no army is heading for {e0B}. There are now %d officers and %s troops in {e0B}.
+
+@46308
+As far as we can tell, no army is heading for {e0B}. %d officers and %s troops in {e0B} now...
+
+@46309
+{C46301} {C46311}
+
+@46310
+{C46302} {C46312}
+
+@46311
+With the troops in {e0B}, holding it will be hard. Why not send reinforcements?
+
+@46312
+With the troops in {e0B}, holding it will be hard. Should we send reinforcements...
+
+@46313
+{C46301} {C46209}
+
+@46314
+{C46302} {C46210}
+
+@46315
+{C46301} {C46317}
+
+@46316
+{C46302} {C46318}
+
+@46317
+Might you consider sending reinforcements here?
+
+@46318
+Sending reinforcements here is one option. Hmm...
+
+@46319
+{C46305} {C46311}
+
+@46320
+{C46306} {C46312}
+
+@46321
+{C46305} {C46209}
+
+@46322
+{C46306} {C46210}
+
+@46323
+{C46305} {C46317}
+
+@46324
+{C46306} {C46318}
+
+@46325
+{C46301} {C46327}
+
+@46326
+{C46302} {C46328}
+
+@46327
+With the troops in {e0B}, holding it will be hard. Why not ask our allies for reinforcements?
+
+@46328
+With the troops in {e0B}, holding it will be hard. Should we ask our allies for help...
+
+@46329
+{C46301} We may have the stronger army, but with the supply line cut...
+
+@46330
+{C46302} {C46210}
+
+@46332
+{C46302} We may have the stronger army, but with the supply line cut...
+
+@46333
+{C46301} {C46335}
+
+@46334
+{C46302} {C46336}
+
+@46335
+Might you consider asking our allies for reinforcements?
+
+@46336
+Asking our allies for reinforcements is one option. Hmm...
+
+@46337
+{C46305} {C46327}
+
+@46338
+{C46306} {C46328}
+
+@46339
+{C46305} We may have the stronger army, but with the supply line cut...
+
+@46340
+{C46306} {C46210}
+
+@46341
+{C46305} {C46209}
+
+@46342
+{C46306} We may have the stronger army, but with the supply line cut...
+
+@46343
+{C46305} {C46335}
+
+@46344
+{C46306} {C46336}
+
+@46345
+{C46301} {C46347}
+
+@46346
+{C46302} {C46348}
+
+@46347
+With our present strength, holding {e0B} will be hard, but we must not give up hope.
+
+@46348
+With our present strength, holding {e0B} will be hard, but there is still hope.
+
+@46349
+{C46301} We may have the stronger army, but with the supply line cut...
+
+@46350
+{C46302} {C46210}
+
+@46352
+{C46302} We may have the stronger army, but with the supply line cut...
+
+@46353
+{e0B}'s supply line is cut, and it is now isolated.
+
+@46356
+{e0B}'s supply line is cut, and it is now isolated.
+
+@46357
+{C46305} {C46347}
+
+@46358
+{C46306} {C46348}
+
+@46359
+{C46305} We may have the stronger army, but with the supply line cut...
+
+@46360
+{C46306} {C46210}
+
+@46361
+{C46305} {C46209}
+
+@46362
+{C46306} We may have the stronger army, but with the supply line cut...
+
+@46363
+{e0B}'s supply line is cut, and it is now isolated.
+
+@46366
+{e0B}'s supply line is cut, and it is now isolated.
+
+@46371
+Check the city's situation, then decide whether to accept or refuse the request.
+
+@46372
+{C46374} {C46199}
+
+@46373
+{C46375} {C46200}
+
+@46374
+This {e0B} does not border {e0C}, so we cannot send %s from here.
+
+@46375
+This {e0B} does not border {e0C}, so we cannot send %s from here.
+
+@46376
+{C46374} {C46215}
+
+@46377
+{C46375} {C46216}
+
+@46380
+We cannot send %s from a city not linked by a supply line.
+
+@46381
+We cannot send %s from a city not linked by a supply line.
+
+@46382
+We have no gold. Sadly, we cannot send %s.
+
+@46383
+We have no gold. We cannot even send %s...
+
+@46384
+%s has already set out from {e0B} for {e0D}. One city cannot send more than one %s.
+
+@46385
+%s has already set out from {e0B} for {e0D}. One city cannot send more than one %s.
+
+@46386
+Sadly, there is no officer in {e0B} who can lead %s.
+
+@46387
+Hmm... there is no officer in {e0B} who can lead %s.
+
+@46388
+Sadly, {e0B} lacks the troops to send %s.
+
+@46389
+Hmm... {e0B} lacks even the troops to send %s.
+
+@46390
+{C46392} {C46394}
+
+@46391
+{C46393} {C46395}
+
+@46392
+There are reports that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46393
+There is word that the {f15} army from {e0D} is heading for this {e0B}.
+
+@46394
+We could send %s from {e0B}, but I think we cannot spare that much now.
+
+@46395
+We could send %s from {e0B}, but we can hardly spare that much now.
+
+@46396
+{C46392} {C46398}
+
+@46397
+{C46393} {C46399}
+
+@46398
+But from {e0B}, we could send some %s.
+
+@46399
+But from {e0B}, we could send some %s.
+
+@46400
+{C46392} {C46402}
+
+@46401
+{C46393} {C46403}
+
+@46402
+We could send %s from {e0B}, but its defense would be left in doubt.
+
+@46403
+We could send %s from {e0B}, but its defense would be left in doubt.
+
+@46404
+{C46406} {C46394}
+
+@46405
+{C46407} {C46395}
+
+@46406
+There are reports of armies heading for this {e0B} from {e0D} and other cities.
+
+@46407
+There is word of armies heading for this {e0B} from {e0D} and other cities.
+
+@46408
+{C46406} {C46398}
+
+@46409
+{C46407} {C46399}
+
+@46410
+{C46406} {C46402}
+
+@46411
+{C46407} {C46403}
+
+@46412
+{e0B} can send %s. It now has %d officers and %s troops.
+
+@46413
+{e0B} can send %s. It now has %d officers and %s troops...
+
+@46416
+{C13}, now that we are allied with Lord {e03}, we have no choice but to call off the campaign against {e0B}.
+
+@46417
+Now that we are allied with Lord {e03}, we must call off the campaign against {e0B}.
+
+@46418
+{C13}, {e03} has come under our ally Lord {e04}. We have no choice but to call off the campaign against {e0B}.
+
+@46419
+So {e03} has come under our ally Lord {e04}. We must call off the campaign against {e0B}.
+
+@46420
+The campaign of the support force led by {e01} is likewise called off.
+

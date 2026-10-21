@@ -1,0 +1,47 @@
+# Never commit Koei's data: disc images, extracted files, saves, build output
+*.iso
+*.bin
+*.BIN
+*.NBX
+*.PSS
+*.ADX
+*.cue
+*.img
+*.mdf
+*.chd
+*.ps2
+*.p2s
+*.xdelta
+build/
+script/
+extract/
+release/
+
+# Emulator files (BIOS, memory cards, save states)
+bios/
+memcards/
+sstates/
+
+# Local environment and AI-session notes
+.venv/
+__pycache__/
+*.pyc
+CLAUDE.md
+
+# Local translation notes (Japanese terms)
+notes/
+
+# Claude Code local state
+.claude/
+tl/.lock
+tl/.lock
+
+# PS1 disc images and data (this project)
+*.cue
+*.BIN
+*.S6
+*.STR
+*.DA
+*.mcd
+*.sav
+ref/

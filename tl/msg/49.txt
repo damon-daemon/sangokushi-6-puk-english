@@ -1,0 +1,753 @@
+@49000
+Here, let us learn about the "Diplomacy" command.
+
+@49001
+When you want to invade another domain, don't the moves of your neighbors worry you?
+
+@49002
+It would be a disaster if another domain attacked your cities while you were at war.
+
+@49003
+Choose just one domain to attack and keep good relations with the others, and you can fight without fear for your rear.
+
+@49004
+At such times, use the "Diplomacy" command.
+
+@49005
+In this example, you can see that Lord Liu Bei in Xinye is caught between Cao Cao and Liu Biao.
+
+@49006
+Now let us try entering it.
+
+@49007
+Left-click the blue square marker labeled "Diplomacy".
+
+@49008
+A bar with six commands has appeared.
+
+@49009
+Next, left-click the marker labeled "Alliance".
+
+@49010
+The "Alliance" window has opened.
+
+@49011
+First, choose the ruler to ally with.
+
+@49012
+Left-click the "Ruler" button. The ruler selection window appears.
+
+@49013
+Looking at the rulers' Hostility, you can see that Cao Cao is the most hostile to Lord Liu Bei.
+
+@49014
+To stand against Cao Cao, it is important to form an alliance with Lord Liu Biao.
+
+@49015
+So here, let us choose Lord Liu Biao.
+
+@49016
+Left-click a light blue button on the area map (any of them), or the name Liu Biao under the rulers.
+
+@49017
+Next, choose the officer who will be the emissary.
+
+@49018
+Left-click the "Officer" button.
+
+@49019
+An officer with high Politics and Charm has the advantage with the "Diplomacy" command.
+
+@49020
+First, let us check which officers are the most skilled.
+
+@49021
+It seems Lord Liu Bei has the highest abilities. Let Lord Liu Bei handle the diplomacy himself.
+
+@49022
+Place the cursor on Lord Liu Bei and left-click.
+
+@49023
+Last, choose the terms.
+
+@49024
+Offering an "Item" or a "Title" makes success more likely. This time, let us choose "Item".
+
+@49025
+Left-click the "Item" button.
+
+@49026
+Next, choose the item to present.
+
+@49027
+This time, let us give Dilu. Select Dilu and left-click.
+
+@49028
+Finally, left-click the "OK" button.
+
+@49029
+With an alliance like this, you can expect reinforcements when Cao Cao attacks.
+
+@49030
+Liu Biao is also less likely to attack you, which makes your own strategy easier to plan.
+
+@49031
+That is all on "Alliance". Finally, a brief word on "Joint Attack", "Gift", "Demand", "Prisoners" and "Annul".
+
+@49032
+"Joint Attack" can only be used if you already have an alliance with another force.
+
+@49033
+Your allied force attacks together with you in battle, so it is a useful command when used well.
+
+@49034
+"Gift" is a command used to lower the other side's Hostility.
+
+@49035
+If you want an "Alliance", it will not succeed unless you first lower their Hostility as far as you can with this command.
+
+@49036
+"Demand" is a command to make another force your vassal or make it surrender. There are two steps: vassalage and surrender.
+
+@49037
+It is a handy command that wins cities without a battle, but it only succeeds if you are far stronger.
+
+@49038
+Try it late in the game, once you have become a great power.
+
+@49039
+"Prisoners" is a command used when you want another force to release officers it has captured.
+
+@49040
+It can only be used if one of your officers has been taken prisoner.
+
+@49041
+"Annul" is a command to break an "Alliance" or "Vassal" pact. Using it raises the other side's Hostility.
+
+@49042
+That is all on Diplomacy. Always watch your relations with the other rulers, and aim to master the Central Plains.
+
+@49043
+Here, let us learn about the "Personnel" command.
+
+@49044
+Look at "Officers" on the main info screen.
+
+@49045
+There are only four, counting your officers.
+
+@49046
+At this rate, even assigning people to the "Civil" command will be a problem.
+
+@49047
+So how do you increase your officers?
+
+@49048
+At such times, use the "Search" and "Recruit" commands.
+
+@49049
+Now let us try entering it.
+
+@49050
+Left-click the yellow square marker labeled "Personnel".
+
+@49051
+A bar with three commands has appeared.
+
+@49052
+Next, left-click the marker labeled "Search".
+
+@49053
+The "Search" window has opened.
+
+@49054
+First, decide which city to search for talent in.
+
+@49055
+Left-click the "Select City" button. The city selection window appears.
+
+@49056
+Decide which city to search for talent. You can search any city, but here let us choose Xuchang.
+
+@49057
+Left-click the dark green button (Xuchang) on the area map, or Xuchang under the city names.
+
+@49058
+Next, choose the officer who will search.
+
+@49059
+Left-click the "Officer" button.
+
+@49060
+The officer who searches should have high Politics plus Charm, so let Lord Liu Bei do it himself.
+
+@49061
+Place the cursor on Lord Liu Bei and left-click.
+
+@49062
+"Long Search" assigns one officer to search for at least 4 months, but...
+
+@49063
+rulers, Protectors and Advisors cannot do it, so you cannot check it now.
+
+@49064
+When you have more officers, it is good to put idle ones on Long Search.
+
+@49065
+Now left-click the "OK" button.
+
+@49066
+When talent is found like this, it may sometimes be recruited automatically.
+
+@49067
+Besides "Search", there is another way to gain officers: the "Recruit" command.
+
+@49068
+"Recruit" can be used not only on free officers but also on officers already serving other rulers.
+
+@49069
+Recruiting another force's officers weakens that force, but it succeeds less often than with free officers.
+
+@49070
+Officers who are a ruler's children or blood relatives cannot be recruited.
+
+@49071
+Officers with a Loyalty of 90 or more cannot be recruited either.
+
+@49072
+Early in the game, "Search" is surer than "Recruit".
+
+@49073
+Finally, a brief word on the "Item" command.
+
+@49074
+"Item" is a command to give a ruler's items to officers, or to take an officer's items for the ruler.
+
+@49075
+Besides raising the Loyalty of the officer you "Give" them to, items also add value, such as raising War or Intellect...
+
+@49076
+so give weapons to officers with high War and books to those with high Intellect, and they will be even more useful.
+
+@49077
+On the other hand, to "Take" an item lowers Loyalty, so it is not recommended.
+
+@49078
+That is all on Personnel. Do your best to make good use of many officers.
+
+@49079
+Here, let us learn about the "Appoint" command.
+
+@49080
+When you are about to carry out a command, wouldn't it be good to know in advance whether it will succeed or fail?
+
+@49081
+An Advisor can tell you something of this in advance, and you can use that opinion to guide your actions.
+
+@49082
+Advisors are appointed with the "Appoint" command.
+
+@49083
+Now let us try entering it.
+
+@49084
+Left-click the light blue square marker labeled "Appoint".
+
+@49085
+A bar with five commands has appeared.
+
+@49086
+Next, left-click the marker labeled "Advisor".
+
+@49087
+At present, Sun Qian is appointed Advisor.
+
+@49088
+Now left-click the "Advisor" button.
+
+@49089
+An Advisor with higher Intellect gives more accurate advice.
+
+@49090
+Among your officers, Zhao Yun seems to have the highest Intellect.
+
+@49091
+It is a pity for Sun Qian, but let us make Zhao Yun the Advisor.
+
+@49092
+Select Zhao Yun and left-click.
+
+@49093
+The Advisor will be changed to Zhao Yun. Left-click the "OK" button.
+
+@49094
+An Advisor gives all kinds of advice in many situations, so if you have officers, always appoint an Advisor.
+
+@49095
+Next, to play the game to your advantage, it is important to know the inner state of other domains.
+
+@49096
+Knowing what your neighbors are doing makes it easier to plan.
+
+@49097
+The command you need for that is "Spy".
+
+@49098
+First, look at Xinye's Info Network value on the main info screen. It is 7.
+
+@49099
+Left-click the light blue square marker labeled "Appoint".
+
+@49100
+A bar with five commands has appeared.
+
+@49101
+Next, left-click the marker labeled "Spy".
+
+@49102
+The "Spy" window has opened. Now let us choose the officers in charge.
+
+@49103
+Left-click the "Select Officer" button.
+
+@49104
+Up to three officers can spy at once, and officers with high Politics and Intellect have the advantage.
+
+@49105
+Two have been selected so far, so let us appoint Guan Yu as the third.
+
+@49106
+Left-click Guan Yu's box, make sure it is selected, then left-click the "OK" button.
+
+@49107
+When the "Spy" window appears, left-click the "OK" button.
+
+@49108
+The Info Network value on the main info screen is now 8.
+
+@49109
+They say if you know the enemy and know yourself, you need not fear a hundred battles. Be sure to "Spy" to learn what other rulers are doing.
+
+@49110
+Finally, a brief word on "Protector", "General Rank" and "Dismiss".
+
+@49111
+The "Protector" command can only be used if you own two or more cities.
+
+@49112
+As "Protector", it is best to appoint relatives or officers with high Loyalty where you can.
+
+@49113
+The "General Rank" command can only be used if the ruler holds a title.
+
+@49114
+Appointing your officers to a "General Rank" increases the soldiers they can lead, so use it when you can.
+
+@49115
+The "Dismiss" command returns one of your officers to the ranks of free officers.
+
+@49116
+Unless you are sure an officer is a planted officer sent by another ruler, it is not wise to "Dismiss" them.
+
+@49117
+That is the outline of the "Appoint" command. Once done, there is no need to change it often.
+
+@49118
+For now, it is enough to take care of it at the start of the game.
+
+@49119
+Here, let us learn about the "Plot" command.
+
+@49120
+A "Plot" is a kind of stratagem used when you cannot beat a stronger ruler by fair means.
+
+@49121
+It can lower officers' Loyalty or make them defect, and when it succeeds its effect is very great.
+
+@49122
+For that very reason, however, its chance of success is not very high.
+
+@49123
+So let me explain mainly "Plant", the surest of them.
+
+@49124
+"Plant" is a plot where you let another ruler recruit one of your officers on purpose, then have them defect when war begins.
+
+@49125
+In this example, Lord Liu Bei in Pingyuan has a strong enemy: Yuan Shao in Nanpi.
+
+@49126
+Now let us try entering it.
+
+@49127
+Left-click the purple square marker labeled "Plot".
+
+@49128
+A bar with six commands has appeared.
+
+@49129
+Next, left-click the marker labeled "Plant".
+
+@49130
+First, choose the city in which to "Plant" your officer.
+
+@49131
+Left-click the "Select City" button.
+
+@49132
+A "Plant" lasts 6 months. Send the officer to a city you mean to attack within that time.
+
+@49133
+As practice, left-click the yellow button (Nanpi) on the area map, or the name Nanpi under the city names.
+
+@49134
+Next, choose the officer to "Plant". Only officers with a Loyalty of 100 can be chosen.
+
+@49135
+Left-click the "Officer" button.
+
+@49136
+Here, let us choose Zhang Fei.
+
+@49137
+Select Zhang Fei and left-click.
+
+@49138
+Zhang Fei will be planted. Left-click the "OK" button.
+
+@49139
+Zhang Fei has been planted in Nanpi. Now we need only wait for Yuan Shao to recruit him.
+
+@49140
+When you invade Nanpi, if Yuan Shao has sent Zhang Fei into battle, have him defect at once.
+
+@49141
+That will make your victory far more certain.
+
+@49142
+The drawback is that once planted, the officer cannot be used until they return 6 months later.
+
+@49143
+It may be best avoided when you have few officers.
+
+@49144
+Finally, a brief word on the remaining five commands.
+
+@49145
+The "Turn" command makes an enemy officer defect. If it succeeds, they join your side during a war.
+
+@49146
+The "Revolt" command makes a Protector rebel and declare independence. If it succeeds, the enemy force is split.
+
+@49147
+The "Incite" command stirs up a city's people. If it succeeds, you have the advantage when you invade that city.
+
+@49148
+The "Rumor" command spreads bad rumors about another ruler. If it succeeds, their officers' Loyalty and the city's Public Safety fall.
+
+@49149
+The "False Report" command makes an enemy unit that has marched out turn back.
+
+@49150
+That is the outline of the "Plot" command. There is little need to use it early in the game.
+
+@49151
+Try it when you have room to spare, once the "Civil" work of your cities has settled down.
+
+@49152
+It is a joy when a "Plot" succeeds. Try out all kinds in real play.
+
+@49153
+Here, let us learn about the "Special" command.
+
+@49154
+Gold but no food, or food but not enough gold: such imbalances happen often in the game.
+
+@49155
+In this example too, there is far too little gold compared with food.
+
+@49156
+At such times, use the "Merchant" command.
+
+@49157
+By trading with a merchant, you can buy and sell food.
+
+@49158
+Now let us try entering it.
+
+@49159
+Left-click the white square marker labeled "Special".
+
+@49160
+A bar with five commands has appeared.
+
+@49161
+Next, left-click the marker labeled "Merchant".
+
+@49162
+The "Merchant" window has appeared.
+
+@49163
+This command can only be used when a merchant is in the city. Merchants are not always there, so take care.
+
+@49164
+First, look at the market. The selling price shows how much food you need to get 1 gold...
+
+@49165
+and the buying price shows how much food you get for 1 gold.
+
+@49166
+When selling food, a low selling price is best; when buying food, a high buying price is best.
+
+@49167
+Gold is running short, so let us sell food. The market looks good, too.
+
+@49168
+Now choose the officer who will trade.
+
+@49169
+Left-click the "Officer" button.
+
+@49170
+Any officer can trade, so for now let us give the task to Guan Yu.
+
+@49171
+Select Guan Yu and left-click.
+
+@49172
+Decide how much food to sell for gold.
+
+@49173
+Move the scroll bar to the right of the gold left or right with the mouse cursor to set the amount.
+
+@49174
+Moving the scroll bar right sells food for gold; moving it left buys food.
+
+@49175
+Take care not to let your food fall too low by mistake.
+
+@49176
+How much gold and food you need depends on the situation, but about the same amount of each should keep you out of trouble.
+
+@49177
+Move the input slider to the right with the mouse cursor, and at the point you want, left-click the "OK" button.
+
+@49178
+Check that the gold and food values have changed.
+
+@49179
+Used well, "Merchant" will keep you from running short of gold or food when you need them.
+
+@49180
+Finally, a brief word on the remaining four commands.
+
+@49181
+"Meet" is a command to hear the opinions of your officers. It cannot be used without officers.
+
+@49182
+"Title" is a command to give titles to other rulers. It cannot be used unless you hold the Han Emperor.
+
+@49183
+By granting one to a ruler of your choice, you can steer them into attacking other rulers.
+
+@49184
+"Audience" is a command to meet the Han Emperor. It cannot be used unless you hold the Emperor.
+
+@49185
+It raises the title of the ruler who supports the Han Emperor.
+
+@49186
+"Move Capital" is a command to change your capital. You must own two or more cities.
+
+@49187
+Normally there is no need to use it.
+
+@49188
+Early in the game, you will have few chances to use any of these but "Merchant".
+
+@49189
+For more detailed explanations of each command, see the manual and the online help.
+
+@49190
+In battle, it is important first to grasp the victory conditions.
+
+@49191
+If you are the attacker, to win you must meet conditions such as wiping out the enemy units or taking their HQ.
+
+@49192
+If you are the defender, you must stop the attacker meeting their conditions until time runs out, or wipe out the enemy commander's unit, and so on.
+
+@49193
+Now let us give orders to the units. The red units are yours, the blue units the enemy's.
+
+@49194
+This shows the situation a few turns after your red units have invaded Chang'an.
+
+@49195
+One way to meet the victory conditions is to take the enemy HQ, but for that you must break through the castle gate.
+
+@49196
+First, place the cursor on Lord Liu Bei's unit outside the gate of Chang'an and left-click.
+
+@49197
+Left-click the "Gate" button.
+
+@49198
+Place the cursor on the adjacent gate and left-click.
+
+@49199
+Left-click the "OK" button.
+
+@49200
+When a flag appears above the gate, the command has been entered correctly.
+
+@49201
+While aiming to take the HQ, you should also work to reduce the enemy units' strength.
+
+@49202
+Wiping out the enemy means victory, so if your forces are stronger, you should attack boldly.
+
+@49203
+Place the mouse cursor on Lord Guan Yu's unit, near Lord Liu Bei's unit you just gave orders to, and left-click.
+
+@49204
+Left-click the "Chase" button.
+
+@49205
+Place the cursor on the adjacent blue enemy unit and left-click.
+
+@49206
+Left-click the "OK" button.
+
+@49207
+When a flag appears on the enemy unit, the command has been entered correctly.
+
+@49208
+If your forces are weaker, rash attacks will only add to your own losses.
+
+@49209
+At such times, use a Trick command to reduce the enemy's strength.
+
+@49210
+Place the mouse cursor on my unit, near the grassland, and left-click.
+
+@49211
+Left-click the "Trick" button.
+
+@49212
+A bar with commands has appeared.
+
+@49213
+Next, left-click the button labeled "Fire".
+
+@49214
+Place the cursor on the adjacent blue enemy unit and left-click.
+
+@49215
+Place the cursor on the square where your unit is and left-click.
+
+@49216
+Left-click the "OK" button.
+
+@49217
+When a flag appears on that spot, the command has been entered correctly.
+
+@49218
+You have given orders to every unit, so left-click the "Next" button.
+
+@49219
+Like this, you enter commands every 3 days, and a battle lasts up to 30 days.
+
+@49220
+Finally, let me explain the "Duel".
+
+@49221
+Winning a "Duel" can capture an enemy officer at one stroke, so trying it with a high-War officer is a good tactic.
+
+@49222
+Place the mouse cursor on Lord Guan Yu's unit and left-click.
+
+@49223
+Left-click the "Chase" button.
+
+@49224
+Place the cursor on the adjacent blue enemy unit and left-click.
+
+@49225
+Change the "Attack Method" from "Attack" to "Duel".
+
+@49226
+Place the cursor on "Duel" and left-click.
+
+@49227
+Left-click the "OK" button.
+
+@49228
+Left-click the "Next" button.
+
+@49229
+First, decide the policy for the "Duel".
+
+@49230
+The number of tactics you can choose depends on the policy. Here, let us leave it at "All-out Charge".
+
+@49231
+Next, decide the tactics for the "Duel".
+
+@49232
+A "Duel" lasts up to five rounds, and you can choose the tactic for each round.
+
+@49233
+Which tactics can be used depends on the officer fighting the "Duel".
+
+@49234
+Some tactics can only be used in certain rounds; "One Blow", for example, only in round 1.
+
+@49235
+Now let us choose the tactics. Place the cursor on "One Blow" and left-click.
+
+@49236
+Left-click the button to the left of the "1". "One Blow" is set for round 1.
+
+@49237
+Enter tactics like this from 1 to 5. Note that the same tactic cannot be used twice.
+
+@49238
+Choose your tactics, and finally left-click the "OK" button.
+
+@49239
+Have you got the knack of battle? Now, fighting again and again is the quickest road to victory. Good luck.
+
+@49240
+Here, let us briefly learn about the "Military Council" phase.
+
+@49241
+In the "Military Council" you can learn the movements of the armies of nearby forces.
+
+@49242
+The lower right of the window shows the force each army belongs to and its target city.
+
+@49243
+Lord Liu Bei plans to attack Beihai with Guan Yu's army, but...
+
+@49244
+you can see that Yuan Shao plans to attack Pingyuan with Yan Liang's army at the same time.
+
+@49245
+If Guan Yu attacks Beihai now, it may be hard to defend Pingyuan with its few defenders.
+
+@49246
+In such a situation, it seems best to give up on Beihai and concentrate on defending Pingyuan.
+
+@49247
+To call off a campaign, left-click the "Halt War" button.
+
+@49248
+If you have an alliance with a force whose cities border yours, you can also "Ask Help" from them.
+
+@49249
+Likewise, if your force has several cities, you can also choose "Send Help".
+
+@49250
+Either way, keep a close watch on nearby forces, and always check whether an enemy is invading.
+

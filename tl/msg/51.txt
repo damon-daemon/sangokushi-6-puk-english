@@ -1,0 +1,678 @@
+@51000
+Nnngh... Not here...
+
+@51000.1
+To die on the battlefield... I have no regrets...
+
+@51000.2
+Ugh... I was careless.
+
+@51000.3
+C-careless...
+
+@51000.4
+Who would have... thought...
+
+@51001
+...Brother... forgive me.
+
+@51002
+Guan Yu... Zhang Fei... forgive me.
+
+@51003
+To be beaten by the likes of you... Gahh!
+
+@51004
+Nnngh... Not here...
+
+@51004.1
+Ugh... I was careless.
+
+@51004.2
+C-careless...
+
+@51004.3
+Who would have... thought...
+
+@51005
+The outcome of this battle is clear!
+
+@51005.1
+I have captured the enemy commander {f02}!
+
+@51005.2
+Men! I have captured the enemy commander {e02}!
+
+@51005.3
+Now, men! Seize them!
+
+@51005.4
+The strong win... That is the way of this world...
+
+@51005.5
+{e01} has captured the enemy commander {e02}!
+
+@51006
+Is there no one with more backbone?!
+
+@51006.1
+{C145}, I'll take you on as many times as you like.
+
+@51006.2
+No hard feelings. You were simply up against the wrong opponent.
+
+@51007
+I have slain the enemy commander {e02}!
+
+@51007.1
+{e01} has slain the enemy commander {e02}!
+
+@51008
+{C145}, was that all...
+
+@51008.1
+Hmph, all talk.
+
+@51008.2
+Sorry... but such is the way of a chaotic age.
+
+@51009
+{C145}, was that all...
+
+@51009.1
+Hmph, all talk.
+
+@51009.2
+{C145}, it was no contest after all.
+
+@51010
+...That was a hard fight.
+
+@51010.1
+{e02}... a tough opponent.
+
+@51010.2
+{e02}... someone I never want to fight again.
+
+@51010.3
+Without that one blow, who knows how it would have ended.
+
+@51011
+I can't let you escape! Die!
+
+@51011.1
+Call me a coward if you like, but I'll finish you! Take this!
+
+@51011.2
+You don't know when to give up. Very well, this arrow will end you.
+
+@51012
+I won't let you escape, not for anything!
+
+@51012.1
+Call me a coward if you like, but I'll finish you! Take this!
+
+@51012.2
+You don't know when to give up. Very well, this arrow will end you.
+
+@51013
+Th-this is... bitter...
+
+@51014
+Wh-whoa! My horse!
+
+@51014.1
+Wh-what? My horse!
+
+@51014.2
+Damn! My horse!
+
+@51015
+Wh-whoa! {e29}!
+
+@51015.1
+Wh-what? {e29}!
+
+@51015.2
+Damn! {e29}!
+
+@51016
+{e01} has learned "%s".
+
+@51017
+An excellent idea. Even in a chaotic age, one needs allies.
+
+@51017.1
+{e03} would surely make a good ally.
+
+@51017.2
+{e03} will certainly welcome talk of an alliance.
+
+@51018
+If you go, {C10}, the alliance will surely be agreed.
+
+@51018.1
+{C10} negotiating in person... With such sincerity, how could it fail?
+
+@51018.2
+If it is you, {C10}, {e03} will surely agree.
+
+@51019
+I will surely bring back an agreement for an alliance.
+
+@51019.1
+I am confident I can win {e03}'s consent. Leave it to me.
+
+@51019.2
+If you command it, leave it to me. I will secure the alliance.
+
+@51020
+If you negotiate yourself, {C10}, it cannot fail.
+
+@51020.1
+If you go in person, {C10}, the talks will surely succeed.
+
+@51020.2
+If it is you, {C10}, success is certain.
+
+@51020.3
+{C10} negotiating in person... How could it possibly fail?
+
+@51021
+I will go and bring the talks to a conclusion.
+
+@51021.1
+I am confident this time. Leave it to me.
+
+@51021.2
+I am confident I can bring the talks to a conclusion.
+
+@51022
+With {C169}, the talks will surely be concluded.
+
+@51022.1
+If we leave it to {C169}, there can be no mistake.
+
+@51022.2
+With {C169}, it cannot fail.
+
+@51023
+Even for {C169}, an alliance looks difficult.
+
+@51023.1
+I do not think {e03} will agree to an alliance.
+
+@51023.2
+An alliance with {e03} will not be easy.
+
+@51023.3
+I am a little uneasy leaving such an important task to {C169}.
+
+@51024
+Even if you negotiate, {C10}, I fear an alliance will be hard.
+
+@51024.1
+Even with you negotiating, {C10}, whether {e03} will agree...
+
+@51024.2
+However you negotiate in person, {C10}, I do not think {e03} will agree.
+
+@51025
+I regret that I have no confidence I can make {e03} agree.
+
+@51025.1
+I am glad you would give me such an important role, but...
+
+@51025.2
+Whether one such as I can bear so heavy a task...
+
+@51026
+Even for you, {C10}, I believe it will be difficult.
+
+@51026.1
+Even if you go in person, {C10}, this one may be difficult...
+
+@51026.2
+However much you negotiate, {C10}, it will be impossible.
+
+@51027
+I am sorry. This time even I...
+
+@51027.1
+I believe these talks will be hard for me to conclude.
+
+@51027.2
+I regret that I have no confidence I can conclude the talks.
+
+@51028
+Even for {C169}, concluding these talks will be difficult.
+
+@51028.1
+With all respect to {C169}, these talks may be difficult...
+
+@51028.2
+I fear it is rather a heavy burden for {C169}...
+
+@51029
+You will ask {e04} for a joint attack? An excellent idea. Let us do it.
+
+@51029.1
+{e0B} should not be a bad deal for {e04} either... They will likely agree.
+
+@51029.2
+Our taking {e0B} suits {e04} as well. They will surely agree.
+
+@51030
+If you go to ask in person, {C10}, {e04} will surely agree.
+
+@51030.1
+A request from {C10} in person... {e04} could hardly refuse.
+
+@51031
+I will persuade {e04} to send troops without fail.
+
+@51031.1
+I will talk {e04} into joining the joint attack, you will see.
+
+@51031.2
+I will surely obtain a promise of troops from {e04}.
+
+@51032
+I do not think {e04} will move troops so easily.
+
+@51032.1
+Getting {e04} to send troops will be very hard.
+
+@51032.2
+I do not think {e04} will join the attack on {e0B}.
+
+@51033
+Even if you ask in person, {C10}, {e04} will not send troops.
+
+@51033.1
+Whoever asks, {e04} will not move their troops.
+
+@51033.2
+Even at your request, {C10}, I do not think {e04} will join a common front.
+
+@51034
+I have no confidence I can move {e04}.
+
+@51034.1
+With respect, I have no confidence I can persuade {e04}.
+
+@51034.2
+I fear one such as I could not move {e04}.
+
+@51035
+{e03} will surely accept the gift.
+
+@51035.1
+{e03} will gladly accept the gift.
+
+@51035.2
+Who is not pleased to receive a gift? It will go well.
+
+@51036
+{C10} in person... Then your sincerity will surely be accepted.
+
+@51036.1
+{e03} will surely accept our goodwill.
+
+@51037
+Leave it to me. I will convey my lord's sincerity.
+
+@51037.1
+I will go and show our sincerity.
+
+@51037.2
+I will go and win {e03}'s favor.
+
+@51038
+Even if {C169} goes, getting the gift accepted will be difficult.
+
+@51038.1
+I do not think {e03} will accept the gift.
+
+@51038.2
+I do not think {e03} will accept a gift as modest as this...
+
+@51039
+If your gift were refused, {C10}, it would shame us all... Please do not.
+
+@51039.1
+You must not go as an emissary yourself, {C10}. Please send someone else.
+
+@51040
+Even if I go, whether {e03} will accept...
+
+@51040.1
+One such as I would find it hard to win {e03}'s favor.
+
+@51040.2
+I regret that I have no confidence I can win {e03}'s favor.
+
+@51041
+At this point, {e03} will have no choice but to surrender.
+
+@51041.1
+A peaceful solution. It will spare needless bloodshed.
+
+@51041.2
+Now it may be possible to make {e03} surrender.
+
+@51042
+If you persuade them in person, {C10}, even {e03} will decide to surrender.
+
+@51042.1
+With you, {C10}, it may be possible to make {e03} surrender.
+
+@51043
+I will go and make {e03} surrender.
+
+@51043.1
+I will bring {e03} to decide to surrender.
+
+@51044
+I cannot imagine {e03} surrendering.
+
+@51044.1
+Demanding {e03}'s surrender would be utterly futile.
+
+@51044.2
+I do not think {e03} will surrender so easily...
+
+@51045
+Please do not. We cannot leave such a dangerous task to you, {C10}...
+
+@51045.1
+{C10}, please consider your own position more carefully.
+
+@51045.2
+We cannot have you undertake such a dangerous task, {C10}.
+
+@51046
+I regret that I have no confidence I can make {e03} surrender.
+
+@51046.1
+Even if I go, whether {e03} will surrender...
+
+@51046.2
+One such as I, an emissary demanding surrender? Hardly...
+
+@51047
+At this point, {e03} will have no choice but to become our vassal.
+
+@51047.1
+{e03} will probably agree to become our vassal.
+
+@51047.2
+Indeed. Let us make {e03} our vassal.
+
+@51048
+If you go in person, {C10}, {e03} will have no choice but to submit.
+
+@51048.1
+If you go in yourself, {C10}, even {e03} will decide to submit.
+
+@51049
+Understood... I will go to meet {e03} and make them our vassal.
+
+@51049.1
+You may count on me. I will surely make {e03} our vassal.
+
+@51050
+I cannot imagine {e03} becoming our vassal.
+
+@51050.1
+I cannot imagine {e03} simply accepting a demand for vassalage.
+
+@51050.2
+I do not think {e03} is one to submit over this, but...
+
+@51051
+There is no need for you to act as emissary, {C10}.
+
+@51051.1
+We cannot leave such a task to you, {C10}.
+
+@51051.2
+This is not a task for you, {C10}.
+
+@51052
+Could one such as I bear so great a task? I have no confidence.
+
+@51052.1
+With respect, I have no confidence I can make {e03} submit.
+
+@51052.2
+I do not think {e03} will submit to me, but...
+
+@51053
+{e04} will surely agree gladly.
+
+@51053.1
+{C166} will surely be overjoyed.
+
+@51053.2
+I believe it will go well. {C166} is a strength we cannot do without.
+
+@51054
+You will negotiate in person, {C10}... I envy {C166}.
+
+@51054.1
+If you negotiate in person, {C10}, {e04} can hardly say no.
+
+@51054.2
+With you, {C10}, {e04} will gladly return {C166}.
+
+@51055
+Leave it to me. I will surely bring {C166} back.
+
+@51055.1
+I will surely persuade Lord {e04} and bring {C166} home.
+
+@51055.2
+I will bring {C166} back. Wait and see.
+
+@51056
+I do not think {e04} will agree to such talks. Please do not.
+
+@51056.1
+I do not think {e04} will hand over {C166} so easily.
+
+@51056.2
+I do not think {e04} is one to return prisoners so easily.
+
+@51057
+Even if you negotiate in person, {C10}, whether {e04} will agree...
+
+@51057.1
+Even with you as emissary, {C10}, I hardly think {e04} will agree to return them...
+
+@51057.2
+However low you bow, {C10}, {e04} will not agree to return the prisoner.
+
+@51058
+However much I plead, I do not think {e04} will agree to return the prisoner.
+
+@51058.1
+I will bow my head and plead with all my heart, but the talks will be hard.
+
+@51058.2
+I regret that I have no confidence I can win back {C166}.
+
+@51059
+If we are to break with {e02}, now is the only time.
+
+@51059.1
+We must fight {e02} sooner or later anyway.
+
+@51060
+Breaking with {e02} now would be unwise. This is a time for patience.
+
+@51060.1
+{e02}'s force is still mighty. It is a little too soon, I think.
+
+@51061
+It is not a bad offer. I am in favor.
+
+@51061.1
+I think it best to ally with {e03} now.
+
+@51061.2
+An alliance with {e03}... Not a bad offer.
+
+@51061.3
+I am in favor. The rest is up to you, {C10}.
+
+@51061.4
+This is just the chance we needed. Let us make the alliance.
+
+@51061.5
+Why not? Let us accept.
+
+@51062
+An alliance with {e03}? I hardly think it is such a good offer...
+
+@51062.1
+What would we really gain by allying with {e03}?
+
+@51062.2
+I am not very eager.
+
+@51062.3
+I wonder. I am not much inclined.
+
+@51062.4
+On such terms, you should refuse.
+
+@51062.5
+I believe it is by no means a profitable offer.
+
+@51063
+{C10}, have you forgotten? We are allied with {e04}.
+
+@51063.1
+A good chance to put {e03} in our debt. Accept it.
+
+@51063.2
+If we agree now, {e03} will owe us a favor.
+
+@51063.3
+A good offer. Why not cooperate?
+
+@51064.1
+I do not think there is much in it for us...
+
+@51064.2
+{e03} would only be using us. Let us refuse.
+
+@51064.3
+For my part, I cannot recommend it.
+
+@51065
+{C10}, why hesitate? Let us accept it.
+
+@51065.1
+I think it best simply to accept such things.
+
+@51065.2
+Let us simply accept {e03}'s goodwill.
+
+@51065.3
+How generous. Let us accept it with thanks.
+
+@51065.4
+{e03} seems desperate to survive... For now, I think it best to accept.
+
+@51065.5
+Let us not think too deeply and accept it graciously.
+
+@51066
+It is all too obvious. I do not like it.
+
+@51066.1
+Something does not sit right. I think we should refuse...
+
+@51066.2
+Their ulterior motive is too plain. I have a bad feeling.
+
+@51067
+It is bitter, but I think it best to endure and submit.
+
+@51067.1
+If we must submit, then let it be to {e03}.
+
+@51067.2
+{e03} would do well enough as overlord.
+
+@51068
+What good is submitting to {e03}? We should refuse boldly...
+
+@51068.1
+If we submit now, {e03} will only grow bolder.
+
+@51068.2
+If we show weakness now, they will take further advantage.
+
+@51069
+We should avoid further pointless fighting. For the people's sake, we should surrender...
+
+@51069.1
+Defeat is already certain... I think we should accept it.
+
+@51069.2
+I think we should accept, to spare the people further war.
+
+@51070
+What would we gain by surrendering? It is too soon to give up.
+
+@51070.1
+We must not yield now. If we surrender, all is over.
+
+@51070.2
+{C10}, why so faint-hearted! Refuse firmly.
+
+@51071
+Why not? Let us put {e03} in our debt.
+
+@51071.1
+How about putting {e03} in our debt now?
+
+@51071.2
+Let us agree. Now is the time to show your generosity, {C10}.
+
+@51072
+You must not. What would you gain by returning a prisoner we worked so hard to take?
+
+@51072.1
+Let us reject this demand and destroy {e03} at one stroke.
+
+@51072.2
+Why hesitate? A prisoner we return will face us again as an enemy.
+
+@51073
+We cannot ignore the wishes of the Son of Heaven. Why not accept?
+
+@51073.1
+If it is an imperial command, we can hardly refuse.
+
+@51073.2
+It is just what we could wish for. Why do you hesitate, {C10}?
+
+@51073.3
+We must strike {f15} sooner or later anyway. Please accept.
+
+@51074
+Destroying {f15} will be difficult. I think you should refuse...
+
+@51074.1
+I sense some kind of plot here... I think it best to refuse.
+
+@51074.2
+I think it safer to decline tactfully here.
+
+@51075
+Well, very well.
+

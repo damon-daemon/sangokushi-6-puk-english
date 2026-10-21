@@ -1,0 +1,1983 @@
+@0
+I
+
+@0.1
+I
+
+@0.2
+I
+
+@0.3
+I
+
+@0.4
+I
+
+@0.5
+I
+
+@0.6
+I
+
+@0.7
+I
+
+@0.8
+I
+
+@0.9
+I
+
+@1
+I
+
+@1.1
+I
+
+@2
+I
+
+@2.1
+I
+
+@2.2
+I
+
+@3
+we
+
+@3.1
+we
+
+@3.2
+we
+
+@4
+I
+
+@4.1
+I
+
+@4.2
+I
+
+@4.3
+I
+
+@4.4
+I
+
+@4.5
+I
+
+@4.6
+I
+
+@5
+{f01} of Wuyuan
+
+@5.1
+Zhang Fei of Yan
+
+@5.2
+{f01} of Hedong
+
+@5.3
+{f01} of Changshan
+
+@5.4
+{f01} of Xiliang
+
+@5.5
+{f01} of Nanyang
+
+@5.6
+{f01} of Tianshui
+
+@5.7
+{f01} of Xiliang
+
+@5.8
+{f01} of Yiyang
+
+@5.9
+{f01} of Guanghan
+
+@5.10
+{f01} of Baxi
+
+@5.11
+{f01} of Qianwei
+
+@5.12
+{f01} of Ba
+
+@5.13
+{f01} of Fufeng
+
+@5.14
+{f01} of Baxi
+
+@5.15
+{f01} of Chenliu
+
+@5.16
+{f01} of Nanyang
+
+@5.17
+{f01} of Xiangyang
+
+@5.18
+{f01} of Yingchuan
+
+@5.19
+{f01} of Qiao in Pei
+
+@5.20
+{f01} of Hongnong
+
+@5.21
+{f01} of Qiao in Pei
+
+@5.22
+{f01} of Qiao in Pei
+
+@5.23
+{f01} of Qiao in Pei
+
+@5.24
+{f01} of Qiao in Pei
+
+@5.25
+{f01} of Qiao in Pei
+
+@5.26
+{f01} of Qiao in Pei
+
+@5.27
+{f01} of Qiao in Pei
+
+@5.28
+{f01} of Taiyuan
+
+@5.29
+{f01} of Shanyang
+
+@5.30
+{f01} of Qiao in Pei
+
+@5.31
+{f01} of Taishan
+
+@5.32
+{f01} of Taishan
+
+@5.33
+{f01} of Yangping
+
+@5.34
+{f01} of Langya
+
+@5.35
+{f01} of Hedong
+
+@5.36
+{f01} of Liaodong
+
+@5.37
+{f01} of Yingchuan
+
+@5.38
+{f01} of Jingzhao
+
+@5.39
+{f01} of Chenliu
+
+@5.40
+{f01} of Yanmen
+
+@5.41
+{f01} of Hejian
+
+@5.42
+{f01} of Hedong
+
+@5.43
+{f01} of Nan'an
+
+@5.44
+{f01} of Taiyuan
+
+@5.45
+{f01} of Yingchuan
+
+@5.46
+{f01} of Yiyang
+
+@5.47
+{f01} of Jiangdong
+
+@5.48
+{f01} of Beiping
+
+@5.49
+{f01} of Liaoxi
+
+@5.50
+{f01} of Jiangdong
+
+@5.51
+{f01} of Jiujiang
+
+@5.52
+{f01} of Runan
+
+@5.53
+{f01} of Ba
+
+@5.54
+{f01} of Donglai
+
+@5.55
+{f01} of Lingling
+
+@5.56
+{f01} of Jiujiang
+
+@5.57
+{f01} of Dong
+
+@5.58
+{f01} of Wu
+
+@5.59
+{f01} of Wu
+
+@5.60
+{f01} of Lujiang
+
+@5.61
+{f01} of Lujiang
+
+@5.62
+{f01} of Langya
+
+@5.63
+{f01} of Wu
+
+@5.64
+{f01} of Wu
+
+@5.65
+{f01} of Wu
+
+@5.66
+{f01} of Wu
+
+@5.67
+{f01} of Lujiang
+
+@5.68
+{f01} of Longxi
+
+@5.69
+{f01} of Nanyang
+
+@5.70
+{f01} of Runan
+
+@5.71
+{f01} of Runan
+
+@5.72
+{f01} of Fufeng
+
+@5.73
+{f01} of Shanyang
+
+@5.74
+{f01} of Liaoxi
+
+@5.75
+{f01}, King of the Nanman
+
+@6
+Your Majesty
+
+@6.1
+you
+
+@6.2
+you
+
+@6.3
+
+
+@7
+My Lord
+
+@7.1
+you
+
+@8
+you
+
+@8.1
+you
+
+@8.2
+you
+
+@8.3
+you
+
+@9
+you
+
+@9.1
+you
+
+@9.2
+you
+
+@10
+Your Majesty
+
+@10.1
+Your Excellency
+
+@10.2
+Prime Minister
+
+@10.3
+Master Zhang
+
+@10.4
+Great Teacher
+
+@10.5
+General of Heaven
+
+@10.6
+Great King
+
+@11
+Brother
+
+@12
+My Lord
+
+@12.1
+My Lord
+
+@13
+Master Zhang
+
+@13.1
+Great Teacher
+
+@13.2
+General of Heaven
+
+@13.3
+Prime Minister Cao
+
+@13.4
+Lord {e02}
+
+@14
+Brother
+
+@14.1
+Lord {e02}
+
+@15
+you
+
+@15.1
+you
+
+@15.2
+you
+
+@16
+person
+
+@16.1
+fellow
+
+@17
+Sister
+
+@17.1
+Brother
+
+@18
+Sister
+
+@18.1
+Brother
+
+@18.2
+Big Brother
+
+@18.3
+Big Sister
+
+@19
+Lu Bu, the Flying General
+
+@19.1
+Guan Yu, Lord of the Beautiful Beard
+
+@19.2
+Zhang Fei of Yan
+
+@19.3
+{f02} of Changshan
+
+@19.4
+Splendid Ma Chao of Xiliang
+
+@19.5
+Ma Chao, the Divine General
+
+@19.6
+{f02} of Nanyang
+
+@19.7
+{f02} of Tianshui
+
+@19.8
+{f02} of Xiliang
+
+@19.9
+{f02} of Yiyang
+
+@19.10
+{f02} of Guanghan
+
+@19.11
+{f02} of Baxi
+
+@19.12
+{f02} of Qianwei
+
+@19.13
+{f02} of Ba
+
+@19.14
+{f02} of Fufeng
+
+@19.15
+{f02} of Baxi
+
+@19.16
+{f02} of Chenliu
+
+@19.17
+{f02} of Nanyang
+
+@19.18
+{f02} of Xiangyang
+
+@19.19
+{f02} of Yingchuan
+
+@19.20
+{f02} of Qiao in Pei
+
+@19.21
+{f02} of Hongnong
+
+@19.22
+{f02} of Qiao in Pei
+
+@19.23
+{f02} of Qiao in Pei
+
+@19.24
+{f02} of Qiao in Pei
+
+@19.25
+{f02} of Qiao in Pei
+
+@19.26
+{f02} of Qiao in Pei
+
+@19.27
+{f02} of Qiao in Pei
+
+@19.28
+{f02} of Taiyuan
+
+@19.29
+{f02} of Shanyang
+
+@19.30
+{f02} of Taishan
+
+@19.31
+{f02} of Taishan
+
+@19.32
+{f02} of Yangping
+
+@19.33
+{f02} of Langya
+
+@19.34
+{f02} of Hedong
+
+@19.35
+{f02} of Liaodong
+
+@19.36
+{f02} of Yingchuan
+
+@19.37
+{f02} of Jingzhao
+
+@19.38
+Blind Xiahou
+
+@19.39
+the Tiger Fool
+
+@19.40
+{f02}, the new E Lai
+
+@19.41
+{f02} the Yellow Beard
+
+@19.42
+Zhang Liao, who hushes crying children
+
+@19.43
+{f02} of Hejian
+
+@19.44
+{f02} of Hedong
+
+@19.45
+{f02} of Nan'an
+
+@19.46
+{f02} of Taiyuan
+
+@19.47
+{f02} of Yingchuan
+
+@19.48
+{f02} of Yiyang
+
+@19.49
+the Tiger of Jiangdong
+
+@19.50
+{f02} of Beiping
+
+@19.51
+{f02} of Liaoxi
+
+@19.52
+the Little Conqueror of Jiangdong
+
+@19.53
+{f02} of Jiujiang
+
+@19.54
+{f02} of Runan
+
+@19.55
+{f02} of Ba
+
+@19.56
+{f02} of Donglai
+
+@19.57
+{f02} of Lingling
+
+@19.58
+{f02} of Jiujiang
+
+@19.59
+{f02} of Dong
+
+@19.60
+{f02} of Wu
+
+@19.61
+{f02} of Wu
+
+@19.62
+{f02} of Lujiang
+
+@19.63
+{f02} of Lujiang
+
+@19.64
+{f02} of Langya
+
+@19.65
+{f02} of Wu
+
+@19.66
+{f02} of Wu
+
+@19.67
+{f02} of Wu
+
+@19.68
+{f02} of Wu
+
+@19.69
+Handsome Zhou
+
+@19.70
+{f02} of Longxi
+
+@19.71
+{f02} of Nanyang
+
+@19.72
+{f02} of Runan
+
+@19.73
+{f02} of Runan
+
+@19.74
+{f02} of Fufeng
+
+@19.75
+{f02} of Shanyang
+
+@19.76
+Gongsun Zan, the White Horse General
+
+@19.77
+{f02}, King of the Nanman
+
+@20
+
+
+@20.1
+
+
+@20.2
+
+
+@21
+
+
+@21.1
+
+
+@22
+
+
+@22.1
+
+
+@22.2
+
+
+@23
+
+
+@23.1
+
+
+@24
+
+
+@24.1
+
+
+@25
+
+
+@25.1
+
+
+@25.2
+
+
+@26
+
+
+@26.1
+
+
+@26.2
+
+
+@27
+
+
+@27.1
+
+
+@28
+
+
+@28.1
+
+
+@29
+
+
+@29.1
+
+
+@30
+
+
+@30.1
+
+
+@30.2
+
+
+@31
+
+
+@31.1
+
+
+@32
+
+
+@32.1
+
+
+@32.2
+
+
+@32.3
+
+
+@32.4
+
+
+@32.5
+
+
+@32.6
+
+
+@33
+
+
+@33.1
+
+
+@34
+
+
+@34.1
+
+
+@34.2
+
+
+@34.3
+
+
+@35
+
+
+@35.1
+
+
+@36
+
+
+@36.1
+
+
+@36.2
+
+
+@37
+
+
+@37.1
+
+
+@37.2
+
+
+@37.3
+
+
+@38
+
+
+@38.1
+
+
+@39
+
+
+@39.1
+
+
+@40
+Out of my way
+
+@40.1
+Out of my way
+
+@41
+
+
+@41.1
+
+
+@41.2
+
+
+@42
+
+
+@42.1
+
+
+@43
+
+
+@43.1
+
+
+@43.2
+
+
+@44
+
+
+@44.1
+
+
+@44.2
+
+
+@44.3
+
+
+@45
+
+
+@45.1
+
+
+@45.2
+
+
+@45.3
+
+
+@46
+
+
+@46.1
+
+
+@47
+
+
+@47.1
+
+
+@48
+Hehe
+
+@48.1
+Hoh
+
+@49
+
+
+@49.1
+
+
+@50
+
+
+@50.1
+
+
+@50.2
+
+
+@51
+
+
+@51.1
+
+
+@51.2
+
+
+@52
+
+
+@52.1
+
+
+@52.2
+
+
+@53
+
+
+@53.1
+
+
+@54
+
+
+@54.1
+
+
+@55
+
+
+@55.1
+
+
+@56
+
+
+@56.1
+
+
+@57
+
+
+@57.1
+
+
+@58
+
+
+@58.1
+
+
+@59
+
+
+@59.1
+
+
+@59.2
+
+
+@60
+
+
+@60.1
+
+
+@61
+
+
+@61.1
+
+
+@61.2
+
+
+@62
+
+
+@62.1
+
+
+@63
+
+
+@63.1
+
+
+@64
+
+
+@64.1
+
+
+@65
+
+
+@65.1
+
+
+@66
+
+
+@66.1
+
+
+@66.2
+
+
+@67
+
+
+@67.1
+
+
+@67.2
+
+
+@68
+
+
+@68.1
+
+
+@69
+
+
+@69.1
+
+
+@70
+
+
+@70.1
+
+
+@70.2
+
+
+@71
+
+
+@71.1
+
+
+@71.2
+
+
+@71.3
+
+
+@71.4
+
+
+@72
+
+
+@72.1
+
+
+@73
+
+
+@73.1
+
+
+@74
+
+
+@74.1
+
+
+@75
+
+
+@75.1
+
+
+@75.2
+
+
+@76
+
+
+@76.1
+
+
+@76.2
+
+
+@77
+
+
+@77.1
+
+
+@78
+
+
+@78.1
+
+
+@79
+
+
+@79.1
+
+
+@79.2
+
+
+@80
+Curses
+
+@80.1
+Damn it all
+
+@80.2
+Tch
+
+@80.3
+Tch
+
+@80.4
+Grrr
+
+@80.5
+Grr
+
+@81
+
+
+@81.1
+
+
+@82
+
+
+@82.1
+
+
+@83
+
+
+@83.1
+
+
+@84
+
+
+@84.1
+
+
+@85
+
+
+@85.1
+
+
+@86
+
+
+@86.1
+
+
+@87
+
+
+@87.1
+
+
+@88
+
+
+@88.1
+
+
+@89
+
+
+@89.1
+
+
+@90
+
+
+@90.1
+
+
+@91
+
+
+@91.1
+
+
+@91.2
+
+
+@92
+
+
+@92.1
+
+
+@93
+
+
+@93.1
+
+
+@94
+
+
+@94.1
+
+
+@95
+
+
+@95.1
+
+
+@95.2
+
+
+@95.3
+
+
+@96
+
+
+@96.1
+
+
+@96.2
+
+
+@97
+
+
+@97.1
+
+
+@98
+
+
+@98.1
+
+
+@98.2
+
+
+@99
+
+
+@99.1
+
+
+@99.2
+
+
+@100
+
+
+@100.1
+
+
+@100.2
+
+
+@101
+
+
+@101.1
+
+
+@102
+
+
+@103
+
+
+@103.1
+
+
+@104
+
+
+@104.1
+
+
+@105
+
+
+@105.1
+
+
+@105.2
+
+
+@106
+
+
+@106.1
+
+
+@107
+
+
+@107.1
+
+
+@108
+
+
+@108.1
+
+
+@109
+
+
+@109.1
+
+
+@110
+Ngh
+
+@110.1
+Grr
+
+@111
+
+
+@111.1
+
+
+@111.2
+
+
+@112
+
+
+@112.1
+
+
+@113
+Ah
+
+@113.1
+Oh
+
+@114
+
+
+@114.1
+
+
+@115
+
+
+@115.1
+
+
+@116
+
+
+@116.1
+
+
+@117
+
+
+@117.1
+
+
+@118
+
+
+@118.1
+
+
+@119
+
+
+@119.1
+
+
+@120
+
+
+@120.1
+
+
+@121
+
+
+@121.1
+
+
+@122
+
+
+@122.1
+
+
+@123
+
+
+@123.1
+
+
+@124
+
+
+@124.1
+
+
+@125
+
+
+@125.1
+
+
+@126
+
+
+@126.1
+
+
+@127
+
+
+@127.1
+
+
+@128
+
+
+@128.1
+
+
+@129
+
+
+@129.1
+
+
+@129.2
+
+
+@130
+
+
+@130.1
+
+
+@131
+
+
+@131.1
+
+
+@132
+
+
+@132.1
+
+
+@133
+
+
+@133.1
+
+
+@133.2
+
+
+@134
+
+
+@134.1
+
+
+@134.2
+
+
+@135
+
+
+@135.1
+
+
+@135.2
+
+
+@136
+
+
+@136.1
+
+
+@137
+
+
+@137.1
+
+
+@137.2
+
+
+@138
+
+
+@138.1
+
+
+@138.2
+
+
+@139
+
+
+@139.1
+
+
+@140
+
+
+@140.1
+
+
+@141
+
+
+@141.1
+
+
+@142
+
+
+@142.1
+
+
+@143
+
+
+@143.1
+
+
+@144
+Understood
+
+@144.1
+Very well
+
+@145
+Ohoho
+
+@145.1
+Hehe
+
+@145.2
+Heh
+
+@145.3
+Wahahaha
+
+@145.4
+Hahaha
+
+@146
+
+
+@146.1
+
+
+@146.2
+
+
+@147
+It cannot be helped
+
+@147.1
+No choice
+
+@148
+
+
+@148.1
+
+
+@149
+
+
+@149.1
+
+
+@150
+
+
+@150.1
+
+
+@151
+Stop
+
+@151.1
+Enough
+
+@152
+
+
+@152.1
+
+
+@153
+
+
+@153.1
+
+
+@153.2
+
+
+@154
+
+
+@154.1
+
+
+@155
+
+
+@155.1
+
+
+@156
+
+
+@156.1
+
+
+@157
+
+
+@157.1
+
+
+@158
+I
+
+@159
+Your Majesty
+
+@159.1
+Brother
+
+@159.2
+Brother
+
+@159.3
+Big Brother
+
+@159.4
+Friend
+
+@159.5
+Zhurong
+
+@159.6
+Prime Minister Cao
+
+@159.7
+Prime Minister
+
+@159.8
+Lord Cao
+
+@159.9
+Master Zhang
+
+@159.10
+Great Teacher
+
+@159.11
+General of Heaven
+
+@159.12
+Lady Zhurong
+
+@159.13
+Prime Minister
+
+@159.14
+Your Lordship
+
+@159.15
+Great King
+
+@159.16
+My Lord
+
+@159.17
+My Lord
+
+@160
+you
+
+@160.1
+you
+
+@160.2
+you
+
+@160.3
+you
+
+@161
+Brother
+
+@161.1
+Brother
+
+@161.2
+Big Brother
+
+@161.3
+you
+
+@161.4
+Strategist
+
+@161.5
+you
+
+@161.6
+you
+
+@161.7
+you
+
+@161.8
+you
+
+@161.9
+you
+
+@161.10
+you
+
+@161.11
+you
+
+@162
+Mother
+
+@162.1
+Father
+
+@162.2
+Daughter
+
+@162.3
+Son
+
+@163
+Sister
+
+@163.1
+Brother
+
+@163.2
+Sister
+
+@163.3
+Brother
+
+@163.4
+Sister
+
+@163.5
+Sister
+
+@163.6
+Brother
+
+@163.7
+Brother
+
+@164
+old fool
+
+@164.1
+little girl
+
+@164.2
+whelp
+
+@164.3
+greenhorn
+
+@164.4
+misanthrope
+
+@164.5
+scoundrel
+
+@164.6
+rotten pedant
+
+@164.7
+schemer
+
+@164.8
+turncoat
+
+@164.9
+lout
+
+@164.10
+coward
+
+@164.11
+reckless brute
+
+@164.12
+braggart
+
+@164.13
+fraud
+
+@164.14
+fool
+
+@164.15
+woman
+
+@164.16
+man
+
+@165
+false emperor
+
+@165.1
+monkey
+
+@165.2
+false gentleman
+
+@165.3
+villain
+
+@165.4
+ravening wolf
+
+@165.5
+vixen
+
+@165.6
+witch
+
+@165.7
+old fool
+
+@165.8
+little girl
+
+@165.9
+whelp
+
+@165.10
+misanthrope
+
+@165.11
+scoundrel
+
+@165.12
+rotten pedant
+
+@165.13
+schemer
+
+@165.14
+turncoat
+
+@165.15
+traitor
+
+@165.16
+knave
+
+@166
+Brother
+
+@166.1
+Brother
+
+@166.2
+Big Brother
+
+@166.3
+Strategist
+
+@166.4
+Lord {e03}
+
+@166.5
+Lord {e03}
+
+@166.6
+Lord {e03}
+
+@167
+Mother
+
+@167.1
+Father
+
+@167.2
+my daughter
+
+@167.3
+my son
+
+@168
+Sister
+
+@168.1
+Brother
+
+@168.2
+my sister
+
+@168.3
+my brother
+
+@168.4
+my sister
+
+@168.5
+Sister
+
+@168.6
+my brother
+
+@168.7
+Brother
+
+@169
+Brother
+
+@169.1
+Brother
+
+@169.2
+Big Brother
+
+@169.3
+Lord {e02}
+
+@169.4
+Lord {e02}
+
+@170
+
+
+@170.1
+
+

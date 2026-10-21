@@ -1,0 +1,108 @@
+# labels the survey first classified as junk (one kanji + format), added after the smoke test
+PROG:80115d64	G:%d
+PROG:801160c0	Dream %s
+PROG:801160c8	Style %s
+PROG:80116110	Gold
+PROG:80117528	Gold
+PROG:801175ac	Gold
+PROG:80117758	Rem %3d
+PROG:80117974	G:%d
+PROG:801181f0	G:%d
+PROG:80118448	Qty
+PROG:8011888c	+%d
+INIT:801d626c	Male %2d/%2d
+INIT:801d627c	Fem. %2d/%2d
+INIT:801d628c	All %3d/%3d
+INIT:801d6b0c	All %3d/%3d
+REVENT:801e4958	\n%-9s  G%-5d  %s
+USER:801e0b70	Gold %7lu
+# strings between the half-width font and the kanji font (0x800f39dc..0x800f6668), first skipped by the survey
+PROG:800f39e0	-
+PROG:800f3a2c	"Scenario Data"
+PROG:800f3a70	Wrong scenario data loaded.\nOperation cancelled.
+PROG:800f3ab0	"Save Data"
+PROG:800f3ac4	"Load Data"
+PROG:800f3bb8	Officer
+PROG:800f3bc4	Army Setup
+PROG:800f3bd0	  Type
+PROG:800f3bdc	Avail.
+PROG:800f3f04	Art of War
+PROG:800f3f14	Twenty-Four Chapters
+PROG:800f3f24	Zuo Zhuan
+PROG:800f3f30	Mengde's New Book
+PROG:800f3f3c	Dunjia Book
+PROG:800f3f48	Taiping Yaoshu
+PROG:800f3f58	Taiping Qingling
+PROG:800f3f64	Map of Western Shu
+PROG:800f3f70	Map of the South
+PROG:800f3f7c	Zhuahuang
+PROG:800f3f88	Seven Star Sword
+PROG:800f3f94	Yitian Sword
+PROG:800f3fa0	Qinggang Sword
+PROG:800f3fac	Sky Piercer
+PROG:800f3fb8	Green Dragon Blade
+PROG:800f3fc4	Serpent Spear
+PROG:800f3fd0	Iron Snake Spear
+PROG:800f3fdc	Twin Swords
+PROG:800f3fec	Iron Mace
+PROG:800f4404	EN\n%4s
+PROG:800f4410	Served %3s yr
+PROG:800f441c	Age %3s
+PROG:800f4428	No Title
+PROG:800f4434	No Rank
+PROG:800f4440	%-10s(max %3d00)
+PROG:800f5478	Historical
+PROG:800f5484	Fictional
+PROG:800f5490	Beginner
+PROG:800f549c	Advanced
+PROG:800f54a8	Custom Off.
+PROG:800f54b4	Appear
+PROG:800f54c0	Don't Appear
+PROG:800f54cc	Other Wars
+PROG:800f54d8	Watch
+PROG:800f54e4	Don't Watch
+PROG:800f54f0	Sound
+PROG:800f54fc	Stereo
+PROG:800f5508	Mono
+PROG:800f5514	Envoy Anim.
+PROG:800f5520	Msg Speed
+PROG:800f5a48	Effect%s Heals health in a month
+PROG:800f5a64	Effect%s Better retreat odds
+PROG:800f5a78	Effect%s 100 Rulers only
+PROG:800f5a90	Effect: duel tactic "Hidden"
+PROG:800f5aac	Effect%s +%d
+PROG:800f5bf8	A Learned Friend
+PROG:800f5c04	An Honest Friend
+PROG:800f5c10	A Loyal Friend
+PROG:800f5c1c	Courtesy, Wisdom, Faith
+PROG:800f5c28	Loyalty, Reverence, Obedience
+PROG:800f5c34	Obey your Mentor
+PROG:800f5c40	Honor your Parents
+PROG:800f5c4c	Respect the Wise
+PROG:800f5c58	Decide at Once
+PROG:800f5c64	Discuss Fully
+PROG:800f5c70	Self
+PROG:800f5c7c	Teacher
+PROG:800f5c88	Abandon him
+PROG:800f5c94	Admonish him
+PROG:800f5ca0	Look on
+PROG:800f5cac	Appearance
+PROG:800f5cb8	Knowledge and Debate
+PROG:800f5cc4	A Wise Lord
+PROG:800f5cd0	Able Ministers
+PROG:800f5cdc	Diligent People
+PROG:800f5ce8	Reckless War
+PROG:800f5cf4	A brave officer
+PROG:800f5d00	The men's morale
+PROG:800f5d0c	Enemy intelligence
+PROG:800f5d18	King Zhou of Shang
+PROG:800f5d24	King Wen of Zhou
+PROG:800f5d30	Jiang Ziya
+PROG:800f5d3c	Xiang Yu of Chu
+PROG:800f5d48	Liu Bang of Han
+PROG:800f5d54	Han Xin of Qi
+PROG:800f5d60	Han Xin the warrior
+PROG:800f5d6c	Zhang Liang the strategist
+PROG:800f5d78	Xiao He the administrator
+PROG:800f5f70	Defeat Terms
+PROG:800f6150	Choose a new home city.

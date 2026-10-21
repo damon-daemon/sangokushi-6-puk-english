@@ -1,0 +1,285 @@
+@12000
+There is no officer who can carry this out.
+
+@12001
+{e01}, end your orders for this month?
+
+@12002
+There is no merchant here.
+
+@12003
+The ruler is not at the capital.
+
+@12004
+The ruler has already acted this month.
+
+@12005
+The ruler does not have enough energy.
+
+@12006
+No more gold or food can be stored.
+
+@12007
+There is no advisor.
+
+@12008
+There is no officer who can attend a meeting.
+
+@12009
+There is no ruler who can be granted a title.
+
+@12010
+There is no city to move the capital to.
+
+@12011
+There is no officer who can be recruited.
+
+@12012
+There are no officers under you.
+
+@12013
+There is no officer who can be appointed advisor.
+
+@12014
+There is no city whose Protector can be changed.
+
+@12015
+There is no officer who can be given a general rank.
+
+@12016
+There is no officer who can be appointed spy.
+
+@12017
+There is no officer who can be dismissed.
+
+@12018
+Items cannot be given or taken.
+
+@12019
+There is no city that can send out an army.
+
+@12020
+There is no city that can be attacked.
+
+@12021
+There is no gold.
+
+@12022
+There is no food.
+
+@12023
+You have already drafted troops this month.
+
+@12024
+The population of this city is too small to draft troops here.
+
+@12025
+The troops exceed the city's population. No troops can be drafted here.
+
+@12026
+Total troops exceed 1/4 of the total population. No more troops can be drafted.
+
+@12027
+No more troops can be drafted in this city.
+
+@12028
+You have already raided this month.
+
+@12029
+There is no city that can be raided.
+
+@12030
+Only 5 traps can be set in one city.
+
+@12031
+There is no city where Turn can be used.
+
+@12032
+There is no city where Revolt can be used.
+
+@12033
+All cities have already been incited.
+
+@12034
+There is no city where Rumor can be used.
+
+@12035
+There is no city where Plant can be used.
+
+@12036
+There is no officer you can trust with this.
+
+@12037
+There is no city where False Report can be used.
+
+@12038
+There is no city to move to.
+
+@12039
+There is no force to ally with.
+
+@12040
+As a vassal, you can use no diplomacy except Annul.
+
+@12041
+There is no force to propose a joint attack to.
+
+@12042
+There is no city to attack jointly.
+
+@12043
+There is no force to send a gift to.
+
+@12044
+There is nothing to send as a gift.
+
+@12045
+A vassal cannot make demands.
+
+@12046
+There is no force to make demands of.
+
+@12047
+You can be a vassal of only one force.
+
+@12048
+You are guarding {e1F}, so you cannot become another force's vassal.
+
+@12049
+You have vassals of your own, so you cannot become another force's vassal.
+
+@12050
+There is no force to become a vassal of.
+
+@12051
+No officers are being held prisoner.
+
+@12052
+There is no force you can ask to return prisoners.
+
+@12053
+There is no agreement to annul.
+
+@12054
+There is a unit with 0 troops.
+
+@12055
+{e01} will be appointed the new Protector of {e0B}.
+
+@12056
+{e01}'s loyalty has dropped.
+
+@12057
+There is no officer who can move.
+
+@12058
+{e01}, choose a Protector for {e0B}.
+
+@12059
+There are no troops.
+
+@12060
+An army is already preparing to march.
+
+@12061
+{e0B} is cut off from the supply line and cannot be given orders.
+
+@12062
+A vassal cannot launch attacks.
+
+@12063
+We have no main force that can send reinforcements.
+
+@12064
+This cannot be done at a tribal capital.
+
+@12065
+That cannot be placed there!
+
+@12066
+You are not guarding the Han Emperor.
+
+@12067
+There is no city where troops can be drafted.
+
+@12068
+Here the ruler {e01} met an end.
+
+@12069
+The force of {e01} has fallen and vanished from history.
+
+@12070
+{f15} has fallen and vanished from history.
+
+@12071
+The rulers who raced through this age of chaos vanished without fulfilling their dreams... and the land remained in turmoil until the Sui unified it in 589.
+
+@12072
+You have already moved the capital this month.
+
+@12073
+Trade
+
+@12074
+Has Emperor
+
+@12075
+Vassal
+
+@12076
+Drafts Infantry
+
+@12077
+Drafts Cavalry
+
+@12078
+Drafts Hillmen
+
+@12079
+Drafts Navy
+
+@12080
+Drafts Tribal
+
+@12081
+Drafts Armored Cav.
+
+@12082
+Drafts Shanyue
+
+@12083
+Imperial City
+
+@12084
+Scorched
+
+@12085
+Tribal Land
+
+@12086
+City Size
+
+@12087
+Trade City
+
+@12088
+In the year %d, month %d, {e01} achieved the victory conditions, and that fame swiftly spread across the land.
+
+@12089
+You have nothing to trade with the merchant.
+
+@12090
+In the year %d, month %d, {e15} unified all of China.
+
+@12091
+In the year %d, month %d, {f15} {e3D} {e15} unified all of China.
+
+@12092
+In the year %d, month %d, {e3D} {e15} unified all of China.
+
+@12093
+You do not have enough food to trade with the merchant.
+
+@12094
+There is no city where Incite can be used.
+

@@ -1,0 +1,1002 @@
+@57000
+Sun Ce, living under Yuan Shu's roof, pawned the Imperial Seal to borrow troops and attacked Liu Yao, Inspector of Yangzhou, to rescue his uncle Wu Jing.
+
+@57001
+Liu Yao shut himself up in his castle, while Sun Ce made camp some distance away.
+
+@57002
+I'm going to climb the hill and scout out Liu Yao's positions.
+
+@57003
+You must not! What would you do if there were an ambush?
+
+@57004
+Don't worry. I'll look around a little and come right back.
+
+@57005
+Ignoring Zhang Zhao's warning, Sun Ce climbed the hill. A lookout brought the news to Liu Yao.
+
+@57006
+Sun Ce is trying to lure us out. There is no need to give chase.
+
+@57007
+But we must not let such a golden chance slip away!
+
+@57008
+Taishi Ci, you are still young. A commander would never come out scouting so carelessly.
+
+@57009
+(Grr...) Then at least let me go out alone!
+
+@57010
+Hmm... Very well. Do as you please.
+
+@57011
+Yes, my lord!
+
+@57012
+Sun Ce, halt!
+
+@57013
+Are you Sun Ce?
+
+@57014
+I am. And who might you be?
+
+@57015
+I am Taishi Ci of Donglai! I've come to take you alive!
+
+@57016
+Take me alive? Interesting. I'll cut you down instead!
+
+@57017
+My looord!
+
+@57018
+Tch, no choice. Sun Ce, we'll settle this another day!
+
+@57019
+Running away, Taishi Ci?!
+
+@57020
+My lord, are you hurt?
+
+@57021
+Not at all. More importantly, I know how Liu Yao has deployed. We attack the castle tomorrow.
+
+@57022
+Yes, my lord!
+
+@57023
+Sun Ce defeated Liu Yao, Inspector of Yangzhou, and riding that momentum swiftly conquered Jiangdong.
+
+@57024
+But Sun Ce too died young, and his younger brother Sun Quan succeeded him.
+
+@57025
+As his brother had bidden him, Sun Quan listened well to his retainers and made firm the lands Sun Ce had won.
+
+@57026
+I have called you all here for one reason: our sworn enemy, Huang Zu.
+
+@57027
+To strike down Huang Zu, who killed our father, was my brother's dearest wish too.
+
+@57028
+I believe now is the time. What do you say? Let me hear your views.
+
+@57029
+My lord, are we not still in mourning for your mother? Please refrain from raising an army.
+
+@57030
+No, no. There is no need to wait for mourning to end to take revenge.
+
+@57031
+Hmm, what should I do?
+
+@57032
+My lord, a man named Gan Ning has come to me asking to surrender.
+
+@57033
+Gan Ning? The Gan Ning of Huang Zu's army who killed Lord Ling Cao in the last battle?
+
+@57034
+Yes. Gan Ning served Huang Zu, but they say he was never given high office, just because he was once a pirate.
+
+@57035
+So he means to come over to us. But as for having killed Lord Ling Cao for Huang Zu...
+
+@57036
+...he fears you may hold a grudge against him, my lord...
+
+@57037
+I think it would be best to show generosity and forgive him...
+
+@57038
+Yes. Forgiving Gan Ning is the wiser course.
+
+@57039
+Prepare to march at once! With Gan Ning on our side, Huang Zu's army is nothing to fear.
+
+@57041
+(Gan Ning! My father's killer... I cannot let such a man strut about...)
+
+@57042
+Sun Quan at last defeated his sworn enemy Huang Zu, but in the autumn of the 13th year of Jian'an (208), his greatest crisis came.
+
+@57043
+Cao Cao, who had pacified the north and become master of the Central Plains, began his southern campaign to unify the land.
+
+@57044
+Liu Cong of Jingzhou surrendered without a fight. Cao Cao brushed Liu Bei aside at Dangyang and sent Sun Quan a letter demanding surrender.
+
+@57045
+Sun Quan's camp was split between surrender and resistance. But persuaded by Lu Su and Zhuge Liang, Sun Quan resolved to fight.
+
+@57046
+Led by Zhou Yu, the Wu army defeated the Wei navy in the first battle, and Cao Cao was troubled by Wu's unexpected resistance.
+
+@57047
+Is there no good plan...?
+
+@57048
+If I may, sir... I am on friendly terms with Zhou Yu.
+
+@57049
+For your sake, Prime Minister, let me go and persuade Zhou Yu to surrender.
+
+@57050
+Oh, Jiang Gan. Indeed, if only Zhou Yu surrenders, Wu's navy will be nothing to fear.
+
+@57051
+Cross the Yangtze at once and win Zhou Yu over with your eloquence.
+
+@57052
+I am deeply grateful that you grant my request so readily.
+
+@57053
+Jiang Gan, how good of you to come all this way. Have you come as Cao Cao's persuader?
+
+@57054
+Wh-what? And here I came all this way just because we had not met in so long!
+
+@57055
+Forgive me. There's no need to be so angry.
+
+@57056
+Everyone, this is an old friend of mine, Jiang Gan.
+
+@57057
+He comes from the north, but he is not Cao Cao's persuader, so there is no need for suspicion.
+
+@57058
+Today's feast is to renew our old friendship. No one is to speak of war.
+
+@57059
+Taishi Ci, wear this sword. If anyone speaks of war, you may cut him down on the spot.
+
+@57060
+Yes, sir!
+
+@57061
+...........
+
+@57062
+I have not touched a drop of wine since we marched out, but today I am in fine spirits. Let us drink till we drop!
+
+@57063
+That night, Zhou Yu pretended to be dead drunk and slept in the same room as Jiang Gan.
+
+@57064
+Ugh... Even so, it felt like sitting on a bed of needles.
+
+@57065
+But there seems to be no way I can win Zhou Yu over.
+
+@57066
+Still, I cannot go back empty-handed...
+
+@57067
+What is this...? A letter from Cai Mao and Zhang Yun addressed to Zhou Yu!
+
+@57068
+"We surrendered to Cao Cao only because we had no choice. Now already..."
+
+@57069
+So Cai Mao and Zhang Yun are traitors! Good, if I take this back as a gift...
+
+@57070
+Now all that remains is whether Cao Cao takes the bait.
+
+@57071
+Never suspecting Zhou Yu's clever trap, Jiang Gan took the forged letter and flew back to Cao Cao.
+
+@57072
+Jiang Gan, how did it go?
+
+@57073
+Well, Zhou Yu is a tough one... Words will not move him.
+
+@57074
+So you came back only to be laughed at?
+
+@57075
+But I have brought back something that will serve you, Prime Minister. Please look.
+
+@57076
+...... ......
+
+@57077
+Grrr... The despicable wretches!
+
+@57078
+Summon Cai Mao and Zhang Yun at once!
+
+@57079
+Yes, sir!
+
+@57080
+Cai Mao, Zhang Yun, send out the army at once.
+
+@57081
+With respect, the troops' training is not yet complete. If we could have a little more time...
+
+@57082
+So that when the training is done, you can deliver my head to Zhou Yu?!
+
+@57083
+What?!
+
+@57084
+Behead these men at once!
+
+@57085
+Yes, sir!
+
+@57086
+Prime Minister! Please wait! This is someone's scheme!
+
+@57087
+Thus Zhou Yu turned Jiang Gan against his master and got rid of Cai Mao and Zhang Yun of the Jingzhou navy.
+
+@57088
+Cao Cao later saw through the ruse but would not admit his mistake, and gave the navy to Yu Jin and Mao Jie.
+
+@57089
+Losing Cai Mao and Zhang Yun was a heavy blow, but his army, said to be a million strong, was still intact.
+
+@57090
+Cao, you traitor! Now you know!
+
+@57091
+Zhou Yu crushed Cao Cao's army at Red Cliffs and for a time drove him back north.
+
+@57092
+Later, on his way to Jingzhou to invade Shu, Zhou Yu suddenly fell ill and died.
+
+@57093
+Lu Su, who succeeded Zhou Yu as Commander-in-Chief, allied with Liu Bei to hold Cao Cao in check, but...
+
+@57094
+In the 17th year of Jian'an (212), after Liu Bei had left Jingzhou, Cao Cao at last attacked south of the Yangtze to avenge Red Cliffs.
+
+@57095
+Oh! A splendid fleet. So Wu has made these preparations in just a few years.
+
+@57096
+It seems Sun Quan moved his capital to Jianye and built a fort here at Ruxu to hold us off.
+
+@57097
+Oh, that ship... Isn't that Sun Quan?
+
+@57098
+Indeed, it seems so.
+
+@57099
+How splendid... I wish I had a son like that.
+
+@57100
+Next to Sun Quan, Liu Biao's sons are mere dogs and pigs.
+
+@57101
+Duke of Wei, that fleet seems to be heading this way. Please return to camp.
+
+@57102
+Well prepared for defense, Sun Quan's army had the upper hand in the fighting.
+
+@57103
+Weary from battle, Cao Cao dozed off and had a strange dream.
+
+@57104
+In it, two suns shone in the sky, and then a third sun rose from the Yangtze and climbed into the sky.
+
+@57105
+Ugh... A d-dream... But what was that... A good omen, or an ill one?
+
+@57106
+A sun rising out of the Yangtze... Is that Sun Quan...? Grr, Xu Chu, come with me.
+
+@57107
+Yes, sir!
+
+@57108
+It was around here that I saw it in my dream...
+
+@57109
+Hm?
+
+@57110
+Ho, so that is Cao Cao I see there.
+
+@57111
+Sun Quan!
+
+@57112
+Cao Cao, you already rule the Central Plains and have all the wealth you could want. Why invade the lands south of the Yangtze?
+
+@57113
+Because you do not obey the imperial house, I have come with an edict to punish you.
+
+@57114
+Silence! All the realm knows you give orders to the lords in the name of the Son of Heaven.
+
+@57115
+Curse you! You dare say that...
+
+@57116
+Seize him!
+
+@57117
+Heh heh, Cao Cao, you have grown old. Let's go! Everyone, attack!
+
+@57118
+When the pro-Liu Bei Lu Su died of illness and Lu Meng became Commander-in-Chief, Wu changed course and struck Guan Yu in Jingzhou from behind.
+
+@57119
+Wu defeated and killed Guan Yu and won its long-desired Jingzhou. But Liu Bei of Shu-Han, enraged, invaded Jingzhou with a great army.
+
+@57120
+Against the Shu-Han army, fired up by a war of vengeance, Wu lost battle after battle. Wu's very survival was at stake.
+
+@57121
+Liu Bei will not accept peace. He insists he will destroy our state first and then destroy Wei...
+
+@57122
+He seems deaf to his retainers' warnings. King of Wu, what will you do?
+
+@57123
+Grr, how terrible... So killing Guan Yu was a mistake after all...
+
+@57124
+Lu Meng is no longer of this world. Is there no one who can hold off Liu Bei's fierce attack?
+
+@57125
+King of Wu, there is a great man able to hold up Heaven itself. Why do you not employ him?
+
+@57126
+Oh, Kan Ze. Who might that be?
+
+@57127
+Lu Boyan, the 2nd General of the West.
+
+@57128
+Lu Xun hides within him great strategy and talent, a man fully the equal of Lord Zhou Yu.
+
+@57129
+Employ him and Shu is sure to be defeated. Should Lu Xun lose, punish me with him.
+
+@57130
+What are you saying, Kan Ze! Lu Xun is nothing but a scholar.
+
+@57131
+Lu Xun is young and has no following. The other retainers may not obey his orders...
+
+@57132
+Lu Xun's talent is good for governing a commandery at best. He cannot be trusted with the great affairs of state.
+
+@57133
+Long ago, Lord Zhou Yu decided Wu's military affairs, and then Lord Lu Su and Lord Lu Meng succeeded him.
+
+@57134
+And Lord Lu Meng, while he lived, recommended Lu Boyan. King of Wu, please decide.
+
+@57135
+Hmm, it is true that Lu Meng thought highly of Lu Xun...
+
+@57136
+Very well, I will take the gamble. Summon Lu Xun at once.
+
+@57137
+King of Wu, please wait!
+
+@57138
+Silence! My mind is already made up.
+
+@57139
+Lu Xun, I entrust you with the whole army. I want you to crush the Shu army without fail.
+
+@57140
+I gladly accept this great command. But I have neither rank nor fame.
+
+@57141
+I therefore beg you to give me the command once more, before all the civil and military officials.
+
+@57142
+In ancient times, when a commander was appointed, an altar was always built and a ceremony held, so that his orders carried weight.
+
+@57143
+Great King, please follow that custom and appoint Lord Boyan Commander-in-Chief.
+
+@57144
+I see. Very well, make the preparations at once.
+
+@57145
+Lu Xun, I appoint you Commander-in-Chief and grant you full authority to repel the Shu army.
+
+@57146
+I hereby bestow this precious sword on Lu Xun. All of you, obey Lu Xun's orders as you would my own.
+
+@57147
+Lu Xun brilliantly defeated the Shu-Han army. A great new strategist had saved Wu from crisis.
+
+@57148
+Zhou Yu, Lu Su, Lu Meng and now Lu Xun... Wu had been upheld by these great commanders.
+
+@57149
+This also proves Sun Quan's rare eye for his retainers' abilities, and his greatness of heart in trusting them.
+
+@57150
+Commander-in-Chief, I owe you an apology.
+
+@57151
+What is it?
+
+@57152
+I never dreamed you had such divine strategy. I apologize for complaining.
+
+@57153
+I have served the House of Sun for three generations, but...
+
+@57154
+...this great victory truly fills me with admiration.
+
+@57155
+It is all in the past. Rather, I am grateful that everyone fought so well.
+
+@57156
+Ah, Lu Xun. Your work this time was truly splendid.
+
+@57157
+No, it is all thanks to your power, King of Wu, and the deeds of the officers and men.
+
+@57158
+If more great men like you come forth in our state, I can rest easy.
+
+@57159
+Everyone kept grumbling about rank and fame, but you drove off the Shu army splendidly.
+
+@57160
+...... ......
+
+@57161
+My judgment was not wrong after all. Lu Xun, keep working as my right arm from now on.
+
+@57162
+Yes, my lord!
+
+@57163
+After this, Lu Xun served Sun Quan well and defended the state time and again.
+
+@57164
+And in the 4th month, in summer of the 8th year of Huangwu (229)...
+
+@57165
+King of Wu, they say Prime Minister Zhuge of Shu has marched north again and won a great victory over Cao Zhen of Wei.
+
+@57166
+Now is truly the time to strike Wei and take the Central Plains!
+
+@57167
+As Lord Gu Yong says, there will never be a chance like this again.
+
+@57168
+Hmm, what should I do...?
+
+@57169
+King of Wu, they say a phoenix lately alighted on a hill east of Wuchang, and a yellow dragon often appears in the Yangtze.
+
+@57170
+My lord, your virtue equals that of Yao and Shun, and your wisdom that of King Wen and King Wu.
+
+@57171
+Why not take the imperial throne at once, and then send out the army?
+
+@57172
+Oh, what Lord Zibu says is entirely right.
+
+@57173
+Very well. I too shall take the throne.
+
+@57174
+And so Sun Quan built an altar in the southern outskirts of Wuchang, chose an auspicious day and held his enthronement.
+
+@57175
+He named his father Sun Jian Emperor Wulie and his brother Sun Ce King Huan of Changsha, and changed the era to Huanglong.
+
+@57176
+Thus, after Wei and Shu-Han, a new emperor arose in Wu as well.
+
+@57177
+The three kingdoms stood side by side, and the land had three emperors at once.
+
+@57178
+My lord, a mighty man in the enemy army named Chen Wu, styled Zilie, sends word that he is ready to help us. Let us send a messenger at once and have him cause havoc inside the castle.
+
+@57178.1
+This battle holds the fate of our army. Think it over carefully.
+
+@57179
+Liu Bei, who had lamented his idle years, visited Zhuge Liang, the Sleeping Dragon, three times and won him as his strategist.
+
+@57180
+Brother never leaves Kongming's side for a moment.
+
+@57181
+True. It's as if he's lovesick...
+
+@57182
+Hmph, what can a youngster like that do? Isn't Brother far too taken with him?
+
+@57183
+Hmm, there are the other retainers to think of too... I'll talk to Brother directly.
+
+@57184
+Brother, are you not favoring Kongming a little too much lately?
+
+@57185
+He has not done anything of merit since he joined us...
+
+@57186
+Having Kongming is to me like a fish finding water. You will soon understand.
+
+@57187
+Water, eh...
+
+@57188
+A few days later came word that Cao Cao's army was attacking Xinye. Liu Bei at once summoned Zhuge Liang and asked for a plan.
+
+@57189
+That is no problem. The problem lies rather within.
+
+@57190
+Within?
+
+@57191
+However I plan, will Lord Guan Yu and Lord Zhang Fei obey?
+
+@57192
+True. Those two are stubborn and may not obey willingly.
+
+@57193
+I have an idea. Would you lend me your sword, my lord?
+
+@57194
+Very well. I am counting on you.
+
+@57195
+It seems tens of thousands of Cao Cao's troops under Xiahou Dun have marched out toward Xinye.
+
+@57196
+What should we do? Let me hear everyone's views.
+
+@57197
+Quite a fire we have here. Why not send in the "water"?
+
+@57198
+Water...? You mean Kongming?
+
+@57199
+Zhang Fei, mind your tongue! This is no time for such jokes.
+
+@57200
+My lord, there is no need to worry. I, Kongming, have a plan.
+
+@57201
+Oh, is that so? Then I leave it to Kongming.
+
+@57202
+Understood. Then let me explain the plan.
+
+@57203
+Brother, I won't take orders from a scholar who's never even been to war!
+
+@57204
+Lord Zhang Fei, this is the sword I have borrowed from our lord.
+
+@57205
+If you will not obey orders, I will cut you down on the spot.
+
+@57206
+What? Cut me down?! Interesting. You think you can cut down Zhang Fei with those arms?!
+
+@57207
+Stop, Zhang Fei! To defy Kongming, who carries Brother's sword, is to defy Brother's command.
+
+@57208
+Let us follow Kongming's plan this once.
+
+@57209
+All right. If you say so, Brother, I'll go along just this once.
+
+@57210
+Well then, Kongming, where shall we meet Xiahou Dun? Or do we shut ourselves up in the castle?
+
+@57211
+No, this castle is not suited for defense. The best plan is to meet him at Bowang Slope, north of the castle.
+
+@57212
+Bowang has Mount Yu on the left and the Anlin woods on the right, ideal for hiding troops. First...
+
+@57213
+Zhuge Liang gave detailed orders to every officer. In the 13th year of Jian'an (208), it was the Sleeping Dragon's first battle.
+
+@57214
+When Zhuge Liang's plan defeated Cao Cao's army at Bowang Slope, even Guan Yu and Zhang Fei had to recognize his ability.
+
+@57215
+Time passed. In the 18th year of Jian'an (213), Liu Bei set out to conquer Shu and realize the Plan to Divide the Realm in Three.
+
+@57216
+Liu Bei's army took Fushui Pass, held by Yang Huai and Gao Pei of Shu, and held a victory feast in the great hall.
+
+@57217
+Hahaha! What a merry feast today!
+
+@57218
+My lord, to call invading another state "merry" is not fitting for one who holds benevolence and righteousness dear.
+
+@57219
+What are you saying! Did King Wu of Zhou not dance when he struck down the tyrant Zhou?
+
+@57220
+Is that against the way of benevolence too? You spoil a fine feast! How unpleasant! Leave!
+
+@57221
+...... ......
+
+@57222
+...... ......
+
+@57223
+...Hmm, maybe I went a little too far... Someone, bring Pang Tong here.
+
+@57224
+...... ......
+
+@57225
+Pang Tong, forgive me. I was wrong earlier.
+
+@57226
+No, lord and subject were both in the wrong. Not you alone, my lord.
+
+@57227
+Hahaha! Yes, that's true.
+
+@57228
+By the way, my lord, though we have taken Fushui Pass, Chengdu is still a long way off.
+
+@57229
+The enemy will dig in desperately behind their natural defenses.
+
+@57230
+Yes, quite so. We must think of our next step at once...
+
+@57231
+When the feast was over, Liu Bei at once began preparing to resume the march on Chengdu.
+
+@57232
+Meanwhile, Liu Zhang of Shu, shocked by the fall of Fushui Pass, gathered his officials and held council after council.
+
+@57233
+Fushui Pass is taken, and both Yang Huai and Gao Pei are lost.
+
+@57234
+To think that Liu Bei would betray me...
+
+@57235
+My lord, let us send troops to Luo Castle at once, strengthen the defenses and hold off the enemy.
+
+@57236
+If we guard the key road at Luo, not even Liu Bei's best troops will get through.
+
+@57237
+My lord, please give that task to me, Zhang Ren.
+
+@57238
+I-is that so... I am counting on you. If Luo Castle is taken too, Chengdu will be in real danger.
+
+@57239
+Have no fear. I will surely hold off Liu Bei's army.
+
+@57240
+And so Liu Zhang's army, with Zhang Ren as commander, set out to stop Liu Bei's invasion at the stronghold of Luo Castle.
+
+@57241
+Having taken Luo Castle, Liu Bei's army at last surrounded Chengdu. Liu Zhang had no strength to weather this crisis and surrendered without a fight.
+
+@57242
+Liu Bei entered Chengdu and won the land of Shu. Zhuge Liang's Plan to Divide the Realm in Three had been achieved.
+
+@57243
+Later Liu Bei and Sun Quan quarreled over Jingzhou, but when Cao Cao invaded Hanzhong, Liu Bei quickly made peace with Sun Quan.
+
+@57244
+When Cao Cao took Hanzhong, Sima Yi and others urged him to go on and invade Shu, but...
+
+@57245
+...Cao Cao rejected it and withdrew from Hanzhong.
+
+@57246
+"I already have Long. Why should I also covet Shu?"
+
+@57247
+You mean the story that Cao Cao said that, playing Emperor Guangwu? How like Cao Cao.
+
+@57248
+But in truth, he must have been worried about Sun Quan of Wu.
+
+@57249
+However mighty Cao Cao's army may be, it cannot take on us and Wu at the same time.
+
+@57250
+Hanzhong is the throat of Shu. Unless we hold it, Shu will be in danger, as when we let Zhang He invade.
+
+@57251
+Besides, if we are to march north into the Central Plains, we must have Hanzhong.
+
+@57252
+Now, with Cao Cao gone, is truly the moment to invade Hanzhong.
+
+@57253
+Yes, I understand. Let us raise an army at once to conquer Hanzhong.
+
+@57254
+But one thing worries me. When Cao Cao returned to the capital, he left Xiahou Yuan in Hanzhong.
+
+@57255
+Xiahou Yuan is one of Cao Cao's finest officers. Can we take Hanzhong from him so easily?
+
+@57256
+We have no choice but to summon Lord Zhang Fei from Baxi and send him to Hanzhong.
+
+@57257
+Indeed. Who but Lord Zhang Fei could stand against Xiahou Yuan?
+
+@57258
+Wait! I, Huang Hansheng, am not to be looked down on. Give the order to me.
+
+@57259
+Lord Huang Zhong? Forgive me, but I fear Xiahou Yuan may be too much for a man of your years...
+
+@57260
+What are you saying! I am still a match for any youngster!
+
+@57261
+Very well. I appoint Huang Zhong commander of the Hanzhong campaign, with Fa Zheng as his advisor.
+
+@57262
+Take Mount Dingjun at once and bring me Xiahou Yuan's head!
+
+@57263
+Yes, my lord!
+
+@57264
+Riding the momentum of his victory at Mount Dingjun, Liu Bei drove Cao Cao's forces out of Hanzhong and made himself King of Hanzhong.
+
+@57265
+When Cao Pi later received the throne by abdication, Liu Bei countered by founding Shu-Han and taking the throne himself.
+
+@57266
+But later, Liu Bei invaded Wu to retake Jingzhou, fell victim to Lu Xun's fire attack at Yiling, and suffered a crushing defeat.
+
+@57267
+Never recovering from the grief of defeat, Liu Bei entrusted the future to Zhuge Liang and died at Yong'an.
+
+@57268
+Your Majesty, grave news!
+
+@57269
+Oh, Prime Minister. What is it?
+
+@57270
+A fast rider has come from Wang Kang, Protector of Jianning.
+
+@57271
+Meng Huo of the Nanman has raised a great army and crossed our borders.
+
+@57272
+Wh-what... What should We do?
+
+@57273
+That the Nanman will not bow to Your Majesty's authority is a grave peril to the state. I will go and subdue them myself.
+
+@57274
+But what shall We do if Wei or Wu moves while you are away...?
+
+@57275
+Wu has only just made peace with us, and Wei has just suffered a great defeat at Wu's hands. There is no need to worry.
+
+@57276
+I believe now is the time to pacify the Nanman.
+
+@57277
+V-very well. We leave it all to you, Prime Minister.
+
+@57278
+Yes, Your Majesty.
+
+@57279
+And so the southern expedition set out from Chengdu. With it marched Ma Su, whose talent Zhuge Liang rated highly.
+
+@57280
+Ma Su, have you any views on the campaign against the Nanman?
+
+@57281
+Yes. I think it will be very difficult.
+
+@57282
+Oh? Difficult in what way?
+
+@57283
+The Nanman lands are remote. Even if we pacify them by force...
+
+@57284
+...they will turn against us again as soon as our army leaves.
+
+@57285
+Yes, exactly.
+
+@57286
+It is said: "To attack the heart is the best plan; to attack the city, the worst."
+
+@57287
+I believe what matters is winning their hearts.
+
+@57288
+Yes, exactly so. I was thinking the same...
+
+@57289
+For the future of Shu-Han, Zhuge Liang had to win the hearts of the Nanman at any cost.
+
+@57290
+With the Nanman pacified, in the 5th year of Jianxing (227) Zhuge Liang began the northern campaign, the late emperor Liu Bei's dearest wish.
+
+@57291
+After Liu Bei's death, Wei had made no preparations against Shu. When it heard Zhuge Liang had marched, court and country alike trembled.
+
+@57292
+Xiahou Mao's hastily formed army was brushed aside by Shu-Han, and Wei faced its greatest crisis since its founding.
+
+@57293
+They say Zhuge Liang has crushed Lord Xiahou Mao and, riding that momentum, is heading for Qishan.
+
+@57294
+Oh, no... Is there no one who can lead an army and drive back the Shu troops?
+
+@57295
+I have seen how the late emperor employed Supreme Commander Cao Zhen, and won wherever he went.
+
+@57296
+I believe it is right to appoint Lord Cao Zhen Commander-in-Chief and drive back the Shu army.
+
+@57297
+Cao Zhen, the late emperor entrusted Us to your care. Will you still stand by and watch?
+
+@57298
+But a man of my poor talents is not equal to this task.
+
+@57299
+General, you are a pillar of the state. I will go with you, for what I am worth, so please do not decline.
+
+@57300
+I have received great favor from the state. I gladly obey, but I ask to be granted a deputy.
+
+@57301
+Who? Speak.
+
+@57302
+Guo Huai of Taiyuan. Please allow me to have him as my deputy.
+
+@57303
+Very well. Then We appoint you Commander-in-Chief. Go and meet the Shu army at once!
+
+@57304
+As you command.
+
+@57305
+Guo Huai, thank you for coming so quickly. Be my right arm and give me good counsel.
+
+@57306
+Then I have an idea right away.
+
+@57307
+If we move the Western Qiang to strike the Shu army from behind and catch it in a pincer, our great victory is assured.
+
+@57308
+Oho, you would even bring in the Western Qiang? Interesting. Send an envoy at once. Good! We too prepare to march!
+
+@57309
+When Shu-Han won at Qishan, Wei was thrown into uproar. It had no one to match Zhuge Liang.
+
+@57310
+Your Majesty, I believe there is only one man in Wei who can fight Zhuge Liang.
+
+@57311
+What! Who is it?
+
+@57312
+Sima Yi. He was stripped of office on suspicion of rebellion, but...
+
+@57313
+That the Shu army attacked so soon after Sima Yi was removed suggests it was Zhuge Liang's scheme...
+
+@57314
+We too have regretted that. Very well, restore Sima Yi to his post at once and send him against the Shu army.
+
+@57315
+Thus restored, Sima Yi crushed the Shu-Han army at Jieting. Zhuge Liang marched north again and again after that, but...
+
+@57316
+Sima Yi kept to the defense and held off Shu-Han. Then, in the 12th year of Jianxing (234), Zhuge Liang died in camp at the Wuzhang Plains.
+
+@57317
+The stars tell me that Zhuge Liang has died...
+
+@57318
+Without Zhuge Liang, the Shu army is no enemy at all. We march at once!
+
+@57319
+Just as I thought: without Zhuge Liang, the Shu army is nothing to fear.
+
+@57320
+Hm? What is that...?
+
+@57321
+Wh-what! Zhuge Liang is alive...?
+
+@57322
+Blast, I pursued too far and fell into his trap... Grr! Men, retreat!
+
+@57323
+Sima Yi! He didn't see it was a wooden statue and fell right for it!
+
+@57324
+Even in death, he protects us... Thank you, Prime Minister.
+
+@57325
+Shi, Zhao, look at the remains of the Shu camp. Every part of it is perfectly reasoned.
+
+@57326
+Zhuge Liang truly was the greatest genius of the realm.
+
+@57327
+It is just as you say, Father...
+
+@57328
+By the way, Father, it seems Zhuge Liang really was dead. They say the figure in the carriage was a wooden statue.
+
+@57329
+I see... I can beat the living, but not the dead.
+
+@57330
+Hearing this story, people would say: "A dead Kongming put a living Zhongda to flight."
+
+@57331
+Liu Bei, Guan Yu, Zhang Fei, Zhao Yun, Ma Chao... heroes who fought on to restore the Han. Now the last great star had fallen.
+
+@57332
+Zhuge Liang's will was carried on by Jiang Wei, and northern campaigns were launched again and again until Shu-Han fell.
+
+@57333
+Chengdu, the Shu capital, has a shrine to the officers of Shu-Han, named after Zhuge Liang's posthumous title: the Temple of Marquis Wu.
+

@@ -1,0 +1,741 @@
+@11000
+N[155-00-A]Cao Cao is born
+
+@11001
+N[156-00-A]Sun Jian is born
+
+@11002
+N[159-00-A]Emperor Huan destroys the clan of the consort kin Liang Ji
+
+@11003
+N[161-00-A]Liu Bei is born
+
+@11004
+N[166-00-A]First Proscription of the Partisans
+
+@11005
+N[168-01-A]Emperor Huan dies; Emperor Ling takes the throne
+
+@11006
+N[169-00-A]Second Proscription of the Partisans
+
+@11007
+N[175-00-A]Sun Ce and Zhou Yu are born
+
+@11008
+N[178-00-A]A string of strange portents, seen as signs of the dynasty's fall
+
+@11009
+N[178-00-A]The sale of offices begins
+
+@11010
+N[181-00-A]Zhuge Liang is born
+
+@11011
+N[182-00-A]Sun Quan is born
+
+@11012
+N[184-02-A]Zhang Jiao takes up arms: the Yellow Turban Rebellion begins
+
+@11013
+N[184-03-A]Liu Bei, Guan Yu and Zhang Fei swear the Oath of the Peach Garden
+
+@11014
+N[184-08-A]Zhang Jiao dies of illness
+
+@11015
+N[187-00-A]Cao Pi is born
+
+@11016
+N[187-10-A]Sun Jian is made Marquis of Wucheng for crushing a revolt
+
+@11017
+N[188-08-A]The Eight Colonels of the Western Garden are created; Cao Cao and Yuan Shao among them
+
+@11018
+N[189-04-A]Emperor Ling dies; Emperor Shao takes the throne
+
+@11019
+N[189-08-A]He Jin is assassinated by the Ten Attendants
+
+@11020
+N[189-08-A]Yuan Shao, Cao Cao and others massacre the palace eunuchs
+
+@11021
+N[189-08-A]Dong Zhuo enters Luoyang and seizes control of the court
+
+@11022
+N[189-09-A]Dong Zhuo deposes Emperor Shao and enthrones Emperor Xian
+
+@11023
+N[189-09-A]Cao Cao fails to assassinate Dong Zhuo and flees
+
+@11024
+N[189-12-A]Cao Cao raises an army at Chenliu
+
+@11025
+N[190-01-A]The great alliance against Dong Zhuo is formed
+
+@11026
+N[191-02-A]Battle of Hulao Pass
+
+@11027
+N[191-02-A]Dong Zhuo's officer Hua Xiong is cut down
+
+@11028
+N[190-03-A]Dong Zhuo moves the capital from Luoyang to Chang'an
+
+@11029
+N[190-03-A]Sun Jian finds the Imperial Seal in a well in Luoyang
+
+@11030
+N[191-07-A]Yuan Shao seizes Jizhou from Han Fu
+
+@11031
+N[191-11-A]Sun Jian falls fighting Liu Biao at Xiangyang
+
+@11032
+N[192-01-A]Battle of Jieqiao
+
+@11033
+N[192-04-A]Dong Zhuo is assassinated by Wang Yun and Lu Bu
+
+@11034
+N[192-06-A]Li Jue seizes Chang'an and kills Wang Yun
+
+@11035
+N[192-12-A]Cao Cao takes the Yellow Turban remnants of Qingzhou into his army
+
+@11036
+N[193-09-A]Cao Cao's father Cao Song is murdered by Zhang Kai
+
+@11037
+N[193-10-A]Cao Cao attacks Tao Qian in Xuzhou to avenge his father
+
+@11038
+N[194-01-A]Liu Bei and Kong Rong go to the aid of Xuzhou
+
+@11039
+N[194-02-A]Lu Bu attacks Yanzhou while Cao Cao is away
+
+@11040
+N[194-02-A]Cao Cao makes peace with Tao Qian to save Yanzhou
+
+@11041
+N[194-12-A]Tao Qian dies of illness this year
+
+@11042
+N[194-12-A]Liu Yan dies of illness this year
+
+@11043
+N[194-12-A]Tao Qian's last testament leaves Xuzhou to Liu Bei
+
+@11044
+N[195-04-A]Lu Bu is defeated by Cao Cao at Dingtao
+
+@11045
+N[195-07-A]Lu Bu seeks refuge with Liu Bei in Xuzhou
+
+@11046
+N[196-01-A]Emperor Xian escapes Chang'an and returns to Luoyang
+
+@11047
+N[196-09-A]Cao Cao takes in Emperor Xian and moves the capital to Xuchang
+
+@11048
+N[196-10-A]Lu Bu betrays Liu Bei and seizes Xuzhou
+
+@11049
+N[196-12-A]Sun Ce pawns the Imperial Seal to borrow troops from Yuan Shu
+
+@11050
+N[197-03-A]Yuan Shu proclaims himself emperor
+
+@11051
+N[197-05-A]Cao Cao suffers a crushing defeat by Zhang Xiu at Wan
+
+@11052
+N[197-09-A]Cao Cao, Sun Ce, Liu Bei and Lu Bu join forces against Yuan Shu
+
+@11053
+N[198-04-A]Cao Cao is defeated by Zhang Xiu and Liu Biao at Nanyang
+
+@11054
+N[198-12-A]Lu Bu, Chen Gong and Gao Shun are executed at Xiapi
+
+@11055
+N[198-12-A]Liu Bei meets Emperor Xian and is made General of the Left
+
+@11056
+N[199-01-A]The great hunt at Xutian is held
+
+@11057
+N[199-01-A]Dong Cheng receives a secret edict to bring down Cao Cao
+
+@11058
+N[199-01-A]Defeated by Yuan Shao at Yijing, Gongsun Zan takes his own life
+
+@11059
+N[199-03-A]Cao Cao and Liu Bei discuss heroes in the plum garden
+
+@11060
+N[199-05-A]Liu Bei sets out for Xuzhou, claiming to fight Yuan Shu
+
+@11061
+N[199-06-A]Yuan Shu is defeated by Liu Bei and dies
+
+@11062
+N[199-12-A]Yuan Shao and Cao Cao face each other at Guandu
+
+@11063
+N[199-12-A]On the advice of his strategist Jia Xu, Zhang Xiu submits to Cao Cao
+
+@11064
+N[199-12-A]Mi Heng hurls bitter abuse at Cao Cao and his men
+
+@11065
+N[200-01-A]The secret edict comes to light; Dong Cheng and others are executed
+
+@11066
+N[200-01-A]Attacked by Cao Cao, Liu Bei goes to Yuan Shao
+
+@11067
+N[200-01-A]To protect his lord's wives, Guan Yu reluctantly yields to Cao Cao
+
+@11068
+N[200-02-A]Battle of Baima
+
+@11069
+N[200-02-A]At Baima, Guan Yu cuts down the fierce general Yan Liang
+
+@11070
+N[200-03-A]Guan Yu leaves Cao Cao
+
+@11071
+N[200-04-A]Sun Ce dies of illness, leaving his affairs to Sun Quan
+
+@11072
+N[200-04-A]Liu Bei is reunited with Guan Yu and Zhang Fei
+
+@11073
+N[200-09-A]Battle of Guandu
+
+@11074
+N[200-10-A]Cao Cao burns Yuan Shao's food stores at Wuchao
+
+@11075
+N[201-09-A]Crushed at Runan, Liu Bei seeks refuge with Liu Biao in Jingzhou
+
+@11076
+N[202-05-A]Yuan Shao dies of illness
+
+@11077
+N[203-02-A]Cao Cao defeats Yuan Tan and Yuan Shang at Liyang
+
+@11078
+N[203-08-A]Cao Cao turns his army toward Jingzhou
+
+@11079
+N[203-11-A]Sun Quan attacks Huang Zu; Ling Cao falls to Gan Ning's arrow
+
+@11080
+N[204-07-A]Cao Cao pacifies Jizhou
+
+@11081
+N[205-01-A]Cao Cao slays Yuan Tan and pacifies Qingzhou
+
+@11082
+N[205-01-A]Yuan Xi and Yuan Shang flee to the land of the Wuhuan
+
+@11083
+N[206-03-A]Cao Cao defeats Gao Gan and pacifies Bingzhou
+
+@11084
+N[207-01-A]Liu Shan is born
+
+@11085
+N[207-08-A]Cao Cao subdues the Wuhuan
+
+@11086
+N[207-09-A]Gongsun Kang sends the heads of Yuan Xi and Yuan Shang to Cao Cao
+
+@11087
+N[208-01-A]After three visits, Zhuge Liang becomes Liu Bei's advisor
+
+@11088
+N[208-01-A]Cao Cao digs the Xuanwu Pool to train his navy
+
+@11089
+N[208-03-A]Sun Quan slays Huang Zu
+
+@11090
+N[208-04-A]Liu Qi takes up the defense of Jiangxia
+
+@11091
+N[208-06-A]Cao Cao becomes Prime Minister of Han
+
+@11092
+N[208-07-A]Cao Cao begins his southern campaign
+
+@11093
+N[208-08-A]Liu Biao dies of illness; his heir Liu Cong surrenders to Cao Cao
+
+@11094
+N[208-09-A]Battle of Changban
+
+@11095
+N[208-09-A]Liu Bei sends Zhuge Liang to Wu
+
+@11096
+N[208-09-A]Persuaded by Zhuge Liang, Sun Quan resolves to fight
+
+@11097
+N[208-11-A]Battle of Red Cliffs
+
+@11098
+N[208-11-A]Cao Cao returns to Xuchang
+
+@11099
+N[208-12-A]Liu Bei pacifies the four southern commanderies of Jingzhou
+
+@11100
+N[209-01-A]Sun Quan is crushed at Hefei; Taishi Ci is killed
+
+@11101
+N[209-10-A]Liu Bei goes to Wu and marries Sun Quan's sister
+
+@11102
+N[210-01-A]The wedding over, Liu Bei returns to Jingzhou
+
+@11103
+N[210-03-A]The Bronze Sparrow Terrace is completed
+
+@11104
+N[210-12-A]Zhou Yu dies of illness
+
+@11105
+N[211-02-A]Ma Teng is executed in Xuchang
+
+@11106
+N[211-03-A]Ma Chao and Han Sui rise up and take Chang'an and Tong Pass
+
+@11107
+N[211-05-A]Pang Tong becomes Liu Bei's advisor
+
+@11108
+N[211-12-A]Defeated, Ma Chao flees to Longxi
+
+@11109
+N[211-12-A]Liu Bei enters Yizhou to fight Zhang Lu
+
+@11110
+N[212-01-A]Lady Sun, Liu Bei's wife, returns to Wu
+
+@11111
+N[212-04-A]Sun Quan moves his base to Jianye and builds the Stone Fortress
+
+@11112
+N[212-10-A]Xun Yu opposes Cao Cao becoming Duke of Wei and dies in anguish
+
+@11113
+N[212-12-A]Liu Bei turns against Liu Zhang
+
+@11114
+N[213-05-A]Cao Cao becomes Duke of Wei
+
+@11115
+N[213-07-A]Pang Tong is killed at Fallen Phoenix Slope
+
+@11116
+N[213-08-A]Beaten at Jicheng, Ma Chao seeks refuge with Zhang Lu
+
+@11117
+N[214-05-A]Liu Bei enters Chengdu and names himself Governor of Yizhou
+
+@11118
+N[214-07-A]Lu Su goes to meet Guan Yu with a single sword and demands Jingzhou
+
+@11119
+N[214-11-A]Cao Cao has Empress Fu executed
+
+@11120
+N[215-01-A]Cao Cao's daughter becomes Emperor Xian's empress
+
+@11121
+N[215-07-A]Cao Cao defeats Zhang Lu and pacifies Hanzhong
+
+@11122
+N[215-08-A]Liu Bei returns three commanderies of Jingzhou to Sun Quan in a truce
+
+@11123
+N[215-08-A]At Liu Bei's request, Sun Quan sends troops against Hefei
+
+@11124
+N[216-05-A]Cao Cao becomes King of Wei
+
+@11125
+N[216-10-A]Zuo Ci appears at the palace of the King of Wei
+
+@11126
+N[217-10-A]Cao Pi is named Crown Prince of Wei
+
+@11127
+N[217-12-A]Lu Su dies of illness this year
+
+@11128
+N[218-01-A]Geng Ji and others fail to assassinate Cao Cao
+
+@11129
+N[218-04-A]Cao Zhang subdues the Wuhuan
+
+@11130
+N[218-07-A]Huang Zhong attacks Mount Dingjun
+
+@11131
+N[218-07-A]Xiahou Yuan faces Huang Zhong's Shu army
+
+@11132
+N[219-01-A]Huang Zhong slays Xiahou Yuan at Mount Dingjun
+
+@11133
+N[219-05-A]Cao Cao withdraws from Hanzhong
+
+@11134
+N[219-07-A]Liu Bei proclaims himself King of Hanzhong
+
+@11135
+N[219-07-A]Guan Yu takes Xiangyang and besieges Fancheng
+
+@11136
+N[219-11-A]Lu Meng joins hands with Wei and seizes Jiangling
+
+@11137
+N[219-12-A]Guan Yu flees to Maicheng
+
+@11138
+N[219-12-A]Sun Quan has Guan Yu and Guan Ping beheaded
+
+@11139
+N[220-00-A]The Nine-Rank System is established
+
+@11140
+N[220-01-A]Lu Meng dies of illness
+
+@11141
+N[220-01-A]Cao Cao dies of illness; Cao Pi succeeds him as king
+
+@11142
+N[220-07-A]Meng Da surrenders to Wei
+
+@11143
+N[220-10-A]Emperor Xian abdicates to Cao Pi; the Later Han falls
+
+@11144
+N[221-04-A]Liu Bei ascends the throne of Han
+
+@11145
+N[221-07-A]Liu Bei raises an army against Wu
+
+@11146
+N[221-07-A]Zhang Fei is assassinated by Fan Jiang and Zhang Da
+
+@11147
+N[221-08-A]Sun Quan submits to Wei and is made King of Wu
+
+@11148
+N[222-02-A]Liu Bei leads a great army to surround Yiling
+
+@11149
+N[222-06-A]Lu Xun crushes the great Shu-Han army at Yiling
+
+@11150
+N[222-06-A]Liu Bei suffers a crushing defeat at Yiling
+
+@11151
+N[222-07-A]Liu Bei stays at Baidi and renames it Yong'an
+
+@11152
+N[222-09-A]Seizing a chance, Cao Pi invades Wu by three routes
+
+@11153
+N[222-09-A]Lu Xun drives back the great Wei army
+
+@11154
+N[222-10-A]Sun Quan proclaims his own era name in defiance of Wei
+
+@11155
+N[223-04-A]Liu Bei dies of illness; Liu Shan takes the throne
+
+@11156
+N[223-08-A]Deng Zhi secures an alliance with Wu
+
+@11157
+N[224-08-A]Cao Pi attacks Wu with a great army but is repulsed
+
+@11158
+N[225-03-A]Yong Kai and Meng Huo rebel against Shu-Han
+
+@11159
+N[225-03-A]Zhuge Liang leads Zhao Yun, Wei Yan and others south
+
+@11160
+N[225-12-A]His southern campaign over, Zhuge Liang returns to Chengdu
+
+@11161
+N[226-05-A]Cao Pi dies of illness; Cao Rui takes the throne
+
+@11162
+N[227-03-A]Zhuge Liang presents the Memorial on Dispatching the Troops
+
+@11163
+N[227-03-A]Zhuge Liang's northern campaigns begin
+
+@11164
+N[228-01-A]Sima Yi slays the rebel Meng Da
+
+@11165
+N[228-03-A]Ma Su suffers a crushing defeat at Jieting
+
+@11166
+N[228-05-A]Zhuge Liang executes Ma Su and resigns as Prime Minister
+
+@11167
+N[228-05-A]Zhou Fang offers Wei a false surrender
+
+@11168
+N[228-08-A]Lu Xun routs Wei's Cao Xiu at Shiting
+
+@11169
+N[228-09-A]Zhao Yun dies of illness
+
+@11170
+N[228-12-A]2nd northern campaign: Chencang is attacked but holds
+
+@11171
+N[229-04-A]3rd northern campaign: Wudu and Yinping are taken
+
+@11172
+N[229-04-A]Sun Quan becomes the first Emperor of Wu
+
+@11173
+N[230-07-A]Cao Zhen and Sima Yi invade Hanzhong
+
+@11174
+N[230-08-A]Zhuge Liang marches to Chenggu to defend Hanzhong
+
+@11175
+N[230-09-A]Cao Zhen and Sima Yi withdraw in bad weather
+
+@11176
+N[231-02-A]4th northern campaign: advance on Qishan
+
+@11177
+N[231-06-A]Zhuge Liang withdraws, short of supplies
+
+@11178
+N[231-06-A]Zhang He is killed pursuing the Shu army
+
+@11179
+N[233-00-A]Chen Shou, author of the Records of the Three Kingdoms, is born
+
+@11180
+N[233-03-A]Sun Quan makes Gongsun Yuan King of Yan, but is rebuffed
+
+@11181
+N[233-12-A]Cao Rui makes Gongsun Yuan Duke of Lelang
+
+@11182
+N[234-02-A]5th northern campaign: Zhuge Liang camps at the Wuzhang Plains
+
+@11183
+N[234-08-A]Zhuge Liang dies of illness at the Wuzhang Plains
+
+@11184
+N[234-08-A]Learning of the Shu retreat, Sima Yi withdraws
+
+@11185
+N[234-09-A]Wei Yan quarrels with Yang Yi and is killed
+
+@11186
+N[234-10-A]Zhuge Liang's funeral is held at Mount Dingjun
+
+@11187
+N[237-03-A]Gongsun Yuan proclaims himself King of Yan
+
+@11188
+N[238-08-A]Sima Yi executes Gongsun Yuan and his son
+
+@11189
+N[239-00-A]Himiko, queen of Wa, sends tribute to Wei
+
+@11190
+N[239-01-A]Cao Rui dies of illness; Cao Fang takes the throne
+
+@11191
+N[240-12-A]Cao Shuang seizes power in Wei
+
+@11192
+N[241-04-A]Zhuge Jin dies of illness
+
+@11193
+N[243-10-A]Fei Yi becomes Supreme Commander of Shu-Han
+
+@11194
+N[244-03-A]Cao Shuang attacks Hanzhong but is repulsed
+
+@11195
+N[244-12-A]Lu Xun dies of illness this year
+
+@11196
+N[245-11-A]Jiang Wan dies of illness
+
+@11197
+N[249-01-A]Sima Yi kills Cao Shuang and seizes power in Wei
+
+@11198
+N[249-01-A]Xiahou Ba defects to Shu-Han
+
+@11199
+N[249-08-A]Jiang Wei's 1st northern campaign: march on Mount Niutou
+
+@11200
+N[251-08-A]Sima Yi dies of illness
+
+@11201
+N[252-04-A]Sun Quan dies of illness; Sun Liang takes the throne
+
+@11202
+N[253-01-A]Fei Yi is killed by Guo Xun, a Wei officer who had surrendered
+
+@11203
+N[253-09-A]Jiang Wei's 2nd northern campaign: Sima Zhao is trapped on Mount Tielong
+
+@11204
+N[253-10-A]Sun Jun kills Zhuge Ke
+
+@11205
+N[254-09-A]Sima Shi deposes Cao Fang
+
+@11206
+N[254-10-A]Sima Shi puts Cao Mao on the throne
+
+@11207
+N[255-01-A]Guanqiu Jian and Wen Qin rebel against the Sima clan
+
+@11208
+N[255-02-A]Sima Shi dies of illness
+
+@11209
+N[255-08-A]Jiang Wei's 3rd northern campaign: Didao is besieged
+
+@11210
+N[256-07-A]Jiang Wei's 4th northern campaign: crushing defeat at Duangu
+
+@11211
+N[257-05-A]Angered by Sima Zhao's tyranny, Zhuge Dan rebels
+
+@11212
+N[258-02-A]Zhuge Dan is killed in battle
+
+@11213
+N[258-06-A]Jiang Wei's 5th northern campaign: attack on Changcheng
+
+@11214
+N[258-09-A]Sun Chen deposes Sun Liang and enthrones Sun Xiu
+
+@11215
+N[258-12-A]Jiang Wei's 6th northern campaign: attack on Qishan
+
+@11216
+N[258-12-A]Sun Xiu has Sun Chen beheaded
+
+@11217
+N[260-04-A]Sima Zhao has Jia Chong and Cheng Ji kill Cao Mao
+
+@11218
+N[260-06-A]Sima Zhao puts Cao Huan on the throne
+
+@11219
+N[260-08-A]Jiang Wei's 7th northern campaign: attack on Qishan
+
+@11220
+N[262-10-A]Jiang Wei's 8th northern campaign: Xiahou Ba is killed
+
+@11221
+N[262-11-A]Jiang Wei's 9th northern campaign: military farm colonies at Tazhong
+
+@11222
+N[263-07-A]The invasion of Shu-Han begins
+
+@11223
+N[263-08-A]Jiang Wei holds Jiange with his best troops
+
+@11224
+N[263-10-A]Deng Ai strikes through Yinping
+
+@11225
+N[263-11-A]Zhuge Zhan and his son Shang fall at Mianzhu Pass
+
+@11226
+N[263-11-A]Liu Shan surrenders at Chengdu; Shu-Han falls
+
+@11227
+N[263-11-A]Hiding his true aims, Jiang Wei surrenders to Zhong Hui
+
+@11228
+N[264-01-A]Zhong Hui rebels at Chengdu
+
+@11229
+N[264-01-A]Zhong Hui, Jiang Wei and Deng Ai meet their deaths
+
+@11230
+N[264-03-A]Sima Zhao becomes King of Jin
+
+@11231
+N[264-04-A]Liu Shan is made Duke of Anle by Jin
+
+@11232
+N[264-07-A]Sun Xiu dies
+
+@11233
+N[264-07-A]Sun Hao becomes Emperor of Wu
+
+@11234
+N[265-08-A]Sima Zhao dies of illness; Sima Yan succeeds him as king
+
+@11235
+N[265-12-A]Cao Huan abdicates to Sima Yan; Wei falls
+
+@11236
+N[266-00-A]Iyo, queen of Wa, sends tribute to Jin
+
+@11237
+N[266-08-A]Lu Kai becomes Left Prime Minister
+
+@11238
+N[269-02-A]Yang Hu becomes Commander of Jingzhou
+
+@11239
+N[271-10-A]Liu Shan dies
+
+@11240
+N[272-09-A]The Battle of Xiling begins
+
+@11241
+N[273-01-A]Lu Kang drives back the great Jin army at Xiling
+
+@11242
+N[274-12-A]Lu Kang dies of illness this year
+
+@11243
+N[278-11-A]Yang Hu dies
+
+@11244
+N[278-11-A]On Yang Hu's recommendation, Du Yu becomes Commander of Jingzhou
+
+@11245
+N[279-11-A]The invasion of Wu begins
+
+@11246
+N[280-03-A]Wu falls; Jin unifies the realm
+

@@ -1,0 +1,408 @@
+@47000
+Not that button.
+
+@47001
+Not that marker.
+
+@47002
+Not that unit.
+
+@47003
+The tutorial explains the commands that matter most and that you will use most often as the game goes on.
+
+@47004
+This is the state of Lord Liu Bei's domain at the start of Scenario 2.
+
+@47005
+You may be wondering what to do first, but...
+
+@47006
+the number of commands you really need to play the game is not that large.
+
+@47007
+First, the most important one is the "Civil" command.
+
+@47008
+With the "Civil" command you can increase a city's income of gold and food.
+
+@47009
+In this game, a shortage of gold or food often places many limits on the commands you can carry out.
+
+@47010
+In that case, "Merchant" under the "Special" command is also useful.
+
+@47011
+Watch the market prices and trade with merchants to build up your gold and food.
+
+@47012
+"Personnel" is another basic command.
+
+@47013
+Without enough talent, you cannot carry out commands effectively.
+
+@47014
+When you have few officers, use the "Personnel" command and work at recruiting talent.
+
+@47015
+Those three commands are roughly all you need early in the game.
+
+@47016
+For a more detailed explanation, choose the matching command on the tutorial settings screen.
+
+@47017
+Also, while you watch the tutorial, this window may close, leaving only my face.
+
+@47018
+That happens when you are to enter a command yourself. If you want to see my words again...
+
+@47019
+place the mouse cursor on my face and left-click.
+
+@47020
+You can then review what you are supposed to do.
+
+@47021
+A summary is shown at the end; if you are short of time, you may look at just that.
+
+@47022
+That concludes my explanation.
+
+@47023
+This is the state of Lord Liu Bei's domain at the start of Scenario 2.
+
+@47024
+The problem is that both gold and food are scarce.
+
+@47025
+At such times, it is good to use the "Civil" command.
+
+@47026
+Civil affairs come in three kinds: "Farming", "Commerce" and "Public Safety".
+
+@47027
+"Farming" increases food and "Commerce" increases gold. The higher the value, the greater the income.
+
+@47028
+The higher "Public Safety" is, the better the people feel.
+
+@47029
+Now let us try entering it.
+
+@47030
+Left-click the pink square marker labeled "Civil".
+
+@47031
+The Civil window has opened. If you own several cities, you can also enter commands for them all at once.
+
+@47032
+Left-click the button labeled "City".
+
+@47033
+Left-click your force's square markers on the area map to give orders to each city separately.
+
+@47034
+You cannot give orders to cities whose markers are shown pressed in.
+
+@47035
+Lord Liu Bei has only one city, so left-click the green plain.
+
+@47036
+Food income comes in the 7th month and gold in the 1st month, so from the 1st to the 6th month it is best to do Farming.
+
+@47037
+Now let us try entering it. First, choose the officer in charge.
+
+@47038
+Click the "Select Officer" button for "Farming".
+
+@47039
+The "Select Officer" window has appeared. Let us choose Liu Bei here.
+
+@47040
+Left-click to check the box, make sure it is selected, then left-click the "OK" button.
+
+@47041
+Lord Liu Bei's name now appears as the officer in charge of Farming.
+
+@47042
+The entry is complete, so left-click the "OK" button.
+
+@47043
+Now let us see how the "Farming" value changes.
+
+@47044
+This is the info screen a few months after the "Farming" command. The "Farming" value has risen.
+
+@47045
+When Farming rises, food income increases.
+
+@47046
+Developing your cities like this is the basic strategy of the early game.
+
+@47047
+When you start a game, remember: "Civil" comes first.
+
+@47048
+Here, let us learn about the "Military" command.
+
+@47049
+Look at "Infantry" on the main info screen.
+
+@47050
+Your forces seem too small to invade another domain.
+
+@47051
+If you attack another city like this, too few soldiers will be left to defend your own, and you will soon be attacked in turn.
+
+@47052
+So how do you increase your soldiers?
+
+@47053
+At such times, use the "Draft" command.
+
+@47054
+Now let us try entering it.
+
+@47055
+Left-click the red square marker labeled "Military".
+
+@47056
+A bar with five commands has appeared.
+
+@47057
+Next, left-click the marker labeled "Draft".
+
+@47058
+The "Draft" window has opened.
+
+@47059
+If you own several cities, you can left-click the "City" button to choose the city to draft in, but...
+
+@47060
+Lord Liu Bei still has only one city, so only Pingyuan can be chosen.
+
+@47061
+So first, choose the officer who will draft. Let us try entering it.
+
+@47062
+Left-click the "Officer" button.
+
+@47063
+An officer can draft up to their Leadership in soldiers. Here, let us choose Zhang Fei.
+
+@47064
+Select Zhang Fei and left-click.
+
+@47065
+Next, choose the troop type. The types you can draft differ from city to city.
+
+@47066
+Left-click the button to the right of the troop type to choose it, but in Pingyuan only Infantry is available.
+
+@47067
+So next, decide how many soldiers to draft.
+
+@47068
+The number under the troop type shows how many will be drafted.
+
+@47069
+Set the number of soldiers to draft with the input slider on the right, using the mouse.
+
+@47070
+Move the input slider to the position you want with the mouse cursor, then left-click the "OK" button.
+
+@47071
+Look at the Infantry figure in the info window. The Infantry and Total Troops have increased.
+
+@47072
+Once you have drafted, it is finally time to make war on another domain. That is the "War" command.
+
+@47073
+Now let us try entering it.
+
+@47074
+Left-click the red square marker labeled "Military".
+
+@47075
+A bar with five commands has appeared.
+
+@47076
+Next, left-click the marker labeled "War".
+
+@47077
+The "War" window has opened. First, choose the city to attack.
+
+@47078
+Left-click the "Target City" button.
+
+@47079
+You can only target cities next to the city you march from. Cities whose box is pressed in cannot be chosen.
+
+@47080
+Here, let us choose Beihai.
+
+@47081
+Left-click the gray button (Beihai) on the area map, or the name Beihai under the city names.
+
+@47082
+Next, choose the officers who will march out.
+
+@47083
+Left-click the "Officer" button under the army setup.
+
+@47084
+An officer who goes to war should have high Leadership, so let us give the task to Guan Yu.
+
+@47085
+Left-click Guan Yu's box, make sure it is selected, then left-click the "OK" button.
+
+@47086
+Next, choose the Advisor.
+
+@47087
+An Advisor should have high Intellect, so let us give the task to Jian Yong.
+
+@47088
+Left-click Jian Yong's box, make sure it is selected, then left-click the "OK" button.
+
+@47089
+Next, choose the troop type.
+
+@47090
+You choose it with the button to the right of the troop type, but Pingyuan has only Infantry, so Infantry is set automatically.
+
+@47091
+So next, decide how many soldiers will march out.
+
+@47092
+The number under the troops shows how many will march.
+
+@47093
+Set the number of soldiers to march with the input slider on the right, using the mouse.
+
+@47094
+Last, decide the food to carry. Food equal to the number of soldiers is entered automatically.
+
+@47095
+Usually there is no need to change this value.
+
+@47096
+The number under "Food Carried" shows how much food will be carried.
+
+@47097
+Move the input sliders to the right of the troops and the food to the positions you want, then left-click the "OK" button.
+
+@47098
+That is all on marching out. For the fighting itself, see "Battle".
+
+@47099
+Finally, a brief word on "Reinforce", "Raid" and "Trap".
+
+@47100
+"Reinforce" can only be used once an army has been formed with the War command.
+
+@47101
+It is used to strengthen the forces bound for a city where a battle is to be fought.
+
+@47102
+"Raid" is a command to seize gold and food from a city's people when you are short of them.
+
+@47103
+It lowers Farming, Public Safety and so on, so it is best avoided unless you are desperate.
+
+@47104
+"Trap" is a command to lay traps in a city in advance, ready for an enemy attack.
+
+@47105
+Each kind of trap can only be laid in set places. It works on the square it is laid on and the 8 squares around it.
+
+@47106
+If you have gold to spare, it is wise to lay traps often.
+
+@47107
+The "Military" command is essential for unifying China. Master it and strive for victory.
+
+@47108
+Here, let us learn about the "Move" command.
+
+@47109
+"Move" can only be used if you control two or more cities.
+
+@47110
+In this example, Lord Liu Bei holds Xiapi and Xiaopei.
+
+@47111
+If a city has few soldiers, the enemy may invade it.
+
+@47112
+At such times, if you rule other cities, you can move soldiers from there to strengthen its defenses.
+
+@47113
+The "Move" command is used to send soldiers and officers from cities with many to cities with few...
+
+@47114
+or from safe cities in the rear to cities on the front line facing the enemy.
+
+@47115
+Now let us try moving from Xiapi to Xiaopei.
+
+@47116
+Left-click the green square marker labeled "Move".
+
+@47117
+A bar with two commands has appeared.
+
+@47118
+Next, left-click the marker labeled "Troops".
+
+@47119
+The "Troops" window has opened. First, choose the destination city.
+
+@47120
+Left-click the "Destination" button.
+
+@47121
+You can only choose cities linked to the starting city by a supply line. Cities whose box is pressed in cannot be chosen.
+
+@47122
+Here, let us choose Xiaopei.
+
+@47123
+Left-click the green button (Xiaopei) on the area map, or the name Xiaopei under the city names.
+
+@47124
+Soldiers cannot move on their own, so next choose the officers to move.
+
+@47125
+Left-click the "Officer" button under the officers to move.
+
+@47126
+Here, let us give the task to Zhang Fei.
+
+@47127
+Left-click Zhang Fei's box, make sure it is selected, then left-click the "OK" button.
+
+@47128
+Next, decide how many soldiers to move.
+
+@47129
+The number to the right of the remaining Infantry shows how many will move.
+
+@47130
+Set the number of soldiers to move with the input slider on the right, using the mouse.
+
+@47131
+When moving soldiers, take care to leave some soldiers in the city they leave.
+
+@47132
+Move the input slider to the right of the troops to the position you want, then left-click the "OK" button.
+
+@47133
+The officers have been moved.
+
+@47134
+When you own several cities like this, make good use of the "Move" command...
+
+@47135
+so that you run your cities efficiently, never with too many or too few officers and soldiers.
+

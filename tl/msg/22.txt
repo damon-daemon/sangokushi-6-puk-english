@@ -1,0 +1,627 @@
+@22000
+In farming and commerce, no one surpasses you.
+
+@22001
+{C10}, Lord {e03} may be better suited to farming and commerce than you think.
+
+@22002
+In restoring public safety, no one surpasses you.
+
+@22003
+{C10}, Lord {e03} may be better suited to public safety than you think.
+
+@22004
+Whoever runs civil affairs in the capital also affects civil affairs in other cities.
+
+@22005
+Lord {e03} cannot devote any more time to civil affairs this month.
+
+@22006
+Unless we develop land and increase farmland, the harvest will not grow.
+
+@22006.1
+If commerce thrives, the towns will grow and the state's taxes will swell.
+
+@22006.2
+Civil costs depend on the number of officials. Useless staff should be dismissed at once.
+
+@22007
+I have a feeling this will go well.
+
+@22007.1
+We should find someone of talent.
+
+@22007.2
+I too have heard rumors of a notable living in hiding around there.
+
+@22008
+{C10}, you will surely find someone of talent.
+
+@22008.1
+What! You will search yourself? Surely you will find someone splendid.
+
+@22008.2
+{C10}, if you go yourself, it is as good as found.
+
+@22009
+I have someone in mind.
+
+@22009.1
+I am rather confident this time.
+
+@22009.2
+A friend once told me of a hidden talent.
+
+@22010
+{C169} will surely find someone of talent.
+
+@22010.1
+{C169} has an eye for people we can trust.
+
+@22010.2
+If we leave it to {C169}, we cannot go wrong.
+
+@22011
+...I doubt we will find anyone of talent.
+
+@22011.1
+It will most likely be a wasted trip.
+
+@22011.2
+I am sorry to say it, but it will be hard for {C169}.
+
+@22011.3
+Let us not. It will only be wasted effort.
+
+@22011.4
+I have never heard of hidden talent around there.
+
+@22011.5
+It will be hard. Every ruler is desperate to find good people.
+
+@22011.6
+Great men are not easily found to begin with.
+
+@22011.7
+Hidden talent is not found so easily, least of all in these times of war...
+
+@22012
+Even you, my lord, would find it hard to discover such talent.
+
+@22012.1
+Even if you go yourself, my lord, I doubt it will bear fruit.
+
+@22012.2
+{C10}, even if you search yourself, it will be hard to meet anyone outstanding.
+
+@22013
+With respect, I have no one in mind.
+
+@22013.1
+To be honest, I am not confident.
+
+@22013.2
+This time I have no confidence at all.
+
+@22014
+A fine idea. Surely they will agree to join us.
+
+@22014.1
+{C169} will surely persuade {e03}.
+
+@22014.2
+If we leave it to {C169}, there is nothing to worry about.
+
+@22014.3
+I believe there is hope with {e03}.
+
+@22014.4
+An excellent idea. Let us welcome them to our side.
+
+@22014.5
+{e03} will surely join our side.
+
+@22015
+If you persuade them yourself, my lord, you cannot fail.
+
+@22015.1
+{C10}, how could anyone not be swayed by your persuasion?
+
+@22015.2
+{C10}, persuading them in person? Success is certain.
+
+@22016
+I am confident this time. I will bring {e03} back without fail.
+
+@22016.1
+I have a feeling I can persuade them.
+
+@22016.2
+Leave it to me. I will win them over.
+
+@22017
+We should get a favorable answer.
+
+@22017.1
+Surely they will say they wish to serve you, my lord.
+
+@22017.2
+{e03} is not one to stay in the wilds forever.
+
+@22018
+Even {e03} cannot refuse any longer.
+
+@22018.1
+{e03} should be about ready to give in.
+
+@22018.2
+Even {e03} will have no choice but to nod.
+
+@22019
+It will be hard to bring {e03} to our side.
+
+@22019.1
+I think it will be hard to win {e03} over.
+
+@22019.2
+I fear this task is too heavy for {C169}...
+
+@22020
+Even you, my lord, will find it hard to persuade {e03}...
+
+@22020.1
+I do not expect a good answer...
+
+@22020.2
+{C10}, I have a feeling even you will be refused.
+
+@22021
+To be honest, I am not confident.
+
+@22021.1
+This time I have no confidence at all.
+
+@22021.2
+With respect, I see no way to persuade {e03}.
+
+@22022
+It will be hard to move {e03}...
+
+@22022.1
+It will be hard to win {e03} over.
+
+@22022.2
+I do not think {C169} can persuade {e03}.
+
+@22023
+I do not think {e03} will yield.
+
+@22023.1
+They say {e03} shows no sign of changing heart. It will be hard to persuade them...
+
+@22023.2
+{e03} is stubborn. They will not turn easily.
+
+@22024
+{e03} is known for being upright. It will not be so easy.
+
+@22024.1
+It will be hard. {e03} is famous for being upright.
+
+@22024.2
+{e03} values honor. They will not be easily persuaded.
+
+@22025
+Turning a veteran like Lord {e03} will not be easy.
+
+@22025.1
+Given Lord {e03}'s many years of loyalty, I feel it will be hard.
+
+@22025.2
+I wonder... I see no reason for {e03} to turn now.
+
+@22026
+{e03} and {e04} do not seem to get along. This plot should succeed.
+
+@22026.1
+If {e03} promises to turn, it is as good as won. We should try it.
+
+@22026.2
+If this plot works, our victory in battle is all the more certain. Let us await good news.
+
+@22027
+{C10}, surely even {e03} would be moved by you.
+
+@22027.1
+{C10}, if you persuade them, {e03}'s heart will surely be moved.
+
+@22028
+I will go and make {e03} promise to turn.
+
+@22028.1
+I will explain to {e03} how strong our position is in the next battle.
+
+@22028.2
+I will tell {e03} that their defection would turn the battle, and win them over.
+
+@22029
+An excellent plan. It will surely succeed.
+
+@22029.1
+As expected of you, {C10}. You are skilled in intrigue too.
+
+@22029.2
+{C10}, your plots always take the other side's character into account.
+
+@22030
+I am confident. It will surely succeed.
+
+@22030.1
+Leave it to me. I will make this plot succeed without fail.
+
+@22030.2
+A splendid plot. Please let me carry it out.
+
+@22031
+I am amazed. This is what they mean by divine strategy.
+
+@22031.1
+{C169} will surely make this plot succeed.
+
+@22031.2
+{C169}, so rich in cunning, is perfect for this role.
+
+@22032
+If {e03} joined us, victory would be near, but it will not be so easy.
+
+@22032.1
+Hmm... Would {e03} turn so easily?
+
+@22032.2
+{e03} is not one to promise to turn so easily.
+
+@22033
+{C10}, {e03} is not one to be moved even by your persuasion.
+
+@22033.1
+{C10}, I do not think {e03} will turn even if you invite them.
+
+@22033.2
+Please do not. {C10}, if it fails, your life will be in danger!
+
+@22034
+Such an impossible order... You might as well order me to die.
+
+@22034.1
+Whatever I say, I do not think {e03} will turn...
+
+@22034.2
+It will be hard... Me, winning over {e03}...
+
+@22035
+{C10}, it is not worth dirtying your hands to carry this out.
+
+@22035.1
+{C10}, I do not think this plot is worth putting yourself in danger...
+
+@22035.2
+{C10}, even if you carry it out yourself, I doubt it will succeed so easily...
+
+@22036
+I have no confidence that I can make this plot succeed.
+
+@22036.1
+I would like to say it will surely succeed, but I am not confident.
+
+@22036.2
+I have a bad feeling about this... Let us not.
+
+@22037
+Even for {C169}, making this plot succeed will be hard.
+
+@22037.1
+Such unusual plots should not be used too often.
+
+@22037.2
+The art of strategy is to win big with little. But this time...
+
+@22038
+When {e03} raises the banner of revolt, {e04}'s panic will be a sight to see.
+
+@22038.1
+If {e0B} breaks away, it is only a matter of time before {e04} bows to us. Let us await good news.
+
+@22038.2
+I never thought of inciting {e03}. Let us try it.
+
+@22038.3
+What a frightening mind you have... This plot will surely succeed.
+
+@22039
+{C10}, going in person? {e03}'s heart will surely waver.
+
+@22039.1
+{C10}, caught in your scheme, {e03} could rebel at any moment.
+
+@22040
+If {e03} breaks away, it will be a heavy blow to {e04}. I will put it into action at once.
+
+@22040.1
+Inciting {e03}, Protector of {e0B}... How amusing. Let us make it succeed.
+
+@22040.2
+The independence of {e0B} will surely be a great blow to {e04}... Look forward to it.
+
+@22041
+It will not be so easy to drive this tiger.
+
+@22041.1
+I do not think {e03} will betray {e04} so readily.
+
+@22041.2
+Having been made Protector, {e03} is unlikely to betray.
+
+@22041.3
+I think {e03} will not take the bait. It will be hard.
+
+@22041.4
+{e03} has {e04}'s full trust. Breaking away is unlikely...
+
+@22042
+{C10}, even if you incite them yourself, it will be no use.
+
+@22042.1
+Whoever tries, it will be hard to stir up {e03}.
+
+@22043
+Could I really stir up {e03}...? It looks difficult.
+
+@22043.1
+I wonder... {e03} does not seem so shortsighted.
+
+@22044
+A ruler who cannot hold the people's hearts is bound to fall... It should work.
+
+@22044.1
+One betrayed by the people is no ruler at all. An interesting plot.
+
+@22044.2
+The power of the people is not to be scorned. Let {C169} prove it.
+
+@22045
+{C10}, you would use anything, even the people... What a frightening person.
+
+@22045.1
+{C10}, if you take command, it will surely go well.
+
+@22045.2
+{C10}, you are skilled at winning the people's hearts. I leave it to you without worry.
+
+@22046
+Even with some sacrifice, our victory will surely reward the people. For that...
+
+@22046.1
+Leave it to me. I will stir up the people splendidly.
+
+@22046.2
+To save the people of {e0B} from tyranny, we must succeed at all costs.
+
+@22047
+It is no use. Let us simply take {e0B} by force.
+
+@22047.1
+{e04} seems to rule {e0B} well. As things stand, it will be hard.
+
+@22047.2
+Stirring up a great many people is no easy task.
+
+@22047.3
+I do not think the people of {e0B} will be so easily swayed.
+
+@22047.4
+It looks like wasted effort. {e04} seems to hold the people's hearts more than we think.
+
+@22048
+{e0B} is well governed. {C10}, however you incite them, the people will not listen.
+
+@22048.1
+Even for you, {C10}, inciting the people of {e0B} will be hard.
+
+@22049
+They say public safety in {e0B} is good. Unless we change that, inciting them will be hard.
+
+@22049.1
+I can think of no way to stir up the people of {e0B}. Please reconsider.
+
+@22050
+Plots like this thrill me. Let us carry it out at once.
+
+@22050.1
+I can just see the castle of {e0B} thrown into turmoil by rumors.
+
+@22050.2
+Let us spread groundless slander about {e03}. I can hardly wait.
+
+@22051
+Spreading rumors is just like you, {C10}. It is sure to work.
+
+@22051.1
+This plot is the basic one, after all. If you see to it, {C10}, all is well.
+
+@22051.2
+{C10}, you will do it yourself? Then it cannot fail.
+
+@22052
+Let us teach {e03} how frightening rumors can be.
+
+@22052.1
+Leave it to me. I will bring {e0B} down from within.
+
+@22052.2
+Such undercover work is my job too. I will make it succeed without fail.
+
+@22053
+Will it go so well? And if they find out we are behind it...
+
+@22053.1
+Will they believe the rumors so easily?
+
+@22053.2
+Rumors do not always spread as we wish.
+
+@22053.3
+It will only make {C169} waste effort.
+
+@22053.4
+Using rumors as a plot is harder than one imagines.
+
+@22054
+{C10}, I do not think this plot is worth doing yourself.
+
+@22054.1
+{C10}, even if you carry it out, it has little chance of working.
+
+@22055
+{e0B} has good public safety. I am not confident I can make this plot succeed.
+
+@22055.1
+Confusing people's hearts with rumors... It is quite difficult.
+
+@22056
+I doubt it will do much harm on the battlefield, but let us try.
+
+@22056.1
+I think they can slip in well. Let us have them do it.
+
+@22056.2
+With {C169}, {e03} will never suspect a planted officer.
+
+@22056.3
+{C169} will slip in without any trouble.
+
+@22056.4
+Let {C169} work hard for us as a spy.
+
+@22057
+I am confident I can slip in. Let me try.
+
+@22057.1
+I will be waiting for you on the battlefield. Farewell.
+
+@22057.2
+I will work in the shadows to the utmost. Leave it to me.
+
+@22058
+I fear this role is hard for {C169}...
+
+@22058.1
+I do not think {C169} can get into the castle unnoticed.
+
+@22058.2
+It is not easy to get close to {e03}...
+
+@22058.3
+We cannot be sure no one in {e0B} knows {C169}.
+
+@22058.4
+One of such fine character as {C169} would only draw suspicion.
+
+@22059
+I have acquaintances in {e0B}... Please give this role to someone else.
+
+@22059.1
+If I go undercover, who will assist you, my lord? Please do not.
+
+@22059.2
+I am not suited to this task... I do not think it will go well.
+
+@22060
+{C169} could spread the rumor well. It is worth a try.
+
+@22060.1
+Getting accurate information is vital. So we must not let {e03} get it.
+
+@22060.2
+With {e0B}'s defenses thinned, our victory will be all the more certain.
+
+@22060.3
+By the time the force sent toward {e0C} returns, the castle will have fallen to us.
+
+@22060.4
+I can just see {e03} foolishly sending troops toward {e0C}.
+
+@22061
+I look forward to the moment the force sent toward {e0C} realizes the truth.
+
+@22061.1
+{C10}, I can just see the {e03} army dancing to your false report.
+
+@22062
+Understood. I will spread word loudly that the {e04} army is coming.
+
+@22062.1
+I will make {e03} sally out against an {e04} army that will never come.
+
+@22063
+The {e03} army seems to put much effort into spying. It will likely fail.
+
+@22063.1
+No one will believe that the {e04} army is attacking {e0B}!
+
+@22063.2
+I doubt the {e03} army would be fooled into sending troops by such a false report.
+
+@22063.3
+Please do not. Even for {C169}, it would be too hard.
+
+@22063.4
+I regret this plot will not work. It would be better to call it off.
+
+@22064
+{C10}, even if you carry it out, I do not think the {e03} army is so easily fooled.
+
+@22064.1
+{C10}, the chance of success does not justify entering enemy land yourself.
+
+@22065
+{C10}, I am truly glad of your trust, but I am not confident I can succeed.
+
+@22065.1
+{e03}'s Info Network is not to be scorned. I cannot say whether I will succeed.
+
+@22066
+{C10}, it will stain your name. Please do not.
+
+@22066.1
+What good will it do to tighten the noose around your own neck?
+
+@22066.2
+You will turn the people against you. Please do not.
+
+@22066.3
+Do not take the easy road because times are hard. Please take a longer view.
+
+@22066.4
+You must not. I beg you, reconsider.
+
+@22067
+You would stain your own good name?
+
+@22067.1
+{C10}, you mean to tarnish your own name yourself?
+
+@22068
+{C10}, you order me to stain your good name?
+
+@22068.1
+Even if I carry it out, your name will still be stained, {C10}.
+
+@22069
+It cannot be helped. Let us carry it out.
+
+@22069.1
+I think we can gather some. Let us carry it out.
+
+@22069.2
+Needs must. Let us put it into action at once.
+

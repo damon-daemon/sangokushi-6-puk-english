@@ -1,0 +1,900 @@
+@23000
+Well... Now, what excuse do I give Lord Yuan Shao?
+
+@23000.1
+............ Such regret...
+
+@23000.2
+We withdraw for today, but I will repay this debt!
+
+@23000.3
+Retreat! A true hero knows when to pull back.
+
+@23000.4
+Such regret... We withdraw today, but next time I will win!
+
+@23000.5
+Very well, we withdraw! We will avenge this disgrace next time.
+
+@23000.6
+Next time we settle this. Until we meet again.
+
+@23000.7
+This was not supposed to happen... Next time I will win! Fall back! Fall back!
+
+@23001
+To drive me into retreat... Well done, enemy or not.
+
+@23001.1
+We withdraw this time, but next time it will be different!
+
+@23001.2
+That I should be forced to retreat... A blunder.
+
+@23001.3
+We will pull back and regroup. All troops, retreat!
+
+@23001.4
+We will settle this another time! All troops, fall back!
+
+@23001.5
+In war, knowing when to retreat is vital. Now is the time. All troops, retreat!
+
+@23002
+Life is what matters most! Retreat! Retreat!
+
+@23002.1
+War is truly frightening... Let us withdraw while our heads are still on.
+
+@23002.2
+It looks like we will get away safely. Call me a coward if you like.
+
+@23002.3
+He who runs away wins! Retreat! Retreat!
+
+@23002.4
+We cannot fight in a mess like this! Retreat! Retreat!
+
+@23002.5
+On the battlefield, the more cowardly live the longest. Retreat!
+
+@23003
+To drive me into retreat... Splendid, enemy or not.
+
+@23003.1
+That I should be forced to retreat... A blunder.
+
+@23003.2
+Retreating is not in my nature, but it cannot be helped. We withdraw for today.
+
+@23003.3
+We withdraw for today. Be thankful you escaped with your lives.
+
+@23003.4
+Fortune was simply not with us this time. We were not beaten in strength!
+
+@23003.5
+Retreat, here? I have not had my fill of fighting, but it cannot be helped.
+
+@23004
+Retreat is part of strategy too. We fall back for now!
+
+@23004.1
+Only fools know nothing but going forward. Come, we withdraw!
+
+@23004.2
+Knowing when to pull back is vital. Retreat calmly.
+
+@23004.3
+We are safe this far. Retreat without panic.
+
+@23004.4
+If we cannot win, the best plan is to withdraw quickly. Fall back!
+
+@23004.5
+So Heaven favors the enemy... At times like this, retreat is best. Retreat!
+
+@23005
+Very well, we withdraw! Men, keep up!
+
+@23005.1
+This far, we can retreat safely. Come, withdraw!
+
+@23005.2
+Come, retreat! Leave the rest to me.
+
+@23005.3
+Very well, withdraw! Back to our castle!
+
+@23005.4
+Very well, we retreat! No one will think of chasing me now.
+
+@23005.5
+This far, they will not follow. Very well, retreat!
+
+@23006
+I have not had my fill of fighting, but it cannot be helped. Very well, we withdraw!
+
+@23006.1
+Very well, retreat. Next time I will rampage even more!
+
+@23006.2
+If those are the orders, it cannot be helped. We withdraw for now.
+
+@23007
+Come, withdraw! Next time I will show them my strength!
+
+@23007.1
+Very well, retreat. But I wish I had shown them more of my strength.
+
+@23007.2
+We fall back for now, but next time it will be different!
+
+@23008
+The battle has dragged on too long. We will withdraw for now.
+
+@23008.1
+For the battle to drag on so... It cannot be helped. We withdraw and wait for another chance.
+
+@23008.2
+We can fight no longer... We will fall back for now and regroup.
+
+@23008.3
+The battle has dragged on too long. Better to fall back and try again... Sound the retreat!
+
+@23009
+Yes! We have seized the {f15} army's food!
+
+@23009.1
+The {f15} army's food is mine, {e01}'s!
+
+@23009.2
+I, {e01}, have taken the {f15} army's food!
+
+@23009.3
+I, {e01}, have taken the {f15} army's Supply Depot!
+
+@23010
+Yes! We have seized the {f15} army's food!
+
+@23010.1
+The {f15} army's food is mine!
+
+@23010.2
+I have taken the {f15} army's food!
+
+@23010.3
+I have taken the {f15} army's Supply Depot!
+
+@23011
+Even if only for a while, this will lift the men's morale.
+
+@23011.1
+Now we can stave off hunger for a while.
+
+@23011.2
+If only this food can help our army a little...
+
+@23011.3
+I hope this food will lift the men's morale a little...
+
+@23012
+To let the enemy seize our food... Curses, how careless!
+
+@23012.1
+With our food taken, we must settle this in one stroke.
+
+@23012.2
+What a disaster! Without food, the men's morale will plummet...
+
+@23012.3
+Curses, the enemy has taken our food... Press on or pull back? Now is the time to decide.
+
+@23013
+The fire has disabled the %s trap.
+
+@23014
+The fire has set off the Fire Trap.
+
+@23015
+{e01} of the {f15} army was wounded by the fire.
+
+@23016
+{e01} of the {f15} army seems to have been wounded by the fire.
+
+@23017
+{e01} of the {f15} army was burned to death.
+
+@23018
+{e01} of the {f15} army seems to have been burned to death.
+
+@23019
+The bridge is burning and can no longer be crossed.
+
+@23020
+The Supply Depot is on fire.
+
+@23021
+The Supply Depot has burned down.
+
+@23022
+Father, I have arrived. We will strike the enemy camp at once.
+
+@23022.1
+Made it in time! My lord, the reinforcements have arrived, late though we are!
+
+@23022.2
+Zhang Fei of Yan is here! Cao Cao! Your head is mine!
+
+@23022.3
+Cao Cao, traitor to the state! Your luck has run out! Give up!
+
+@23022.4
+Lord Cao Ren! I have arrived. Please hold on a little longer.
+
+@23022.5
+I am Jiang Gongyi. My band are honorable outlaws who roam Jiujiang, but hearing that Lord Sun Jian's son had come, we hurried here. Let us fight with you!
+
+@23022.6
+Prime Minister, I have arrived with the Jing navy.
+
+@23022.7
+Lord Zhou Yu! I am here. Come, let us show them the true might of the Wu navy!
+
+@23022.8
+I am Guan Yu, sworn brother of Liu Xuande! Cao Cao, rebel! This time, give up!
+
+@23022.9
+Your Majesty, I have just arrived with the main navy.
+
+@23022.10
+The Son of Heaven of Shu, blundering into battle himself! Learn the price of your folly!
+
+@23022.11
+My lord, I have just arrived from Jing. Come, let us launch an all-out attack and take the castle in one stroke!
+
+@23022.12
+...It seems we made it in time. Come, men! Do not let the enemy come one step near the castle!
+
+@23022.13
+Lord Huang Zhong! Zhao Zilong has come with reinforcements!
+
+@23022.14
+Brother! Along with the cave chiefs, Wutugu, King of Wuge, has come to help us!
+
+@23022.15
+I have brought my troops myself! Taste the terror of the Qiang armored cavalry!
+
+@23022.16
+At last we are here! Our army will strike the Wei army from the flank! All of you, follow me!
+
+@23022.17
+Lord Zhongda! As you ordered, I have brought reinforcements from the capital!
+
+@23022.18
+Your Majesty, I am late, but I have arrived.
+
+@23022.19
+Lord Zhuge Dan, by order of Lord Sun Chen, we of Wu come to your aid.
+
+@23022.20
+I have just arrived! Come, let us crush them in one stroke!
+
+@23022.21
+Not yet! It is not over yet! Do not give up, all of you!
+
+@23022.22
+Whew, finally here. The enemy is the {f15} forces. Here we go!
+
+@23022.23
+{e01} has arrived! There is nothing more to worry about!
+
+@23022.24
+Now that I, {e01}, am here, stop resisting and surrender to me.
+
+@23022.25
+Now that I, {e01}, am here, know that the {f15} army has no chance left!
+
+@23022.26
+{e01} has arrived, late though I am!
+
+@23022.27
+{e01} is here! I will sweep away the {f15} forces at once.
+
+@23023
+Now that I, {e01}, am here, the {f15} army is nothing to fear.
+
+@23023.1
+What are the {f15} forces to me? I will scatter them right now.
+
+@23023.2
+Now that I am here, the {f15} army is child's play.
+
+@23023.3
+I, {e01}, am your opponent! Come at me, whoever does not value their life!
+
+@23023.4
+I, {e01}, will sweep away the {f15} forces.
+
+@23023.5
+Before me, {e01}, the {f15} army is like a babe. Run while you can!
+
+@23024
+{f15} reinforcements have arrived.
+
+@23025
+The {f15} forces have arrived as reinforcements for {f16}.
+
+@23026
+Lord Yuan Tan seems to have arrived. Let us crush Cao Cao's army in one stroke.
+
+@23026.1
+My lord, the reinforcements seem to have arrived. This battle will decide the realm! My lord, win it and take the realm!
+
+@23026.2
+The second wave seems to have arrived. Come, Lord Ma Chao, do not miss this chance: strike Cao Cao and avenge your father.
+
+@23026.3
+Your father's glory lives on even here... My lord, we must not lose this battle.
+
+@23026.4
+So Lord Yu Jin has arrived... Prime Minister, our army suffers from the long march and local sickness. Better to end this battle quickly than to let it drag on...
+
+@23026.5
+Lord Cheng Pu has arrived... Come, Lord Zhou Yu, the decisive battle is at hand!
+
+@23026.6
+Your Majesty, the whole army has gathered. We await only your order for an all-out attack.
+
+@23026.7
+Lord Zhuge Liang seems to have arrived. He urges an all-out attack, but the enemy's defenses are not to be scorned... Please advance with great care...
+
+@23026.8
+It seems Lord Zhuge Liang has made his move. Come, we must not fall behind.
+
+@23026.9
+Lord Meng Huo, with this many troops, the Shu army is nothing to fear. Let us show them the terror of the Nanman warriors!
+
+@23026.10
+It seems the Qiang have moved... Heh heh, now what will the Shu army do?
+
+@23026.11
+Prime Minister, the units we sent across the Wei River seem to have arrived. Now how will Sima Yi move?
+
+@23026.12
+Father, Lord Guo Huai seems to have returned with reinforcements.
+
+@23026.13
+It seems Lord {e02}'s army has arrived! This will lift the men's morale.
+
+@23026.14
+Word has come that Lord {e02}'s army has arrived! This will lift the men's morale.
+
+@23026.15
+Our allies seem to have arrived! This will lift the men's morale higher than ever.
+
+@23026.16
+At word of the reinforcements, our men seem overjoyed!
+
+@23026.17
+At word of the reinforcements, our men are dancing for joy!
+
+@23026.18
+Reinforcements are a comfort not only to the officers, but to the men as well.
+
+@23027
+Oh, the reinforcements are here! Men, a little longer... Hold out just a little longer.
+
+@23027.1
+So Lord Sun Huan has arrived... Then shall we move to an all-out attack?
+
+@23027.2
+Oh, Lord Wu Yi has come! How reassuring! Heh heh, Liu Bei, I will show you!
+
+@23027.3
+Oh, finally here... ...Sima Zhao, that wretch, sends Us on campaign and arrives late himself...
+
+@23027.4
+Oh, Lord Du Yu has arrived! This is the final battle. Destroy them in one stroke!
+
+@23027.5
+Tao Jun is right! Wu has stood for over 50 years. We must not let it fall so easily.
+
+@23027.6
+It seems Lord {e02}'s army has arrived. This will lift the men's morale.
+
+@23027.7
+Lord {e02} has arrived? Good, this will lift the men's morale.
+
+@23027.8
+At word of Lord {e02}'s arrival, our men seem overjoyed.
+
+@23027.9
+Good, Lord {e02}'s army has arrived? I have been waiting for this!
+
+@23028
+Our allies seem to have arrived. This will lift the men's morale higher than ever.
+
+@23028.1
+At word of the reinforcements, our men seem overjoyed.
+
+@23028.2
+At word of the reinforcements, our men are dancing for joy!
+
+@23028.3
+Yes, the reinforcements have arrived? I have been waiting for this!
+
+@23029
+It seems {e02}'s army has arrived. This will lift the men's morale.
+
+@23029.1
+{e02} has arrived? Good, this will lift the men's morale.
+
+@23029.2
+Good, {e02}'s army has arrived? I have been waiting for this!
+
+@23029.3
+They have come? Good! Signal the arrival of reinforcements, and order all units to rouse the men!
+
+@23030
+It seems Liu Bei of Runan has sent that Zhang Fei. How will the battle go now...
+
+@23030.1
+Oh, Lord Zhou Yu, Lord Xuande's reinforcements seem to have arrived.
+
+@23030.2
+It seems Lord {e15}'s forces have arrived! This will lift the men's morale.
+
+@23030.3
+Word has come that the {f15} army has arrived! This will lift the men's morale.
+
+@23030.4
+As pledged, Lord {e15}'s forces seem to have arrived! Now let us rouse the men!
+
+@23030.5
+At word of the reinforcements, our men seem overjoyed!
+
+@23030.6
+At word of the reinforcements, our men are dancing for joy!
+
+@23030.7
+Reinforcements are a comfort not only to the officers, but to the men as well.
+
+@23031
+Oh, Wu has sent reinforcements. For the sake of Zhuge Jing, our hostage there, we must win this battle...
+
+@23031.1
+It seems Lord {e15}'s forces have arrived. This will lift the men's morale.
+
+@23031.2
+The {f15} army has arrived? Good, this will lift the men's morale.
+
+@23031.3
+Good, Lord {e15}'s forces have arrived? I have been waiting for this!
+
+@23031.4
+They have come? Good! Signal the arrival of reinforcements, and order all units to rouse the men!
+
+@23032
+It seems a trap has been set around here.
+
+@23032.1
+A trap has been set in a place like this!
+
+@23032.2
+Good, I have found a trap!
+
+@23032.3
+Yes, a trap was set here after all.
+
+@23033
+The unit that broke in has opened the %s.
+
+@23034
+D-damn! A trap set in a place like this...
+
+@23034.1
+A tr-trap in a place like this... Aargh... Ohh...
+
+@23034.2
+What, an enemy trap? Curses, damn it!
+
+@23034.3
+Wh-what is it? What! A trap...?
+
+@23035
+D-damn! That I should fall into a trap... A blunder.
+
+@23035.1
+A trap set in a place like this... I was careless.
+
+@23035.2
+Wh-what... An enemy trap! Curses, that I should fall into a trap...
+
+@23035.3
+Damn! A trap! Curses, if we panic now, we play right into their hands.
+
+@23036
+The attacking unit has broken through the %s.
+
+@23037
+{e01} fell into a trap and was killed.
+
+@23038
+{e01} fell into a trap and was wounded.
+
+@23039
+The bridge was destroyed by the %s.
+
+@23040
+This trap has disabled the %s trap.
+
+@23041
+Good, the trap that was set is now useless!
+
+@23041.1
+Removing a trap like this is easy. There!
+
+@23041.2
+Whew, we managed to remove the trap safely!
+
+@23041.3
+Disarm a trap calmly and, see, it is that simple!
+
+@23041.4
+Good, it seems we removed the trap without trouble.
+
+@23041.5
+Once found, a trap is easy to remove. There! Just like that.
+
+@23041.6
+Right, start removing the trap! ...Yes, it seems to be done.
+
+@23041.7
+Best to get rid of traps like this quickly. There!
+
+@23042
+Once you know about them, an ambush is easy to scatter. See?
+
+@23042.1
+Good, the ambush is scattered! Now we can pass safely.
+
+@23042.2
+{C145}... The ambushers scattered like baby spiders!
+
+@23042.3
+Right, men, go and scatter that annoying ambush!
+
+@23043
+Setting a trap in a place like this is useless. {C145}...
+
+@23043.1
+Who would fall for a trap like this? Useless, useless!
+
+@23043.2
+Did you think such petty tricks would work on me? Traps are useless!
+
+@23043.3
+Who would fall for such an obvious trap? Do not waste your efforts.
+
+@23043.4
+Only such obvious traps? It shows how shallow you are.
+
+@23043.5
+A trap the enemy knows of is useless! I will remove it.
+
+@23044
+D-damn! I failed to disarm the trap!
+
+@23044.1
+Curses! Trying to remove a trap, I fell into it instead!
+
+@23044.2
+That I should fail to remove a trap...
+
+@23044.3
+What a disaster! Far from removing the trap, I fell into it!
+
+@23045
+D-damn! I meant to scatter the ambush, but they outwitted me!
+
+@23045.1
+Curses! We knew of the ambush, yet let it take us by surprise!
+
+@23045.2
+Curses, that I should be hit by the ambush's counterattack...
+
+@23045.3
+What a disaster! I meant to scatter the ambush, and they outwitted me!
+
+@23046
+Lord {e02}, now is the time to return to us!
+
+@23046.1
+Lord {e02}, the time has come to use your strength for the {f15} army!
+
+@23046.2
+Lord {e02}, now! Raise the {f15} banner and fight with us!
+
+@23046.3
+Come, Lord {e02}, now is the time to return to us.
+
+@23047
+{e02}, now is the time to return to us!
+
+@23047.1
+{e02}, the time has come to use your strength for the {f15} army!
+
+@23047.2
+{e02}, now! Raise the {f15} banner and fight with us!
+
+@23047.3
+Come, {e02}, now is the time to return to us!
+
+@23048
+Lord {e02}, now is the time to lend us your strength.
+
+@23048.1
+Lord {e02}, the time has come to use your strength for the {f15} army!
+
+@23048.2
+Lord {e02}, as promised, join our banner and fight with us!
+
+@23048.3
+Come, Lord {e02}, now! Join our side as you promised.
+
+@23049
+Lord {e02}, now join our army and show your full strength!
+
+@23049.1
+Lord {e02}, the time has come to use your strength for our army.
+
+@23049.2
+Lord {e02}, as promised, join our banner and fight with us!
+
+@23049.3
+Come, Lord {e02}, now come over to our camp as you promised.
+
+@23050
+Yes, I have long awaited this moment! I return at once!
+
+@23050.1
+Yes, my only lord is Lord {e15}!
+
+@23050.2
+Good, I have waited for this! Raise the {f15} banner!
+
+@23050.3
+Deceiving people is quite tiring. But that is over now.
+
+@23050.4
+How long I waited for this... At last I can return to Lord {e15}.
+
+@23050.5
+I have long awaited this! At last the time has come to show my full strength!
+
+@23051
+Yes, I have long awaited this moment! I join you at once!
+
+@23051.1
+Yes, from now on I, {e01}, side with Lord {e15}!
+
+@23051.2
+Good! From now on I, {e01}, join the {f15} army.
+
+@23051.3
+Yes, how I longed for this moment! Watch me well!
+
+@23051.4
+As proof of my loyalty to Lord {e15}, I, {e01}, will take an enemy commander's head.
+
+@23051.5
+As promised, I, {e01}, will lend my strength to Lord {e15}.
+
+@23052
+No, in a situation like this... Let me think about it a little.
+
+@23052.1
+No, I am sorry, but forget we ever talked.
+
+@23052.2
+I am a loyal retainer. What nonsense are you talking?
+
+@23052.3
+If I join you, my life will be in danger. Sorry, but I will not take that risk.
+
+@23052.4
+Telling me to turn now is the same as telling me to die.
+
+@23052.5
+No, sorry, but I have changed my mind. I cannot side with you.
+
+@23053
+Curse you, {e02}! You promised to turn, and now you change your mind? Unforgivable!
+
+@23053.1
+Curse you, {e02}! Breaking your promise... I will never forgive you!
+
+@23053.2
+Curse you, {e02}! You break your promise to us?
+
+@23053.3
+{C110}... {e02}, you traitor! I will repay this!
+
+@23054
+The planted officer {e01} has defected to the {f15} army!
+
+@23055
+{e01}, who was in league with us, has defected to the {f15} army!
+
+@23056
+{e01} could not be turned.
+
+@23057
+People of {e0B}, now is the time to rise up!
+
+@23057.1
+Come, people of {e0B}, now is the time to rise!
+
+@23057.2
+Come, people of {e0B}, take up arms and fight with us!
+
+@23057.3
+Come, people of {e0B}, rise up with us and end this misrule!
+
+@23058
+Everyone! Now is the time to avenge all the oppression we have suffered!
+
+@23058.1
+Yes! Let us make them pay for making us suffer! Go!
+
+@23058.2
+Waaagh! Feel our long-held grudge!
+
+@23058.3
+Raaagh! Give us back our rice! Give us back our money!
+
+@23059
+The people have rioted. Public safety and the troops' morale are badly affected.
+
+@23060
+Some of the people caused a disturbance, but it soon died down.
+
+@23061
+The rioting people have destroyed a gate.
+
+@23062
+Yes! I have slain {e02}, the enemy commander!
+
+@23062.1
+I did it! I have taken the head of {e02}, the enemy commander!
+
+@23062.2
+The commander is slain! Raise {e02}'s head and give a victory cry!
+
+@23062.3
+Good, the enemy commander is slain! This battle is ours!
+
+@23063
+Yes! I have captured {e02}, the enemy commander!
+
+@23063.1
+I did it! I have captured {e02}, the enemy commander!
+
+@23063.2
+The enemy commander is captured! Good, give a victory cry!
+
+@23063.3
+{C145}... The enemy commander is captured! This battle is ours!
+
+@23064
+{C145}... The enemy commander has turned tail and fled!
+
+@23064.1
+{C145}... With their commander fled, they are finished! This battle is ours!
+
+@23064.2
+{C145}... With their commander fled, it is decided! Good, give a victory cry!
+
+@23064.3
+{C145}... It is decided. With their commander fled, they are finished! Come, a victory cry!
+
+@23065
+{C145}... The enemy troops have lost the will to fight and are fleeing!
+
+@23065.1
+We did it! Victory is ours! The enemy has lost heart and is routed!
+
+@23065.2
+Good, beat the victory drums! The enemy has lost the will to fight! The day is ours!
+
+@23065.3
+Good! We won! The enemy has lost heart and collapsed!
+
+@23066
+Good! The enemy's main camp has fallen! We press on into {e0B} and take it in one stroke!
+
+@23066.1
+Good! We took the enemy's main camp and secured the way into {e0B}!
+
+@23066.2
+Good! The enemy's main camp is ours! The way into {e0B} is secured!
+
+@23066.3
+Good! We press on into {e0B} and take it in one stroke! Forward!
+
+@23067
+Good! We have taken the Command Center! This battle is ours!
+
+@23067.1
+Good, give a victory cry!
+
+@23067.2
+Tell the whole army we have taken the Command Center!
+
+@23067.3
+We did it! At last {e0B} has fallen! Come, beat the victory drums!
+
+@23067.4
+{C145}... At last {e0B} has fallen! Come, give a victory cry!
+
+@23068
+Lord {e02}
+
+@23069
+{C23068}, grave news! Word has come that enemy reinforcements are heading this way! %u units, %s men, led by {e03}!
+
+@23069.1
+{C23068}! Enemy reinforcements seem to be heading here! %u units, %s men, with {e03} in command!
+
+@23069.2
+{C23068}! Urgent news! The enemy has reinforcements! %u units under {e03}, %s men, are heading here!
+
+@23070
+{C23068}, enemy reinforcements of %s men seem to be heading this way!
+
+@23070.1
+{C23068}, word has come that enemy reinforcements of %s men are heading this way...
+
+@23070.2
+{C23068}, grave news! Enemy reinforcements of %s men are heading this way!
+
+@23071
+My lord, enemy reinforcements are indeed heading here. It seems Lord Xu You spoke the truth... Then our only chance is to leave a few defenders and strike the enemy's main camp with all our army.
+
+@23071.1
+{C23068}, enemy reinforcements are heading this way. Their numbers are unknown.
+
+@23071.2
+{C23068}, enemy reinforcements are heading here. We still do not know their numbers.
+
+@23071.3
+{C23068}, urgent news! The enemy has reinforcements, numbers unknown!
+
+@23072
+Lord {e02}, please let us fight with you! {C23073}
+
+@23073
+We have long wished to work for Lord {e15}.
+
+@23073.1
+Everyone here has gathered to help Lord {e15} in any way we can.
+
+@23073.2
+We are farmers from around here. We have come to be of use to Lord {e15}.
+
+@23074
+Hundreds of volunteers are gathering to the {f15} army.
+
+@23075
+Lord {e02}! We are from {e0B}. We will help as best we can!
+
+@23075.1
+Lord {e02}! We soldiers of {e0B} will fight with you!
+
+@23075.2
+Lord {e02}! We are from {e0B}. We have come to lend our humble help.
+
+@23076
+Hundreds of tribal warriors are gathering to the {f15} army.
+

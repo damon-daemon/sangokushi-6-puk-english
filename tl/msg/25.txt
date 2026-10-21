@@ -1,0 +1,723 @@
+@25000
+{C159}, our food stocks are not enough for an emergency... Let us buy about %d food. At current prices it will cost %d gold. May I make the trade?
+
+@25000.1
+{C159}, why not buy about %d food?
+
+@25000.2
+It will cost %d gold...
+
+@25001
+{C159}, with our present gold, I doubt we will last until the next tax collection... I would like to sell about %d food for %d gold. What do you say?
+
+@25001.1
+{C159}, why not sell %d food? Right now it would bring %d gold!
+
+@25002
+{C159}, divine though your prowess is, it is hard to strike down every rebel yourself. Why not grant {e03} the title of %s and have them attack {f15} in return?
+
+@25003
+{C159}, they say there is one {e03} in {e0B}, famed as {C25004}... I would like to go and persuade {e03} to join us. May I?
+
+@25003.1
+I hear that {e03}, a free officer in {e0B}, is {C25004}. Why not recruit them?
+
+@25004
+a great general
+
+@25004.1
+a sage
+
+@25004.2
+a fine general
+
+@25004.3
+a brave warrior
+
+@25004.4
+a wise strategist
+
+@25004.5
+a capable administrator
+
+@25004.6
+a person of virtue
+
+@25004.7
+a person of integrity
+
+@25004.8
+an exceptional talent
+
+@25005
+{C159}, I would like to travel for a while in search of talent. I thought to begin with {e0B}. May I set out?
+
+@25006
+{e03}, a retainer of {e15}, seems unhappy with their treatment. I would like to try to turn {e03}. May I carry it out?
+
+@25007
+Exploiting others' weaknesses is not my wish, but I speak for your sake, {C159}. {e03}, retainer of {e15}, seems discontented... Why not try to turn them?
+
+@25008
+{C159}, I would like to try inciting {e0B}. May I carry it out?
+
+@25009
+Using the people is not my wish, but I speak for your sake, {C159}. Why not try inciting {e0B}, under {e15}'s rule?
+
+@25010
+I would like to use the Tiger and Wolf ploy on {e03}, Protector of {e0B}. What do you say?
+
+@25011
+Exploiting others' weaknesses is not my wish, but I speak for your sake, {C159}. Why not try the Tiger and Wolf ploy on {e03}, {e15}'s Protector of {e0B}?
+
+@25012
+{C159}, let us spread false word that the {f16} army in {e0C} will attack {e0B}!
+
+@25013
+{C159}, let us spread bad rumors about {e03} in {e0B} and ruin that {C165}'s reputation!
+
+@25014
+Dragging in the people is not my wish, but I speak for your sake, {C159}. Why not spread ill rumors of {e03} in {e0B} and unmask that {C165}?
+
+@25015
+{C159}, I think we should draft %s (%d) in {e0B}. It will cost %d gold and %d food. May I draft them?
+
+@25016
+...To be honest, I do not like military affairs, but for the defense of {e0B} I must speak... I think we should draft about %s (%d) in {e0B}... It will cost %d gold and %d food...
+
+@25017
+{C159}, to prepare for an emergency, I would like to set a %s trap in {e0B}. It will cost about %d gold. May I set it?
+
+@25018
+{C159}, are you not worried about our gold and food? If you like, I will raise some in {e0B}. What do you say?
+
+@25019
+{e0B} is a very nice place.
+
+@25020
+I have always wanted to work in a quiet city like {e0B}. Would you let me go?
+
+@25020.1
+{C159}, please let me go to {e0B}. Well, I heard it is a nice place...
+
+@25021
+{C159}, {e0B} has no Protector, and I worry in case anything happens. Please send me and make me Protector of {e0B}.
+
+@25021.1
+{e0B} has no officer to defend it. Please send me to defend {e0B}.
+
+@25022
+{C159}, please send me to {e0B}, on the front line.
+
+@25022.1
+{C159}, I would like to go to {e0B} on the front and show my strength. May I?
+
+@25023
+{e0B} has no tax collector, so no income comes in! Please send me.
+
+@25023.1
+{e0B} is outside our government's reach and has no Protector, so no taxes come in. Please send me.
+
+@25024
+{C159}, something smells fishy in the household! Please be careful.
+
+@25025
+{C159}, it seems the quarrels among the retainers are showing signs of calming down.
+
+@25026
+It seems factions have formed among the retainers over differences of opinion.
+
+@25027
+{C159}, I have a feeling {e03} and others have formed a clique and are plotting something...
+
+@25028
+{C159}, how do you intend to deal with the Han court from now on? Please tell me.
+
+@25029
+Well... I think: %s...
+
+@25030
+I see... I wonder what that person would say if they heard those words.
+
+@25030.1
+I see... I understand your thinking, {C159}.
+
+@25031
+As expected of you, {C159}, you understand how we think! I will follow you!
+
+@25032
+Oh, as expected of you, {C159}! I thought exactly the same.
+
+@25033
+I see... It seems you do not understand the point of my question, {C159}.
+
+@25034
+Well... One may think that way, but... I had hoped for a different answer.
+
+@25035
+{C159}, public safety in {e0B} is poor and the people are uneasy... We must work to improve it!
+
+@25036
+Farming in {e0B} seems to lag... Let us put effort into farming to build up our food stores.
+
+@25037
+{C159}, commerce in {e0B} seems sluggish... For the future, you should encourage it...
+
+@25038
+I pride myself on my wide military experience. Please give me a general rank.
+
+@25039
+{e33} does not do justice to my experience and talent... Please give me a higher rank.
+
+@25040
+{C159}, I privately think I might be better suited than Lord {e03} as Protector of {e0B}...
+
+@25041
+As your kin, {C159}, I ask you to make me Protector of {e0B}.
+
+@25042
+I, {e01}, will improve myself and win merit without fail... Someday, please make me a Protector.
+
+@25043
+Lord {e03}, the Advisor, seems so busy... I would almost like to take their place.
+
+@25043.1
+I do so long for the post of Advisor... I envy Lord {e03}.
+
+@25044
+I will work hard as Advisor so as not to betray your hopes, {C159}.
+
+@25045
+I hate to say it, but I think I am better suited as Advisor than {C166}... What do you say?
+
+@25045.1
+It is not for me to say, but I think I am better suited as Advisor than {C166}...
+
+@25046
+{C159}, it is best always to have an Advisor... So why not make me Advisor?
+
+@25046.1
+We have no Advisor now. So... what do you say? Making me Advisor, that is.
+
+@25047
+I have long wanted {e29}, and they say {e03}, a retainer of {e04}, has it. If I meet that {C164} on the battlefield, I will capture them and take it!
+
+@25048
+I would love to get hold of {e03}'s {e29}. It is wasted on that {C164}.
+
+@25049
+The {e29} of Lord {e03}, retainer of Lord {e04}, is a splendid {f29}... I would like to {C25051} it too.
+
+@25050
+The {e29} held by Lord {e03}, your ally, {C159}... I would like to {C25051} it once.
+
+@25051
+read
+
+@25051.1
+read
+
+@25051.2
+read
+
+@25051.3
+see
+
+@25051.4
+ride
+
+@25051.5
+hold
+
+@25051.6
+behold
+
+@25051.7
+see
+
+@25052
+Your {f29}, {e29}, {C159}... Might you someday give it to me as a reward...?
+
+@25053
+Ah, I envy {C166} for owning {e29}... Is there no way to get it?
+
+@25054
+My long-held dream is to find and own {e29}, without equal in the world.
+
+@25056
+...For now I have nothing to tell you, {C159}...
+
+@25057
+When we capture {e03}, please let me take that {C165}'s head.
+
+@25057.1
+We cannot let a {C165} like {e03} run wild! We should destroy them at once!
+
+@25058
+That you must obey a {C165} like {e03}, {C159}... How I hate my own powerlessness!
+
+@25059
+Let us put pressure on {e03}. Why, if that {C165} breaks away, we simply crush them.
+
+@25060
+{C159}, you may think of {e03} as an ally, but that {C165} is not to be trusted!
+
+@25061
+I wonder if it is wise to leave {e03} as Protector of {e0B}... They may rebel.
+
+@25062
+I cannot understand why a {C164} like {e03} holds the rank of {e33}.
+
+@25062.1
+Why does {e03} hold the rank of {e33}...? Everyone seems unhappy with this appointment.
+
+@25063
+{C159}, between us, you must not trust the advice of {e03}, the Advisor! In fact... I suspect that {C164} is a planted agent.
+
+@25064
+I had been thinking {e03} was acting strangely lately... It seems {e03} is in league with {e15}. I have no proof, though...
+
+@25065
+{C159}, why not dismiss a {C164} like {e03}?
+
+@25066
+The one I loathe most is that {C164} {e03}. That {C164} I can never forgive.
+
+@25067
+Someday I would like to forget the world entirely and spend my days in peace.
+
+@25068
+My life's goal is to assist a king like you, {C159}, and bring peace to the realm.
+
+@25069
+Untalented as I am, I am resolved to give myself to one who rules with benevolence.
+
+@25070
+They say a warrior dies for the one who understands him... I have always wished to be so.
+
+@25071
+If I can help a hero like you, {C159}, unite the four seas, I will have no regrets in life.
+
+@25072
+I wish to use my talents to carve out even an inch of land and help you unify the realm, {C159}.
+
+@25073
+Times of chaos like these may be just the chance to rise in the world.
+
+@25074
+First build a firm power base and hold your ground, then eye the realm as a great power... That is the best plan.
+
+@25075
+After pacifying your neighbors, build up power steadily rather than leaping ahead. That is my belief.
+
+@25076
+In chaotic times, above all, look to your own safety. Life is what matters most, they say.
+
+@25077
+I know nothing of the affairs of the realm... I only follow you, {C159}, and give my all.
+
+@25079
+I am sick and tired of living in this world... Perhaps it is time to retire...
+
+@25080
+I thought you truly walked the way of kings, {C159}... I misjudged you.
+
+@25081
+The people want benevolent rule, yet lately you seem to have forgotten benevolence, {C159}...
+
+@25082
+Ah, am I to rot away like this, never given a chance to use my talents...?
+
+@25083
+I cannot understand your recent policies, {C159}... Did I choose the wrong lord to serve?
+
+@25084
+I feel your ambition has faded, {C159}...
+
+@25085
+I want to work... but lately no one calls on me... Am I of no more use?
+
+@25086
+I cannot help feeling that lately you are distracted by small things and miss the larger picture, {C159}...
+
+@25087
+I cannot help feeling that lately you have forgotten to secure your footing, {C159}...
+
+@25088
+Have you changed, {C159}...? Or have I...? I do not understand your heart.
+
+@25089
+Lately I have been thinking you have forgotten all about me, {C159}...
+
+@25090
+...I cannot help feeling you are not the same person you once were, {C159}.
+
+@25090.1
+{C159}, do you think of me as just a pawn to be thrown away?!
+
+@25090.2
+I have nothing to say right now... Please leave me alone.
+
+@25090.3
+I am so tired... Perhaps if I just set off on a journey, I would feel at ease...
+
+@25091
+{C159}, have you lost your noble aims? I am so tired...
+
+@25092
+Talking to you like this, {C159}, has somehow cleared my heart.
+
+@25092.1
+Having you listen to me, {C159}, feels as if my worries are gone. Let us talk again.
+
+@25092.2
+I was unhappy lately, but your words showed me I was mistaken, {C159}.
+
+@25092.3
+I have been gloomy lately, but meeting you, {C159}, seems to have restored my peace of mind.
+
+@25093
+{C159}, I have not felt myself lately. Am I working too hard?
+
+@25093.1
+Lately I seem to get irritated so often... Am I tired?
+
+@25093.2
+Sigh... For some reason I seem to sigh a lot lately.
+
+@25093.3
+I have been gloomy lately, so I was thinking of going for a drink tonight.
+
+@25094
+{C159}, our spies report that {e03} in {e0B} seems to be a planted agent!
+
+@25095
+{C159}, {e03} in {e0B} is in league with the enemy! Please be on your guard.
+
+@25096
+{C159}, {e03} in {e0B} seems to be plotting rebellion!
+
+@25097
+{C159}, {e03} in {e0B} seems unhappy with their lord, {e15}!
+
+@25098
+{e03}, an officer of {f15} in {e0B}, can truly be called a rare genius.
+
+@25099
+{e03}, an officer of {f15} in {e0B}, is a warrior a match for ten thousand, a true fang and claw.
+
+@25100
+They say {e03} of {e0B} has a talent for government to rival Xiao He and Cao Shen, founders of the Han...
+
+@25101
+They say {e03} of {e0B} excels at leading troops... We must take care if we meet them in battle.
+
+@25102
+They say {e03}, an officer of {f15} in {e0B}, draws people like the founder of Han himself...
+
+@25103
+I have heard bad rumors about {C166} lately... Is it wise to leave {e0B} to {C166}?
+
+@25104
+That one like {C166} still holds the rank of {e33}... {C166} must be unhappy about it.
+
+@25105
+Lately everyone has been saying that the advice of {C166} cannot be trusted.
+
+@25106
+I thought something seemed odd lately... Could {C166} be in league with the enemy?
+
+@25107
+There seem to be too many bad rumors about {C166}... Where there is smoke, there is fire, they say.
+
+@25108
+I have studied a little military strategy... When we march, please make me advisor of the army.
+
+@25109
+I once studied military strategy, but it did not seem to suit me.
+
+@25110
+{C159}, civil affairs run more efficiently if you appoint officials who share the same aims.
+
+@25110.1
+If the energy of an officer doing only civil affairs does not drop, they likely have no discontent at all.
+
+@25111
+I pride myself on my skill at negotiation... I believe I can be of use as an emissary.
+
+@25112
+I once studied the art of negotiation, but it is an art I would rather not use.
+
+@25113
+{C159}, it is not for me to say, but I am skilled at intelligence.
+
+@25114
+I once mastered the ways of intelligence, but they are arts I would rather not use.
+
+@25115
+I am rather handy with weapons... When we march, please call on me.
+
+@25116
+I once prided myself on my valor and fought every day, but now I value a peaceful life above all.
+
+@25117
+I pride myself that I am second to none at uniting people.
+
+@25118
+I once studied how to lead and train troops, but it did not seem to suit me.
+
+@25120
+{C159}, if you wish to receive the throne from the Han Emperor, you must ruin the Han Emperor's standing.
+
+@25120.1
+To ruin the Han Emperor's standing, refuse every demand and show that the court has no authority...
+
+@25120.2
+{C159}, when you become Emperor, King or Duke, a state name will be chosen.
+
+@25120.3
+The state name is usually taken from the place where your capital lies.
+
+@25120.4
+Once the state name is chosen, it usually does not change even if your rank rises.
+
+@25120.5
+If you slight the Han Emperor, those who care for propriety and order will turn against you...
+
+@25121
+The higher an officer's general rank, the more troops they can command in battle!
+
+@25121.1
+The higher the ruler's title, the higher the general ranks they can grant their officers!
+
+@25121.2
+"Of the five Ma brothers, White Brows is the best."
+
+@25121.3
+"Know the enemy and know yourself, and in a hundred battles you will never be in peril."
+
+@25121.4
+Far, far to the west, they say, lies a great empire called Daqin.
+
+@25121.5
+I hear that across the sea far east of Xiangping lies a land called Wa, ruled by a queen.
+
+@25121.6
+Hanzhong is where Liu Bang, founder of Han, was made king by Xiang Yu... Truly the birthplace of the Han.
+
+@25121.7
+Talking to you like this, {C159}, somehow clears my heart.
+
+@25121.8
+For those who want to rise in the world, making them Advisor, Protector or general is one way.
+
+@25121.9
+Only a few great cities can become an Imperial City. They say there are seven in all.
+
+@25121.10
+Building an Imperial City takes a huge 20,000 gold and 6 months.
+
+@25121.11
+To build an Imperial City, your capital must be a great city where one can be built.
+
+@25121.12
+Luoyang and Chang'an, capitals of the Han, are truly fit to be Imperial Cities... True royal cities.
+
+@25121.13
+In Yizhou, Chengdu is the largest city. It would serve well as an Imperial City.
+
+@25121.14
+Of the cities of Jiangdong, the one fit to be an Imperial City is Jianye.
+
+@25121.15
+Shouchun's castle is not so large, but it is the key to Huainan and would make a fine Imperial City.
+
+@25121.16
+In Hebei, the city most fit to be an Imperial City is Ye. A splendid palace would look fine there.
+
+@25121.17
+Xuchang has a fine castle and is a hub of Henan. A city fit to be an Imperial City in times of chaos.
+
+@25121.18
+{C159}, always take an advisor into battle... Otherwise inciting and turning are of no use.
+
+@25121.19
+When holding a castle, it is easier to defend with more units than with troops massed in one.
+
+@25121.20
+When a city becomes a battlefield, its civil values drop and the people scatter. Best to repel them in the field!
+
+@25121.21
+With a low Info Network, we cannot detect enemy invasions, and our cities end up in the fires of war!
+
+@25121.22
+With an Info Network equal to the highest among neighboring enemies, we can detect most enemy moves.
+
+@25121.23
+With a commander of high Leadership, the enemy finds it harder to detect that the army has marched.
+
+@25121.24
+The larger the army that marches, the more likely the enemy is to detect it!
+
+@25121.25
+If possible, I would keep our Info Network at 15 or more... That needs skilled spies!
+
+@25121.26
+Fighting in the north in winter, the cold may lower morale faster than usual.
+
+@25121.27
+Fighting in the south in summer, they say the heat lowers the men's morale. Please take care.
+
+@25121.28
+The basis of a city's civil affairs is public safety! Once the people are settled, turn to farming and commerce.
+
+@25121.29
+For efficient civil affairs, do farming in spring and summer, and commerce in autumn and winter.
+
+@25121.30
+In months of poor harvest, the price of food soars.
+
+@25121.31
+In times of good harvest, food is cheap!
+
+@25121.32
+The nine cities with a resident merchant are Luoyang, Chang'an, Xuchang, Chengdu, Jianye, Nanpi, Xiangyang, Xiapi and Jiaozhi!
+
+@25121.33
+Trade cities pay taxes each season on the profits of their trade.
+
+@25121.34
+If a city's public safety is good, the people are settled, and fewer fall for other states' plots.
+
+@25121.35
+If you catch an allied emissary and let them go without reading the letter, your Virtue rises, {C159}!
+
+@25121.36
+Gaining a title increases the general ranks you can grant your officers. It also raises your Virtue!
+
+@25121.37
+To end factions as quickly as possible, banish the retainer who leads one of them.
+
+@25121.38
+The rift between rival factions may not close after a single talk!
+
+@25121.39
+If you mean to end factions by persuasion, you must be ready to persuade again and again.
+
+@25121.40
+If you find that factions have formed among your retainers, work to end them at once! Otherwise...
+
+@25121.41
+Discontent builds up little by little in a retainer's heart. You should meet with them now and then.
+
+@25121.42
+If you meet your retainers now and then and hear them out, the discontent in their hearts will settle.
+
+@25121.43
+Those without discontent will talk to you about all kinds of things, {C159}.
+
+@25121.44
+Those healthy in body and without discontent seem to recover energy faster!
+
+@25121.45
+Those who look healthy but recover energy poorly must be harboring discontent.
+
+@25121.46
+Those without discontent in their hearts will gradually grow more loyal to you, {C159}.
+
+@25121.47
+Those harboring discontent will gradually lose their loyalty to you, {C159}.
+
+@25121.48
+If factional strife continues in the household, the retainers seem to grow more discontented than usual.
+
+@25121.49
+Those with much discontent will only complain when they talk to you, {C159}, but hearing them out is a lord's duty!
+
+@25122
+It seems each officer likes some tasks and dislikes others, depending on their dream.
+
+@25122.1
+Forcing someone to do a task they dislike will make them very discontented.
+
+@25122.2
+The basis of plots is Rumor. Lower public safety and loyalty with rumors, and other plots become easier.
+
+@25122.3
+Plots work more easily on a place where you have a planted officer.
+
+@25123
+Officers with the dream of Advisor should be given diplomatic missions or recruiting.
+
+@25123.1
+They say officers with the dream of Justice are very pleased to be sent as emissaries or to recruit.
+
+@25123.2
+Officers with the dream of Talent are best sent as emissaries to other states.
+
+@25123.3
+For officers with the dream of Talent, recruiting talent seems a good task.
+
+@25123.4
+Officers with the dream of Advisor loathe plots. Give them other work.
+
+@25123.5
+Officers with the dream of Justice think plots are underhanded. They should not be given them.
+
+@25123.6
+Many officers with the dream of Talent seem to be stern sorts. They all dislike plots, I hear.
+
+@25124
+I hear officers with the dream of Empire like military affairs and plots.
+
+@25124.1
+Officers with the dream of Conquest like military affairs and plots, to realize their dream... How alarming.
+
+@25124.2
+They say officers with the dream of Advancement like military work.
+
+@25124.3
+Officers with the dream of Advancement do not mind plots if it helps them rise.
+
+@25124.4
+Officers with the dream of Empire should not be given emissary duties.
+
+@25124.5
+I hear officers with the dream of Conquest think little of diplomatic work.
+
+@25124.6
+They say officers with the dream of Advancement dislike diplomacy... They seem to like shining in battle.
+
+@25125
+Officers with the dream of Territory seem to like steady work such as civil affairs and diplomacy.
+
+@25125.1
+Officers with the dream of Preservation should be given civil affairs or emissary work.
+
+@25125.2
+They say officers who value safety above all like civil affairs, which carry little danger.
+
+@25125.3
+They say officers who value safety above all are glad to be emissaries to make friends with other states.
+
+@25125.4
+Officers with the dream of Territory seem not to like conflict, basically.
+
+@25125.5
+Military affairs bring great change to a state... They do not suit those who prefer to keep things as they are.
+
+@25125.6
+Officers who value safety above all should not be made to prepare for war or to fight.
+
+@25126
+They say officers with the dream of Chivalry gladly accept any task...
+
+@25126.1
+{C159}, did you know? Officers with the dream of Chivalry dislike no task at all, they say.
+
+@25127
+...Officers with the dream of Seclusion are never pleased, whatever task you give them.
+
+@25127.1
+They say officers with the dream of Seclusion do not want to work at all! What a nuisance.
+

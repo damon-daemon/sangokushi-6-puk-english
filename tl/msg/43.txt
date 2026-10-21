@@ -1,0 +1,285 @@
+@43000
+Liu Bei's volunteer army finally slew Cheng Yuanzhi, a Yellow Turban unit commander.
+
+@43001
+Rebel general, enemy of the House of Han! Taste the blade of justice!
+
+@43002
+News that a mere volunteer army had slain a Yellow Turban commander spread swiftly among rebels and imperial troops alike.
+
+@43003
+News, sir! Lord Cheng Yuanzhi has been defeated by the volunteers and executed!
+
+@43004
+What, Cheng Yuanzhi? Beaten by volunteers... Bah, the useless fool.
+
+@43005
+And who are these volunteers?! Who leads them? ...Liu Bei, you say? Never heard of him.
+
+@43006
+What? The one who defeated Cheng Yuanzhi was Liu Xuande...
+
+@43007
+So, my old pupil has defeated Cheng Yuanzhi...
+
+@43008
+That commander of the volunteers... He is good.
+
+@43009
+And the officers at his side must be no ordinary men either.
+
+@43010
+Liu Xuande... I shall remember that name.
+
+@43011
+Liu Bei's volunteer army succeeded in driving the Yellow Turbans out of Nanpi.
+
+@43012
+That will teach you, Yellow Turban rabble! Running wild as you please...
+
+@43013
+Congratulations, Brother. Our volunteer army has won!
+
+@43014
+What's the matter, Brother? You look so glum... and we just won the battle.
+
+@43015
+The Yellow Turban rebels are far too many. Freeing one commandery is no cause for rejoicing.
+
+@43016
+True... Even if this rebellion ends, the fields will lie waste and the land will stay in turmoil.
+
+@43017
+Peace may still be a long way off for this land.
+
+@43018
+The tale of a mere volunteer army freeing Nanpi spread swiftly.
+
+@43019
+What? The one who freed Nanpi was Liu Bei...? That name sounds familiar.
+
+@43020
+...Liu Xuande of Lousang village! So my old pupil is leading an army...
+
+@43021
+Rebels who defy the House of Han! We have taken back Nanpi. Begone at once!
+
+@43022
+Liu Bei, leader of the volunteers, succeeded in driving the Yellow Turban rebels out of Nanpi.
+
+@43023
+But what he lost was great as well...
+
+@43024
+Liu Bei, leader of the volunteers, died with his dream of restoring the House of Han unfulfilled.
+
+@43025
+Cao Cao at last succeeded in capturing Lu Bu.
+
+@43026
+Argh, these ropes are tight! Can't you loosen them a little?
+
+@43027
+Bind a tiger loosely, and it eats the man who bound it. Now hold your tongue.
+
+@43028
+Hmm... M-Mengde, would you not use me as one of your pieces...?
+
+@43029
+...What?
+
+@43030
+With you leading the foot and me the horse, no one in the land could stand against us! Mengde!
+
+@43032
+...Lord Cao Cao, Lu Bu betrayed both his adoptive fathers, Ding Yuan and Dong Zhuo.
+
+@43033
+Do not forget that...
+
+@43034
+Curse you! Y-you big-eared wretch!
+
+@43035
+A tiger cannot be tamed. It will never take to people.
+
+@43036
+Please consider well whether we have need of a tiger.
+
+@43037
+Wh-what! You rotten pedant, keep your nose out of it!
+
+@43038
+...My mind is made up. Execute this fierce tiger!
+
+@43039
+I-I don't want to die! Mengde, please, spare my life...
+
+@43040
+Enough, you disgrace yourself, Fengxian! If you must die, die quietly!
+
+@43041
+Cao Cao's army drove Lu Bu out of Xuzhou and built a vast domain.
+
+@43042
+Unmatched in the realm on Red Hare he may be, but Lu Bu has only a brute's courage. He is no tactician.
+
+@43043
+Mighty warrior though Lu Bu is, he is no match for a great army.
+
+@43044
+Lu Bu certainly gave us a lot of trouble.
+
+@43045
+With Lu Bu gone, bringing peace to the land should be easy.
+
+@43046
+No, we must not be careless. Many still refuse to submit to my lord.
+
+@43047
+Until they are swept away, we must not let down our guard.
+
+@43048
+I know that without you telling me.
+
+@43049
+But we have lost a great many wise men.
+
+@43050
+At this rate, uniting the realm is but a distant dream.
+
+@43051
+He had won the fertile land of Xuzhou, but lost much as well...
+
+@43052
+Cao Cao, the villain of a chaotic age, died with his dream of uniting the realm unfulfilled.
+
+@43053
+Cao Cao has lost Emperor Xian.
+
+@43054
+Yuan Shao, who had fought Gongsun Zan for mastery of Hebei, at last defeated him.
+
+@43055
+Gongsun Zan was worthy of his name. His White Horse Volunteers were stronger than I expected.
+
+@43056
+Congratulations, my lord. Next, let us attack the Central Plains!
+
+@43057
+I cannot do it all alone. First we must gather talent... Still, it was quite a victory.
+
+@43058
+He made his name fighting the tribes. Losses like these were within our reckoning.
+
+@43059
+With Gongsun Zan defeated, no enemy in Hebei poses a threat.
+
+@43060
+Next we strike south. Let us unite the realm with our own hands!
+
+@43061
+Yes, quite so. Then shall we turn our army south...
+
+@43062
+We have defeated our old rival Gongsun Zan, but we too have suffered deep wounds.
+
+@43063
+I believe we should first rest the men, clear new fields and heal our wounds.
+
+@43064
+Hmm. That is one way.
+
+@43065
+Do not listen to such feeble scholars, my lord.
+
+@43066
+What are you saying! Fight on without regard for a worn-out state, and the end is plain to see!
+
+@43067
+Now, now, don't quarrel. There is no hurry. Let us think it over carefully.
+
+@43068
+Yuan Shao succeeded in driving Gongsun Zan's forces out of Hebei.
+
+@43069
+Holding the four provinces of Hebei, Youzhou, Jizhou, Qingzhou and Bingzhou, he rose to become a great power.
+
+@43070
+At last I hold the four provinces of Hebei.
+
+@43071
+Gongsun Zan still lives. Let us muster every soldier of the four provinces and finish him!
+
+@43072
+Yes, quite so. All troops, march at once against Gongsun Zan...
+
+@43073
+Please wait. Chasing the beaten Gongsun Zan is not wise.
+
+@43074
+There are still enemies to the south. I think driving them out is the more urgent task...
+
+@43075
+Hmm, there is truth in that too. I must think carefully.
+
+@43076
+Yuan Shao was at last appointed to one of the Three Excellencies (Grand Commander, Minister of Works, Minister of Interior).
+
+@43077
+I have attained the rank of the Three Excellencies. Now I can face my ancestors.
+
+@43078
+Congratulations, my lord. Is the post of Prime Minister your next goal?
+
+@43079
+First I must gather talent. One of the Three Excellencies needs able men under him.
+
+@43080
+The Yuan are a noble house that has served among the Three Excellencies for four generations.
+
+@43081
+Now that you are one of them, my lord, it makes five generations in a row.
+
+@43082
+You must not be content merely with a title.
+
+@43083
+As one of the Three Excellencies, Your Excellency must set the troubled state to rights. Rejoicing is not enough.
+
+@43084
+Hmm, well said. This is only the beginning.
+
+@43085
+Yuan Shao, head of the Yuan clan, died with his dream of uniting the realm unfulfilled.
+
+@43086
+Yuan Shu built an Imperial City at {e0B} and showed his might to the realm.
+
+@43087
+Hahaha! The Imperial City is complete at last. Yes, yes, We are well pleased.
+
+@43088
+Congratulations, Your Majesty. This land will surely prosper all the more.
+
+@43089
+But there are so few people. It is too much for Us alone. We must find more men.
+
+@43090
+"He who replaces Han shall be Dangtugao"... The prophecy has come true.
+
+@43091
+The Imperial City's completion is a gift of Your Majesty's glory.
+
+@43092
+Indeed. Heaven is on Our side now. Let Us go on and unite the realm.
+
+@43093
+As you command. Let us defeat the lords of the land and show them who will replace Han.
+
+@43094
+Hahaha! What a splendid day this is.
+
+@43095
+Yuan Shu, the self-proclaimed Emperor, died with his dream of uniting the realm unfulfilled.
+

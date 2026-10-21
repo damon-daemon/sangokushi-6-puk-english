@@ -1,0 +1,1059 @@
+@28000
+At Cao Cao's castle
+
+@28001
+My lord, Lord Guan Yu requests an audience with you.
+
+@28002
+What, Guan Yu wants to see me? What could this be about?
+
+@28003
+Most likely he has come to take his leave, to seek out Lord Liu Bei as was agreed before.
+
+@28004
+Hmm... So it is that, after all.
+
+@28005
+I do not want to let Guan Yu go, but a promise is a promise. What should I do...
+
+@28006
+To leave, forgetting all Your Excellency's kindness, is outrageous! You must not let Guan Yu go.
+
+@28007
+Your Excellency, will you see Guan Yu?
+
+@28008
+See Guan Yu\nDo not see him
+
+@28009
+Then I will not see Guan Yu. I do not wish to discuss it.
+
+@28010
+As you wish, my lord. I will tell him so.
+
+@28011
+First let us meet him and hear what he has to say. Zhang Liao, call Guan Yu in.
+
+@28012
+Ah, Lord Guan Yu. What brings you here today?
+
+@28013
+I have at last learned news of my sworn brother, Liu Bei.
+
+@28014
+I swore to live and die with my brother... I cannot fail to go to him.
+
+@28015
+And so I have come to ask Your Excellency's leave.
+
+@28016
+Hmm... So it is that, after all.
+
+@28017
+Your Excellency, will you let Guan Yu go?
+
+@28018
+Let Guan Yu go\nDo not let him go
+
+@28019
+What foolishness is this? Surely you understand your position.
+
+@28020
+I will not allow such willfulness. Is that clear, Guan Yu?
+
+@28021
+...I understand. Then I will take my leave for today.
+
+@28022
+...Excuse me.
+
+@28023
+The next day...
+
+@28024
+T-terrible news! Guan Yu has left!
+
+@28025
+What!
+
+@28026
+They say he left all the seals of office and gifts he received in his quarters, and departed before dawn.
+
+@28027
+Blast... Perhaps I was too narrow-minded.
+
+@28028
+Had I known, I would have sent him off gladly.
+
+@28029
+That is what a loyal man is. For my part I do not want to let you go, but...
+
+@28030
+...a promise is a promise. There is nothing more to be done.
+
+@28031
+Guan Yu, we will meet again some day... Until then, take care.
+
+@28032
+Your Excellency's kindness... I, Guan Yu, will never forget it.
+
+@28033
+Farewell, then!
+
+@28034
+He came with honor and leaves with honor... Truly a model for the world. All of you, learn from him.
+
+@28035
+Guan Yu took his leave of Cao Cao, became a free officer and set off to join his old lord, Liu Bei.
+
+@28036
+While searching for Liu Bei after leaving Cao Cao, Guan Yu came upon a band of mountain bandits at the foot of a mountain.
+
+@28037
+Hey, hey, you there! This mountain is our turf.
+
+@28038
+If you want to cross it in one piece, leave that horse behind!
+
+@28039
+Wahaha! You look like Yellow Turban leftovers.
+
+@28040
+You there, do you know the name Guan Yunchang?
+
+@28041
+Guan Yunchang? They say he has a long beard, a red face and a crescent blade...?!
+
+@28042
+Yikes! Th-then you're Lord Guan Yu?
+
+@28043
+Yes, I am Guan Yu. Are you ready?!
+
+@28044
+The man himself... Y-yes, we humbly beg your pardon.
+
+@28045
+Hm? Someone else is coming...
+
+@28046
+Wh-why, it is Lord Guan Yu! To think we would meet you in a place like this...
+
+@28047
+What is it? Who are you men?
+
+@28048
+My name is Zhou Cang, from west of the passes. I was once a Yellow Turban, serving under Zhang Bao.
+
+@28049
+Back then I saw your valor in the volunteer army, Lord Guan Yu, and hoped one day to serve you.
+
+@28050
+Meeting you here today is truly Heaven's guidance.
+
+@28051
+Please let me serve at your side, even as a common soldier. I beg you.
+
+@28052
+Hmm... But I am a wanderer myself. Will you still follow me?
+
+@28053
+Of course! For you, Lord Guan Yu, I would follow you through fire and water.
+
+@28054
+Zhou Cang and Pei Yuanshao have joined Guan Yu.
+
+@28055
+While searching for Liu Bei after leaving Cao Cao, Guan Yu sought a night's lodging at a hermitage.
+
+@28056
+Good sir, I am a traveler named Guan Yu... I would like to beg a night's lodging.
+
+@28057
+Oh, you are General Guan Yu? I too have heard of your great fame.
+
+@28058
+My surname is also Guan. My given name is Ding.
+
+@28059
+We share a surname? What a coincidence...
+
+@28060
+It is a cramped place, but please make yourself at home.
+
+@28061
+I will never forget your kindness in giving me food and shelter.
+
+@28062
+Not at all. It is nothing.
+
+@28063
+By the way, General, I have two sons, named Ning and Ping.
+
+@28064
+If I may be so bold, could my second son Ping serve at your side?
+
+@28065
+I am honored to meet you. I am Ping, second son of Guan Ding.
+
+@28066
+What a fine young warrior. Very well, I will take your son into my care.
+
+@28067
+Oh, thank you! Ping, serve the General well.
+
+@28068
+Yes, Father. I will strive not to shame your name.
+
+@28069
+Guan Ping has joined Guan Yu.
+
+@28070
+At Yuan Shao's castle
+
+@28071
+Your Excellency, there is something I wish to discuss. May I?
+
+@28072
+Oh, Lord Xuande. What is it?
+
+@28073
+The truth is...
+
+@28074
+...You say I should ally with Liu Biao? Hmm, that is one plan.
+
+@28075
+But Liu Biao is a stubborn man. He will not agree to an alliance.
+
+@28076
+Then I will go as envoy for the alliance.
+
+@28077
+If I, his kinsman, persuade him, Lord Liu Biao will surely agree to the alliance.
+
+@28078
+I see, that would be most welcome. Then I ask you to be my envoy. I am counting on you.
+
+@28079
+Thank you. Please await good news.
+
+@28080
+Lord Yuan Shao, is it true that you have sent Liu Bei as envoy for the alliance?
+
+@28081
+Yes, it is. What of it?
+
+@28082
+Liu Bei is a mild man. He may instead be talked round by Liu Biao and go over to his side.
+
+@28083
+I see... I had not thought of that. What should I do?
+
+@28084
+I will go with him to keep an eye on Liu Bei.
+
+@28085
+Yes, that is a sure plan. Watch him closely. Jian Yong, I am counting on you.
+
+@28086
+Then, a few days later...
+
+@28087
+Terrible news! All trace of Lord Liu Bei has been lost. He seems to have fled somewhere.
+
+@28088
+What! Curse that Liu Bei, he deceived me!
+
+@28089
+I will not forgive this! One day I will attack him with a great army.
+
+@28090
+On his journey in search of Liu Bei, Guan Yu came to a certain highway.
+
+@28091
+General, you'd best not take this road.
+
+@28092
+...? And why is that?
+
+@28093
+In the castle up ahead there lives a wild man by the name of Zhang Fei.
+
+@28094
+He threw out the magistrate and gathered soldiers. Now even the officials won't go near. That's why.
+
+@28095
+What! Zhang Fei is there? Very well, let us go and see.
+
+@28096
+Guan Yu arrived at {e0B}, which Zhang Fei held.
+
+@28097
+Oh! That is Zhang Fei for certain. Hey, Zhang Fei!
+
+@28098
+You bastard! You've got some nerve showing your face here!
+
+@28099
+H-hey, Brother! What is the meaning of this?
+
+@28100
+Shut up! They say you surrendered to Cao Cao!
+
+@28101
+Anyone who forgets our oath and goes over to a traitor is no brother of mine! Come on, fight me!
+
+@28102
+Calm down, Zhang Fei! I surrendered to Cao Cao only because I had to, to protect our brother's wives!
+
+@28103
+Huh? His wives...?!
+
+@28104
+Once Guan Yu explained why he had surrendered to Cao Cao, Zhang Fei's anger finally subsided.
+
+@28105
+Sorry, Brother. So that's how it was.
+
+@28106
+So where's our brother Xuande?
+
+@28107
+They say he took refuge with Lord Yuan Shao, but I do not know where he is now.
+
+@28108
+I see... Well, rest up a while here in {e0B}.
+
+@28109
+Guan Yu and his men took refuge with Zhang Fei.
+
+@28110
+At Zhang Fei's castle
+
+@28111
+Brother, good news! I've found out where our brother Xuande is!
+
+@28112
+Is that true? Where is he now?
+
+@28113
+They say he's heading this way. Come on, let's go meet him!
+
+@28114
+Zhang Fei and Guan Yu went with their attendants to welcome their sworn brother Liu Bei.
+
+@28115
+Guan Yu! Zhang Fei! You are both safe!
+
+@28116
+And you too, Brother... I am so glad.
+
+@28117
+Oh, and Brother Guan Yu kept your wives safe.
+
+@28118
+I see... Thank you, Guan Yu.
+
+@28119
+No... Had I held the castle, none of this would have happened...
+
+@28120
+Enough, it is in the past. Do not blame yourself so.
+
+@28121
+At Liu Bei's castle
+
+@28122
+Brother, did you hear? They say Brother Guan Yu is heading this way.
+
+@28123
+There were rumors that Guan Yu had served Cao Cao...
+
+@28124
+Bah, if he's come as Cao Cao's lackey, I'll punch him myself!
+
+@28125
+Guan Yu...
+
+@28126
+Brother...
+
+@28127
+To protect your wives, I surrendered to Cao Cao, even if only as an expedient.
+
+@28128
+I know full well the weight of my crime. Please punish me.
+
+@28129
+What are you saying, Guan Yu? The blame for our defeat is mine. Thank you for coming back.
+
+@28130
+Brother... So that's how it was.
+
+@28131
+Guan Yu, if you are willing, fight at my side once more.
+
+@28132
+Of course. For you, Brother, I would gladly die.
+
+@28133
+Zhang Fei's force has been taken over by Liu Bei. Guan Yu has joined Liu Bei.
+
+@28134
+By the way, Guan Yu, who is this young man?
+
+@28135
+My name is Guan Ping, second son of Guan Ding. At my father's bidding, I serve Lord Guan Yu.
+
+@28136
+A fine young man. Guan Yu, why not adopt him as your son?
+
+@28137
+I had thought the same. If Guan Ping has no objection...
+
+@28138
+I could wish for nothing better. I am in your hands.
+
+@28139
+Guan Ping has become Guan Yu's adopted son.
+
+@28140
+As Liu Bei and his brothers rejoiced at their reunion, Pei Yuanshao, Zhou Cang and the others came back wounded.
+
+@28141
+We went to our mountain fort to bring our comrades, and found an officer sleeping by the road.
+
+@28142
+When Pei Yuanshao told him, "You're in the way, move,"...
+
+@28143
+...he shouted back, "Insolent for a bandit!" and gave us a sound beating.
+
+@28144
+He was far too strong for us, so, to our shame, we ran away.
+
+@28145
+Hmm... He seems quite a warrior. Who could he be?
+
+@28146
+This sounds interesting. Very well, I will face him. Zhou Cang, lead me to the mountain fort.
+
+@28147
+Ah! That's the man!
+
+@28148
+You bandits never learn, do you...
+
+@28149
+Hm? Wh-who are those men...?!
+
+@28150
+Hm? That officer... Surely he is...
+
+@28151
+Oh! Are you not Zhao Zilong?
+
+@28152
+Wh-why, Lord Liu Bei! It has been a long time.
+
+@28153
+After his lord's fall, Zhao Yun had wandered the land without serving anyone.
+
+@28154
+From the first time I saw you, Zilong, I hoped we would one day fight side by side...
+
+@28155
+And now, happily, we meet again. I am truly glad.
+
+@28156
+I too hoped one day to hurry to your side, Lord Liu Bei.
+
+@28157
+If I can serve you, Lord Liu Bei, I will have no regrets, however I may die.
+
+@28158
+Zhao Yun has joined Liu Bei.
+
+@28159
+At Cao Cao's castle
+
+@28160
+...Does anyone here know where Guan Yu has gone?
+
+@28161
+I know it is foolish to cling... but such a fine general, I still want him at my side.
+
+@28162
+No one knows where he is. We are searching for news, but there is no trace of him at all...
+
+@28163
+Did he go to Liu Bei... or leave the world and go into hiding? Either way, it is a great loss.
+
+@28164
+After that, the name of Guan Yu was never heard again...
+
+@28165
+At Liu Bei's castle
+
+@28166
+Guan Yu, and Sun Qian with you? What is it?
+
+@28167
+My lord, we cannot keep fighting without making our land prosperous.
+
+@28168
+Yet this land of {e0B} is badly ravaged.
+
+@28169
+I think we should seek refuge with some ruler, build up our strength, and then make our comeback.
+
+@28170
+You say we should abandon this land... But we have nowhere else to go. What do you intend?
+
+@28171
+I have an idea. Why not seek refuge with Lord Liu Biao of Jingzhou?
+
+@28172
+Lord Liu Biao is a descendant of the Han like you, Brother. He will surely lend us his strength.
+
+@28173
+Abandon {e0B} and seek refuge with Liu Biao?
+
+@28174
+That plan would indeed get us through this crisis...
+
+@28175
+But I cannot abandon the people of this land. So I will not take that course.
+
+@28176
+There is nothing for it. Then we will think of another plan.
+
+@28177
+I see. I do think Lord Liu Biao is a man one can rely on.
+
+@28178
+But would he take me in?
+
+@28179
+Then I will go ahead as envoy.
+
+@28180
+At Liu Biao's castle
+
+@28181
+My lord, a man named Sun Qian has come as envoy of Liu Xuande.
+
+@28182
+My name is Sun Qian. I beg you to lend your strength to my lord, Liu Bei.
+
+@28183
+Thank you, envoy. I will answer after a council. Rest in another room for a while.
+
+@28184
+Yes, my lord. I await a favorable reply.
+
+@28185
+Your Excellency, taking in Liu Bei is out of the question! Let us send the envoy away.
+
+@28186
+No, why not simply cut the envoy down?
+
+@28187
+Lord Cai Mao's view is too extreme, but I too am against taking in Lord Liu Bei.
+
+@28188
+I see no need to invite the seeds of strife into our lands...
+
+@28189
+Give Xinye to Liu Bei to help him?
+
+@28190
+...If you feel so strongly, I will not take Liu Bei in.
+
+@28191
+Then let us cut down that Sun Qian.
+
+@28192
+Wait! That is not how a man of virtue acts.
+
+@28193
+Let us at least give them some food and ask them to forgive us.
+
+@28194
+Your Excellency is truly generous. Well, a gift of food should do no harm.
+
+@28195
+They gave us food, but I could not persuade Lord Liu Biao. I am ashamed.
+
+@28196
+This too must be Heaven's will. For now we will settle here.
+
+@28197
+Liu Bei is an ambitious schemer. If you take in such a man, you will earn others' enmity.
+
+@28198
+Now, now, don't say that. Turning away one who comes to me for help is not the way of a man of virtue.
+
+@28199
+He says we are welcome at any time. Let us set out at once.
+
+@28200
+I see. Well done. Then we will go to Lord Liu Biao.
+
+@28201
+Thank you for turning to me. Nothing could make me happier than meeting you today.
+
+@28202
+(Curse you, Liu Bei... Do you mean to drag Jingzhou into war?)
+
+@28203
+Liu Biao, who thought highly of Liu Bei, gave him the castle of Xinye as a guard against the north.
+
+@28204
+Giving him the castle of Xinye is far too generous.
+
+@28205
+Enough! Say no more about Lord Liu Bei.
+
+@28207
+At Sun Ce's castle
+
+@28208
+My lord, we caught a spy, and this letter was found on him.
+
+@28209
+What is this...? A letter from Xu Gong to {e02}?
+
+@28210
+"Sun Ce has the talent and ambition of Xiang Yu. Sooner or later he will attack the capital. Be on your guard.  -- Xu Gong"
+
+@28211
+Curse him! So he means to betray me! Arrest Xu Gong at once!
+
+@28212
+I never treated you badly. Why did you try to send me to my death?
+
+@28213
+Hmph. I only meant to be loyal to the House of Han.
+
+@28214
+Enough! Execute Xu Gong! Take him away!
+
+@28215
+Xu Gong has been executed as a traitor.
+
+@28216
+One day, Sun Ce held a grand hunt near {e0B}.
+
+@28217
+Absorbed in the hunt, Sun Ce wandered alone into the mountains.
+
+@28218
+Ah, at last I meet someone. Whose men are you?
+
+@28219
+...We serve Lord...
+
+@28220
+What? I could not hear you.
+
+@28221
+...We are men who owed much to Lord Xu Gong! We will avenge our master!
+
+@28222
+Gwah! ...C-curse you!
+
+@28223
+We'll send you to Lord Xu Gong. Go beg his pardon in Heaven.
+
+@28224
+Damn! Is anyone there?!
+
+@28225
+Ah! L-Lord Sun Ce!
+
+@28226
+Curse you, how dare you attack Lord Sun Ce! Unforgivable!
+
+@28227
+Ugh! Is this the end...
+
+@28228
+Sun Ce was attacked by Xu Gong's former retainers and gravely wounded.
+
+@28229
+Sun Ce, attacked by assassins during the hunt, had not yet recovered from his wounds.
+
+@28230
+You are healing well enough. But you must not become excited or angry.
+
+@28231
+Rest comes first. Take care of yourself.
+
+@28232
+Hmm, Hua Tuo is as skilled as they say. I feel much better.
+
+@28233
+...Hm? What is that noise? What is going on?
+
+@28234
+They say an immortal named Yu Ji has come to town, and everyone has gone to pay him homage.
+
+@28235
+An immortal? Hmph... And what arts does he perform?
+
+@28236
+I hear he mixes talismans written from a sacred book into water and has people drink it, curing every illness.
+
+@28237
+That is why the people revere him as a divine immortal...
+
+@28238
+Outrageous! Talismans cannot cure illness. They are being fooled by sorcery!
+
+@28239
+Let us see what kind of sinister fellow he is.
+
+@28240
+So you are this Yu Ji. Why do you lead the people astray with heresy? Stop, or you will be punished!
+
+@28241
+Heresy? How unkind. I merely heal the people with the arts of the sacred book.
+
+@28242
+You could say I am like a physician. Why should I be punished? I have done nothing wrong.
+
+@28243
+Spare me your nonsense! A physician heals illness by choosing and using effective herbs.
+
+@28244
+Curing illness by making people drink talismans... What is that if not sorcery?!
+
+@28245
+What you are doing is the same as Zhang Jiao. I will cut you down myself!
+
+@28246
+Please stop! Lord Yu Ji has done no wrong.
+
+@28247
+Lord Yu Ji is a great man. You must not kill him.
+
+@28248
+Enough, do not stop me! Are you deceived too?! This is all the more unforgivable!
+
+@28249
+For the sake of the land, I will cut down a sorcerer! Yu Ji, prepare to die!
+
+@28250
+This too is Heaven's will...
+
+@28251
+Ah, Lord Yu Ji... Lord Yu Ji...
+
+@28252
+Lord Yu Ji is dead. How terrible...
+
+@28253
+Well, Yu Ji? If your talismans cure illness, then bring yourself back to life!
+
+@28254
+Sun Ce has killed the immortal Yu Ji.
+
+@28255
+In Sun Ce's bedchamber
+
+@28256
+...Curse you, sorcerer...
+
+@28257
+You wretch! You have appeared again!
+
+@28258
+Hyahyahyahya...
+
+@28259
+...Damn! He vanished again!
+
+@28260
+Hyohyohyo...
+
+@28261
+...C-curse you! This time you will not escape!
+
+@28262
+...Damn it! Come out! Come out, I say!
+
+@28263
+Fohfohfoh...
+
+@28264
+Gyahahahaha...
+
+@28265
+Wh-what devilry... Ugh!
+
+@28266
+This is bad. His energy is failing and his pulse is erratic. There is nothing I can do.
+
+@28267
+I fear he has very little time left.
+
+@28268
+Heh heh, see? Yu Ji's sorcery has shortened my life, and now I must die.
+
+@28269
+Still, killing Yu Ji was no mistake.
+
+@28270
+Brother... Hold on, please.
+
+@28271
+Zhongmou, when it comes to leading armies and contending for the realm, you are no match for me.
+
+@28272
+But when it comes to using wise men to preserve the state, you are far above me.
+
+@28274
+If there are problems at home, seek the counsel of Lord Zhang Zhao.
+
+@28275
+...Yes.
+
+@28276
+If there are difficulties abroad, consult Zhou Yu.
+
+@28277
+All of you, help Zhongmou well... I am counting on you...
+
+@28278
+Sun Ce has died. Sun Quan has become his heir.
+
+@28279
+In Xinye Castle
+
+@28280
+...Hm? What is that man doing?
+
+@28281
+"...Heaven and earth are in turmoil, the fiery Han is about to fade.
+
+@28282
+He seems to be singing something...?
+
+@28283
+...A wise man dwells in the hills, and would give himself to a wise lord.
+
+@28284
+The wise lord now seeks the wise, yet somehow he knows me not."
+
+@28285
+Hmm... This seems to be no ordinary man.
+
+@28286
+Most interesting. Let me talk with him a little.
+
+@28287
+...Excuse me, sir. May I have a moment?
+
+@28288
+...Hm? What do you want with me?
+
+@28289
+My name is Liu Bei. What is the meaning of the song you just sang?
+
+@28290
+Oh! You are the lord of Xinye Castle?
+
+@28291
+The meaning of the song...? It is how I feel.
+
+@28292
+Seeing this man as a sage, Liu Bei invited him to his offices.
+
+@28293
+My name is Xu Shu. For certain reasons I left my home and travel from land to land.
+
+@28294
+Could it be, sir... that you are the one called the Sleeping Dragon or the Young Phoenix?
+
+@28295
+Not at all! I have some confidence in my talents, but I am no match for the Sleeping Dragon or the Young Phoenix.
+
+@28296
+I am rather short of wise strategists among my men.
+
+@28297
+Will you not help me, Xuande?
+
+@28298
+To serve a wise lord like you has been my wish.
+
+@28299
+If you will use my meager talents, how could I spare any effort?
+
+@28300
+Xu Shu has joined Liu Bei.
+
+@28301
+At Cao Cao's castle
+
+@28302
+According to our spies, Liu Bei has gained a very capable strategist.
+
+@28303
+His name seems to be Xu Shu... Does anyone know this Xu Shu?
+
+@28304
+Yes... I know him well.
+
+@28305
+Xu Shu, styled Yuanzhi, is said to come from Yingchuan.
+
+@28306
+He was a master swordsman, but after helping a friend take revenge he gave up the sword and threw himself into study.
+
+@28307
+And how great is this Xu Shu's talent?
+
+@28308
+If his talent were ten, mine would be no more than one or two.
+
+@28309
+He has the talent to aid a king. It is not for one like me to judge him.
+
+@28310
+A pity. It is as if we have given wings to the tiger Liu Bei.
+
+@28311
+If Your Excellency wishes to win Xu Shu over, I have a plan.
+
+@28312
+Oho. And what is this plan?
+
+@28313
+Xu Shu is a most filial son. His mother is here in our land, so we use her.
+
+@28314
+Let us forge a letter from his mother and send it to Xu Shu, luring him to {e0B}.
+
+@28315
+Send a forged letter\nDo not send it
+
+@28316
+That is no good plan. If word of it got out, the world would curse me as a heartless man.
+
+@28317
+With the realm still unsettled, it is unwise to earn a bad name. Think of another plan.
+
+@28318
+Good, a clever trick indeed. Send the forged letter at once.
+
+@28319
+Yes, my lord. At once.
+
+@28320
+Oh, Xu Shu. What brings you here so early in the morning?
+
+@28321
+Lord Liu Bei... I have come today to take my leave. Please allow me.
+
+@28322
+What is wrong, Xu Shu? What has happened?
+
+@28323
+I left my mother in {e0B}, and she has been taken captive by Cao Cao.
+
+@28324
+If I do not go to her now, I will fail in my duty as a son.
+
+@28325
+I beg you, allow me to go to {e0B}.
+
+@28326
+I see... Parent and child are bound by filial duty. Go, and set your mind at ease.
+
+@28327
+I will never forget your kindness in giving so high a place to one as untalented as me.
+
+@28328
+Even if I stay with Cao Cao, I have no intention of offering him any plans.
+
+@28329
+It is hard to part with you here, sir, but I cannot hold you back... Take care.
+
+@28330
+Yes... Then I will take my leave.
+
+@28331
+Ah, he is gone. What am I to do now?
+
+@28332
+I forgot something important. There is a sage in Xiangyang. You must invite him.
+
+@28333
+In Xiangyang... What kind of man is he?
+
+@28334
+An old fellow student of mine, Zhuge Liang, styled Kongming.
+
+@28335
+He lives at Wolong Ridge, west of Xiangyang. He has the talent to govern the land and bring peace to the people.
+
+@28336
+With his help, bringing order to the realm would be easy.
+
+@28337
+Zhuge Liang of Wolong Ridge...? Could he be the sage known as the Sleeping Dragon?
+
+@28338
+Exactly. The Sleeping Dragon is none other than Zhuge Liang, and the Young Phoenix is Pang Tong of Xiangyang.
+
+@28339
+Be sure to summon Zhuge Liang. And now, farewell...
+
+@28340
+Xu Shu has left Liu Bei.
+
+@28341
+Lord Cao Cao, Lord Xu Shu has arrived from Xinye.
+
+@28342
+Ah, welcome, welcome... Thank you for coming.
+
+@28343
+So tell me, why did you serve the likes of Liu Bei?
+
+@28344
+Fate brought us together, I suppose. Now, where is my mother?
+
+@28345
+She lives peacefully in the residence. You may see her later.
+
+@28346
+Mother, it is Yuanzhi. Are you well?
+
+@28347
+You, why are you here? Were you not serving Lord Liu Bei?
+
+@28348
+I received your letter, Mother, and hurried here.
+
+@28349
+Fool! Were you so worried for me that you could not tell a false letter from a true one?
+
+@28350
+To abandon a wise lord and turn traitor! What an unfilial son!
+
+@28351
+Serving a traitor! How will you apologize to your ancestors?
+
+@28352
+...Forgive me. I, Yuanzhi, was a fool.
+
+@28353
+Grieving at her son's folly, Xu Shu's mother took her own life.
+
+@28354
+This too comes of my foolishness... Mother...
+

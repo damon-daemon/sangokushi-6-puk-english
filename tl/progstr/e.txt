@@ -1,0 +1,98 @@
+# Strings found in phase 4 (2026-10-20): the IKKI.BIN and MC.BIN images are followed by stale
+# copies of older builds, which hid their real strings from the survey (progstr.STALE).
+# --- IKKI.BIN: duel policies, tactics and their help windows
+IKKI:801b11e0	All-out Charge
+IKKI:801b11f0	Aggressive
+IKKI:801b11fc	Take Alive
+IKKI:801b120c	Defensive
+IKKI:801b1218	Normal
+IKKI:801b1314	%s (%s)
+IKKI:801b1484	Usable: %d
+IKKI:801b1494	No tactics available
+IKKI:801b1c8c	Usable Tactics
+IKKI:801b1cb4	- Fights until Body runs out\n- Chases a retreating enemy\n  and shoots if it escapes\n- Cannot Lure, Switch, Feint\n- Easily caught by Lure,\n  Capture and Feint
+IKKI:801b1d44	- Retreats below 20 Body\n- Chases a retreating enemy\n- The standard policy
+IKKI:801b1d8c	- Retreats below 30 Body\n- Does not injure the enemy\n- Chases a retreating enemy\n- Only Shout, Capture,\n  Hidden Weapon and Lure\n- Capture succeeds more\n  often than with others
+IKKI:801b1e24	- Retreats below 50 Body\n- Best chance to retreat\n- Never chases; immune to\n  Lure and Feint\n- Cannot use Hidden Weapon,\n  One Blow, Special, Arrow\n- Easily cowed by Shout
+IKKI:801b1ed4	Policy: %s
+IKKI:801b22e8	Tactics: %d
+IKKI:801b22fc	- Roars at the enemy\n- Works better the lower\n  the enemy's Body\n- Rarely works on the brave
+IKKI:801b2354	- Unhorses and captures\n- The Body difference sets\n  the chance\n- Cancelled by Special
+IKKI:801b23a8	- Captures with an ambush\n- The lower your Body, the\n  likelier the enemy bites\n- If the ambush fails, the\n  duel is a draw\n- Not in round 1\n- Cancelled by Special
+IKKI:801b2444	- Retreat and let an officer\n  of your corps take over\n- Needs an officer of the\n  same corps nearby
+IKKI:801b24a0	- Talks the enemy into\n  retreating\n- Loyalty and both dreams\n  set the chance
+IKKI:801b24e8	- False news makes the\n  enemy retreat\n- The INT difference sets\n  the chance
+IKKI:801b2528	- Round 1 only\n- Kills with one blow, but\n  a miss invites a counter\n- Cancelled by Hidden Weapon,\n  Arrow and Side Attack
+IKKI:801b258c	- Attacks while dodging\n- Cancels the enemy's Hidden\n  Weapon (round 2 on), One\n  Blow and Special, and is\n  then devastating
+IKKI:801b2614	- A mighty finishing move\n- Twice as strong below\n  30 Body\n- Cancels Capture and Lure\n- Cancelled by Side Attack
+IKKI:801b2690	- Round 1 only\n- Shoots before the enemy\n  closes in\n- Cancels One Blow, and\n  then always hits
+IKKI:801b26ec	- Feigns a retreat and\n  shoots the pursuer\n- Not in round 1\n- Cancelled by Special
+IKKI:801b2748	- Throws a hidden weapon\n  to take the enemy alive\n- Round 2 on: cancelled by\n  Side Attack\n- Cancels One Blow\n- The weapon is never lost
+IKKI:801b27bc	Tactic: %s
+IKKI:801b27d0	No room for more tactics
+IKKI:801b3020	1
+IKKI:801b3023	2
+IKKI:801b3026	3
+IKKI:801b3029	4
+IKKI:801b302c	5
+IKKI:801b3030	----
+IKKI:801b303c	Shout
+IKKI:801b3045	Capture
+IKKI:801b304e	Lure
+IKKI:801b3057	Switch
+IKKI:801b3060	Persuade
+IKKI:801b3069	Fake
+IKKI:801b3072	1 Blow
+IKKI:801b307b	Side
+IKKI:801b3084	Special
+IKKI:801b308d	Arrow
+IKKI:801b3096	Feint
+IKKI:801b309f	Hidden
+IKKI:801b3380	-
+IKKI:801b3394	-
+IKKI:801b33b0	-
+# --- MC.BIN: memory card (verbs and particles in the program's MC table: PROG:80118edc...)
+MC:801a1a70	Slot
+MC:801a1b90	Slot
+MC:801a1dfc	Slot
+MC:801a1f5c	Unused file
+MC:801a1f70	Not enough free blocks
+MC:801a1f8c	No file
+MC:801a1fa4	format
+MC:801a1fb4	check
+MC:801a1fc0	No memory card in slot %s.\nSlot %s%s: cannot %s.
+MC:801a2010	The memory card in slot %s\nis not formatted.\nSlot %s%s: cannot %s.
+MC:801a2064	Could not format the\nmemory card in slot %s.
+MC:801a209c	The memory card in slot %s\nis not formatted.\nFormat it now?
+MC:801a20f8	The memory card in slot %s\nis damaged.\nPlease insert another card.
+MC:801a214c	The memory card in slot %s\nhas too few free blocks.\nCannot save to slot %s.
+MC:801a21a4	Save now?
+MC:801a21c0	Save over this data?
+MC:801a21ec	Could not write the data.
+MC:801a220c	The memory card in slot %s\nhas no data.\nCannot load from slot %s.
+MC:801a2260	Could not read the data.
+MC:801a2280	The data is damaged.
+MC:801a2298	Load this data?
+MC:801a22c0	Done (%s).
+MC:801a22d4	The memory card in slot %s\nwas removed.\nStopping (%s).
+MC:801a2310	A memory card was inserted\nin slot %s.\nStopping (%s).
+MC:801a2350	Stopping (%s).
+MC:801a2360	Checking the memory card\nin slot %s...
+MC:801a238c	Slot %s%s: %s in progress.\nDo not remove the memory\ncard or the controller.
+MC:801a23e8	Choose a slot (%s).
+MC:801a2408	Choose data (%s).
+MC:801a2428	%s: are you sure?
+MC:801a280c	Unexpected error.
+MC:801a2830	%3d/%2d %5s %4s
+MC:801a2844	%d new officers
+MC:801a2858	%d new items
+MC:801a2870	%d events
+MC:801a2888	%4s Stage %d
+MC:801a2898	No custom officers saved.\nCannot load.
+MC:801a28c8	No custom items saved.\nCannot load.
+MC:801a28fc	No historical events saved.\nCannot load.
+MC:801a2934	Short
+MC:801a2940	-
+MC:801a29e8	Unexpected error.
+MC:801a2a1c	-
+MC:801a27d4	-

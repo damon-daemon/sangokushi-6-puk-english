@@ -1,0 +1,300 @@
+@1000
+One of Shu-Han's Five Tiger Generals. Swore brotherhood with Liu Bei and Guan Yu in the Peach Garden. At Changban he alone held off Cao Cao's vast army on the bridge. History gives his style as Yide. General of Chariots and Cavalry.
+
+@1001
+First of Shu-Han's Five Tiger Generals. Swore brotherhood with Liu Bei and Zhang Fei. Famed as "a match for ten thousand men". Guarded Jing Province after Liu Bei entered Shu, but was captured by Wu and killed. General of the Front.
+
+@1002
+Later Han's General of Inner Spirit. A fierce warrior: "Among men, Lu Bu; among horses, Red Hare." Rampaged across the land, betraying lord after lord, until his own men betrayed him to a sorry end.
+
+@1003
+One of Shu-Han's Five Tiger Generals. Ma Teng's eldest son, known as "Splendid Ma Chao". Led the Xiliang troops against Chang'an to avenge his father on Cao Cao, but lost. Later joined Liu Bei. General of Cavalry.
+
+@1004
+Heir of the noble Yuan clan. Leader of the alliance against Dong Zhuo. After Dong Zhuo's death he built a great power in Hebei and fought Cao Cao for the Central Plains, but his indecision cost him dearly at Guandu.
+
+@1005
+Wei's 1st General of the West, Xiahou Dun's cousin. A pillar of Cao Cao's army from the start and a master of the surprise attack, he fell for Fa Zheng's ruse at Mount Dingjun and was slain by Huang Zhong.
+
+@1006
+Wei's Supreme Commander, Cao Cao's cousin. Lost his left eye to an arrow from Cao Xing while fighting Lu Bu's officer Gao Shun, and was called "Blind Xiahou". Died of illness soon after Cao Cao, as if following him.
+
+@1007
+A fierce general under Dong Zhuo, nine feet tall. Routed Sun Jian at Sishui Pass and pressed on, only to be slain by Guan Yu. In the official history it is the reverse: he was beaten and killed by Sun Jian.
+
+@1008
+One of Shu-Han's Five Tiger Generals. Served Yuan Shao and Gongsun Zan before joining Liu Bei. At Changban he rode alone into a vast army and rescued Liu Bei's son A Dou, the later Liu Shan. 2nd General of the East.
+
+@1009
+A fierce general under Yuan Shao. Leading the vanguard at Baima, he slew Song Xian and Wei Xu and even put the mighty Xu Huang to flight, but Guan Yu, then serving Cao Cao, cut him down in a single pass.
+
+@1010
+A fierce general under Yuan Shao. Marched to Yanjin to avenge his comrade Yan Liang and fought hard against Cao Cao's attack. Wounded Zhang Liao with an arrow and repelled Xu Huang, but was cut down by Guan Yu.
+
+@1011
+Wei's General of the Martial Guard, eight feet tall. Fought Dian Wei to a draw, won Cao Cao's respect and became his bodyguard. Dull-witted in daily life but fearless in battle, hence his nickname "the Tiger Fool".
+
+@1012
+An officer under Cao Cao, strong enough to swing a pair of 80-pound halberds with ease; called "E Lai" after a hero of old. When Zhang Xiu attacked at night at Wan, he fought bare-handed so Cao Cao could flee, and died.
+
+@1013
+Wei's 1st General of the East. Fought across the land under Ding Yuan, Dong Zhuo and Lu Bu, then surrendered to Cao Cao after Lu Bu's fall. Defending Hefei, he drove off 100,000 Wu troops with only 800 men.
+
+@1014
+Shu-Han's Grand General Who Conquers the West. Served Liu Biao and Han Xuan, then slew Han Xuan and joined Liu Bei; second only to the Five Tigers. Clashed with Yang Yi after Zhuge Liang died, and was slain by Ma Dai on secret orders.
+
+@1015
+An officer under Liu Bei. Guarded Ba commandery for Liu Zhang. Captured by Zhang Fei, he was moved by Zhang Fei's manner and joined him. Fought well beside Huang Zhong in the conquest of Hanzhong.
+
+@1016
+Wu's General Who Breaks the Charge. Once a river pirate known for his brocade sails. Unvalued under Huang Zu, he joined Sun Quan through Su Fei. Won Sun Quan's trust against Huang Zu, at Red Cliffs and against Wei.
+
+@1017
+An officer under Liu Bei, second son of Guan Ding. Guan Yu took a liking to him and adopted him. Held Jing Province with his father after Liu Bei entered Shu; captured by Wu at Maicheng and beheaded. History records no adoption.
+
+@1018
+A Wu officer and veteran since Sun Jian first raised troops; wielded an iron whip. At Red Cliffs he carried out the "self-injury ruse" with Zhou Yu, feigned surrender to Cao Cao and set his fleet ablaze, winning the day for Wu.
+
+@1019
+Once a commander under Zhang Bao of the Yellow Turbans, then a bandit on Mount Wogong. Met Guan Yu, whom he revered, and became his right-hand man. A strong swimmer. He does not appear in the official history.
+
+@1020
+Cao Cao's third son, by Lady Bian. A fierce warrior who could kill wild beasts bare-handed; fought well against the Wuhuan. Nicknamed "Yellow Beard". In the fight for Hanzhong he rescued his father from pursuing enemies.
+
+@1021
+A Wu officer. At his mother's urging he saved Kong Rong, Protector of Beihai. Later served Liu Yao, and joined Sun Ce when Liu Yao fell to him. Died in battle while attacking Hefei under Sun Quan.
+
+@1022
+One of Shu-Han's Five Tiger Generals. Served Liu Biao and Han Xuan, and fought a fierce duel with Guan Yu for Han Xuan. After joining Liu Bei he shone in Shu and Hanzhong; made General of the Rear when Liu Bei became King of Hanzhong.
+
+@1023
+A Wei officer, Cao Cao's cousin, skilled in arms, archery and riding. Guarded Jing Province after Red Cliffs and fought hard against Ma Chao and Guan Yu. Under Cao Pi he became Supreme Commander, then Grand Marshal.
+
+@1024
+Wei's General of Chariots and Cavalry Who Conquers the West. Served Yuan Shao, but driven into a corner by Guo Tu's schemes he joined Cao Cao with Gao Lan. Fought mostly against Shu-Han; at Jieting he surrounded and crushed Ma Su.
+
+@1025
+Shu-Han's 4th General of the North, son of Ma Teng's elder brother. Joined Liu Bei with his cousin Ma Chao. In the southern campaign he helped capture Meng Huo and Lady Zhurong. Slew the rebel Wei Yan after Zhuge Liang died.
+
+@1026
+Later Han's Protector of Xiliang, descended from the early Han general Ma Yuan. Joined Dong Cheng's plot against Cao Cao. Later, summoned to the capital by Cao Cao, he plotted again, was found out and executed.
+
+@1027
+Wei's General Who Upholds Righteousness. Served Ma Chao, then was captured and surrendered when Cao Cao took Hanzhong. At Fancheng he gravely wounded Guan Yu's left arm with an arrow, but was captured and beheaded.
+
+@1028
+King of the Nanman. Rebelled against Shu-Han after Liu Bei's death. Fought Zhuge Liang's expedition but was captured seven times and released seven times; after the seventh he submitted with all his heart.
+
+@1029
+A Wu officer, once all brawn. At Sun Quan's urging he took up learning and became a general of both wit and valor. As Wu's commander-in-chief he retook Jing Province and captured Guan Yu. General of Tigerish Might.
+
+@1030
+A Shu-Han retainer, once a guest of Liu Biao. Secretly told Liu Bei of the ill-omened horse Dilu and of Cai Mao's plot to kill him. Formally joined Liu Bei after Red Cliffs. A gifted speaker.
+
+@1031
+Later Han's General of the Rear, Yuan Shao's cousin (or, some say, half-brother). Held the Imperial Seal as Sun Ce's pledge for troops, then proclaimed himself emperor with it; his misrule brought his ruin.
+
+@1032
+Yuan Shao's second son, Inspector of Youzhou. Took in his brother Yuan Shang after Cao Cao beat him, but his men turned on him and he fled to the Wuhuan. Then sought Gongsun Kang of Liaodong, who beheaded him and sent the head to Cao Cao.
+
+@1033
+Yuan Shao's third son, his favorite for his good looks. After Yuan Shao died he fought his eldest brother Yuan Tan for the headship. Beaten by Cao Cao, he fled to his second brother Yuan Xi, Inspector of Youzhou.
+
+@1034
+Yuan Shao's eldest son, Inspector of Qingzhou. When the youngest, Yuan Shang, made himself heir after Yuan Shao's death, he fought him and lost. Won with Cao Cao's help, but was in the end slain by Cao Cao.
+
+@1035
+First Emperor of Shu-Han (Emperor Zhaolie), said to descend from Liu Sheng, Prince Jing of Zhongshan. Raised a volunteer army against the Yellow Turbans, fought far and wide, and at last held one of the Three Kingdoms.
+
+@1036
+Wei's General of the Right. Served Yang Feng, then joined Cao Cao at Man Chong's urging. Wise and brave, a mainstay of Cao Cao's army on many fronts. Strict in discipline, he was likened to the great Zhou Yafu.
+
+@1037
+Later Han's General of Outer Spirit. Studied under Lu Zhi with Liu Bei in his youth. His elite "White Horse Volunteers", all on white horses, fought the border tribes. Held Youzhou but was destroyed by Yuan Shao.
+
+@1038
+A pupil of Sima Hui and a skilled swordsman. Served Liu Bei as advisor, but when Cao Cao seized his mother he had no choice but to serve Cao Cao. Recommended Zhuge Liang, the "Sleeping Dragon", to Liu Bei.
+
+@1039
+A retainer of Liu Biao, Kuai Liang's younger brother. When Cao Cao invaded he urged Liu Cong, Liu Biao's heir, to surrender. Cao Cao praised him: "Gaining Kuai Yue pleases me more than gaining Jing Province."
+
+@1040
+A retainer of Liu Biao, Kuai Yue's elder brother and Liu Biao's aide. When Sun Jian attacked Jing Province, he gave the officer Lu Gong a plan to ambush Sun Jian with rocks and arrows, and Sun Jian was killed.
+
+@1041
+A Wei retainer. Served Li Jue but fell out of favor and became Zhang Xiu's strategist; his sharp plans beat Cao Cao again and again. Later joined Cao Cao together with his lord Zhang Xiu. Wei's Grand Commander.
+
+@1042
+A retainer of Cao Cao, recommended by Xun Yu. As a strategist he did much for Cao Cao's rise, but died of illness at 38 after Hebei was pacified. After Red Cliffs Cao Cao lamented: "If only Guo Jia were here!"
+
+@1043
+A retainer of Cao Cao from a noble family, praised from youth as having "the gift to aid a king". Aided Cao Cao as strategist and in state affairs, but died after opposing his rise to Duke of Wei; some say by suicide.
+
+@1044
+Shu-Han's Prime Minister, called the "Sleeping Dragon". Won by Liu Bei's three visits, he showed rare gifts in diplomacy and government. Led five northern campaigns and died at Wuzhang Plains. Named Marquis Zhongwu.
+
+@1045
+A Wu retainer, Zhuge Liang's elder brother. Served Sun Quan on Lu Su's recommendation. Generous, gentle and sincere, he had Sun Quan's deep trust. Worked for good ties between Wu and Shu-Han; Supreme Commander under Sun Quan.
+
+@1046
+A Wei officer, Cao Cao's cousin. Joined Cao Cao's uprising with Cao Ren. When Dong Zhuo's army beat them he saved Cao Cao at his own risk, and stayed a core of the army. General of Defense, then General of Cavalry.
+
+@1047
+Cao Cao's fourth son, by Lady Bian. Vied with his brother Cao Pi to be heir. A gifted poet who left many poems, he was revered as the "Sage of Poetry" until Du Fu came along. Prince Si of Chen.
+
+@1048
+A Wei retainer who served four generations of the Cao and laid the ground for the Jin dynasty. Beat Shu-Han by holding firm on the defensive. Purged Cao Shuang's faction and seized power; honored as Emperor Xuan of Jin.
+
+@1049
+A retainer of Liu Zhang. To stop Zhang Lu's invasion he worked to make Liu Bei lord of Shu in place of the mediocre Liu Zhang, but his brother Zhang Su betrayed the plan, and Liu Zhang executed him as a traitor.
+
+@1050
+A Wei retainer. Made Protector of Kuaiji at Tao Qian's call, but lost to Sun Ce and served Cao Cao. With Hua Xin he forced Emperor Xian to abdicate. Challenged Zhuge Liang to debate at the Wei River, was crushed and died of rage.
+
+@1051
+Later Han's Protector of Changsha. When his officer Huang Zhong did not shoot Guan Yu down, he suspected treason and was about to execute him, but was killed by Wei Yan just before. A man of short temper.
+
+@1052
+Later Han's Governor of Jizhou. Led troops into the alliance against Dong Zhuo. After it broke up, Yuan Shao, seeking a base, took Jizhou from him; he abandoned his wife and children and fled to Zhang Miao.
+
+@1053
+Later Han's Protector of Dong commandery. Joined the alliance against Dong Zhuo. After it broke up, Liu Dai asked to borrow food from him; he refused and was killed for it. A nephew of Qiao Xuan.
+
+@1054
+Later Han's Protector of Wuling. When Zhang Fei attacked Wuling, he ignored his officer Gong Zhi's warning and marched out. Beaten by Zhang Fei, he was shot dead by Gong Zhi as he returned to the city.
+
+@1055
+A Wei retainer, Protector of Tianshui. Joined the campaign against Shu-Han under Deng Ai. Defeated Zhuge Zhan, the Shu general, at Mianzhu and took the city. Returned to his post at Tianshui after Shu-Han fell.
+
+@1056
+Later Han's Inspector of Yuzhou. Led troops into the alliance against Dong Zhuo. According to the official history he excelled at judging men and lofty debate, but was useless as a military commander.
+
+@1057
+Later Han's Protector of Beihai, a 20th-generation descendant of Confucius and one of the "Seven Scholars of Jian'an". Joined the alliance against Dong Zhuo. Later served Cao Cao, but was executed for opposing war on Liu Bei.
+
+@1058
+Wei's second emperor (Emperor Ming). Relied on Sima Yi, Cao Zhen and others in the wars with Shu-Han and Wu. Relieved, perhaps, by Zhuge Liang's death, he sank into luxury in later years, building palace after palace, and Wei declined.
+
+@1059
+King of Wei. Made his name as a Commandant of Cavalry against the Yellow Turbans. After Dong Zhuo's death he swept across the troubled land and laid the foundations of the great state of Wei. Honored after death as Emperor Wu.
+
+@1060
+Wei's first emperor (Emperor Wen), Cao Cao's second son, by Lady Bian. On inheriting the title King of Wei, he forced Emperor Xian to abdicate and seized the throne. Attacked Shu-Han and Wu, but gained nothing.
+
+@1061
+Said to descend from Sun Tzu. Rose fighting the Yellow Turbans and became Protector of Changsha; led the vanguard of the alliance against Dong Zhuo. Died fighting Liu Biao at Xiangyang. Honored as Emperor Wulie.
+
+@1062
+Sun Jian's eldest son. Rose up with 3,000 troops borrowed from Yuan Shu and soon conquered all Jiangdong, earning the name "Little Conqueror". Attacked while hunting, he died young of his wounds. Honored as Prince Huan of Changsha.
+
+@1063
+Wu's first emperor (Emperor Da), Sun Jian's second son and Sun Ce's younger brother. Took over on Sun Ce's sudden death. At Red Cliffs he defeated Cao Cao's vast army. In 229 he took the throne and founded the empire of Wu.
+
+@1064
+Later Han's Protector of Guiyang. After Red Cliffs he surrendered to Zhao Yun when Zhao Yun attacked Guiyang, then angered him by offering him his widowed sister-in-law, Lady Fan, as a wife.
+
+@1065
+Master of the Five Pecks of Rice sect. Built a power base around Hanzhong. Fled after losing to Cao Cao, but was praised for not burning his storehouses; after his surrender he was made 2nd General of the South.
+
+@1066
+Later Han's Governor of Xuzhou, one of the lords in the alliance against Dong Zhuo. Attacked by Cao Cao, he called on Kong Rong and Liu Bei for help. Later, struck down by illness, he begged Liu Bei to rule Xuzhou.
+
+@1067
+Inspector of Bingzhou under the Later Han. Came to the capital at He Jin's call and seized power in the chaos. Deposed Emperor Shao, moved the capital to Chang'an, named himself Grand Tutor; a tyrant slain by Wang Yun and Lu Bu.
+
+@1068
+An officer under Dong Zhuo. After Dong Zhuo's murder he killed Wang Yun with his comrade Guo Si and others, and ruled through Emperor Xian. Yang Biao's ruse set him against Guo Si, and he went the way of self-destruction.
+
+@1069
+Later Han's Governor of Yizhou, descended from Prince Gong of Lu of the Former Han. Sensing the Han's decline, he took the post of Governor of Yizhou in Ba and Shu, a land "with the air of an emperor", and built his own power.
+
+@1070
+Later Han's Governor of Yizhou, Liu Yan's son. To guard against Zhang Lu he invited Liu Bei from Jing Province, but Liu Bei's army turned on him instead. Grieving for his people's suffering, he surrendered.
+
+@1071
+Shu-Han's second emperor; mild and mediocre. Once he ruled in person he favored the eunuch Huang Hao, letting government rot and helping bring Shu-Han down. His childhood name "A Dou" became a byword for a fool.
+
+@1072
+Later Han's Protector of Lingling. Sent his son Liu Xian and Xing Daorong out against Liu Bei's army. When Liu Xian lost he surrendered, and was told to stay on as Protector.
+
+@1073
+Later Han's Governor of Jingzhou, one of the "Eight Talents of Jiangxia", a byword for great men. Kept Jing Province stable amid the chaos of the Central Plains, but his indecision let many chances to unite the land slip by.
+
+@1074
+Later Han's Inspector of Yangzhou. Took on the brave Taishi Ci, a man of his home region, but could not make good use of him. Defeated by Sun Ce's attack, he fled to Yuzhang.
+
+@1075
+A Wei officer who followed Cao Cao from his first uprising and fought on many fronts; Cao Cao praised his calm. Defeated by Guan Yu at Fancheng, he surrendered; Sun Quan later sent him back to Wei. General of Outer Peace.
+
+@1076
+A Wei officer. On Sima Yi's recommendation he was made 2nd General of the West and held Chencang. A master of defense, he held out for over 20 days with 3,000 men against Zhuge Liang's army of 300,000.
+
+@1077
+A Wei officer and brave veteran who followed Cao Cao from his first uprising. Praised as one of Wei's great generals beside Zhang Liao, Yu Jin, Xu Huang and Zhang He. General Who Breaks the Charge, then General of the Right.
+
+@1078
+A strategist under Yuan Shao. When Wuchao was attacked at Guandu, he urged "Strike Cao Cao's camp now!", which brought on defeat. After Yuan Shao's death he became Yuan Tan's advisor.
+
+@1079
+Wei's General of the Right, Xiahou Yuan's eldest son (second in the histories). Fearing for his life when Sima Yi killed Cao Shuang, he fled to Shu-Han. His sister was Zhang Fei's wife and her daughter Liu Shan's empress, so he was well received.
+
+@1080
+A Shu-Han officer, Guan Yu's second son. Joined Liu Bei's campaign against Wu and avenged his father. Swore brotherhood with Zhang Fei's son Zhang Bao, and both fought well in the northern campaigns.
+
+@1081
+A Shu-Han officer, Guan Yu's third son. Wounded when Jing Province fell, he recovered in hiding at the Bao family farm. Returned to Shu-Han for the southern campaign, led the vanguard and captured Meng Huo by a ruse.
+
+@1082
+Later Han's Inspector of Bingzhou. When his sworn brother Ma Teng was killed by Cao Cao, he rose with Ma Teng's son Ma Chao. But he fell for a ruse to divide them; when he tried to surrender to Cao Cao, Ma Chao cut off his left arm.
+
+@1083
+A Shu-Han officer. Served Wei, but went over to Shu-Han in the first northern campaign. The dying Zhuge Liang entrusted him with his art of war. His nine northern campaigns drained the state's strength. Supreme Commander.
+
+@1084
+A Shu-Han officer, Liu Zhang's brother-in-law. Surrendered when Liu Bei invaded Shu; his sister became Liu Bei's wife, Lady Wu. After Zhuge Liang's death: Commander of Hanzhong, General of Chariots, Inspector of Yongzhou, Marquis of Jiyang.
+
+@1085
+Gongsun Kang's son. Exploiting the turmoil between Wei and Wu, he named himself King of Yan and rebelled against Wei. Defeated by Sima Yi's army and refused surrender, he was cut down as he fled.
+
+@1086
+An officer under Liu Biao, from a powerful Jing Province clan; brother of Liu Biao's second wife, Lady Cai. Plotted to kill Liu Bei so that Liu Cong would be heir, but failed. A skilled commander of fleets.
+
+@1087
+A Wei retainer, Sima Yi's eldest son. After his father's death he became Supreme Commander and wielded great power. Deposing Cao Fang provoked Guanqiu Jian's revolt. Died when a growth by his eye worsened. Honored as Emperor Jing.
+
+@1088
+A Wei retainer, Sima Yi's second son. Held power with his brother Sima Shi and became Supreme Commander after him. Destroyed Shu-Han in 263 and became King of Jin, but died of illness. Honored as Emperor Wen.
+
+@1089
+A Wu officer. Joined Sun Ce with his fellow pirate Jiang Qin. When bandits attacked Xuancheng, he saved Sun Quan despite grave wounds. At Yiling he slew the Man chieftain Shamoke. General of Inner Spirit.
+
+@1090
+A Wu officer and sworn brother of his lord Sun Ce. By Sun Ce's last wish he aided the young Sun Quan, and at Red Cliffs commanded the fleet that broke Cao Cao's army. Handsome, he was called "Handsome Zhou". Horse General.
+
+@1091
+A Shu-Han retainer. Joined Liu Bei in his Jing Province days and showed great skill in government. Supported the northern campaigns from the rear. After Zhuge Liang's death he became Supreme Commander and ran the state.
+
+@1092
+A Wei officer, Zhong Yao's youngest son and a confidant of Sima Shi and Sima Zhao. As 2nd General of the West he destroyed Shu-Han with Deng Ai. Plotted independence with the defector Jiang Wei, failed, and was slain by Wei troops.
+
+@1093
+A Wu retainer, Zhuge Jin's eldest son, bright from childhood and loved by Sun Quan. Seized power as Grand Tutor after Lu Xun's death, but lost respect with the defeat at Hefei New Castle and was murdered by Sun Jun.
+
+@1094
+Wei's Grand General Who Conquers the East, of the same clan as Zhuge Jin and Zhuge Liang. Rebelled against Sima Zhao's tyranny with Wu's help, failed and died in battle. Hundreds of his men died with him.
+
+@1095
+A retainer of Yuan Shao, judged by Xun Yu as "headstrong but planless". After Yuan Shao's death he backed Yuan Shang. Captured by Cao Cao, he would not submit, and was executed facing north, toward his lord.
+
+@1096
+Wei's Grand Marshal, a clansman of Cao Cao. Under Cao Pi he was 2nd General of the South and Grand General Who Conquers the East. In a later war on Wu he fell for Zhou Fang's ruse and was routed, and died of the grief.
+
+@1097
+Wei's Grand Marshal, a clansman of Cao Cao. Cao Pi entrusted the state to him. As commander-in-chief he fought the northern campaigns of Shu-Han but lost again and again to Zhuge Liang. A taunting letter made him die of rage.
+
+@1098
+Wei's Supreme Commander, Cao Zhen's eldest son. Cao Rui entrusted him and Sima Yi with the young Cao Fang. Kicked Sima Yi upstairs as Grand Tutor and seized power, but Sima Yi struck back and wiped out his clan.
+
+@1099
+A retainer of Yuan Shao. Kept advising against war on Cao Cao, was ignored and jailed. When Yuan Shao lost, Cao Cao urged him to surrender, but he refused and was killed trying to escape.
+

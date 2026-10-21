@@ -1,0 +1,819 @@
+@42000
+It seems everyone is here... Let the council begin.
+
+@42001
+Now, {e02}, tell us what you wish to discuss at today's council.
+
+@42002
+What do you think of {e02}'s proposal? Everyone, speak freely.
+
+@42003
+All opinions have been heard. {C159}, what will you do?
+
+@42004
+Lord {e01}, what will you do?
+
+@42005
+You will adopt {e03}'s opinion?
+
+@42006
+Adopt {e01}'s opinion?
+
+@42007
+Please tell us what is on your mind.
+
+@42008
+Lord {e01}, will you name an heir yourself?
+
+@42009
+Lord {e01}, is {e02} to be your heir?
+
+@42010
+I have not yet decided on an heir. Give me some time to think.
+
+@42011
+Yes, understood.
+
+@42012.1
+Yes, understood.
+
+@42012.2
+Yes, as you command.
+
+@42013
+We will discuss this matter again another day. This council is over.
+
+@42013.1
+We will not adopt {e02}'s proposal for now. This council is over.
+
+@42013.2
+I understand everyone's views, but I will think this over another day. This council is over.
+
+@42014
+Then, accepting {e02}'s proposal, we will restore {e0B}. Begin repairing the scorched land at once.
+
+@42015
+Yes! I will begin at once.
+
+@42016
+Work has begun on restoring {e0B}.
+
+@42017
+Then {e0B} shall be our Imperial City... {e02}, I put you in charge of building it.
+
+@42018
+Yes! I will begin at once.
+
+@42019
+Work has begun on building the Imperial City in {e0B}.
+
+@42020
+{e02}'s proposal makes good sense... So from now on, I shall call myself Governor of {e47}.
+
+@42020.1
+I see... Then from now on, I shall take the title Governor of {e47}.
+
+@42022
+Yes! Thank you for granting our wish.
+
+@42022.1
+Yes! Thank you for granting it so promptly.
+
+@42022.2
+Yes! {C159}, thank you for your decision.
+
+@42023
+, month\s
+
+@42023.1
+: {e01} became Governor of {e47}.
+
+@42024
+{e02}'s proposal makes good sense... So from now on, I shall call myself Inspector of {e47}.
+
+@42024.1
+I see... Then from now on, I shall take the title Inspector of {e47}.
+
+@42026
+, month\s
+
+@42026.1
+: {e01} became Inspector of {e47}.
+
+@42027
+There is some sense in what {e02} says. Very well! I shall receive the throne from the Emperor and rise to the highest rank.
+
+@42028
+Yes! Nothing could bring all the people of the realm greater joy than you becoming the Son of Heaven, {C159}.
+
+@42029
+, month\s
+
+@42029.1
+: {e01} received the throne from {e1F} and became Emperor.
+
+@42030
+Then, as {e02} says, I shall take the throne and show the realm where true justice lies.
+
+@42032
+, month\s
+
+@42032.1
+: Urged by the officials, {e01} took the throne in {e0B}.
+
+@42033
+{e02} speaks rightly. Then, holding the Imperial Seal, I shall take the throne.
+
+@42034
+Yes! {C159}, your glory will surely be known throughout the realm.
+
+@42035
+, month\s
+
+@42035.1
+: {e01} took the throne in {e0B}.
+
+@42036
+When you all press me so, I cannot refuse. I shall take the title of King.
+
+@42038
+, month\s
+
+@42038.1
+: {e01} was made King by {e1F}.
+
+@42039
+Then, accepting {e02}'s proposal, I shall take the title of King.
+
+@42041
+, month\s
+
+@42041.1
+: Recommended by the officials, {e01} took the title of King in {e0B}.
+
+@42042
+Then, accepting {e02}'s proposal, I shall take the title of Duke.
+
+@42044
+, month\s
+
+@42044.1
+: {e01} was made Duke by {e1F}.
+
+@42045
+My heir shall be {e03}. Is that clear to all?
+
+@42047
+Then, accepting {e02}'s proposal, we will move our capital to {e0B}.
+
+@42049
+I agree with {C166}. Let us restore {e0B} without fail.
+
+@42049.1
+A city reduced to scorched earth should be restored as soon as possible.
+
+@42050
+I believe {C166}'s proposal is sound. Why not adopt it?
+
+@42051
+It is as {C166} says. {C159}, let us make our capital, {e0B}, the Imperial City.
+
+@42051.1
+I see... If the budget allows, I think we should build an Imperial City.
+
+@42052
+It is just as {C166} says. {C159}, please become Governor of {e47}.
+
+@42052.1
+{C159}, nothing would make me happier than you becoming Governor of {e47}.
+
+@42052.2
+Who would oppose you becoming Governor of {e47}, {C159}?
+
+@42053
+I agree with {C166}. Had {C166} not said it, I would have proposed it myself.
+
+@42054
+It is as {C166} says. {C159}, please become Inspector of {e47}.
+
+@42054.1
+{C159}, I would be delighted if you became Inspector of {e47}.
+
+@42054.2
+Who would oppose you becoming Inspector of {e47}, {C159}?
+
+@42055
+The Mandate of Heaven truly rests with you, {C159}. Accept the throne and achieve the great task of uniting the realm.
+
+@42055.1
+Now is the time to answer the voice of Heaven and the hopes of the people. Why do you hesitate?
+
+@42056
+Would this not anger those whose hearts still lie with the House of Han? I am against it.
+
+@42056.1
+{C159}, you are already King... To seek more could bring disaster.
+
+@42057
+No, the time is not yet ripe.
+
+@42058
+{C159}, you must not! That {C164} would have you sit atop a blazing furnace!
+
+@42059
+Does the Mandate of Heaven still rest with the present Emperor, or with you, {C159}? I cannot tell.
+
+@42059.1
+{C159}, do as your heart tells you.
+
+@42060
+It is as {C166} says. There is no one but you, {C159}, who should be the Son of Heaven.
+
+@42060.1
+The Mandate of Heaven is not fixed; it goes only to the virtuous. I am in favor.
+
+@42061
+The warlords still hold their lands everywhere... Taking the throne? I cannot say...
+
+@42061.1
+{C159}, do as your heart tells you.
+
+@42062
+The Imperial Seal is the proof of an emperor. It is only natural that you take the throne, {C159}.
+
+@42062.1
+The hopes of the realm rest on you, {C159}, and you hold the Imperial Seal. You should take the throne.
+
+@42063
+You must not, {C159}. Seal or no seal, the other forces will make you their target.
+
+@42063.1
+Would this not anger those whose hearts still lie with the House of Han? I am against it.
+
+@42064
+{C159}, do as your heart tells you.
+
+@42065
+What can I say... I cannot judge this.
+
+@42066
+It is as {C166} says. Given your achievements, {C159}, who could object?
+
+@42067
+That would be to slight the House of Han! I cannot agree with {C166} at all.
+
+@42067.1
+{C159}, you already hold the highest rank a subject can reach. I think you should not seek more.
+
+@42068
+The founding law of Han forbids making anyone but the imperial family a king... {C159}, you must not!
+
+@42069
+You would slight the House of Han, {C166}? {C159}, do not heed that {C164}'s honeyed words!
+
+@42070
+King... Once you are King, the next step is... No, I have said too much.
+
+@42071
+I too think, {C159}, that you must become King and show the world that justice lives.
+
+@42072
+I cannot agree. To claim a title the court has not granted is not the way of a subject.
+
+@42073
+It is not for a subject like me to say. As you see fit, {C159}...
+
+@42074
+I see... Given your achievements, {C159}, I think it is only natural.
+
+@42074.1
+I agree with {C166}. {C159}, please rise to the rank of Duke.
+
+@42075
+That would be to slight the House of Han! I cannot agree with {C166} at all.
+
+@42075.1
+{C159}, as Prime Minister you already hold the highest rank a subject can reach. I think you should not seek more.
+
+@42076
+You would slight the House of Han, {C166}? {C159}, do not heed that {C164}'s honeyed words!
+
+@42076.1
+The ravings of a {C164} like {e03} are not worth hearing!
+
+@42077
+I worry what later ages will say... but do as your heart tells you, {C159}.
+
+@42078
+I do not know what to say...
+
+@42079
+It is as {C166} says. I too think {C42098} should be the heir.
+
+@42079.1
+By order of age, it is only right that {C42098} should be the heir...
+
+@42079.2
+It is better for the eldest to succeed, I think... In that case, {C42098} is the proper choice...
+
+@42080
+It is only natural that I should succeed you, {C159}.
+
+@42081
+It is as {C166} says! How many states have fallen since ancient times for ignoring the order of age...
+
+@42081.1
+It is only natural for {C42098} to be the heir. That is what the order of age means.
+
+@42082
+I too think {C42098} is the right successor for you, {C159}.
+
+@42083
+Well said, {C166}. Only with me as heir can we hope to prosper.
+
+@42083.1
+{C159}, I am confident I can succeed you worthily.
+
+@42084
+By order of age it would be {C42099}... but I think {C42098} is more fit to be heir.
+
+@42085
+These are chaotic times... Thinking of the future, {C42098} may be better, as {C166} says...
+
+@42085.1
+In times like these, {C42098}, skilled in war, may be the more fitting heir.
+
+@42086
+Thinking of the future... I believe it is {C42098} who has what it takes to rule the realm...
+
+@42086.1
+Only one with a talent for governing can rule the realm... It must be {C42098}.
+
+@42087
+It is {C42098} who has the charm to win followers. Let {C42098} be the heir...
+
+@42088
+It is as {C166} says. I too think {C42098} should be the heir.
+
+@42088.1
+By blood, it is only right that {C42098} should be the heir...
+
+@42088.2
+It is only natural for {C42098} to be the heir. Surely no one would oppose it.
+
+@42089
+Naturally, as your child, I should be the heir, {C159}.
+
+@42090
+If it must be me or {C42099}, then I should be the one to succeed.
+
+@42091
+I too think {C42098} is the right successor for you, {C159}.
+
+@42092
+If I succeed you, {C159}, I swear to achieve our dream of uniting the four seas!
+
+@42092.1
+{C159}, I am confident I can succeed you worthily.
+
+@42093
+By blood, {C42099} would be the proper choice, but is still young... {C42098} would be better.
+
+@42093.1
+But {C42099} is still young... Would {C42098} not be a more fitting heir?
+
+@42094
+By blood, we should back {C42099}... but personally, I think {C42098} is more fitting...
+
+@42095
+These are chaotic times... Thinking of the future, {C42098} may be better, as {C166} says...
+
+@42095.1
+In times like these, {C42098}, skilled in war, may be the more fitting heir.
+
+@42096
+Thinking of the future... {C42098}, who has what it takes to rule the realm, would be best.
+
+@42096.1
+Hmm, I think one with a talent for governing would be best... It must be {C42098}.
+
+@42097
+It is {C42098} who has the charm to win followers. Let {C42098} be the heir...
+
+@42098
+Candidate 1
+
+@42099
+Candidate 2
+
+@42103
+my elder sister {e04}
+
+@42103.1
+my elder brother {e04}
+
+@42103.2
+my younger sister {e04}
+
+@42103.3
+my younger brother {e04}
+
+@42103.4
+my younger sister {e04}
+
+@42103.5
+my elder sister {e04}
+
+@42103.6
+my younger brother {e04}
+
+@42103.7
+my elder brother {e04}
+
+@42104
+Lord {e05}
+
+@42105
+Lord {e05}
+
+@42105.1
+Lord {e05}
+
+@42105.2
+Lord {e05}
+
+@42107
+my elder sister {e05}
+
+@42107.1
+my elder brother {e05}
+
+@42107.2
+my younger sister {e05}
+
+@42107.3
+my younger brother {e05}
+
+@42107.4
+my younger sister {e05}
+
+@42107.5
+my elder sister {e05}
+
+@42107.6
+my younger brother {e05}
+
+@42107.7
+my elder brother {e05}
+
+@42108
+Hmm...
+
+@42109
+{C166} is mistaken. I think {C42098} should be the heir.
+
+@42109.1
+By blood, is it not only right that {C42098} should be the heir?
+
+@42109.2
+It is only natural for {C42098} to be the heir... What is {C166} thinking...
+
+@42110
+What are you saying, {C166}? Of course I am to be the heir of {C159}!
+
+@42111
+What are you saying, {C166}? Of course I am to be the heir of {C159}!
+
+@42112
+Forgetting order and courtesy is a sign of a falling state... It is {C42098} who should be the heir.
+
+@42112.1
+It is only natural for {C42098} to be the heir! That is what the order of age means.
+
+@42113
+I think {C42098} is the most fitting successor for you, {C159}.
+
+@42113.1
+What {C166} says is sound. Yet I dare to recommend {C42098}.
+
+@42114
+No, {C42099} cannot be trusted with it... {C159}, please make me your heir!
+
+@42114.1
+The heir should be the most able, not the eldest. In that case, I am the strongest choice.
+
+@42115
+The order of age, is it... Order and courtesy are all very well, but they mean nothing if the state falls.
+
+@42116
+By order of age it would be {C42099}... but I think {C42098} is more fit to be heir.
+
+@42117
+These are chaotic times... Thinking of the future, {C42098} may be the more fitting heir.
+
+@42117.1
+No, in chaotic times like these, I think {C42098}, skilled in war, should be the heir.
+
+@42118
+No, I believe it is {C42098} who has what it takes to rule the realm.
+
+@42118.1
+As I see it, it may be {C42098} who has what it takes to rule the realm.
+
+@42119
+No, {C42098}, whose charm wins the love of followers, is the fitting heir...
+
+@42119.1
+I think it is {C42098} who is loved by officers and people. Let {C42098} be the heir...
+
+@42120
+By blood, is it not only right that {C42098} should be the heir?
+
+@42120.1
+Surely, in the normal way, it is only right that {C42098} should be the heir!
+
+@42120.2
+No, the direct line should succeed, I think... In that case, {C42098} is the proper choice...
+
+@42121
+What are you saying, {C166}? Of course I am to be the heir of {C159}!
+
+@42122
+Naturally, as the one closest to you, I should be the heir, {C159}.
+
+@42123
+I think {C42098} is the right successor for you, {C159}.
+
+@42124
+If I succeed you, {C159}, I will achieve the great task of bringing peace to the realm!
+
+@42124.1
+{C159}, I am confident I can succeed you worthily.
+
+@42125
+By blood, {C42099} would be the proper choice, but is still young... {C42098} would be better.
+
+@42125.1
+But {C42099} is still young... {C42098} would be the more fitting heir.
+
+@42126
+No, in chaotic times like these, {C42098}, skilled in war, is better suited to be heir.
+
+@42126.1
+These are chaotic times... Thinking of the future, I have doubts about {C42099}, whom {C166} backs...
+
+@42127
+What an heir needs is the greatness to rule the realm... that is, {C42098} would be best.
+
+@42127.1
+As I see it, it may be {C42098} who has what it takes to rule the realm.
+
+@42128
+I think it is {C42098} who has the most charm to win over people and officers.
+
+@42128.1
+I think it is {C42098} who is loved by officers and people. Let {C42098} be the heir...
+
+@42129
+By blood, we should back {C42099}... but personally, I think {C42098} is more fitting...
+
+@42130
+Whoever succeeds, I think there will be no problem as long as we retainers stand united...
+
+@42130.1
+The question of an heir needs careful thought. Why not defer it for now?
+
+@42130.2
+The heir is a matter for your family, {C159}... It is not for a subject to interfere.
+
+@42131
+{C159}, why not defer the question of an heir for now?
+
+@42132
+I agree with {C166}. Let us move our capital to {e0C} and start building the Imperial City at once.
+
+@42132.1
+Even without an Imperial City, {e0C} is large and well worth developing... I agree.
+
+@42132.2
+I see. I think that would be fine.
+
+@42133
+I cannot agree to changing our capital so lightly.
+
+@42134
+Move our capital to {e0C}... I will simply follow your decision, {C159}.
+
+@42135
+Proposal: Receive the throne and become Emperor
+
+@42136
+Proposal: Take the throne as Emperor
+
+@42137
+Proposal: Take the throne as Emperor
+
+@42138
+Proposal: Become King
+
+@42139
+Proposal: Take the title of King
+
+@42140
+Proposal: Become Duke
+
+@42141
+Proposal: Make {e01} the heir
+
+@42142
+Proposal: Move the capital to {e0B}
+
+@42143
+Proposal: Restore {e0B}
+
+@42144
+Proposal: Make {e0B} the Imperial City
+
+@42145
+Proposal: Take the title of Governor
+
+@42146
+Proposal: Take the title of Inspector
+
+@42147
+{C159}, choose 6 officers to attend the council.
+
+@42148
+Lord {e01}, cancel the council?
+
+@42149
+Now, {e02}, give us your opinion.
+
+@42149.1
+Now, {e02}, let us hear your opinion.
+
+@42149.2
+Now, {e02}, say whatever you wish.
+
+@42150
+
+
+@42150.1
+
+
+@42151
+{C159}, it seems factions are forming among the retainers over differences of opinion.
+
+@42151.1
+{C159}, you may not know it, but there seems to be a rift among the retainers.
+
+@42151.2
+{C159}, do you know that a rift has opened among the retainers, and tempers are rising?
+
+@42152
+As I see it, Lord {e03} and Lord {e04} seem to be at the center of the factions.
+
+@42152.1
+It seems Lord {e03} and Lord {e04} are each leading a faction...
+
+@42152.2
+It seems Lord {e03} and Lord {e04} are the two at the center of it...
+
+@42153
+That will not do. {e02}, summon {e03} and {e04}.
+
+@42153.1
+Is that so? Something must be done... At any rate, summon {e03} and {e04}.
+
+@42153.2
+I will talk with them both. {e02}, summon {e03} and {e04}.
+
+@42154
+
+
+@42154.1
+
+
+@42155
+
+
+@42155.1
+
+
+@42156
+Yes, I will summon them at once.
+
+@42156.1
+Understood. Please wait a moment.
+
+@42156.2
+Then I will summon them both. Please wait a moment.
+
+@42157
+{e01}, here at your summons.
+
+@42157.1
+{e01}, reporting now.
+
+@42157.2
+{C159}, {e01} is here.
+
+@42158
+{C159}, what has happened, to call me so suddenly?
+
+@42158.1
+{e01}, reporting. {C159}, what is your wish?
+
+@42158.2
+{e01}, reporting. Has something happened, {C159}?
+
+@42159
+I will come straight to it. I hear there is a rift between the two of you...
+
+@42159.1
+It seems there is a rift among the retainers, with you two at its center. Listen, both of you...
+
+@42159.2
+I hear the feud among the retainers is deepening, with you two at its head. Both of you, listen well...
+
+@42160
+
+
+@42160.1
+
+
+@42161
+
+
+@42161.1
+
+
+@42162
+{e01} patiently reasoned with them both.
+
+@42163
+{C159}, I understand your feelings well.
+
+@42163.1
+{C159}, I am sorry to have caused you such worry.
+
+@42163.2
+{C159}, your words have opened my eyes.
+
+@42164
+It seems we were mistaken. We will mend our ways.
+
+@42164.1
+We regret how shallow our thinking was. Please forgive us.
+
+@42164.2
+My eyes are opened too. We fussed over small things and lost sight of the whole.
+
+@42165
+Thanks to your persuasion, {C159}, Lord {e03} and Lord {e04} seem to have made peace.
+
+@42166
+{C159}, I understand your feelings well.
+
+@42166.1
+I regret how shallow my thinking was. Please forgive me.
+
+@42166.2
+{C159}, your words have opened my eyes.
+
+@42166.3
+My eyes are opened. I, {e01}, fussed over small things and lost sight of the whole.
+
+@42167
+{C159}, I understand what you wish to say. Even so, I am not yet convinced.
+
+@42167.1
+I see... {C159}, I will keep your words in mind, at least.
+
+@42167.2
+I have my convictions. I cannot simply abandon my views.
+
+@42168
+There are signs of a rapprochement, but the two have not yet made peace.
+
+@42169
+Forgive me, {C159}, but I cannot accept this.
+
+@42169.1
+I am not wrong. It is that one who should change their mind.
+
+@42169.2
+{C159}, I understand what you wish to say. Even so, I am not yet convinced.
+
+@42170
+Unless the other side changes their mind, I have nothing to say to them.
+
+@42170.1
+It is that one who is wrong. I cannot be the one to give in.
+
+@42170.2
+I have my convictions. I cannot simply abandon my views.
+
+@42171
+Sadly, it seems they are still far from making peace.
+

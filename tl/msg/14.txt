@@ -1,0 +1,414 @@
+@14000
+So you are {f02}? {C5} will be your opponent!
+
+@14000.1
+I am {C5}! So you are {f02}. Here I come!
+
+@14000.2
+I will strike off your head right here!
+
+@14000.3
+I will not yield a single step until I have your head!
+
+@14002.2
+Whatever it takes, I will capture you here!
+
+@14003.3
+Tch, {e02}... I will fight a little and then pull back.
+
+@14004
+{e02}! You fool, coming out of your own accord... Here I come!
+
+@14004.1
+Tch, {e02} of all people... Send out {e04}! I want {e04}!
+
+@14004.2
+{C110}... {e02}, is it? I will cut you down first, then take {e04}'s head!
+
+@14005
+How futile... Then you shall die here.
+
+@14006
+All or nothing, is it? But I will not lose to the likes of you.
+
+@14014
+What! Is that not {e02}? To think we would meet like this...
+
+@14014.1
+{e02}, if you fall to my sword, you will have no regrets. Here I come!
+
+@14014.2
+Whichever of us wins, there will be no regrets. Here I come!
+
+@14014.3
+It pains me to cut down my own child, but this is fate... Forgive me.
+
+@14014.4
+I prayed this day would never come... My child, here I come!
+
+@14015
+Is that not {e02}? Very well, come at me!
+
+@14015.1
+{e02} is my opponent? Very well, I will bring you down with my own hands!
+
+@14015.2
+{e02}, is it... Crossing swords with me will be a good lesson for you.
+
+@14017
+Father or not, I will show no mercy. Have at you!
+
+@14017.1
+Nothing you say can change this now. Prepare yourself!
+
+@14017.2
+So this day has come at last. You were my goal and my worthy rival. Here I come!
+
+@14018
+You are the one person I never wanted to fight.
+
+@14018.1
+It seems we were always fated to come to this one day.
+
+@14018.2
+How cruel fate is...
+
+@14021
+{e02}, it has been a long time. Do you remember your older brother?
+
+@14021.1
+{e02}... To think I would have to fight you.
+
+@14021.2
+It has been a long time, {C17}. I never thought we would meet like this.
+
+@14022
+Come, then! Your older brother will test your skill.
+
+@14022.1
+{e02}! Come at me, and don't hold back!
+
+@14022.2
+{e02}, come at me without restraint. I will show no mercy either.
+
+@14023
+{C18}, I will not hold back. Are you ready?
+
+@14023.1
+I have heard the tales of you, {C18}! But can you beat me?
+
+@14023.2
+{C18}... You look well. Here I come!
+
+@14023.3
+Let us think of this as fate. Here I come!
+
+@14024.1
+{C18} or not, can you beat me?
+
+@14024.2
+{C18}, come at me for real. I will not hold back either.
+
+@14025
+{e02}, it has been a long time. Do you remember me?
+
+@14025.1
+So you are my opponent. Family or not, I won't go easy on you.
+
+@14025.2
+{e02}, is that you? How did it come to this...
+
+@14025.3
+It seems useless to ask you to surrender... Then at least let me be the one to kill you.
+
+@14026
+{C17} or not, I will show no mercy. I'm giving it everything. Prepare yourself!
+
+@14026.2
+I can't lose to my own {C17}! I'm giving it everything!
+
+@14028
+It's been a long time, {C18}. Let me show you my skill.
+
+@14028.1
+To meet in a place like this... This must have been our fate.
+
+@14028.2
+{C18}... It really is you. Why did it come to this...
+
+@14029
+If I can beat you, {C18}, I will believe in myself... So I won't hold back.
+
+@14029.1
+I won't think of you as my {C18}. Right now I will simply defeat you.
+
+@14029.2
+I'm a grown woman now. I can fight even you, {C18}, in earnest!
+
+@14030
+Old fool! This is no place for you!
+
+@14030.1
+An old man should have stayed quietly in the rear... I will show no mercy.
+
+@14030.2
+You should have stayed in retirement... I will see you off to the next world.
+
+@14030.3
+I have not fallen so low as to lose to an old fool like you!
+
+@14030.4
+Old fool, why hurry to your death at this late hour?
+
+@14032
+Woman or not, I will show no mercy. I will teach you a lesson.
+
+@14032.1
+The battlefield is no place for women and children! Stand back!
+
+@14032.2
+I do not wish to cut down a woman, but it cannot be helped.
+
+@14032.3
+A woman on the battlefield... Such is the way of these chaotic times.
+
+@14033
+Now that you are here, woman or not, I will show no mercy. Here I come!
+
+@14035
+{C145}, a mere youngster... I shall scatter you with ease.
+
+@14035.1
+Plenty of spirit, but a greenhorn who knows nothing of war!
+
+@14035.2
+Insolent brat! You are ten years too early to challenge {C5}!
+
+@14035.3
+I will show you the spearwork of a veteran!
+
+@14035.4
+Impudent! You are a frog in a well, knowing nothing of the world!
+
+@14036
+{C145}, a mere youngster... I'll scatter you with ease.
+
+@14036.1
+Plenty of spirit, but a greenhorn who knows nothing of war!
+
+@14036.2
+Insolent brat! You're ten years too early to challenge {C5}!
+
+@14036.3
+Let me show you the spearwork of a seasoned warrior!
+
+@14036.4
+How cheeky! You are a frog in a well, knowing nothing of the world!
+
+@14037
+Here I come! I'll show you my grit!
+
+@14037.1
+A strong foe... But I will not lose!
+
+@14038
+You dare challenge me alone? You must have some skill. Here I come!
+
+@14038.1
+Tch, out of my way, {e02}! Small fry should stay back!
+
+@14038.2
+How futile... Why can you not see you are only adding to the pile of corpses?
+
+@14038.3
+I am {C5}! So you are {e02}. I will take you on. Here I come!
+
+@14038.4
+So you are {e02}. I will praise your courage, at least. Here I come!
+
+@14038.5
+Quite the fighting spirit. But how long will it last against {f01}? Here I come!
+
+@14038.6
+You challenge me knowing I am {C5}... {C145}, interesting! Here I come!
+
+@14038.7
+{C145}, what nonsense! I will strike you down instead!
+
+@14043
+Just the opponent I wished for! I am {C5}! Here I come!
+
+@14043.1
+{C48}, so you are {C19}? Interesting. Here I come!
+
+@14043.2
+So you are {C19}? I, {e01}, will see what you are worth!
+
+@14043.3
+{C48}, {e02}... I have long wanted to fight you.
+
+@14043.4
+Hmph, so you are {e02}? You seem confident in your skill, but first you must beat me.
+
+@14043.5
+{e02}? {C19}! A worthy opponent indeed. Have at you!
+
+@14043.6
+{e02}, is it? Very well, I will strike you down myself. Here I come!
+
+@14045
+Tch, a tough one has come out. I have no choice but to fight.
+
+@14045.1
+Hmph. If it comes to this, I will neither run nor hide. Come at me!
+
+@14045.2
+{C110}, I have run into a dangerous one... If it comes to this...
+
+@14045.3
+What! {C19}? But even he is no demon god. Here I come!
+
+@14045.4
+Ugh, {e02}... So Heaven is not on my side...
+
+@14045.5
+What, {e02}? Of all the times!
+
+@14046
+Lu Bu! How I have dreamed of striking off your head!
+
+@14046.1
+Lu Bu! This time you will not escape. Here I come!
+
+@14047
+To fight you openly suits me well. Prepare yourself, Lu Bu!
+
+@14047.1
+How pleasant it will be to defeat you before all these eyes! Now, here I come!
+
+@14047.2
+Ha ha ha, Lu Bu! I have been looking forward to fighting you!
+
+@14049
+Like Zhang Fei, I have no love for you. Prepare yourself, Lu Bu!
+
+@14049.2
+With you gone, the world might find some peace. Prepare yourself, Lu Bu!
+
+@14050
+Against you, I will not hold back. Here I come, Lu Bu!
+
+@14050.1
+Lu Bu! With you I can fight to my heart's content! Here I come!
+
+@14050.2
+Even in a place like this, I cannot go easy on you. Here I come, Lu Bu!
+
+@14051
+Ugh, I have met a terrible foe. {e02}! Fight me!
+
+@14051.1
+With you as my opponent, this might be some fun. Here I come, {e02}!
+
+@14051.2
+With you as my opponent, this will be no easy fight. Here I come, {e02}!
+
+@14052
+Oh, {e02}! This is going to be fun. Here I come!
+
+@14053
+Go back to the country and pick the lice from your beard! Here I come, {e02}!
+
+@14054
+Yunchang, I do not wish to fight you, but I cannot let feelings decide... Here I come.
+
+@14054.1
+If it must be, so be it. Yunchang, let us fight with no regrets.
+
+@14054.2
+If it is my lord's command, so be it. Yunchang, no holding back! Here I come!
+
+@14055
+Holding back would only insult you. Then here I come, Yunchang!
+
+@14055.1
+Yunchang! A real fight with you is a true joy. Here I come!
+
+@14055.2
+It has been a long time since I crossed blades with Yunchang. Here I come!
+
+@14056
+Lord {e02}! I must fight as if this were the place I die.
+
+@14057
+Against Lord {e02}, I must give it everything. Here I come!
+
+@14057.1
+Lord {e02}! Face me in a true duel! Now, here I come!
+
+@14057.2
+Lord {e02}! Even against me, no holding back!
+
+@14058
+{e02}... How did it come to this?
+
+@14058.1
+Calm yourself, {e02}! First hear what I have to say!
+
+@14058.2
+Stop this, {e02}! What reason is there for the two of us to fight?
+
+@14059
+Now and then, a real duel with you like this is a fine thing!
+
+@14059.1
+{e02}! I will not forgive you if you hold back.
+
+@14059.2
+{e02}, a duel with me once in a while will do you good! Here I come!
+
+@14060
+What! You order me to fight my own brother?
+
+@14060.1
+Brother! Come to your senses!
+
+@14060.2
+Brother, you know my strength better than anyone. And still you want me to fight you...
+
+@14061
+It has been a long time since I crossed blades with you, Brother. Here I come!
+
+@14061.1
+All right, Brother! A real duel! Here I come!
+
+@14061.2
+Let me remind you how strong I am. I am going all out, Brother!
+
+@14062
+Guan Yu! A duel with you! Only a pastime, but I am giving it everything!
+
+@14062.1
+Guan Yu, submit to me! To have you as my retainer has long been my dream.
+
+@14063
+What, my opponent is Zhang Fei! I cannot hope to win, but I will land a blow or two...
+
+@14063.1
+Z-Zhang Fei?! The Zhang Fei whom Guan Yu called stronger than himself?
+
+@14064
+A real duel with you... I shall work up a good sweat.
+
+@14064.1
+How splendid! I would dearly love to have that one among my retainers...
+
+@14065
+I will teach you that long arms are of no use at all!
+
+@14065.1
+{C145}! What does a mat-weaver know? Now, here I come!
+
+@14066
+Hmph! Green-eyed brat, purple-bearded rat! I will strike you down!
+

@@ -1,0 +1,873 @@
+@36000
+Driven from office by the Proscription of the Partisans, the eunuchs' purge of upright scholars, Zhang Jiao lived in poverty.
+
+@36001
+One day, while gathering herbs in the mountains of Julu, Zhang Jiao met an old man.
+
+@36002
+...Zhang Jiao, I have been waiting for you. I shall bestow this book upon you.
+
+@36003
+Use this heavenly book to help the people. Never use it for selfish gain, or Heaven will punish you.
+
+@36004
+Y-yes, sir! But who are you...?
+
+@36005
+...Save the people in Heaven's stead. I am the Immortal Nanhua...
+
+@36006
+With the heavenly book, Zhang Jiao went about healing those who suffered from sickness.
+
+@36007
+Those he had saved came to revere him as their master and to worship his powers.
+
+@36008
+Heaven has given us our chance. The fall of the House of Han is as plain as day.
+
+@36009
+It is as Liang says. The world is in turmoil, and the people look to us for salvation.
+
+@36010
+We must overthrow the Han that torments the people and bring about an age of Great Peace!
+
+@36011
+And so, to save all the people of the realm, Zhang Jiao resolved to rise against the Han dynasty.
+
+@36012
+The Azure Heaven is already dead... Now is the time to rise. Gather the strength of all the faithful!
+
+@36013
+This was the beginning of the Yellow Turban Rebellion... It was the spring of the 7th year of Guanghe (184).
+
+@36014
+The rebellion shook even the eunuchs known as the Ten Attendants, who held real power in the Han capital, Luoyang.
+
+@36015
+A rebellion of bandits! Obtain an imperial edict at once and order He Jin to crush it.
+
+@36016
+If He Jin gains merit from this, it will cause us trouble later. Are you sure?
+
+@36017
+He Jin was a mere commoner. Once we have used him, we can dispose of him however we please.
+
+@36018
+On receiving the edict, He Jin, Supreme Commander of Han, asked his officers for their counsel.
+
+@36019
+Curse those Yellow Turban bandits... Mengde, Benchu, what do you think we should do?
+
+@36020
+There is no time to lose. We will take the field ourselves and lead the punitive army.
+
+@36021
+Y-yes, quite so... But will that be enough?
+
+@36022
+The enemy is vast. Let us send imperial orders to every Inspector and Protector to crush the rebels.
+
+@36023
+Fortunately, the rebels in each region are simply running wild on their own, with no coordination.
+
+@36024
+Let us crush them one by one and wait for the rebel army to wear itself out.
+
+@36025
+He Jin sent imperial envoys to the lords of each region while preparing to march out himself.
+
+@36026
+Liu Yan was serving as Inspector of Youzhou in Ji. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36027
+Liu Yan at once held a council and asked his retainers for their views.
+
+@36028
+The rebels are overwhelming in number... Even if Youzhou's troops alone could win, the losses would be terrible.
+
+@36029
+Hmm, what should we do? Is there any plan?
+
+@36030
+Let us raise volunteers from among the people and have them fight the Yellow Turban rebels.
+
+@36031
+Liu Yan put up notices in the town calling for volunteers. One day, a young man stood before one of them.
+
+@36032
+Raising troops to defeat the Yellow Turbans, eh... The world has truly come to its end... Sigh.
+
+@36033
+Hey, you there! The realm is in peril and all you do is sigh instead of helping. Call yourself a man?
+
+@36034
+In this crisis for the House of Han, I sighed at the thought of how powerless I am to do anything.
+
+@36035
+I too carry the blood of the House of Han... I wish I could do something for the dynasty and the people...
+
+@36036
+Then let's you and me gather volunteers! We'll work our hardest for the House of Han!
+
+@36037
+Oh ho, so you two are patriots as well... Let me join you.
+
+@36038
+The three hit it off, held a feast in a peach garden to celebrate their meeting, and swore an oath of brotherhood.
+
+@36039
+We three, though of different surnames, swear to be brothers, to be of one mind, and to join our strength!
+
+@36040
+Though we were not born in the same year, month and day, may we die in the same year, month and day!
+
+@36041
+We will aid the House of Han and save the people from their suffering! Heaven, behold our true hearts!
+
+@36042
+The three gathered several hundred volunteers and set off in high spirits to join Liu Yan, Inspector of Youzhou.
+
+@36043
+Liu Yan welcomed Liu Bei and the others warmly, took the volunteers into his army and prepared to march on the Yellow Turbans.
+
+@36044
+Han Fu was serving as Inspector of Jizhou in Ye. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36045
+Han Fu at once held a council and asked his retainers for their views.
+
+@36046
+Our Jizhou is far behind the Yellow Turbans in troops and talent alike. Is there no good plan?
+
+@36047
+There is nothing to worry about, Your Excellency. I, Pan Feng, will crush those Yellow Turban bandits!
+
+@36048
+Wait, Lord Pan Feng. Bandits they may be, but they are countless... We cannot win head-on.
+
+@36049
+Ah, Xin Ping. Have you some plan?
+
+@36050
+Ye is not far from Luoyang. Let us ask General He Jin for reinforcements.
+
+@36051
+If we sally out now, our losses will be heavy, and this castle may then fall to the rebels.
+
+@36052
+Yes, we must not overreach. Xin Ping is right.
+
+@36053
+Han Fu chose not to march out at once and worked instead to build up his forces.
+
+@36054
+Gongsun Zan was serving as Protector of Beiping. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36055
+Gongsun Zan at once held a council and asked his retainers for their views.
+
+@36056
+Hmph, Yellow Turban bandits, dragging innocent people into war. I shall punish them myself.
+
+@36057
+The rebel leaders spreading through Nanpi are said to be two men named Cheng Yuanzhi and Deng Mao.
+
+@36058
+What of it? No enemy can stand against our White Horse Volunteers! Hahaha!
+
+@36059
+Quite right. Bandits are no match for us.
+
+@36060
+Brother, do not be careless. The bandits may call on their base for reinforcements.
+
+@36061
+We should keep in touch with Lord Liu Yan and others nearby, so as not to be isolated...
+
+@36062
+Heh heh, you do worry too much. We are veterans of a hundred frontier battles. Bandits cannot beat us.
+
+@36063
+Gongsun Zan's elite cavalry, the White Horse Volunteers, made ready to march.
+
+@36064
+Kong Zhou was serving as Inspector of Yuzhou in Qiao. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36065
+...But what am I supposed to do?
+
+@36066
+The Yellow Turbans are a huge host... It is all we can do to defend this land.
+
+@36067
+Ah, if only I had an officer of wisdom and courage to be my right arm.
+
+@36068
+...Brooding will get us nowhere. Let us at least do what we can.
+
+@36069
+Kong Zhou chose not to march out at once and worked instead to build up his forces.
+
+@36070
+Sun Jian was serving as Assistant Magistrate in Xiapi. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36071
+Sun Jian at once held a council and asked his retainers for their views.
+
+@36072
+We cannot refuse an imperial order. But I fear our troops alone may not be enough to defeat the rebels.
+
+@36073
+We knew from the start the odds were against us. That is exactly why it is a chance to make our name!
+
+@36074
+And if we do not show our loyalty to the court now, we may be branded disloyal.
+
+@36075
+After watching for a while, Sun Jian's younger brother, Sun Jing, spoke up at last.
+
+@36076
+What do you think, Brother? We are all ready to follow your decision.
+
+@36077
+Nothing ventured, nothing gained... We accept the imperial order and strike the Yellow Turbans! Prepare to march!
+
+@36078
+Sun Jian, said to be a descendant of Sun Tzu, made ready to march against the Yellow Turbans.
+
+@36079
+Ding Yuan was serving as Inspector of Bingzhou in Jinyang. One day, an imperial envoy arrived from Luoyang.
+
+@36080
+This is an imperial edict ordering you to subdue the Yellow Turban rebels. Receive it.
+
+@36081
+Yes, sir! I humbly accept the imperial command.
+
+@36082
+As the envoy left, two officers, Lu Bu and Zhang Liao, appeared.
+
+@36083
+Your Excellency, we heard an imperial envoy came. What was his business?
+
+@36084
+An imperial command to subdue the Yellow Turban rebels.
+
+@36085
+The House of Han is in peril. We cannot stand idly by.
+
+@36086
+Then we march! It has been a while since my blood boiled like this. I'll smash those bandits!
+
+@36087
+With the two fierce officers Lu Bu and Zhang Liao in the vanguard, Ding Yuan prepared to march on the Yellow Turbans.
+
+@36088
+Tao Qian was serving as Inspector of Xuzhou in Xiaopei. One day, an edict arrived ordering him to subdue the Yellow Turbans.
+
+@36089
+Tao Qian at once held a council and asked his retainers for their views.
+
+@36090
+I hear the lords of every region have already set out against the Yellow Turbans.
+
+@36091
+We must not fall behind. Let us send out our army at once.
+
+@36092
+No, Wang Lang, do not be hasty. Sadly, Xuzhou has no men of valor.
+
+@36093
+The Yellow Turbans may be bandits, but they have many fierce fighters. We alone are no match for them.
+
+@36094
+I see... Then, venerable sir, do you have some other plan?
+
+@36095
+For now we strengthen our defenses and wait for the rebels to wear themselves out.
+
+@36096
+Chen Gui is right. We must not rush into this.
+
+@36097
+Tao Qian chose not to march out at once and worked instead to build up his forces.
+
+@36098
+One day, an edict arrived for Dong Zhuo ordering him to subdue the Yellow Turbans.
+
+@36099
+Dong Zhuo at once held a council and asked his retainers for their views.
+
+@36100
+The court has ordered us to subdue the Yellow Turbans. I want to hear what you all think.
+
+@36101
+We cannot defy an imperial command. Let us send our troops, crush the rebels and reap the rewards.
+
+@36102
+Exactly, we march! My arm is itching for a fight.
+
+@36103
+Most of you seem to favor marching. Li Ru, what do you think?
+
+@36104
+Of course I agree we should march. But we must not squander our troops recklessly.
+
+@36105
+We should preserve our strength as much as possible and prepare for the chaos to come.
+
+@36106
+Hmm, that's Li Ru for you. He sees further than the rest.
+
+@36107
+Dong Zhuo made ready to march against the Yellow Turbans.
+
+@36108
+One day, Han Sui gathered his close comrades.
+
+@36109
+The realm has been thrown into chaos by the Yellow Turbans.
+
+@36110
+Should we not take advantage of this confusion and rise ourselves?
+
+@36111
+Rise...? You mean revolt against the House of Han?
+
+@36112
+Isn't it too early? The Yellow Turbans may be strong, but not strong enough to shake the Han.
+
+@36113
+Should we not build up our strength for now and wait for Heaven's moment?
+
+@36114
+Fortunately the fighting has not reached Tianshui. Let us wait and see for a while.
+
+@36115
+Hmm, I suppose so. Let us do that.
+
+@36116
+Though burning with ambition, Han Sui decided to watch how the rebellion unfolded for the time being.
+
+@36117
+One day, an edict arrived for Qiao Mao ordering him to subdue the Yellow Turbans.
+
+@36118
+This is an imperial edict ordering you to subdue the Yellow Turban rebels. Receive it.
+
+@36119
+Yes, sir. I shall surely crush the rebel army.
+
+@36120
+The nearest Yellow Turban rebels to us are...
+
+@36121
+Zhang Liang of Chenliu. He is the brother of Zhang Jiao, leader of the Yellow Turbans, and a dangerous foe.
+
+@36122
+Uncle! Are you well enough to be up?
+
+@36123
+With the state in such trouble, even a retired man cannot lie about in bed.
+
+@36124
+We cannot win with our present troops. Attack only once you have gathered enough men. Mao, do not be hasty.
+
+@36125
+Qiao Mao chose not to march out at once and worked instead to build up his forces.
+
+@36126
+With the death of Zhang Jiao, the Yellow Turban Rebellion was more or less over. But the turmoil in the House of Han was not.
+
+@36127
+Luoyang fell into chaos with the death of Emperor Ling, the murder of He Jin and the slaughter of the Ten Attendants. Dong Zhuo of Xiliang seized control.
+
+@36128
+Dong Zhuo committed every kind of outrage, even deposing Emperor Shao and placing the Prince of Chenliu on the throne.
+
+@36129
+Amid all this, Cao Cao secretly plotted to assassinate Dong Zhuo...
+
+@36130
+Hm? Mengde, what are you doing?!
+
+@36131
+(Blast! I was so close...)
+
+@36132
+W-well, sir... I wished to present you this precious sword, in thanks for the horse you gave me...
+
+@36133
+Cao Cao shook off Dong Zhuo's pursuers, escaped Luoyang and raised the banner against Dong Zhuo in Chenliu.
+
+@36134
+Raise the banner of loyalty and gather righteous troops. We will defeat Dong Zhuo and save the House of Han.
+
+@36135
+Mengde, if you are rising up, we will spare no effort to help you.
+
+@36136
+Let us defeat the traitor Dong Zhuo and raise the name of the Cao clan!
+
+@36138
+Cao Cao rallied his clan and retainers and, though few in number, built them into an army.
+
+@36139
+Meanwhile, on Gongsun Zan's recommendation, Liu Bei had become a county magistrate and was posted to Pingyuan.
+
+@36140
+Brother, have you heard? They say Lord Cao Cao failed to assassinate Dong Zhuo and is on the run.
+
+@36141
+What?! I had heard of Dong Zhuo's tyranny, but I never knew it was this bad.
+
+@36142
+That Cao Cao... He's got some nerve!
+
+@36143
+Dong Zhuo's rule cannot last. The realm will be thrown into great turmoil once more.
+
+@36144
+So innocent people will again fall victim to war... How lamentable.
+
+@36145
+The people of Pingyuan came to know Liu Bei's kind heart and trusted him all the more.
+
+@36146
+For his service in quelling uprisings in various regions, Sun Jian had been made Protector of Changsha.
+
+@36147
+He had also put down a revolt in the three commanderies of southern Jing and been made Marquis of Wucheng, and his fame grew.
+
+@36148
+Brother, they say Cao Cao in Luoyang failed to assassinate Dong Zhuo and has fled.
+
+@36149
+I see. So he kept quiet all this time to put Dong Zhuo off his guard.
+
+@36150
+Word of Dong Zhuo's terrible outrages has reached even Changsha.
+
+@36151
+Dear me. First the Yellow Turbans, now Dong Zhuo. Out of the frying pan, into the fire...
+
+@36152
+Yes. Chaos is coming again.
+
+@36153
+Foreseeing wars to come, Sun Jian set about strengthening his army.
+
+@36154
+As Protector of Xiliang, Ma Teng held the post of guarding the frontier against the tribes.
+
+@36155
+One day, a report arrived from the spy he had sent to Luoyang.
+
+@36156
+...I see. Thank you for your report.
+
+@36157
+Yes, my lord.
+
+@36158
+Uncle, I saw a fast rider come from Luoyang... Has something happened?
+
+@36159
+Cao Cao pretended to present a precious sword and tried to cut down Dong Zhuo.
+
+@36160
+What! Then is Dong Zhuo dead?!
+
+@36161
+No, the attempt failed, and Cao Cao has fled Luoyang.
+
+@36162
+Hmm, that Dong Zhuo has the devil's own luck...
+
+@36163
+After this, Dong Zhuo will be more careful. The same trick will not work twice.
+
+@36164
+The chaos in the House of Han has reached its peak, it seems.
+
+@36165
+To prepare for wars to come, Ma Teng set about strengthening his army.
+
+@36166
+Liu Yan, a member of the Han imperial clan, had put himself forward as Governor of Yizhou and moved to Xichuan.
+
+@36167
+Xichuan was a natural fortress, cut off from the center and ideal for defense.
+
+@36168
+In the Central Plains, the Yellow Turban Rebellion had left villages and towns burned and fields withered.
+
+@36169
+Just as the rebellion seemed to settle, Dong Zhuo now wields power as he pleases.
+
+@36170
+Father, should we too rise up to overthrow Dong Zhuo?
+
+@36171
+Dong Zhuo will destroy himself in time. We need not lift a hand.
+
+@36172
+So we wait and see for a while?
+
+@36173
+Fortunately, Xichuan is surrounded on all sides and easy to defend.
+
+@36174
+Even if Dong Zhuo attacks, he will not find it easy.
+
+@36175
+Ignoring the turmoil in Luoyang, Liu Yan worked to build up his state's strength.
+
+@36176
+In seizing Luoyang, Dong Zhuo won over Lu Bu, the fierce officer who had served Ding Yuan.
+
+@36177
+With Luoyang's troops and famous warriors in hand, Dong Zhuo ran the court as he pleased.
+
+@36178
+One day Dong Zhuo summoned Cao Cao, but Cao Cao was slow to come.
+
+@36179
+Mengde, come at once when you are called! It is almost noon.
+
+@36181
+Hmm, that will not do. I'll give you one of my horses. Fengxian, bring a horse.
+
+@36182
+Yes, sir.
+
+@36183
+Hm? Mengde, what are you doing?!
+
+@36184
+W-well, sir... I wished to present you this precious sword, in thanks for the horse...
+
+@36185
+A precious sword? Well, let me see it.
+
+@36187
+Oh, is that so? Then let me try the horse at once.
+
+@36188
+Could it be that Cao Cao meant to stab you, my lord?
+
+@36189
+Yes, his behavior was strange. Fengxian, bring Mengde here.
+
+@36190
+The wretch rode straight out of the city gate on that horse!
+
+@36191
+What?! How dare he betray me! Seize Cao Cao at once!
+
+@36192
+In the end, Dong Zhuo could not capture Cao Cao.
+
+@36193
+I hear Cao Cao got away... This is bad.
+
+@36194
+Ah, Li Ru. What do you mean, bad?
+
+@36195
+Cao Cao is a cunning man... If we leave him be, he will surely put us in a tight spot.
+
+@36196
+What can the likes of Cao Cao do? I won't let him have his way.
+
+@36197
+Dong Zhuo's tyranny grew ever more oppressive.
+
+@36198
+Liu Biao, a member of the Han imperial clan, had been appointed Inspector of Jingzhou.
+
+@36199
+Jingzhou had fertile land, had suffered little from the wars, and was comparatively easy to govern.
+
+@36200
+One day, Liu Biao invited the Kuai brothers, local men of renown, to his castle.
+
+@36201
+I have invited you here for one reason.
+
+@36202
+I would like you to teach me how best to govern Jingzhou in the days ahead.
+
+@36203
+In an age of peace, one should govern putting "benevolence and righteousness" first.
+
+@36204
+But this is an age of war. Put benevolence aside and give priority to "strategy and cunning."
+
+@36205
+Whether this is an age of peace or war, I think you know without our telling you.
+
+@36206
+Jingzhou lies at the heart of the land, a place fit for kings. Its soil is rich and it has much talent.
+
+@36207
+For that very reason, lords everywhere covet it.
+
+@36208
+Use "strategy and cunning" wisely and defend Jingzhou well.
+
+@36209
+Liu Biao made the two his close advisors and strengthened the defense of Jingzhou.
+
+@36210
+On the pretext of restoring order, Dong Zhuo marched on Luoyang and seized real power at court.
+
+@36211
+Luoyang, in the 9th month of the 6th year of Zhongping (189)
+
+@36212
+The present Son of Heaven is weak and lacks spirit. He is not fit to rule the realm.
+
+@36213
+I intend to depose him and raise Liu Xie, the Prince of Chenliu, as emperor. No objections, I trust?
+
+@36214
+Stop, Dong Zhuo! What crime has the present Son of Heaven committed?!
+
+@36215
+To scheme on your own to depose the emperor is treason against the imperial house! You mean to usurp the throne!
+
+@36216
+Hold your tongue, Yuan Shao! The Han is mine to command now. Defy me and I'll cut you down!
+
+@36217
+Ho, so you finally bare your fangs. You are not the only one with a sword. Can you cut down Yuan Shao?
+
+@36218
+It was on a knife's edge, but Li Ru and others smoothed things over.
+
+@36219
+Dong Zhuo will force the deposition through sooner or later. Then our lives are surely forfeit.
+
+@36220
+We have no choice but to build our strength beyond Dong Zhuo's reach and wait for a chance to strike back.
+
+@36221
+Yuan Shao fled to Jizhou, where he trained troops and prepared to face Dong Zhuo.
+
+@36222
+Fearing Dong Zhuo's might, Yuan Shu escaped Luoyang separately from his brother Yuan Shao and set himself up in Nanyang.
+
+@36223
+Dong Zhuo is a wild beast. Had I stayed in Luoyang, my life would have been in danger.
+
+@36224
+But since you fled without a word, he may send troops after you.
+
+@36225
+Let us ready our army at once. We must strengthen our defenses against Dong Zhuo's pursuit.
+
+@36226
+They say Lord Yuan Shao and Cao Cao have also fled Luoyang. Should we not join forces with them?
+
+@36227
+Yes, yes... Then let us proceed that way.
+
+@36228
+Using the prestige of the noble Yuan clan, Yuan Shu built up his strength against Dong Zhuo.
+
+@36229
+Liu Yu was serving as Governor of Youzhou in Ji.
+
+@36230
+One day, Liu Yu held a council on the present state of affairs in Luoyang.
+
+@36231
+In Luoyang, it seems Dong Zhuo rules as a tyrant, doing whatever he likes.
+
+@36232
+Only recently, they say, he deposed the Son of Heaven and set the Prince of Chenliu on the throne.
+
+@36233
+What... He holds the House of Han in contempt!
+
+@36234
+I hear lords everywhere are building up their armies to overthrow Dong Zhuo.
+
+@36235
+What should we do? Wei You, what do you think?
+
+@36236
+Rather than act in haste, we should build up our strength.
+
+@36237
+Dong Zhuo's tyranny cannot last. We should wait for Heaven's moment.
+
+@36238
+Liu Yu watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36239
+Meanwhile, even after his failed revolt, Han Sui kept his power in the frontier lands.
+
+@36240
+The House of Han is in chaos... I never thought Dong Zhuo would go this far.
+
+@36241
+And yet that is what keeps us safe. Ironic, is it not?
+
+@36242
+The turmoil of the Central Plains is far from here. Let us build our strength while we can.
+
+@36243
+Exactly. We never know when they may send an army against us.
+
+@36244
+Heedless of the chaos in the Central Plains, Han Sui built up his strength.
+
+@36245
+The Son of Heaven has been deposed and made Prince of Hongnong.
+
+@36246
+The Prince of Chenliu has been made emperor, and Dong Zhuo has made himself Chancellor of State.
+
+@36247
+In Beiping, Gongsun Zan spent his days fighting the Wuhuan tribes of the frontier.
+
+@36248
+One day, urgent news from Luoyang reached Gongsun Zan.
+
+@36249
+Brother, urgent news from Luoyang. Dong Zhuo has deposed the Son of Heaven.
+
+@36250
+What! Tell me more.
+
+@36251
+The Son of Heaven has been deposed and made Prince of Hongnong, and the Prince of Chenliu made emperor.
+
+@36252
+And since the new emperor is a child, Dong Zhuo has made himself Chancellor of State, claiming to assist him.
+
+@36253
+Grr, Dong Zhuo! Does he mean to seize the Han dynasty?
+
+@36254
+This is no conduct for a subject. I'll bring Heaven's punishment down on that wrecker of the state!
+
+@36255
+Gongsun Zan watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36256
+Kong Rong was serving as Chancellor of Beihai. One day, an urgent messenger from Luoyang arrived.
+
+@36257
+Dong Zhuo, a mere subject, deposing the Son of Heaven...
+
+@36258
+He does not know his place, it seems.
+
+@36259
+Does he think himself Yi Yin or Huo Guang of old? Such presumption!
+
+@36260
+The realm will fall into chaos. When will a truly loyal subject appear...?
+
+@36261
+Kong Rong watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36262
+Tao Qian was serving as Inspector of Xuzhou in Xiaopei. One day, an urgent messenger from Luoyang arrived.
+
+@36263
+Curse you, Dong Zhuo! A subject deposing the Son of Heaven! Such insolence!
+
+@36264
+Good heavens... The world has truly come to its end.
+
+@36265
+I cannot overlook Dong Zhuo's crimes. The whole army marches!
+
+@36266
+Please wait. Sadly, our troops alone cannot defeat Dong Zhuo's vast army.
+
+@36267
+Let us wait for Heaven's moment. Heaven will surely not let such a traitor go unpunished.
+
+@36268
+It galls me, but Mi Zhu is right.
+
+@36269
+Tao Qian watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36270
+Han Fu was serving in Ye. One day, an urgent messenger from Luoyang arrived.
+
+@36271
+How terrible... I never thought Dong Zhuo would go that far.
+
+@36272
+Let us lead the army to Luoyang at once and strike down the traitor Dong Zhuo.
+
+@36273
+N-no, wait... Let us think this over a little more.
+
+@36274
+There is not a moment to lose! If we are to act, it must be now.
+
+@36275
+If we cannot fight alone, we could join hands with other lords.
+
+@36276
+What will you do? Advance or retreat, it is for Your Excellency to decide!
+
+@36277
+I told you to wait a little! This is a grave matter. I must think carefully...
+
+@36278
+Han Fu watched the moves of the lords of each region and readied his army.
+
+@36279
+One day, an urgent messenger from Luoyang came to Qiao Mao.
+
+@36280
+I see... Thank you for your report.
+
+@36281
+Dong Zhuo is unforgivable, but I alone can do nothing. I would only be beaten back.
+
+@36282
+But surely I am not the only one who opposes Dong Zhuo...
+
+@36283
+Qiao Mao watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36284
+Kong Zhou was serving in Qiao. One day, an urgent messenger from Luoyang arrived.
+
+@36285
+Grr, Dong Zhuo... Deposing the Son of Heaven...
+
+@36286
+Dong Zhuo must be removed. At this rate, the Han dynasty's life hangs by a thread.
+
+@36287
+If those against Dong Zhuo join forces, we may be able to defeat him...
+
+@36288
+Kong Zhou watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+
+@36289
+Wang Kuang was serving in Henei. One day, an urgent messenger from Luoyang arrived.
+
+@36290
+This cannot go on... Unless Dong Zhuo is defeated, the House of Han has no future.
+
+@36291
+But we are weak. Without a man respected enough to unite the lords, we cannot beat Dong Zhuo.
+
+@36292
+We must raise the banner of righteousness, take a worthy man as our leader, and unite...
+
+@36293
+Wang Kuang watched the moves of the lords of each region and prepared for war with Dong Zhuo.
+

@@ -1,0 +1,543 @@
+@64000
+Upon the death of his father Cao Cao, Cao Pi inherited his title of king. Then, ten months later...
+
+@64001
+Hua! What is the meaning of this commotion?
+
+@64002
+Your servant Hua Xin respectfully addresses Your Majesty.
+
+@64003
+You are of course aware that the present prosperity of the House of Han is owed to the power of Cao Pi, King of Wei.
+
+@64004
+In the 25th year of Jian'an (220), Cao Pi took the throne from Emperor Xian by abdication and became Emperor of Great Wei.
+
+@64005
+Four hundred years after its founding by Emperor Gaozu, Liu Bang, the Han dynasty came to an end...
+
+@64006
+My father, Emperor Wu, won the Central Plains, but Jiangdong and Ba and Shu still defy Our Great Wei.
+
+@64007
+Uniting the realm was Father's dearest wish. We shall surely achieve it in Our reign.
+
+@64008
+To oppose Cao Pi, who had usurped the throne, Liu Bei took up the Han throne in Chengdu in the 2nd year of Huangchu (221).
+
+@64009
+Naming the era Zhangwu and Zhuge Liang Prime Minister, he marched on Wu to avenge his sworn brother Guan Yu.
+
+@64010
+Guan Yu and We were brothers sworn in the peach garden. Betrayed by Wu, he was executed at Maicheng.
+
+@64011
+If We do not avenge him, We break Our oath. March the army on Wu at once!
+
+@64012
+Please wait, Your Majesty! It was Wei that usurped the realm, not Wu.
+
+@64013
+Anger at the usurpation is a public cause, but a brother's revenge is a private matter. I beg you to reconsider.
+
+@64014
+We would rather honor Our bond with Guan Yu than the proper path of an emperor. Zilong, stop Us no more.
+
+@64015
+The great Shu-Han army under Liu Bei pressed the fighting to its advantage and advanced as far as Yiling.
+
+@64016
+But at Yiling it fell to a fire attack by Wu's great general Lu Xun and suffered a crushing defeat.
+
+@64017
+Having lost many officers and men, Liu Bei escaped death by a hair and fled to Baidi Castle (Yong'an).
+
+@64018
+We have little time left to live... Hear Our last wishes.
+
+@64019
+If the Crown Prince, Liu Shan, is worth supporting, then help him faithfully.
+
+@64020
+If he is not worth it... then you, Prime Minister, must succeed Us and become Emperor of Han.
+
+@64021
+How can you say such a thing... I, Zhuge Liang, will devote my whole life to serving Lord Liu Shan loyally.
+
+@64022
+Forgive me, Kongming... Zilong, this is our farewell as well. Take care of the Crown Prince...
+
+@64023
+...Yes, sire, I understand. I will not shrink from any toil in your service...
+
+@64024
+...All of you... take care of the Crown Prince...
+
+@64025
+Liu Bei, first Emperor of Shu-Han, fell ill at Baidi Castle and died in the 3rd year of Zhangwu (223).
+
+@64026
+Zhuge Liang and the other loyal ministers put Liu Bei's son Liu Shan on the throne and changed the era name to Jianxing.
+
+@64027
+We still know nothing of affairs of state. Prime Minister, We rely on you.
+
+@64028
+...Yes, Your Majesty.
+
+@64029
+Wu had defeated Guan Yu through Lu Meng's efforts and taken Jing Province, but that earned it Liu Bei's wrath.
+
+@64030
+Terrified by the Liu Bei army's swift advance, Sun Quan submitted to Wei and asked for help.
+
+@64031
+The Wei Emperor Cao Pi made Sun Quan King of Wu, but sent no reinforcements, hoping Shu-Han and Wu would destroy each other.
+
+@64032
+They say Liu Bei's army has advanced as far as Yiling.
+
+@64033
+This is the greatest crisis Wu has ever faced. Is there no one who can break this deadlock?
+
+@64034
+If Lord Zhou Yu, Lord Lu Su or Lord Lu Meng were alive, they would fight for us as Commander, but...
+
+@64035
+There is no officer in Wu now who can match them. I fear surrender is unavoidable...
+
+@64036
+King of Wu, hear me! Now is the time to use Lu Xun. He is a man of great talent...
+
+@64037
+Lu Xun? Kan Ze, you want me to make that bookish youth Commander?!
+
+@64038
+Lu Boyan lacks standing. The old retainers may refuse to obey his orders.
+
+@64039
+Lu Xun's talent fits a Commander's staff officer or the Protector of a commandery at best. Commander? Out of the question.
+
+@64040
+If you do not use Lu Xun, Liu Bei will destroy Wu! I stake my life on this recommendation.
+
+@64041
+Very well, I understand. I will trust you and Lu Xun.
+
+@64042
+Sun Quan named Lu Xun supreme commander against Liu Bei's army. At Yiling, Lu Xun utterly routed it.
+
+@64043
+Right after that, Wei attacked to exploit Wu's weakness, but Lu Xun drove it back as well and won Sun Quan's trust.
+
+@64044
+Lu Xun, I was right to appoint you.
+
+@64045
+Though it is a little shameful that only Kan Derun saw your great talent...
+
+@64047
+Lu Xun, I want to hear your thoughts. Which way should Wu go from here?
+
+@64048
+Facing both Shu and Wei is folly. We should ally with one and turn our full strength on the other.
+
+@64049
+Rather than Wei, which attacked when we were weak, I think we should ally with Shu, ruled by the righteous Zhuge Liang...
+
+@64050
+I see, you are quite right. First, let us narrow our foes down to one.
+
+@64051
+The Gongsun clan had long held power in the land of Liaodong.
+
+@64052
+Gongsun Gong had helped Cao Cao fight the Yuan with his brother Kang, and was made Protector of Liaodong and Marquis of Xiangping.
+
+@64053
+They say Cao Pi, King of Wei, has received the Han throne by abdication and become Emperor.
+
+@64054
+What do you make of this? Let me hear your views.
+
+@64055
+It takes the form of an abdication, but I think we may regard it as a usurpation in truth.
+
+@64056
+But in the present situation it would be unwise to defy Wei.
+
+@64057
+Even if you mean to oppose Wei one day, for now it is best to build up strength and wait for Heaven's moment.
+
+@64058
+Fortunately, Liaodong is a remote frontier. War will not come here for a while. Let us build up our strength.
+
+@64059
+When Liu Bei was defeated at Yiling, unrest stirred in the south of Shu-Han.
+
+@64060
+Yong Kai, a powerful local clan leader, killed the commandery Protector, seeking independence from Shu-Han.
+
+@64061
+He also seized the new Protector sent by Shu-Han and sent him off to Sun Quan.
+
+@64062
+Shu has been in decline since its defeat at Yiling. Wei is mighty, but far from Jianning. Wu is the one to rely on.
+
+@64063
+Seeing a way to keep Shu-Han in check, Wu showed itself ready to support Yong Kai.
+
+@64064
+Through Yong Kai, it hoped to win the south of Yi Province if luck allowed.
+
+@64065
+They say Liu Bei died at Baidi Castle. We need fear Shu no longer.
+
+@64066
+But even with Lord Liu Bei dead, Prime Minister Zhuge and veterans like Zhao Yun and Wei Yan are still alive and well.
+
+@64067
+If we rebel now, do we really have any chance of success?
+
+@64068
+Gao Ding, you worry too much. We have Wu's help. This revolt is sure to succeed.
+
+@64069
+In time I will take all of Yi Province. Wahahaha!
+
+@64070
+There is no ruler who can be a player.
+
+@64071
+No more players can be set.
+
+@64072
+Select the new rulers.
+
+@64073
+Take your officers with you?
+
+@64074
+Watch the scenario opening?
+
+@64075
+Load the Historical Events save data?
+
+@64076
+%s unified all of China in the year %d, month %d.
+
+@64077
+Lord %s, it is your turn.
+
+@64078
+Seize the letter?
+
+@64079
+Choose the commander from the officers going to war.
+
+@64080
+Failed.
+
+@64081
+Accept the Attack Order against %s?
+
+@64082
+Is this all right?
+
+@64083
+Lord %s, what shall we do with %s?
+
+@64084
+Shows the power map.
+
+@64085
+Shows your allies.
+
+@64086
+Shows vassal relations.
+
+@64087
+Shows armies preparing for war.
+
+@64088
+Shows draftable troop types.
+
+@64089
+Shows where the Han Emperor is.
+
+@64090
+Shows cities within your sway.
+
+@64091
+Shows areas hit by plague.
+
+@64092
+Shows areas hit by locusts.
+
+@64093
+Shows flooded areas.
+
+@64094
+Shows areas hit by typhoons.
+
+@64095
+Shows areas with good harvests.
+
+@64096
+Shows areas with poor harvests.
+
+@64097
+6 months
+
+@64098
+2 years
+
+@64099
+3 years
+
+@64100
+4 years
+
+@64101
+1 year
+
+@64102
+1 year
+
+@64103
+3 years
+
+@64104
+2 years
+
+@64105
+2 years
+
+@64106
+2 years
+
+@64107
+3 years
+
+@64108
+3 years
+
+@64109
+Feb 184 -
+
+@64110
+Oct 196 -
+
+@64111
+Jan 197 -
+
+@64112
+Mar 197 -
+
+@64113
+Sep 208 -
+
+@64114
+Apr 211 -
+
+@64115
+Mar 227 -
+
+@64116
+Jul 191 -
+
+@64117
+Feb 200 -
+
+@64118
+May 202 -
+
+@64119
+Mar 249 -
+
+@64120
+Apr 257 -
+
+@64121
+Jul 184
+
+@64122
+Sep 198
+
+@64123
+Dec 199
+
+@64124
+Feb 201
+
+@64125
+Aug 209
+
+@64126
+Mar 212
+
+@64127
+Feb 230
+
+@64128
+Jun 193
+
+@64129
+Jan 202
+
+@64130
+Apr 204
+
+@64131
+Feb 252
+
+@64132
+Mar 260
+
+@64133
+1. Capture and execute Cheng Yuanzhi in battle\n2. Gain Ji and Nanpi
+
+@64134
+1. Capture and execute Lu Bu in battle\n2. Rule 12 cities, including Xiaopei, Xiapi and Shouchun
+
+@64135
+1. Capture & execute Gongsun Zan\n2. Rule Xiangping, Beiping, Ji, Nanpi, Ye, Pingyuan, Beihai, Jinyang\n3. Rank: Min. of Works+
+
+@64136
+1. Build an Imperial City and rule 4 cities
+
+@64137
+1. Rule Jiangling\n2. Capture and execute Cao Cao in battle
+
+@64138
+1. Capture and execute Cao Cao in battle\n2. Rule Chang'an, Luoyang and Xuchang
+
+@64139
+1. Rule 12 cities, including Chang'an, Hanzhong and Chengdu\n2. Capture and execute Cao Rui in battle
+
+@64140
+1. Rule 8 cities, including Wuhuan\n2. Have 100,000 or more Cavalry and Armored Cavalry in total
+
+@64141
+1. Rule 8 cities, including Xuchang\n2. Capture and execute Cao Cao
+
+@64142
+1. Yuan Tan, Yuan Xi and Yuan Shang die\n2. Rule 20 cities
+
+@64143
+1. Rule Chang'an, Xiliang, Qiang and Chengdu
+
+@64144
+1. Enthrone the Emperor (Cao Mao)\n2. Rule 10 cities\n3. Capture and execute Sima Zhao
+
+@64145
+1. Liu Bei dies
+
+@64146
+1. Cao Cao dies\n2. Emperor Xian is lost
+
+@64147
+1. Yuan Shao dies
+
+@64148
+1. Yuan Shu dies
+
+@64149
+1. Sun Quan dies
+
+@64150
+1. Ma Chao dies
+
+@64151
+1. Zhuge Liang dies\n2. Chengdu is no longer the Imperial City
+
+@64152
+1. Gongsun Zan dies
+
+@64153
+1. Sun Ce dies
+
+@64154
+1. Cao Cao dies
+
+@64155
+1. Jiang Wei dies\n2. Chengdu is no longer the Imperial City
+
+@64156
+1. Zhuge Dan dies
+
+@64157
+Dingtao
+
+@64158
+Baima
+
+@64159
+Guandu
+
+@64160
+Tong Pass
+
+@64161
+Jing Province
+
+@64162
+=
+
+@64163
+Niuzhu
+
+@64164
+Jiangxia
+
+@64165
+Red Cliffs
+
+@64166
+Ruxu
+
+@64167
+Yiling
+
+@64168
+=
+
+@64169
+Bowang Slope
+
+@64170
+Luo Castle
+
+@64171
+Mount Dingjun
+
+@64172
+Nanman Campaign
+
+@64173
+Qishan
+
+@64174
+=
+
+@64175
+Jieting
+
+@64176
+Wuzhang Plains
+
+@64177
+Xiangping Siege
+
+@64178
+Shouchun Siege
+
+@64179
+Conquest of Wu
+
+@64180
+=
+
+@64181
+Save the game?
+

@@ -1,0 +1,675 @@
+@40000
+The secrets of warfare, written by Sun Wu, a great general of Wu in the Spring and Autumn period. The surviving text is Cao Cao's annotated edition.
+
+@40001
+A military manual Zhuge Liang entrusted to Jiang Wei just before his death. Said to cover military law, formations and more.
+
+@40002
+Zuo Qiuming's commentary on Confucius' "Spring and Autumn Annals". A favorite of Guan Yu and Du Yu.
+
+@40003
+A military classic said to be compiled by Taigong Wang. Legend says Zhang Liang received it from an immortal.
+
+@40004
+A military treatise said to be written by Cao Cao. He burned it himself after Zhang Song mocked it.
+
+@40005
+A history written by Sima Qian of Han, covering the ages from legendary times to Emperor Wu of the Former Han.
+
+@40006
+A book of the immortals that the sorcerer Zuo Ci found in a rock wall on Mount Emei. Three volumes: Heaven, Earth and Man.
+
+@40007
+A heavenly book given to Zhang Jiao by the Immortal Nanhua. It tells how to summon wind and rain.
+
+@40008
+A sacred book the hermit Yu Ji found beside the Quyang spring. It holds magic arts for curing illness.
+
+@40009
+Hua Tuo's own book of medicine. It was kept in a blue bag, hence the name "Qingnang" (blue bag).
+
+@40010
+A map of the 5 commanderies and 41 counties of Western Shu, drawn in secret by Zhang Song and presented to Liu Bei.
+
+@40011
+A pictorial map of the south drawn by Lu Kai, who presented it to Zhuge Liang for his southern campaign.
+
+@40012
+A horse red as flame from head to tail, eight feet tall. Said to run a thousand li (400 km) in a day.
+
+@40013
+"Dilu" names a marking on a horse. A horse with this marking was said to bring a curse on its rider.
+
+@40014
+Cao Cao's beloved horse. He rode it at the great hunt at Xutian, to which he invited Emperor Xian.
+
+@40015
+Cao Cao's beloved horse, a Persian breed. "Jueying" means it runs so fast it leaves no shadow behind.
+
+@40016
+A treasured sword Cao Cao borrowed from Wang Yun to assassinate Dong Zhuo. It is set with the seven jewels.
+
+@40017
+Cao Cao's sword, twin to the Qinggang Sword. "Yitian" means "piercing even the heavens".
+
+@40018
+A treasured sword, twin to the Yitian Sword. Said to cut iron like mud. Zhao Yun took it at Changban.
+
+@40019
+A halberd with a crescent-shaped side blade on its head. The favorite weapon of Lu Bu.
+
+@40020
+Guan Yu's great glaive, forged by a smith when he first raised his banner. It weighs 82 jin.
+
+@40021
+Zhang Fei's steel spear, forged by a smith when he first raised his banner. It is 18 feet long.
+
+@40022
+Cheng Pu's spear, its blade curved like a snake. He wielded it in the battle against Cai Mao.
+
+@40023
+The pair of male and female swords Liu Bei wore, made by a village smith when he first raised his banner.
+
+@40024
+Sun Jian's favorite blade. He held it in hand as he led his men in the war against Dong Zhuo.
+
+@40025
+Ji Ling's great glaive, with a three-pronged blade. It weighs 50 jin.
+
+@40026
+Dian Wei's halberds, 80 jin each. Hu Juer stole them during the battle against Zhang Xiu.
+
+@40027
+Xu Huang's favorite axe. With it he crossed blades with fierce warriors like Xu Chu, Yan Liang and Guan Yu.
+
+@40028
+Huang Gai's iron whip. In shape it is less a whip than a long rod made of iron.
+
+@40029
+A kind of spear whose head is studded with countless iron spikes. Favored by Shamoke, king of the Wuling tribes.
+
+@40030
+A thrown weapon: iron hammers tied to both ends of a rope, hurled at the foe. Wang Shuang's weapon.
+
+@40031
+A thrown weapon: short halberds hurled like throwing stars. Dian Wei's weapon.
+
+@40032
+A thrown weapon: small knives made for throwing. Used by Lady Zhurong, wife of Meng Huo.
+
+@40033
+A thrown weapon: a halberd with a shortened shaft. In the novel, Sun Ce and Taishi Ci use it.
+
+@40034
+A launched weapon: a tube that fires short arrows by spring power, hidden inside the sleeve.
+
+@40035
+A seal the First Emperor had carved from the famous jade of Lantian. It is held to be proof of the imperial throne.
+
+@40036
+Unknown item.
+
+@40037
+Lord {e02}, I come today as my lord's envoy.
+
+@40037.1
+I have come today to speak with you, Lord {e02}.
+
+@40037.2
+Lord {e02}, I come today as {e03}'s messenger.
+
+@40037.3
+Lord {e02}, I have come with a request.
+
+@40037.4
+I have come with a proposal for you, Lord {e02}.
+
+@40037.5
+I come as the representative of my lord, {e03}.
+
+@40038
+I have come with a proposal for you, Lord {e02}.
+
+@40038.1
+Lord {e02}, I have come to consult with you.
+
+@40038.2
+I have come to negotiate with you, Lord {e02}.
+
+@40038.3
+Lord {e02}, I have come with a request for you.
+
+@40039
+Ah, Lord {e02}. What brings you here? Let me hear your business.
+
+@40039.1
+Well, Lord {e02}. What is it? Have you some grave matter to discuss?
+
+@40039.2
+Well, Lord {e02}. What business brings you?
+
+@40040
+I am busy with affairs of state. Let me hear your business at once.
+
+@40040.1
+I am busy with affairs of state. Tell me your business at once.
+
+@40040.2
+I have nothing to discuss with you, but I will at least hear your errand.
+
+@40040.3
+I have nothing to say to you, but I will hear your errand.
+
+@40041
+Why, if it isn't Lord {e02}! Don't be shy, speak freely.
+
+@40041.1
+Ah, Lord {e02}! Come now, why so stiff? State your business.
+
+@40041.2
+Why so formal? What is it? Say whatever you wish.
+
+@40041.3
+Well, well, Lord {e02}. Thank you for your trouble.
+
+@40042
+Lord {e02}? Don't be shy, speak freely.
+
+@40042.1
+Lord {e02}? Why so formal? Don't be shy, state your business.
+
+@40042.2
+No need to be so formal. What message does Lord {e03} send?
+
+@40042.3
+Well, well, Lord {e02}. Thank you for your trouble.
+
+@40042.4
+Lord {e02}. Welcome. Don't be shy, speak freely.
+
+@40043
+Ah, Lord {e02}. What brings you here? Let me hear your business.
+
+@40044
+You come alone into my lands? You are a brave one. Now, let me hear your business.
+
+@40045
+Lord {e02}. Welcome. Don't be shy, speak freely.
+
+@40046
+My lord {e03} wishes to form an alliance with you, Lord {e02}.
+
+@40046.1
+I have come to propose an alliance between us, for the further good of us both.
+
+@40046.2
+What say you to an alliance between us, dividing the land in two to rule it?
+
+@40046.3
+My lord wishes for an alliance with you, Lord {e02}.
+
+@40046.4
+My lord wishes to ally with you, Lord {e02}, so that we may aid each other.
+
+@40047
+What say you to an alliance between us, and in time dividing the land in two to rule?
+
+@40047.1
+If we fight each other, we only please the other rulers. Why not ally and work together?
+
+@40047.2
+If you and I join hands, no one in this land can stand against us. How about it? Shall we ally?
+
+@40048
+Understood. From now on, Lord {e03} is our ally. Say that we shall fight side by side.
+
+@40048.1
+Tell Lord {e03} we will gladly cooperate with him.
+
+@40048.2
+Very well, understood. Tell Lord {e03} we will spare no effort to help.
+
+@40048.3
+This is a godsend. An alliance with Lord {e03} is just what I wanted.
+
+@40049
+Very well, understood. Speaking with you today has been most worthwhile.
+
+@40049.1
+Good! With you on our side, I feel much stronger. Let us aid each other.
+
+@40049.2
+This is just what I hoped for. With you as an ally, I could ask for nothing better.
+
+@40049.3
+Since Lord {e03} has come in person, I cannot refuse.
+
+@40050
+Now a weight is off my shoulders. My lord will surely be pleased.
+
+@40050.1
+Then I have done my duty. What a relief.
+
+@40050.2
+Thank you. Now I can go home with my head held high.
+
+@40050.3
+Is that so? Good, good. At last a weight is off my shoulders.
+
+@40050.4
+Ah, what welcome words! I wish to tell my lord at once. I take my leave...
+
+@40051
+I am grateful. I think we will get along well from now on.
+
+@40051.1
+Ah, I am glad. It was worth coming here myself.
+
+@40051.2
+I am relieved to hear it. It was worth my coming here.
+
+@40052
+In these chaotic times, who can trust others so easily? No alliance.
+
+@40052.1
+I must ask you to leave. Be grateful you go home alive.
+
+@40052.2
+I refuse! Leave at once. Be grateful you go home alive.
+
+@40052.3
+I must ask you to leave. An alliance with {e03} would do us no good.
+
+@40052.4
+I refuse! Go back and tell {e03} that I, {e01}, have not sunk so low as to ally with him.
+
+@40053
+I refuse! Leave at once. Be grateful you go home alive.
+
+@40053.1
+I must ask you to leave. Be grateful you go home alive.
+
+@40053.2
+Ha! An alliance, you say? If you want to ally with us, you will have to show proper courtesy.
+
+@40053.3
+If you were someone worth trusting, there would be no problem, but...
+
+@40054
+If only I had argued better, I might have won Lord {e02} over...
+
+@40054.1
+I see... A pity, but it cannot be helped. I will say no more.
+
+@40054.2
+What! Is that your answer? I cannot understand your mind at all, Lord {e02}.
+
+@40054.3
+So we are held in contempt. I shall withdraw for now.
+
+@40055
+I humble myself and you grow arrogant! You will regret this, but too late.
+
+@40055.1
+How rude! Such words show the small measure of Lord {e02}.
+
+@40055.2
+Ha, Lord {e02} cannot see what lies ahead. Well, I expected as much.
+
+@40056
+So I am held in contempt. I shall withdraw for now.
+
+@40056.1
+So I am held in contempt. I will withdraw for now.
+
+@40056.2
+Even I could not persuade them... Galling, but it cannot be helped.
+
+@40056.3
+I came in person to persuade them, and yet... A pity, but there is no choice.
+
+@40057
+We ask you to send a joint force for our attack on {e0B}.
+
+@40057.1
+I have come to ask for your strength, Lord {e02}, in our attack on {e0B}.
+
+@40057.2
+I have come to ask that you also send troops, Lord {e02}, when our army marches on {e0B}.
+
+@40058
+I will soon march on {e0B}, and I would like to borrow your strength.
+
+@40058.1
+We will soon attack {e0B}, and we would like you to send troops as well.
+
+@40059
+Understood. When Lord {e03} marches, we will help without stint.
+
+@40059.1
+Understood. Tell Lord {e03} we will spare no effort to help.
+
+@40059.2
+Very well. Tell Lord {e03} we too shall march on {e0B}.
+
+@40060
+Understood. When you march, we will be glad to help.
+
+@40060.1
+Understood. When you march, we will help without stint.
+
+@40061
+I am sorry, but we cannot spare the strength to help you now.
+
+@40061.1
+I am sorry. We cannot spare an army to move just now.
+
+@40062
+I refuse! Wanting to borrow troops at a time like this is far too convenient.
+
+@40062.1
+Go back and tell {e03}: we have soldiers to capture you, but none to help you.
+
+@40063
+I refuse! Wanting to borrow troops at a time like this is far too convenient.
+
+@40064
+My lord has appointed you {e3D}, Lord {e02}. Please accept.
+
+@40064.1
+My lord has petitioned the throne to name you {e3D}, Lord {e02}. Please accept.
+
+@40065
+I appoint you {e3D}. Please accept it.
+
+@40066
+A small token from my lord. Please accept it.
+
+@40066.1
+My lord always thinks of you, Lord {e02}. It is only a small token, but please accept it.
+
+@40066.2
+My lord, thinking of you, Lord {e02}, has sent me. Please accept this.
+
+@40067
+This is only a small token. Please accept it.
+
+@40067.1
+Please accept this as a sign of friendship.
+
+@40067.2
+I always hear of your deeds. It is not much, but please accept it.
+
+@40068
+Well, well. Tell Lord {e03} I am grateful for this kindness.
+
+@40068.1
+Very well. Give my warm regards to Lord {e03}.
+
+@40068.2
+I accept it with thanks. I am grateful for Lord {e03}'s kindness.
+
+@40069
+I accept it with thanks. I am grateful for your kindness.
+
+@40069.1
+Oh, this is too kind. I accept it with thanks.
+
+@40070
+I'm sorry, but I have no intention of taking charity from Lord {e03}.
+
+@40070.1
+I appreciate the thought, but I have no wish to accept such a thing.
+
+@40070.2
+I am sorry, but I have no intention of taking charity from Lord {e03}.
+
+@40071
+You think you can win me over with this? Do you mean to mock me?!
+
+@40071.1
+I must ask you to leave. Anyone who tries to buy favor with such things is rotten to the core.
+
+@40071.2
+Envoy, tell Lord {e03} I am not one to be fooled by such things.
+
+@40072
+You think you can win me over with this? Do you mean to mock me?!
+
+@40072.1
+You think you can win me over with this? Do you mean to mock me?!
+
+@40072.2
+Such a gift is an insult. I am displeased. Leave at once.
+
+@40073
+Become our vassal. My lord will not treat you badly.
+
+@40073.1
+I have come to urge you to become our vassal, Lord {e02}. Think well before you answer.
+
+@40073.2
+I come today as an envoy demanding vassalage. If you care for your people's peace, there is only one answer.
+
+@40073.3
+Become a vassal of our force, and the safety of your lands will be assured.
+
+@40074
+I have come to urge you to become our vassal. Why not join us and help bring peace to all within the seas?
+
+@40074.1
+Become my vassal. For the peace of your people, it is the best choice.
+
+@40074.2
+Become my vassal. For the peace of your people, it would be the best choice.
+
+@40074.3
+I have come myself to urge you to become my vassal. I think it is no bad offer for you either...
+
+@40075
+I have come to urge you to become our vassal. Why not join us and help my lord unite the four seas?
+
+@40076
+Why does the dragon hide in the depths of the pool? At times one must bear shame.
+
+@40076.1
+Understood. From now on, I will look up to Lord {e03} as my overlord.
+
+@40076.2
+How bitter. I will submit with good grace. Give Lord {e03} my regards...
+
+@40077
+Hmm... very well. I will submit to you.
+
+@40077.1
+Why does the dragon hide in the depths of the pool? At times one must bear shame... I will submit to you.
+
+@40078
+I cannot betray those who look up to me. Now, leave.
+
+@40078.1
+Our army can still fight. Tell Lord {e03} there is no need to worry about us.
+
+@40078.2
+Tell Lord {e03}: whoever wants our land, we will face them any time.
+
+@40078.3
+I cannot betray those who look up to me. Now, leave.
+
+@40079
+You dare tell me to submit? I should have your head this instant!
+
+@40079.1
+You dare tell me to submit? I should have your head this instant!
+
+@40079.2
+So I, {e01}, am taken that lightly? Begone at once.
+
+@40079.3
+You dare tell me to submit? I should have {e03}'s head this instant!
+
+@40079.4
+So I, {e01}, am taken that lightly? Begone at once.
+
+@40080
+I come as an envoy demanding surrender. It would be wise to give up your castle and surrender now.
+
+@40080.1
+I have come to urge you to surrender. Give up your castle now, and your people's lives will be spared.
+
+@40080.2
+Surrender to us at once. Or else we can cross swords. Think well before you decide.
+
+@40080.3
+I have come to urge you to surrender. Why go on fighting a pointless war?
+
+@40081
+Your life will be spared. Surely it is your duty to surrender and keep your people safe.
+
+@40081.1
+Your life will be spared. Surely it is your duty to surrender and keep your people safe.
+
+@40081.2
+Surrender to us at once. Or else we can cross swords. Think well before you decide.
+
+@40082
+...V-very well. I surrender.
+
+@40082.1
+I have no will left to fight... It cannot be helped.
+
+@40082.2
+Such is the way of these chaotic times, yet it is hard...
+
+@40083
+Very well. But I beg you, let there be no looting when you enter the castle.
+
+@40083.1
+Very well. I will give up the castle at once. But I beg you, let there be no looting when you enter.
+
+@40084
+We may be Lord {e03}'s vassal, but we have no intention of becoming his subjects. Please leave.
+
+@40084.1
+We may look up to Lord {e03} as overlord, but we have no intention of surrendering. Please leave.
+
+@40085
+We may be your vassal, but we have no intention of becoming your subjects. Please leave.
+
+@40085.1
+We look up to you as overlord, but we have no intention whatsoever of surrendering. Please leave.
+
+@40086
+Hmph. Go back and tell Lord {e03}: even if I were to surrender, I would never serve under you.
+
+@40086.1
+Hmph. Go back and tell Lord {e03}: even if I surrendered, I would never serve a lowly cur like you.
+
+@40086.2
+Ha, don't make me laugh. I will not live on in shame as a subject of Lord {e03}.
+
+@40087
+You demand my surrender yourself... I do not want your life, but I certainly will not surrender.
+
+@40088
+I have come to ask you to release our {e04}.
+
+@40088.1
+I have come to ask for the return of a prisoner. I beg your leniency...
+
+@40088.2
+Would you hand over our {e04}? I humbly beg your pardon.
+
+@40089
+Lord {e02}, I ask you: please hand {e04} over to us.
+
+@40089.1
+Lord {e02}, would you return our {e04}, who is held captive?
+
+@40089.2
+Lord {e02}, would you hand {e04} over to us?
+
+@40090
+Very well. We will return Lord {e04} at once. Give our regards to Lord {e03}.
+
+@40090.1
+Very well. We will return Lord {e04} at once. Give our regards to Lord {e03}.
+
+@40090.2
+All right. I will return the prisoner. Tell Lord {e03} we have no wish to fight.
+
+@40091
+Very well. We will return Lord {e04} at once.
+
+@40091.1
+Very well. We will return Lord {e04} at once.
+
+@40091.2
+All right. This time, for your sake, I will hand over the prisoner.
+
+@40092
+For Lord {e04}'s spirit of steadfast loyalty, I will set the prisoner free.
+
+@40092.1
+For Lord {e04}'s spirit of steadfast loyalty, I will set the prisoner free.
+
+@40093
+I will return the prisoner this time. But if we capture them again, there will be no mercy.
+
+@40093.1
+This time I will return the prisoner. But if they fall into our hands again, there will be no mercy.
+
+@40093.2
+Very well. But next time we meet on the battlefield, there will be no mercy. No second chance.
+
+@40094
+Don't be absurd. Do you think we would give the prisoner back so easily? Please leave.
+
+@40094.1
+If you want Lord {e04} back, there is a proper way to ask. This is no way to talk.
+
+@40094.2
+A pity. I don't mind returning them, but Lord {e04} says they do not wish to go back.
+
+@40095
+Then how about an exchange for {e05}, whom you hold captive?
+
+@40095.1
+If you exchange {e05}, whom you hold captive, I will hand over Lord {e04}.
+
+@40096
+Then how about an exchange for {e05}, whom you hold captive?
+
+@40096.1
+If you exchange {e05}, whom you hold captive, I will hand over Lord {e04}.
+
+@40097
+I see. I am deeply grateful for your mercy, Lord {e02}.
+
+@40097.1
+Understood. My lord will surely be pleased.
+
+@40098
+Done. It was worth coming here myself.
+
+@40099
+Ngh, I cannot decide this on my own. Let us forget this talk...
+
+@40099.1
+Ha, that will not do. The talks have failed.
+
+@40100
+Is that so? Then I will not press you. It seems we must take our officer back by force.
+
+@40101
+{e03}, curse you! You mean to make an enemy of me?!
+
+@40101.1
+Lord {e02}, {e03} has broken the alliance. That one can no longer be trusted.
+
+@40102
+{e03}, curse you! Have you forgotten all you owe me?!
+
+@40102.1
+Lord {e02}, {e03} has declared independence. Such a one must not be trusted.
+

@@ -1,0 +1,321 @@
+@48000
+There is no ruler in any city linked by a supply line.
+
+@48001
+You now have %d gold and %d food.
+
+@48002
+Lord {e01}, an imperial envoy has come from {e0B}.
+
+@48003
+I come today as an envoy of the Emperor.
+
+@48004
+An imperial envoy? What is your business?
+
+@48005
+By imperial decree, {e01} is enfeoffed as {e3D}.
+
+@48006
+By imperial decree, {e01} is enfeoffed as {e3D}.
+
+@48007
+By imperial decree, {e01} is appointed {e3D}.
+
+@48008
+I humbly accept the court's command.
+
+@48008.1
+I, {e01}, respectfully accept the imperial decree.
+
+@48009
+By imperial decree, {e01} is appointed {e3D}, and is further ordered to destroy the traitor {f15}.
+
+@48009.1
+{e01}, We appoint you {e3D}, and grant you an edict to subdue {f15}.
+
+@48009.2
+His Majesty appoints {e01} {e3D}, and commands you to strike down {f15}.
+
+@48010
+By imperial decree, {e01} is appointed {e3D}, and is further ordered to destroy the traitor {f15}.
+
+@48010.1
+{e01}, We appoint you {e3D}, and grant you an edict to subdue {f15}.
+
+@48010.2
+His Majesty appoints {e01} {e3D}, and commands you to strike down {f15}.
+
+@48011
+By imperial decree, {e01} is enfeoffed as {e3D}, and is further ordered to destroy the traitor {f15}.
+
+@48011.1
+{e01}, We enfeoff you as {e3D}, and grant you an edict to subdue {f15}.
+
+@48011.2
+His Majesty enfeoffs {e01} as {e3D}, and commands you to strike down {f15}.
+
+@48012
+I accept the court's command and will set about subduing {f15} at once.
+
+@48012.1
+I humbly accept the decree and will prepare to strike {f15} without delay.
+
+@48012.2
+I humbly accept the decree and will send troops to destroy the traitor {f15}.
+
+@48013
+Very good. His Majesty hopes you will work to restore the House of Han.
+
+@48013.1
+Very good. His Majesty will surely be pleased.
+
+@48013.2
+Ah, very good. Please continue to lend His Majesty your strength.
+
+@48014
+I am still far too unworthy to hold the rank of {e3D}, so I must respectfully decline.
+
+@48014.1
+With all respect, I must decline this time.
+
+@48015
+Hmph, this is a scheme of {e02}'s, hiding behind an imperial decree. Envoy, kindly take your leave.
+
+@48015.1
+Villain, using His Majesty for your own ends! I will not fall for such a plot!
+
+@48016
+What, you refuse an imperial decree! What am I to tell His Majesty?
+
+@48016.1
+What! This is an imperial decree! Is there no loyal subject left to aid His Majesty?
+
+@48017
+How dare you! You will be branded an enemy of the court!
+
+@48017.1
+You refuse the decree... Do you wish to make yourself an enemy of the court?
+
+@48018
+Lord {e02}, {e01} has accepted the title.
+
+@48019
+{e01} has been appointed {e3D}.
+
+@48020
+{e01} has been appointed {e3D}.
+
+@48021
+{e01} has been enfeoffed as {e3D}.
+
+@48022
+Lord {e02}, {e01} has refused the title.
+
+@48023
+How does Your Majesty fare?
+
+@48024
+We are well. {C48025}, your fame has reached even Our ears. Bring peace to the world soon.
+
+@48024.1
+Hm, {e01}... Why have you come? You can have no business with Us. Be gone at once.
+
+@48024.2
+Ah, {C48025}. Thanks to you, We spend Our days in peace.
+
+@48025.1
+King of {f15}
+
+@48025.2
+Duke of {f15}
+
+@48026
+I trust Your Majesty is in good health...
+
+@48026.1
+It is an honor to behold Your Majesty's face.
+
+@48027
+Ah, {C48028}, you have come at just the right time.
+
+@48028.1
+King of {f15}
+
+@48028.2
+Duke of {f15}
+
+@48029
+We miss the capital... Will you not move your capital to {e0B}?
+
+@48030
+It shames Us, but We are short of gold. Could you spare Us about %d?
+
+@48030.1
+In truth, Our purse is empty. Would you present about %d gold to the court?
+
+@48031
+The people suffer from your strife with {f15}... Will you not make peace?
+
+@48032
+We hear {e01} of {e0B} has done remarkable work. Why not grant the rank of {e3D}?
+
+@48032.1
+Why not appoint {e01} of {e0B} as {e3D} and win their goodwill?
+
+@48033
+We miss the old capital... Will you not build a palace in {e0B} and make it the Imperial City?
+
+@48034
+We can no longer bear {e01}'s conduct toward Us. Do not keep such a person in your service!
+
+@48035
+We hear you hold the Imperial Seal. A subject hiding the Seal... Bring it to Us at once.
+
+@48036
+Destroy the traitor {f15} and let the glory of the House of Han shine forth.
+
+@48037
+We have little to do... We wanted someone to talk to.
+
+@48037.1
+We have been wondering how things stand in the realm these days.
+
+@48038
+Is that so? Then let your servant keep you company...
+
+@48039
+As you command. Then I shall see to it at once.
+
+@48039.1
+Understood. Then, without delay...
+
+@48039.2
+I have heard your command. Then, by your leave...
+
+@48040
+Good, We rely on you.
+
+@48040.1
+{e01}, We are counting on you.
+
+@48041
+Imperial Uncle Liu, the fate of the House of Han rests with you. We expect much of you.
+
+@48041.1
+You alone, Imperial Uncle Liu, are the one We can rely on.
+
+@48042
+{e01}, you are the only one We can rely on.
+
+@48042.1
+{e01}, the fate of the House of Han rests with you. We expect much of you.
+
+@48042.2
+You alone, {e01}, are the one We can rely on.
+
+@48043
+Good, We leave it to you.
+
+@48044
+In recognition of {e01}'s merits, We hereby appoint {e01} {e3D}.
+
+@48045
+I am most grateful.
+
+@48045.1
+I humbly accept the appointment.
+
+@48046
+{e01} has been appointed {e3D} by {e1F}.
+
+@48047
+That is something I cannot do at present.
+
+@48047.1
+Such an unreasonable demand puts me in a difficult position.
+
+@48048
+I am sorry. Though it is Your Majesty's wish...
+
+@48048.1
+Forgive me. Now is not the time.
+
+@48049
+Your Majesty, we too have our own affairs. Please consider them more carefully.
+
+@48049.1
+Your Majesty, we have our own affairs. We cannot always meet Your Majesty's demands.
+
+@48049.2
+Please consider your own position more carefully.
+
+@48050
+Even if you make such an unreasonable demand...
+
+@48050.1
+I am sorry. Though it is Your Majesty's wish...
+
+@48051
+You cannot keep making selfish demands. Please restrain yourself a little.
+
+@48051.1
+Your Majesty, these endless whims are a burden.
+
+@48051.2
+Your Majesty, we have our own affairs. We cannot always meet Your Majesty's demands.
+
+@48052
+I-is that so... Then it cannot be helped.
+
+@48052.1
+I see... Forgive Us for asking too much.
+
+@48052.2
+Hmm... I-I see.
+
+@48053
+By decree of {e1F}, you moved your capital to {e0B}.
+
+@48054
+As {e1F} requested, you presented %d gold.
+
+@48055
+By decree of {e1F}, you formed an alliance with {f15}.
+
+@48056
+By decree of {e1F}, {e01} was appointed {e3D}.
+
+@48057
+By decree of {e1F}, {e01} was appointed {e3D}.
+
+@48058
+By decree of {e1F}, {e01} was enfeoffed as {e3D}.
+
+@48059
+By decree of {e1F}, building of the Imperial City began in {e0B}.
+
+@48060
+As {e1F} requested, you dismissed {e01}.
+
+@48061
+As {e1F} requested, you returned the Imperial Seal.
+
+@48062
+{e1F} has issued an edict to destroy {f15}.
+
+@48063
+You rejected the demands of {e1F}.
+
+@48064
+{C10}, I can no longer bear your many slights against His Majesty.
+
+@48065
+Lord {e02}, {e01} has resigned and left your service.
+
+@48066
+Lord {e02}, {e01} and others have resigned and left your service.
+
+@48067
+The capital has been moved to {e0B}.
+

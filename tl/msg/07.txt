@@ -1,0 +1,135 @@
+@7001
+{e01} is born.
+
+@7002
+Has no particular dream.
+
+@7003
+Resolves to become a pillar of the state.
+
+@7004
+Resolves to live for a just cause.
+
+@7005
+Resolves to use their talents for the good of the world.
+
+@7006
+Resolves to win supremacy in an age of chaos.
+
+@7007
+Resolves to expand their own power greatly.
+
+@7008
+Resolves to use their talents to rise in the world.
+
+@7009
+Resolves to hold a domain as one of the great lords of the realm.
+
+@7010
+Resolves to preserve their own rank and power.
+
+@7011
+Resolves simply to survive the age of chaos.
+
+@7012
+Resolves to give their life for their lord if need be.
+
+@7013
+Grieved by the chaos, resolves to withdraw from the world.
+
+@7014
+Dies of illness in {e0B}, never having found recognition.
+
+@7015
+Dies of illness in {e0B}.
+
+@7016
+Dies in battle at {e0B}.
+
+@7017
+Dies in battle at {e51}.
+
+@7018
+Defeated in battle and executed by {e02}.
+
+@7019
+Loses a duel with {e02} and is killed.
+
+@7020
+Despairing of the deeds of their lord {e02}, dies in anguish.
+
+@7021
+Comes of age and joins the {e02} army.
+
+@7022
+Comes of age as the child of {e02}.
+
+@7023
+Resolves to become a pillar of the state.
+
+@7024
+Resolves to live for a just cause.
+
+@7025
+Resolves to use their talents for the good of the world.
+
+@7026
+Resolves to win supremacy in an age of chaos.
+
+@7027
+Resolves to expand their own power greatly.
+
+@7028
+Resolves to use their talents to rise in the world.
+
+@7029
+Resolves to hold a domain as one of the great lords of the realm.
+
+@7030
+Resolves to preserve their own rank and power.
+
+@7031
+Resolves simply to survive the age of chaos.
+
+@7032
+Resolves to give their life for their lord if need be.
+
+@7033
+Grieved by the chaos, resolves to withdraw from the world.
+
+@7034
+Takes a new resolve: to become a pillar of the state.
+
+@7035
+Takes a new resolve: to live for a just cause.
+
+@7036
+Takes a new resolve: to use their talents for the good of the world.
+
+@7037
+Takes a new resolve: to win supremacy in an age of chaos.
+
+@7038
+Takes a new resolve: to expand their own power greatly.
+
+@7039
+Takes a new resolve: to use their talents to rise in the world.
+
+@7040
+Takes a new resolve: to hold a domain as one of the great lords.
+
+@7041
+Takes a new resolve: to preserve their own rank and power.
+
+@7042
+Takes a new resolve: simply to survive the age of chaos.
+
+@7043
+Takes a new resolve: to give their life for their lord if need be.
+
+@7044
+Grieved by the chaos, takes a new resolve to withdraw from the world.
+
+@7045
+Refuses to the last to surrender and is executed by {e02}.
+

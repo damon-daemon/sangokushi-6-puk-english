@@ -1,0 +1,1041 @@
+@19000
+{C13}, {e0B} is now under the control of the {f15} forces.
+
+@19000.1
+{C13}, I must report that {e0B} has been occupied by the {f15} forces.
+
+@19000.2
+{C13}, the {f15} forces got there first and have taken {e0B}.
+
+@19000.3
+{C13}, {e0B} has been seized by the {f15} forces.
+
+@19001
+Hmm, so {e0B} is in the hands of {f15}.
+
+@19001.1
+Hmm, it seems {f15} has beaten us to {e0B}.
+
+@19001.2
+What? {e0B} taken by the {f15} forces...
+
+@19001.3
+The {f15} forces took {e0B} just ahead of us...
+
+@19002
+Do you wish to attack {e0B} anyway?
+
+@19003
+{C13}, we will now attack {e0B}.
+
+@19003.1
+{C13}, all is ready for the assault on {e0B}.
+
+@19003.2
+{C13}, I report that we now begin the attack on {e0B}.
+
+@19003.3
+{C13}, {e0B} lies just ahead. We attack now.
+
+@19004
+Good! We attack {e0B} now!
+
+@19004.1
+Yes, it seems all is ready for the assault on {e0B}.
+
+@19004.2
+Listen well! We now begin the attack on {e0B}!
+
+@19004.3
+{e0B} is right before us. Forward!
+
+@19005
+The enemy does not seem to have noticed us. Let us take {e0B} in one stroke.
+
+@19005.1
+The enemy does not seem to have noticed our movements. Let us press straight on to the castle.
+
+@19005.2
+The enemy has not yet noticed our movements. Let us march right up to the castle.
+
+@19005.3
+The enemy knows nothing of our movements yet... Let us strike {e0B} in one stroke.
+
+@19006
+The enemy does not seem to have noticed us... Good! We take {e0B} in one stroke!
+
+@19006.1
+Hmm, the enemy seems unaware of our movements... We march straight on to the castle!
+
+@19006.2
+Hmm, it looks like we can get close to the castle... Good! We take {e0B} in one stroke!
+
+@19006.3
+The enemy does not seem to know of our movements yet... We press on to the castle at once!
+
+@19007
+{C13}, {e0B} is already under our control, so we will withdraw.
+
+@19007.1
+{C13}, {e0B} is now held by our army, so we shall withdraw.
+
+@19008
+Hmm, {e0B} is already ours. We shall withdraw, then.
+
+@19008.1
+Hmm, {e0B} is already under our control. Very well, we withdraw!
+
+@19009
+{C13}, {e0B} is held by our {C19011}, Lord {e15}. We have no choice but to withdraw.
+
+@19009.1
+{C13}, {e0B} is held by our {C19011}, Lord {e15}, so we shall withdraw.
+
+@19009.2
+{C13}, {e0B} has become the land of our {C19011}, Lord {e15}. We can only withdraw.
+
+@19009.3
+{C13}, {e0B} now belongs to our {C19011}, Lord {e15}... We shall pull back.
+
+@19010
+What... {e0B} has fallen to our {C19011}, Lord {e15}? It cannot be helped... We will withdraw for now and wait for another chance.
+
+@19010.1
+...With {e0B} held by our {C19011}, Lord {e15}, we cannot touch it. Let us pull back for now.
+
+@19010.2
+Hmm... {e0B} is in the hands of Lord {e15}... We cannot attack our {C19011}... Let us withdraw for now.
+
+@19010.3
+Beaten to it by our {C19011}, Lord {e15}... We have no choice but to call off the attack on {e0B}.
+
+@19011
+ally
+
+@19011.1
+overlord
+
+@19011.2
+ally
+
+@19012
+{C13}, the {f15} forces are attacking {e0B}!
+
+@19012.1
+{C13}, I must report that the {f15} forces have invaded {e0B}.
+
+@19012.2
+{C13}, the {f15} forces are bearing down on {e0B}!
+
+@19012.3
+{C13}, I must report that the {f15} forces are marching on {e0B}.
+
+@19013
+So, the {f15} forces have come to attack {e0B}!
+
+@19013.1
+Curse you, {e15}! So you dare attack {e0B}!
+
+@19013.2
+{e15}, you wretch! You would attack this {e0B}?
+
+@19013.3
+Damn you, {e15}... So you would attack this {e0B}...
+
+@19014
+The enemy army has %d units, %s men in all, led by {e03}.
+
+@19014.1
+The enemy is led by {e03}, with %d units and %s men.
+
+@19014.2
+We have word that the enemy commander is {e03}, with %d units and %s men.
+
+@19015
+The enemy has {e03} in command, %d units and %s men...
+
+@19015.1
+%d units and %s men, led by {e03}, is it...
+
+@19015.2
+%d enemy units, %s men, and {e03} in command...
+
+@19016
+The enemy numbers %s men.
+
+@19016.1
+The enemy numbers %s men. Their units and commander are unknown.
+
+@19016.2
+The enemy numbers %s men! Nothing else is known.
+
+@19016.3
+The enemy is known to number %s men.
+
+@19017
+Hmm, so the enemy numbers %s men...
+
+@19017.1
+%s men... And their units and commander are unknown...
+
+@19017.2
+Hmm, the enemy numbers %s... And nothing else is known?
+
+@19017.3
+So all we know is that the enemy numbers %s men...
+
+@19018
+I regret that we have not learned the enemy's strength.
+
+@19018.1
+We still do not know the enemy's strength...
+
+@19018.2
+The enemy's strength remains unknown.
+
+@19018.3
+We still have not learned the enemy's strength.
+
+@19019
+Hmm... We still do not know the enemy's strength...
+
+@19019.1
+What? We still do not even know the enemy's strength?
+
+@19019.2
+What! We do not even know their numbers?
+
+@19019.3
+Curses, not even knowing their numbers... What are we to do?
+
+@19020
+To let the enemy come this close without noticing... I am truly sorry.
+
+@19020.1
+The enemy is right upon us! There is no time left to prepare a sally.
+
+@19020.2
+To let the enemy advance this far... We can only hold the castle now.
+
+@19020.3
+The enemy is close at hand. Now we can only meet them from the castle.
+
+@19021
+The enemy came this close and no one noticed...
+
+@19021.1
+The enemy is right upon us... There is no time left to prepare a sally.
+
+@19021.2
+To let the enemy advance this far... We can only hold the castle now.
+
+@19021.3
+The enemy seems to be close at hand... Now we can only meet them from the castle.
+
+@19022
+{C19023} The support force has %d units, %s men in all, led by {e03}.
+
+@19022.1
+{C19023} The support force is led by {e03}, with %d units and %s men.
+
+@19022.2
+{C19023} We have word it is led by {e03}, with %d units and %s men.
+
+@19023
+Enemy reinforcements also seem to be heading this way.
+
+@19023.1
+And that is not all. Enemy reinforcements are heading here too!
+
+@19023.2
+What is more, even enemy reinforcements seem to be heading this way!
+
+@19023.3
+Enemy reinforcements are also said to be heading this way.
+
+@19024
+{C19025} Led by {e03}, %d units, %s men...
+
+@19024.1
+{C19025} %d units, %s men, led by {e03}...
+
+@19024.2
+{C19025} Led by {e03}, with %d units and %s men, is it?
+
+@19025
+Enemy reinforcements are heading this way too...
+
+@19025.1
+So enemy reinforcements are heading this way as well.
+
+@19025.2
+Even enemy reinforcements are heading this way...
+
+@19025.3
+So enemy reinforcements are coming too?
+
+@19026
+{C19023} The support force numbers %s men.
+
+@19026.1
+{C19023} It numbers %s men. Its units and commander are unknown.
+
+@19026.2
+{C19023} It numbers %s men! Nothing else is known.
+
+@19026.3
+{C19023} It is known to number %s men.
+
+@19027
+{C19025} Hmm, %s men in the support force...
+
+@19027.1
+{C19025} %s men, its units and commander unknown...
+
+@19027.2
+{C19025} %s men... And nothing more is known?
+
+@19027.3
+{C19025} %s men... We know nothing more?
+
+@19028
+{C19023} I regret we have not learned its strength.
+
+@19028.1
+{C19023} We are scouting its strength now. Please wait a while.
+
+@19028.2
+{C19023} Its strength is not yet known.
+
+@19028.3
+{C19023} We still have not learned its strength.
+
+@19029
+{C19025} I see... And its strength is not known?
+
+@19029.1
+{C19025} Hmm... Its strength is still unknown.
+
+@19029.2
+{C19025} Curses... We cannot learn its strength?
+
+@19029.3
+{C19025} I see... We have not managed to learn its strength?
+
+@19030
+The {f15} forces have invaded {e0B} in {f16} territory.
+
+@19031
+It seems the main force has reached the battlefield. Let us hurry too.
+
+@19031.1
+The main force seems to have reached the battlefield. We must hurry too.
+
+@19031.2
+The main force has already reached the battlefield... It would be a disgrace to lag behind. Let us hurry.
+
+@19031.3
+The main force has already reached the battlefield... They must be waiting eagerly for us.
+
+@19032
+If the main force turns back, it cannot be helped... Let us return to {e0B} too.
+
+@19032.1
+If the Main Force halts its advance, we have no choice but to withdraw too...
+
+@19032.2
+If the main force has withdrawn, so be it... We will pull back too.
+
+@19032.3
+If the Main Force has halted its advance, we can only follow suit...
+
+@19033
+The {f15} support force also seems to be heading for {e0B} in {f16} territory.
+
+@19034
+{C13}, {e0B} is now under the control of the {f15} forces.
+
+@19034.1
+{C13}, it seems the {f15} forces have already occupied {e0B}.
+
+@19034.2
+{C13}, it seems the {f15} forces got there first and took {e0B}.
+
+@19034.3
+{C13}, it seems the {f15} forces took {e0B} before we could arrive.
+
+@19035
+Hmm... So the rumor that the {f15} forces had taken {e0B} was true.
+
+@19035.1
+{e0B} has fallen... To be outpaced by {f15}...
+
+@19035.2
+What... The {f15} forces took {e0B} before us?
+
+@19035.3
+...Beaten by the {f15} forces, and {e0B} taken from under our noses...
+
+@19036
+{C13}, {e0B} is currently under no one's control.
+
+@19036.1
+{C13}, {e0B} currently belongs to no one.
+
+@19036.2
+{C13}, {e0B} is now ruled by no one.
+
+@19037
+Hmm, it seems {e0B} is under no one's control now.
+
+@19037.1
+Hmm, it seems {e0B} belongs to no one at present.
+
+@19037.2
+It seems {e0B} is now ruled by no one.
+
+@19038
+{C13}, it seems Lord {e15}'s forces have reached the battlefield. Let us hurry there too.
+
+@19038.1
+{C13}, the {f15} army has reached the battlefield. We must not fall behind. Let us hasten there!
+
+@19038.2
+{C13}, Lord {e15}'s forces should be reaching the battlefield about now. Let us hurry too!
+
+@19038.3
+{C13}, the main {f15} force has already reached the battlefield... Let us hurry to join them.
+
+@19039
+The {f15} army seems to have reached the battlefield... Let us hurry there too.
+
+@19039.1
+The {f15} army has already reached the battlefield... We must not fall behind. Let us hurry.
+
+@19039.2
+Lord {e15}'s forces should reach the battlefield soon. They must be eager for our arrival.
+
+@19039.3
+Lord {e15}'s forces seem to have reached the battlefield. We must hurry there too.
+
+@19040
+{C19041} So we too shall return to {e0C}.
+
+@19040.1
+{C19041} As things stand, we have no choice but to withdraw too.
+
+@19040.2
+{C19041} It cannot be helped... We too shall withdraw.
+
+@19040.3
+{C19041} A pity, but with the {f15} army gone, we can only follow.
+
+@19041
+{C13}, the {f15} army has turned back just short of {e0B}.
+
+@19041.1
+{C13}, Lord {e15}'s forces seem to have pulled back with {e0B} in sight.
+
+@19042
+{C19043} If the {f15} army has withdrawn, it cannot be helped... We return to {e0C}.
+
+@19042.1
+{C19043} Did they lose their nerve before {e0B}? Then even we must withdraw.
+
+@19042.2
+{C19043} Hmm, if the {f15} army has pulled back, so be it... We turn back to {e0C}.
+
+@19042.3
+{C19043} Well, with the {f15} army gone, we can only do the same.
+
+@19043
+What?! The {f15} army turned back just short of {e0B}?
+
+@19043.1
+What?! Lord {e15}'s forces turned back with {e0B} in sight?
+
+@19044
+The {f16} forces seem to be heading for {e0B} as a joint force with the {f15} army.
+
+@19045
+The {f16} forces, a joint force with the {f15} army, have turned back.
+
+@19046
+Choose what the officers in {e0B} will do.
+
+@19047
+Choose the city to retreat to.
+
+@19048
+Abandon {e0B} and retreat to {e0C}?
+
+@19049
+Set fire to {e0B} and retreat to {e0C}?
+
+@19050
+The {f15} army in {e0B} appears to be in confusion.
+
+@19051
+The {f15} army in {e0B} appears to have sallied out to meet us.
+
+@19052
+The {f15} army appears to have abandoned {e0B} and retreated.
+
+@19053
+The {f15} army appears to have set fire to {e0B} and retreated.
+
+@19054
+The {f15} army appears to be holding out inside {e0B}.
+
+@19055
+The people of {e0B} are leaving the city in droves.
+
+@19056
+Voices at home and abroad condemn {e15} for the folly of burning a city.
+
+@19057
+It seems we can reach {e0B} safely... All because we learned of the enemy's moves in advance.
+
+@19057.1
+It seems we will make it to {e0B}... Thanks to knowing the enemy's moves.
+
+@19057.2
+It seems we will somehow reach {e0B}... We very nearly could not retreat at all.
+
+@19057.3
+That was close... Had we not known the enemy's moves, who knows what would have become of us.
+
+@19058
+Wh-what is this... The people of {e0B} love you, {C13}, and are moving to {e0C}!
+
+@19058.1
+Oh! The people of {e0B} are moving to {e0C}! This shows your virtue, {C13}!
+
+@19058.2
+Wh-what... The people of {e0B} are following us! Surely it is their love for you, {C13}.
+
+@19059
+Wh-what is this... The people of {e0B} are moving to {e0C}! Proof that their hearts are with us!
+
+@19059.1
+Oh! The people of {e0B} are following me to {e0C}! Nothing could make me happier.
+
+@19059.2
+Wh-what... The people of {e0B} are moving to {e0C}... They will come with me...
+
+@19060
+But to burn {e0B} to the ground... There will surely be an outcry at home and abroad!
+
+@19060.1
+But to burn {e0B} to the ground... It will stain your name, {C13}!
+
+@19060.2
+But burning {e0B}... Some of our own officers must be ashamed of this deed.
+
+@19061
+Having burned {e0B}, I am ready for the condemnation.
+
+@19061.1
+Setting fire to {e0B} was unavoidable, but...
+
+@19061.2
+For setting fire to {e0B}, I will make no excuses, however I am condemned...
+
+@19062
+Curses... To have no troops at a time like this...
+
+@19062.1
+To be attacked just when we have no troops...
+
+@19062.2
+What, no troops! How did this happen?
+
+@19063
+The enemy seems to be sallying out. It looks like we will face them near here.
+
+@19063.1
+The enemy seems eager to come out and fight. We will face them near here.
+
+@19063.2
+The enemy is ready to meet us. Let us crush them in one stroke.
+
+@19063.3
+The enemy seems to mean to leave the castle and fight. Let us make camp at once.
+
+@19064
+The enemy means to come out and fight. I will give them credit for their spirit.
+
+@19064.1
+So, they mean to meet us head-on. Very well, make camp!
+
+@19064.2
+As I thought, the enemy means to come out. We will face them near here.
+
+@19064.3
+The enemy is leaving the castle to fight. Listen, we scatter them in one stroke!
+
+@19065
+It seems the enemy has abandoned {e0B} and fled!
+
+@19065.1
+The enemy has abandoned {e0B} and retreated... They must fear our might.
+
+@19065.2
+The enemy has abandoned {e0B}... We have taken it without a fight.
+
+@19065.3
+The enemy seems to have abandoned {e0B} and fled. The castle is already empty.
+
+@19066
+The enemy has abandoned {e0B} and fled... A victory without losses is best of all.
+
+@19066.1
+The enemy has abandoned {e0B}... No one fights a battle they know they will lose.
+
+@19066.2
+The enemy has abandoned {e0B}... They must fear our might.
+
+@19066.3
+The castle is already empty... The enemy has abandoned {e0B} and fled.
+
+@19067
+The enemy has set fire to {e0B} and fled!
+
+@19067.1
+The enemy has burned {e0B} and retreated... Such cruelty cannot be forgiven!
+
+@19067.2
+Wh-what! The enemy set fire to {e0B} and retreated! Desperate or not, such an outrage cannot be allowed!
+
+@19067.3
+The enemy seems to have set fire to {e0B} and fled in the confusion.
+
+@19068
+The enemy set fire to {e0B} and fled... What folly...
+
+@19068.1
+What, they set fire to {e0B} and retreated? I never thought they would go so far...
+
+@19068.2
+To set fire to {e0B} and slip away... How base! Do they not see they only disgrace themselves?
+
+@19068.3
+Wh... The castle is burning! To set fire to {e0B}... What recklessness.
+
+@19069
+The enemy seems unable to put up an organized defense!
+
+@19069.1
+The enemy appears to be in confusion... Now is our chance!
+
+@19069.2
+The enemy seems to be in confusion. We must not miss this chance!
+
+@19069.3
+The enemy seems to have no strength left to resist us!
+
+@19070
+The enemy seems unable to put up an organized defense.
+
+@19070.1
+The enemy appears to be in confusion... Now is our chance!
+
+@19070.2
+The enemy seems to be in confusion. We must not miss this chance.
+
+@19070.3
+The enemy seems to have no strength left to resist us.
+
+@19071
+The enemy means to fight from within the castle. Let us take {e0B} in one stroke!
+
+@19071.1
+The enemy plans to withstand a siege! Let us settle this in one stroke!
+
+@19071.2
+The enemy means to fight behind its walls. We now storm the enemy castle!
+
+@19071.3
+The enemy seems set on holding the castle. Let us storm it and take {e0B}!
+
+@19072
+So the enemy means to fight from within the castle...
+
+@19072.1
+So they plan to withstand a siege... Very well, prepare to storm the castle!
+
+@19072.2
+So they mean to fight behind their walls... Very well, we storm it now!
+
+@19072.3
+So they hole up in the castle... Very well, we lay siege. Make ready!
+
+@19073
+What is happening?! The people are leaving {e0B} in droves!
+
+@19073.1
+What is this?! The people of {e0B} are leaving in droves!
+
+@19073.2
+Wh-what?! The people... the people of {e0B} are flowing away!
+
+@19074
+What is this?! Are the people of {e0B} not flowing away in droves?
+
+@19074.1
+Wh-what is this?! The people of {e0B} are leaving in droves!
+
+@19074.2
+Wh... The people... The people are leaving {e0B} in droves!
+
+@19075
+Watch this battle?
+
+@19076
+The {f15} forces have invaded {e0B}.
+
+@19077
+The {f15} support force also seems to be heading for {e0B}.
+
+@19078
+{C13}, {e03}, who holds {e0B}, is a vassal of our ally Lord {e04}. We can only withdraw.
+
+@19078.1
+{C13}, {e03}, who holds {e0B}, is a vassal of our ally Lord {e04}. Let us withdraw and wait for another chance.
+
+@19078.2
+{C13}, {e03}, who holds {e0B}, is a vassal of our ally Lord {e04}. We must call off the attack on {e0B}.
+
+@19079
+Hmm... {e03}, who holds {e0B}, serves our ally Lord {e04}. It cannot be helped... We withdraw.
+
+@19079.1
+Hmm... {e03}, who holds {e0B}, serves our ally Lord {e04}. We will pull back and wait for another chance.
+
+@19079.2
+Hmm... {e03}, who holds {e0B}, serves our ally Lord {e04}. We must call off the attack on {e0B}.
+
+@19080
+The {f15} army has crushed the {f16} army that sallied out from {e0B}.
+
+@19081
+The {f15} army was defeated by the {f16} army that sallied out from {e0B}.
+
+@19082
+The field battle near {e0B} between the {f15} and {f16} armies ended without a victor.
+
+@19083
+The {f15} army has crushed the {f16} army holding out in {e0B}.
+
+@19084
+The {f15} army was defeated by the {f16} army holding out in {e0B}.
+
+@19085
+The battle between the {f16} army holding {e0B} and the {f15} army ended without a victor.
+
+@19086
+The {f15} army has occupied {e0B}.
+
+@19087
+The {f15} army has occupied {e0B}, ruled by {f16}.
+
+@19088
+The {f15} army failed to occupy {e0B}.
+
+@19089
+The {f15} army failed to occupy {e0B}, ruled by {f16}.
+
+@19090
+Lord {e02}, the {f15} forces are attacking {e0B}, but there is no officer to command!
+
+@19090.1
+Lord {e02}, the {f15} forces are bearing down on {e0B}, but with no officer here, we alone cannot...
+
+@19090.2
+Lord {e02}, the {f15} army has invaded {e0B}, but with no officer here, all is lost...
+
+@19091
+{C13}, enemy forces seem to have attacked {e0B}. We hurry to its relief.
+
+@19091.1
+{C13}, it seems enemy forces have attacked {e0B}. We hurry to its relief.
+
+@19092
+Enemy forces seem to have attacked {e0B}. We hurry to its relief.
+
+@19092.1
+So, enemy forces have attacked {e0B}... Good! We hurry to its relief!
+
+@19093
+{C13}, the {f15} forces are at {e0B}... But the city has no troops.
+
+@19094
+Curse you, {e15}! To attack {e0B} just when we have no troops...
+
+@19095
+Move to %s.
+
+@19096
+Pursue and attack {e01}.
+
+@19097
+Pursue and charge {e01}.
+
+@19098
+Pursue {e01} and challenge them to a duel.
+
+@19099
+Pursue {e01} and stop their advance.
+
+@19100
+Set fire to the chosen spot.
+
+@19101
+Taunt {e01} and draw their unit out.
+
+@19102
+Destroy the %s.
+
+@19103
+Defend the %s.
+
+@19104
+Wait in place until further orders.
+
+@19105
+Retreat to {e0B} at once.
+
+@19106
+Retreat into the castle at once.
+
+@19107
+Act according to the policy.
+
+@19108
+Select where to move on day %d.
+
+@19109
+Select the enemy unit to pursue.
+
+@19110
+Select the spot to set on fire.
+
+@19111
+Select the enemy unit to taunt.
+
+@19112
+Select the gate to destroy.
+
+@19113
+Select the gate to defend.
+
+@19114
+Wait until further orders.
+
+@19115
+Select where to retreat.
+
+@19116
+Act according to the policy.
+
+@19117
+Select the unit to turn.
+
+@19118
+Incite the people of the city.
+
+@19119
+Select the enemy unit to send fake orders.
+
+@19120
+Search for hidden traps.
+
+@19121
+Take the Command Center.
+
+@19122
+Slay the enemy commander.
+
+@19123
+Wipe out the enemy units.
+
+@19124
+Wait until further orders.
+
+@19125
+Defend the castle.
+
+@19126
+Slay the enemy commander.
+
+@19127
+Wipe out the enemy units.
+
+@19128
+Take the enemy's main camp.
+
+@19129
+Slay the enemy commander.
+
+@19130
+Wipe out the enemy units.
+
+@19131
+Retreat to {e0B}?
+
+@19132
+Please choose where to move.
+
+@19133
+Where shall we move?
+
+@19134
+Please choose a unit to attack.
+
+@19135
+Which unit shall we attack?
+
+@19136
+Please choose a unit to charge.
+
+@19137
+Which unit shall we charge?
+
+@19138
+Please choose a unit to challenge to a duel.
+
+@19139
+No one can beat me in a duel!
+
+@19140
+Duels are my specialty.
+
+@19141
+Which unit shall we challenge to a duel?
+
+@19142
+Please choose a unit to hold.
+
+@19143
+Which unit shall we hold?
+
+@19144
+Please choose a spot to set on fire.
+
+@19145
+Fire attacks are my specialty.
+
+@19146
+Where shall we set the fire?
+
+@19147
+The rain will lower the chance of the fire attack succeeding, but...
+
+@19148
+The rain will lower the chance of the fire attack succeeding.
+
+@19149
+A fire attack cannot succeed in a storm.
+
+@19150
+A fire attack cannot succeed in a storm.
+
+@19151
+Please choose a unit to taunt.
+
+@19152
+Which unit shall we taunt?
+
+@19153
+There is no enemy unit within taunting range.
+
+@19154
+There is no enemy unit within taunting range.
+
+@19155
+Please choose a gate to destroy.
+
+@19156
+Which gate shall we destroy?
+
+@19157
+Please choose a gate to defend.
+
+@19158
+Which gate shall we defend?
+
+@19159
+We will wait here and see what the enemy does.
+
+@19160
+We will wait here and see what the enemy does.
+
+@19161
+Please choose where to retreat.
+
+@19162
+Where shall we retreat to?
+
+@19163
+Yes, we will act according to the policy.
+
+@19164
+We will act according to the policy.
+
+@19165
+Which unit shall we turn?
+
+@19166
+We will incite the people of the city.
+
+@19167
+Which unit shall we send fake orders to?
+
+@19168
+We will search for hidden traps.
+
+@19169
+I will assist the commander.
+
+@19170
+The enemy is a tribal officer. They will not accept a duel!
+
+@19171
+The enemy is a tribal officer. They will not accept a duel.
+
+@19172
+You cannot give orders to {e01}'s unit.
+
+@19173
+Let us send an emissary to Lord {e02} urging them to defect.
+
+@19174
+{e02} is inside the castle, so it will be hard, but let us try.
+
+@19175
+From inside the castle? If only our agent can slip into {e02}'s unit...
+
+@19175.1
+We are inside the castle, the enemy outside. Can our agent slip into {e02}'s unit...
+
+@19176
+Let us send {e02} fake orders and throw them into confusion.
+
+@19177
+Fooling {e02} is no trouble at all. Leave it to me.
+
+@19178
+I will throw {e02} into confusion without fail.
+
+@19179
+I fear I cannot throw {e02} into confusion...
+
+@19180
+I doubt one like {e02} will fall for a ploy so easily...
+
+@19181
+{e02}'s unit is a little far off, but I will manage somehow.
+
+@19182
+{e02}'s unit is quite far off. Can our agent slip in, I wonder...
+

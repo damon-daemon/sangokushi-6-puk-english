@@ -1,0 +1,1059 @@
+@30000
+In the castle of {e0B}
+
+@30001
+From all over our lands come reports that phoenixes have flown, a qilin has appeared and yellow dragons have danced in the sky.
+
+@30002
+Such auspicious signs must surely mean that Lord {e02} is to ascend the supreme throne.
+
+@30003
+Very well. Let us depose the present Son of Heaven and have Lord {e02} take the throne.
+
+@30004
+{e02}! What is the meaning of this commotion?
+
+@30005
+Your servant {e01} humbly addresses Your Majesty.
+
+@30006
+Your Majesty surely knows that the Han owes its present prosperity to the strength of Lord {e02}.
+
+@30007
+We have studied the heavens. The fortunes of the Han are exhausted, flickering like a candle in the wind.
+
+@30008
+Meanwhile the fortunes of Wei grow by the day, and now all but overflow heaven and earth.
+
+@30009
+Now is the time to follow Yao and Shun and yield the throne to a ruler of virtue. That is why we have come.
+
+@30010
+Untalented We may be, but We know of no wrong We have done...
+
+@30011
+How could We cast aside the great work of Our ancestors?
+
+@30012
+Abdication is the way of the virtuous. If you will not yield the throne, we must resort to less virtuous means...
+
+@30013
+Now, Your Majesty! This abdication: yes or no? Tell us at once.
+
+@30014
+Ah... Is the Han to fall in Our reign?
+
+@30015
+We will yield the throne... Now that it has come to this, will you at least let Us live out Our days?
+
+@30016
+Oh, you have decided! Then please issue the edict.
+
+@30017
+Oh, the edict of abdication has come! Now we have our justification. We will hold the accession at once.
+
+@30018
+Wait a moment. Let us decline for now.
+
+@30019
+I think it should appear that you declined several times and accepted only because you had no choice.
+
+@30020
+I see. So that is how it is done.
+
+@30021
+{e01} built an Altar of Abdication and held a grand ceremony for the handing over of the throne.
+
+@30022
+The Han dynasty, with four hundred years of history since its founder Liu Bang, here came to an end...
+
+@30023
+Now I receive the throne from the House of Han, in accordance with the course of Heaven. Gods of heaven and earth, bear witness.
+
+@30024
+Congratulations on your accession. Now that you are Emperor, the pacification of the realm cannot be far off.
+
+@30025
+{e01} has received the abdication and become Emperor.
+
+@30026
+In the castle of {e0B}
+
+@30027
+They say Wei has usurped the throne. The Son of Heaven was driven from his throne and his whereabouts are unknown.
+
+@30028
+The realm cannot be without a Son of Heaven for even a single day.
+
+@30029
+For the great cause of restoring the Han, my lord must take the imperial throne.
+
+@30030
+But even so, it will not be easy to persuade him.
+
+@30032
+The Han dynasty has fallen... Ah, that it should come to this, all because my strength was not enough!
+
+@30033
+The traitor {e02} deposed the Son of Heaven and usurped the throne. That cannot be forgiven.
+
+@30034
+{e02} falsely calls himself Emperor and schemes to conquer the realm.
+
+@30035
+If you, my lord, a member of the Han clan, do not carry on the true line now, the life of the Han will be at an end.
+
+@30036
+To stand against Wei, you should take the throne...
+
+@30037
+It cannot be helped... {e02} is my mortal enemy. I cannot let such tyranny pass.
+
+@30038
+Then let us choose an auspicious day for your accession.
+
+@30039
+Would you have me become a man without honor or loyalty?
+
+@30040
+I may be of the Han clan, but I am a subject all the same. I will not act like a traitor!
+
+@30041
+Grave news! Lord Zhuge Liang has fallen ill!
+
+@30042
+How terrible! I will go to see him at once.
+
+@30043
+Kongming, what is wrong? I heard you were ill...
+
+@30044
+Without you, I am a fish in a dried-up pond. Get well soon.
+
+@30045
+My illness cannot be cured by any physician, however skilled.
+
+@30046
+My lord, please hear this as Kongming's last will.
+
+@30047
+Last will? Do not say such ill-omened things...
+
+@30048
+After this usurpation, all those sworn to the Han are equally uneasy.
+
+@30049
+If no one rises now to be the heart of the House of Han, they will all go over to the false emperor.
+
+@30051
+Then there will be no hope of restoring the Han.
+
+@30052
+Please follow the Mandate of Heaven, take the throne and bring peace to all the people... This is Kongming's last will.
+
+@30053
+...Very well, Kongming. When you have recovered, I will accept the Mandate of Heaven.
+
+@30054
+So for now, rest and take care of yourself.
+
+@30055
+...You mean that truly?
+
+@30056
+I... have recovered already. ...You may come out now.
+
+@30057
+My lord! We heard everything!
+
+@30058
+This is what we have long been waiting for.
+
+@30059
+Then let us choose an auspicious day and hold the accession ceremony.
+
+@30060
+Wh-what is the meaning of this...?!
+
+@30061
+Kongming! So your illness was a lie?! How dare you deceive me!
+
+@30062
+The illness was a pretense, but my worry was real. Please forgive me.
+
+@30063
+To stand against Wei's usurpation, {e01} held an accession ceremony and named the state Han.
+
+@30064
+The life of the Han dynasty was preserved in the lands of Ba and Shu.
+
+@30065
+Heaven has not forsaken the House of Han; I here inherit its altars. Gods of heaven and earth, bear witness.
+
+@30066
+One day we will defeat the traitors and restore the Han.
+
+@30067
+{e01} has become Emperor in opposition to {e02}.
+
+@30068
+In the castle of {e0B}
+
+@30069
+They say a phoenix has descended in the mountains of our lands.
+
+@30070
+And there are rumors that yellow dragons often appear on the Yangtze of late.
+
+@30071
+These auspicious signs must be Heaven showing its will that you, my lord, should take the throne.
+
+@30072
+I believe you should ascend the throne at once and raise an army to unite the realm.
+
+@30073
+Hmm... What you say is reasonable.
+
+@30074
+Yet they say, "There are not two suns in the sky, nor two kings over the people."
+
+@30075
+Without a proper justification, I cannot take the throne.
+
+@30076
+In this land there are only unrighteous men who falsely claim the throne.
+
+@30077
+The other emperors are no true emperors, only ambitious pretenders.
+
+@30078
+If you stay beneath these false emperors, the great work of your ancestors will one day be swept away on the Yangtze.
+
+@30079
+Now is the time to shine on the people as the true sun.
+
+@30080
+Your counsel... I, {e01}, have taken it to heart.
+
+@30081
+To protect the great work of my forefathers and answer the people's longing, I will take the throne.
+
+@30082
+{e01} chose an auspicious day and, at the urging of the ministers, took the throne and named the state Wu.
+
+@30083
+At that time he gave his father Sun Jian the posthumous title of Emperor Wulie, praying for glory upon the new reign.
+
+@30084
+At the urging of my ministers I take the imperial title, and I will fight to bring peace to the realm. Gods of heaven and earth, bear witness.
+
+@30085
+After overcoming so many hardships, you have taken the throne. Our heartiest congratulations.
+
+@30086
+In the castle of {e0B}
+
+@30087
+Our Yuan family has produced Excellencies for four generations in a row.
+
+@30088
+Now the realm is in chaos, and the fortunes of the Han are already exhausted.
+
+@30089
+Now that I have the Imperial Seal, Heaven's moment has come. I mean to take the throne in place of the Han. What say you?
+
+@30090
+Those are the very words we ministers have longed to hear.
+
+@30091
+Let us show the Imperial Seal to the realm and announce the start of a new age.
+
+@30092
+Please wait. The Han has declined, true, but it has not yet fallen.
+
+@30093
+There are still many lords sworn to the House of Han.
+
+@30094
+Indeed. Besides, the Yuan family is illustrious, but it has not won the realm.
+
+@30095
+I believe a little more patience is what matters now.
+
+@30096
+Bah, be quiet! The prophecy itself foretells that I shall take the throne!
+
+@30097
+Huh... A prophecy?
+
+@30098
+Lord Ji Ling, do you not know the words in the book of prophecy: "He who replaces the Han is Dangtugao"?
+
+@30099
+..."Tu" means "road", the same sense as the character "Shu".
+
+@30100
+My name is Shu, and my style name Gonglu, "public road". The prophecy says "the road shall rise high"!
+
+@30101
+B-but... To take the throne on the strength of a single prophecy...
+
+@30102
+Silence! Anyone who objects further to my imperial cause will be cut down!
+
+@30103
+Yuan Shu chose an auspicious day and, overriding his loyal ministers, took the throne.
+
+@30104
+He named his era Zhongshi, and it is said he indulged in every luxury, with all the pomp of a Son of Heaven.
+
+@30105
+Everyone, from today We are Emperor! Assist Us and run the government. Wahahaha!
+
+@30106
+...I will say no more. It would be useless.
+
+@30107
+In the castle of {e0B}
+
+@30108
+For pacifying the Central Plains and long supporting the House of Han, Your Excellency was made Duke of Wei.
+
+@30109
+My lord's great deeds surpass those of Yi Yin, the Duke of Zhou and the great ministers of old. You should not stop at Duke of Wei.
+
+@30110
+I think you should become King of Wei. What do you say?
+
+@30111
+Then I will take the title of King. I leave the details to you.
+
+@30112
+So Cao Cao wants to be King... There is nothing We can do...
+
+@30113
+For pacifying the Central Plains, We make Cao Mengde King of Wei...
+
+@30114
+Serve the House of Han with even greater loyalty.
+
+@30115
+An honor beyond my deserts. I have no words to express my thanks.
+
+@30116
+Congratulations, Father! All the people of the realm must be rejoicing at your elevation.
+
+@30117
+As your son, I could have no greater joy.
+
+@30118
+Cao Cao has become King of Wei.
+
+@30119
+In the castle of {e0B}
+
+@30120
+My lord, you already hold Ba and Shu, and Hanzhong too is under your rule.
+
+@30121
+Lately Wei shows ever more contempt for the House of Han, and there is no one to oppose it.
+
+@30122
+We cannot let this stand.
+
+@30123
+To aid the Han and defeat the traitors, you should take the title of King.
+
+@30124
+What are you saying? I cannot become King without an edict from the Son of Heaven!
+
+@30125
+You could take the title provisionally for now, and later petition the Son of Heaven to make it official.
+
+@30126
+The many officers and men gathered here hope to rise in the world as you rise, my lord.
+
+@30127
+So as not to disappoint them, you must take the title of King.
+
+@30128
+Lord Kongming beats around the bush. Point is, if you move up, Brother, your men will be happy.
+
+@30129
+...Very well. To stand against the traitor Cao, I will accept the title of King.
+
+@30130
+I become King to defeat the traitors. I swear here to fight until the day the Han is restored!
+
+@30131
+Brother, a king at last... I'm so happy.
+
+@30132
+A memorial announcing his accession as King of Hanzhong was delivered to Emperor Xian.
+
+@30133
+I see... So Liu Bei is still fighting, relying on a single secret edict...
+
+@30134
+We recognize Liu Bei as King of Hanzhong. Let him not betray Our hopes.
+
+@30135
+Liu Bei has become King of Hanzhong.
+
+@30136
+In the castle of {e0B}
+
+@30137
+{e02}, what is it you wish to say? Speak.
+
+@30138
+To defeat {e02}, holed up in Ba and Shu, we should win over {e03} of Wu.
+
+@30139
+So, to win {e03} over, why not make him a king?
+
+@30140
+Hmm... Make {e02} a king, you say?
+
+@30141
+Lord {e01}, will you make {e02} a king?
+
+@30142
+There is no need to give wings to a tiger cub.
+
+@30143
+Yes, my lord. As you wish.
+
+@30144
+Yes, an interesting plan. See to it at once.
+
+@30145
+Yes, my lord. Then I will go to Wu as envoy.
+
+@30146
+I have come today as imperial envoy of {e02}, Emperor of Wei.
+
+@30147
+It has been decided to make Lord {e03} a king. We ask that you accept the title.
+
+@30148
+This is a matter of state. I cannot answer at once. Wait a while.
+
+@30149
+I await a favorable reply. Until then...
+
+@30150
+How insolent! Do they think Wu powerless?!
+
+@30151
+There is no need to accept a title from the Emperor of Wei.
+
+@30152
+But if we refuse, Wei will bare its fangs at us. We must think carefully...
+
+@30153
+Lord {e01}, will you accept the title of King from {e02}?
+
+@30154
+Lord Zhang, there is no need to get so heated.
+
+@30155
+But...
+
+@30156
+Long ago, Liu Bang, founder of the Han, accepted a title from Xiang Yu, bided his time, and later won the realm.
+
+@30157
+If even the founder of the Han did so, my accepting a title from Wei must also be Heaven's will.
+
+@30158
+...Ah, all because our efforts fell short...
+
+@30159
+To make our lord accept a title from another... How shameful.
+
+@30160
+...Jiangdong has many talented men. How long will {e02} stay beneath Wei?
+
+@30161
+{e01} has accepted the title of King from {e02}.
+
+@30162
+I take no orders from {e02}! Who would meekly accept a title from him?!
+
+@30163
+But that will incur the wrath of the Emperor of Wei.
+
+@30164
+Our Wu has the Yangtze to defend it and many fine troops. There is no need to fear the Emperor of Wei.
+
+@30165
+Send the envoy back at once! Show them the spirit of Wu!
+
+@30166
+He refused the title. This failure is due to my lack of virtue. I humbly apologize.
+
+@30167
+Curse you, {e02}! Do you mean to mock Us?!
+
+@30168
+In Xiangping Castle
+
+@30169
+I intend to declare independence here in Xiangping and proclaim myself king.
+
+@30170
+No punitive army will be sent to so remote a frontier...
+
+@30171
+Such a reckless act could never be accepted. Please refrain from such unreasonable deeds.
+
+@30172
+Many strange omens are appearing in the land, true signs of a nation's ruin. Please do not act rashly...
+
+@30173
+Silence, silence! You dare defy my orders?!
+
+@30174
+I want no one who defies me among my men! Enough, get out, get out!
+
+@30175
+My lord! Please restrain yourself!
+
+@30176
+If the armies of the Central Plains are sent, we will be no match for them. Please reconsider...!
+
+@30177
+Jia Fan and Lun Zhi were later executed by Gongsun Yuan...
+
+@30178
+Jia Fan was later executed by Gongsun Yuan...
+
+@30179
+Lun Zhi was later executed by Gongsun Yuan...
+
+@30180
+Congratulations on your accession. From today you are King of Yan.
+
+@30181
+King of Yan, when war comes, please give me command of the vanguard.
+
+@30182
+In the war with the Central Plains, I will surely win glory.
+
+@30183
+Yes, yes. I expect great deeds from you.
+
+@30184
+Gongsun Yuan has declared independence in Xiangping and calls himself King of Yan.
+
+@30185
+Lord {e01}, {e02} has died. It seems he was caught up in the strife over Gongsun Yuan's independence.
+
+@30186
+Liu Biao of {e0B} had fallen ill, and medicine no longer had any effect.
+
+@30187
+My lord, hold on!
+
+@30188
+I am finished... Cai Mao, my will is here. Watch over my sons well.
+
+@30189
+I am counting on you...
+
+@30190
+My lord! ...It is no use. He is dead.
+
+@30191
+Ahh...
+
+@30192
+Is this the will...?
+
+@30193
+"Liu Qi shall be my heir, with Liu Xuande to assist him." Wh-what is this...?!
+
+@30194
+(I meant to make Liu Cong heir and pull the strings from behind. This will not do.)
+
+@30195
+(No, wait! So far I am the only one who has read this will... Good!)
+
+@30196
+Brother, what does the will say?
+
+@30197
+It says, "Liu Cong shall be my heir, with his elder brother Liu Qi to assist him."
+
+@30198
+We must not go against the will. Let us make Lord Liu Cong the heir and hold the funeral at once.
+
+@30199
+What! Father is dead...?
+
+@30200
+They say the will names Lord Liu Cong as heir.
+
+@30201
+............ Who read the contents of the will?
+
+@30202
+They say Lord Cai Mao read it. No one else read it at all.
+
+@30203
+...! Then Cai Mao must have falsified the will.
+
+@30204
+Curse him, a mere retainer...! If that is his game, I have plans of my own!
+
+@30205
+Liu Biao has died. Liu Cong has become his heir.
+
+@30206
+Liu Qi has declared independence in Jiangxia and become a ruler.
+
+@30207
+Meanwhile, Cao Cao in {e0B} heard of the strife in Jingzhou and gathered his retainers to plan.
+
+@30208
+They say Liu Biao has died of illness and his sons are fighting over the succession. What should we do?
+
+@30209
+The armies of Jingzhou are not to be underestimated. But if we exploit this confusion, we can easily crush them.
+
+@30210
+Now is the time to raise an army for the southern campaign and seize Jingzhou in its confusion.
+
+@30211
+Once the strife in Jingzhou settles, things will get troublesome. Let us crush them in one stroke.
+
+@30212
+Very well, I have decided. Raise the southern army and attack Jingzhou! Prepare at once!
+
+@30213
+I hear Cao Cao's army is coming this way. Is there nothing we can do?
+
+@30214
+Now that it has come to this, there is no other choice.
+
+@30215
+I think we should surrender to Cao Cao and secure your safety.
+
+@30216
+I have only just inherited my father's great work, and you tell me to hand it to another?!
+
+@30217
+Can we not work with my brother and Lord Xuande to drive Cao Cao back?
+
+@30218
+Even with Lord Liu Qi's and Xuande's armies, we are no match for Cao Cao's great host. Surrender cannot be helped.
+
+@30219
+I see... Send an envoy of surrender at once.
+
+@30220
+I see, so you will surrender. A commendable attitude.
+
+@30221
+Then I make you Protector of Beihai. Leave for your post at once.
+
+@30222
+I want no office. I wish to live in Jingzhou, the homeland of my father and mother.
+
+@30223
+Jingzhou is full of strife and dangerous. Better to be somewhere safe. I will let you return to Jingzhou some day.
+
+@30224
+Y-yes, my lord...
+
+@30225
+And so Liu Cong set off for Beihai in Qingzhou.
+
+@30226
+But on the way, Liu Cong was assassinated by Cao Cao's men.
+
+@30227
+H-help... Aagh!
+
+@30228
+So Cao Cao deceived me... Ugh...
+
+@30229
+News of Liu Cong's surrender reached Liu Bei as well.
+
+@30230
+Ah... What a hasty thing to do.
+
+@30231
+In that case, let's attack Xiangyang and cut down Cai Mao and his lot!
+
+@30232
+Stop it, Zhang Fei. There is nothing to be done now.
+
+@30233
+The little castle of Xinye cannot hold off Cao Cao's great army.
+
+@30234
+We should leave Xinye at once, move the army south and hold out in a suitable castle...
+
+@30235
+I will follow the strategist's advice. Order the people of the town to flee as well.
+
+@30236
+Yes, my lord.
+
+@30237
+Liu Bei's army headed south with the people of Xinye. But at Changban, Cao Cao's army soon caught up with them.
+
+@30238
+There Liu Bei's army suffered a crushing defeat and turned toward Jiangxia. Cao Cao's army kept up the pursuit, but...
+
+@30239
+Men, after them! Drag that big-eared wretch before me!
+
+@30240
+T-terrible news! At Changban Bridge, an enemy general is blocking the road alone!
+
+@30241
+What! One man cannot hold us back. This must be a scheme of Kongming's.
+
+@30242
+Hm, that general... Is it Guan Yu...?!
+
+@30243
+...No, it is not! That is...
+
+@30244
+I am Zhang Fei of Yan! Is there anyone who dares fight me?!
+
+@30245
+So that is Zhang Fei... What nerve, to try to hold back our whole army alone.
+
+@30246
+I am Zhang Fei of Yan! What's the matter?! Will no one fight?
+
+@30247
+Such power... It hardly seems like one man holding the road.
+
+@30248
+Hey, you! Are you going to fight or run? Make up your minds!
+
+@30249
+Hmm... We fall back!
+
+@30250
+Meanwhile, Liu Qi in Jiangxia...
+
+@30251
+Jingzhou has surrendered... We cannot stand against Cao Cao alone now. What should I do...
+
+@30252
+That's it! Lord Xuande is still in Xinye. Jiangxia will give Lord Xuande its full support and resist Cao Cao!
+
+@30253
+Liu Cong has surrendered to Cao Cao.
+
+@30254
+Liu Qi has joined Liu Bei.
+
+@30255
+At the castle of {e0B}
+
+@30256
+It seems Liu Bei has joined hands with Liu Qi of Jiangxia and is trying to regroup.
+
+@30257
+I see... Then I will finish him in one blow.
+
+@30258
+Please wait. It would be unwise to bother further with Liu Bei.
+
+@30259
+I think we should deal with Wu before Liu Bei.
+
+@30260
+Wu... Sun Quan is indeed a power that cannot be ignored. It would be bad if Wu and Liu Bei joined hands.
+
+@30261
+I see. Then we defeat Wu first?
+
+@30262
+Why not first send an envoy to Wu and urge them to submit?
+
+@30263
+If Wu surrenders, then as with Jingzhou, we gain fertile lands without effort.
+
+@30264
+Yes, that is a good idea. Let us send an envoy at once.
+
+@30265
+At {e0B}, Sun Quan's castle
+
+@30266
+I have called you all here for one reason... A letter has come from Cao Cao.
+
+@30267
+What! And what does the letter say?!
+
+@30268
+"General Sun, let us go hunting together in Jiangxia.
+
+@30269
+Once we have our quarry, I hope we may remain allies for long years to come. I await your reply.  -- Cao Cao"
+
+@30270
+Hunting in Jiangxia... In other words, he wants us to fight Liu Qi and Liu Bei in Jiangxia.
+
+@30271
+Defying Cao Cao would be reckless. I believe we should ally with him.
+
+@30272
+Lord Zhang Zhao, there is no need to rush to a conclusion.
+
+@30273
+I think we should first find out how things stand in Jiangxia, then decide.
+
+@30274
+Lord Sun Quan, what will you do?\nAlly with Cao Cao\nScout out Jiangxia
+
+@30275
+We will ally with Cao Cao. Zhang Zhao, go as envoy and see the alliance through.
+
+@30276
+Understood. I will set out at once.
+
+@30277
+Our Wu has no wish to defy Your Excellency.
+
+@30278
+General Sun's judgment is wise. Let us destroy the traitors together.
+
+@30279
+I would have you attack the traitors Liu Qi and Liu Bei, who are holed up in Jiangxia.
+
+@30280
+I have no objection. A joint campaign with Your Excellency cannot fail.
+
+@30281
+Yes, of course. Let us destroy the traitors together.
+
+@30282
+Cao Cao and Sun Quan have formed an alliance.
+
+@30283
+Find out how things stand in Jiangxia? How do you mean to do that?
+
+@30284
+I will go to Jiangxia on the pretext of offering condolences for Liu Biao's death.
+
+@30285
+I will learn what Liu Qi and Liu Bei know about Cao Cao's army.
+
+@30286
+Good, I leave the details to you. Set out at once.
+
+@30287
+Understood. I will set out at once.
+
+@30288
+In the castle of {e0B}
+
+@30289
+Brother, and Lord Liu Qi, an envoy has come from Sun Quan of Wu to offer condolences for Lord Liu Biao.
+
+@30290
+Condolences? How strange.
+
+@30291
+Lord Liu Qi, what do you mean? Why is an envoy of condolence strange?
+
+@30292
+Wu and Jingzhou have been bitter enemies for years. They would hardly send condolences just because Father died...
+
+@30293
+Hmm... First let us meet this envoy.
+
+@30294
+My name is Lu Su. Hearing of Lord Liu Biao's death, I have come to offer condolences on behalf of my lord, Sun Quan.
+
+@30295
+That is most kind of you... My late father would be pleased.
+
+@30296
+When the condolences were over, Liu Bei entertained the Wu envoy Lu Su in another room.
+
+@30297
+Cao Cao has sent our Wu a letter demanding surrender too.
+
+@30298
+I believe Cao Cao must be defeated, but within Wu the faction for surrender is in the majority.
+
+@30300
+At this rate the surrender faction may win, and Wu will share Jingzhou's fate... So I have a request, Lord Liu Bei.
+
+@30301
+To persuade my lord and the surrender faction, would you send one of your trusted men as envoy for an alliance?
+
+@30302
+...I cannot answer at once. Please wait two or three days.
+
+@30303
+...Lord Lu Su wishes to take one envoy to Wu to make an alliance.
+
+@30304
+Should we ally with Sun Quan, and if so, whom should we send...? I want to hear your views.
+
+@30305
+To overthrow Cao Cao, we must join hands with Wu.
+
+@30306
+The situation is urgent. Please send me.
+
+@30307
+If Lord Kongming goes, there won't be anyone clever left in Jiangxia.
+
+@30308
+Brother, leave it to me! If Sun Quan gives me any lip, I'll cut him down!
+
+@30309
+Don't be absurd. If you went, any deal would fall apart.
+
+@30310
+Brother, I will go. Await good news.
+
+@30311
+Lord Liu Bei, what will you do?\nSend no envoy\nSend Zhuge Liang\nSend Guan Yu\nSend Zhang Fei
+
+@30312
+We will send no envoy. Kongming, tell Lord Lu Su so.
+
+@30313
+I see... To let slip the chance of a lifetime...
+
+@30314
+I am sorry... The armies of Jiangxia cannot be relied upon.
+
+@30315
+Hmm, I see... Thank you for your trouble. You may go.
+
+@30316
+Let me be the envoy to Wu. There is no need to worry.
+
+@30317
+I see... Very well. I am counting on you.
+
+@30318
+Then call Lord Lu Su.
+
+@30319
+I will go as envoy. I am in your hands.
+
+@30320
+Oh! Thank you! With the famed Sleeping Dragon, Lord Kongming, as envoy, my lord Sun Quan will be delighted.
+
+@30321
+Then I will send Yunchang. Do your best.
+
+@30322
+I am to be the envoy. I am in your hands.
+
+@30323
+Oh! Thank you! With the loyal general Lord Guan Yu as envoy, my lord Sun Quan will be delighted.
+
+@30324
+Then I will send Zhang Fei... Will it be all right?
+
+@30325
+Ha! I'm the one who's going. Pleased to have you along!
+
+@30326
+Lord Zhang Fei as envoy... My lord Sun Quan will be surprised.
+
+@30327
+{e01} set out for Wu with Lu Su as envoy.
+
+@30328
+At the castle of {e0B}
+
+@30329
+Lord Lu Su, you are back? ...Hm? And who is this?
+
+@30330
+How do you do. I am Zhuge Liang, retainer of Liu Bei.
+
+@30331
+Well, well... You have come a long way from Jiangxia. Thank you for your trouble.
+
+@30332
+When my lord commands, I shrink from neither fire nor water.
+
+@30333
+I see. Well said.
+
+@30334
+By the way, there is something I would very much like to ask you, Lord Kongming. May I?
+
+@30335
+(I hear they are of the surrender faction. Do they mean to throw hard questions at me and break my stride?)
+
+@30336
+Yes, ask me anything.
+
+@30337
+And so a fierce debate unfolded between Zhuge Liang and the ministers who favored surrender.
+
+@30338
+...Cao Cao's army is truly mighty. Even with you at his side, they say Lord Liu Bei has been defeated by Cao Cao?
+
+@30339
+Small birds cannot understand the ambition of the great phoenix. Our army is small, so we step back and wait.
+
+@30340
+When the time comes, the great phoenix will soar through the sky and the righteous army will destroy the traitors... That is all.
+
+@30341
+...They say Cao Cao's army is nearly a million strong. Is the difference in numbers not hopeless?
+
+@30342
+A million, perhaps, but most are a motley crowd. How shameful to fear a rabble.
+
+@30343
+I did not expect the generals of Wu, with so many fine troops, to be so faint-hearted.
+
+@30344
+...Heaven's moment is with Cao Cao, while the fortunes of the Han are nearly spent. One must not defy Heaven's timing.
+
+@30345
+What are you saying? You are a subject of Lord Sun Quan, but also a subject of the House of Han.
+
+@30346
+To use Heaven's timing and fate as excuses to speak of betraying your lord... How shameless!
+
+@30347
+...Cao Cao descends from a minister who served the Han well. But I hear Lord Liu Bei's family was poor.
+
+@30348
+Wealth and poverty do not matter in showing loyalty to the Han. That is the reasoning of small men.
+
+@30349
+...Your words are nothing but sophistry. What learning have you studied all these years?
+
+@30350
+No one recorded what the wise rulers and ministers of old studied. Clinging to books is the logic of a mere student.
+
+@30351
+...You talk big because you have no true learning, is that not so? It must be so.
+
+@30352
+Learning is truly useful only when put to use in governing the land. Whether one has studied or not is beside the point.
+
+@30353
+That is enough! Why do you ask such needless questions of a guest who has come all the way from Jiangxia?
+
+@30354
+Lord Huang Gai...
+
+@30355
+Lord Kongming, forgive us. My lord Sun Quan is waiting. This way, please.
+

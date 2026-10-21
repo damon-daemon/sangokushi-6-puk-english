@@ -1,0 +1,933 @@
+@17000
+Thanks to your virtue, Lord {e02}, we prosper. Please accept this.
+
+@17000.1
+We have come with New Year's greetings. We will keep following you, Lord {e02}!
+
+@17000.2
+We live in peace thanks to you, Lord {e02}. Please accept this.
+
+@17001
+{e0B} has paid 1000 gold to {e01}.
+
+@17002
+{e01}, we could not pay the stipends of the officers and troops of {e0B}.
+
+@17003
+It seems I served the wrong master. I can no longer follow {C13}.
+
+@17003.1
+I can no longer go along with {C13}'s ideas... Next time we meet, it will be on the battlefield.
+
+@17004
+Lord {e02}, {e01} has fled.
+
+@17005
+Lord {e03}, {e01} has left {e02} and come seeking a post.
+
+@17006
+It seems %d people have moved from {e0B} to {e0C}.
+
+@17006.1
+{C13}, %d people have moved from {e0B} to {e0C}. The result of misrule in {e0B}, surely.
+
+@17006.2
+It seems %d people have left {e0B} for {e0C}, drawn by {C13}.
+
+@17007
+{C110}, %d people have moved from {e0B} to {e0C}...
+
+@17007.1
+{C13}, %d people have left {e0B} for {e0C}! We should review our civil policy.
+
+@17007.2
+{C13}, it seems %d people could not bear the rule in {e0B} and moved to {e0C}.
+
+@17008
+%d people of {e0B} are leaving for {e0C}.
+
+@17009
+{e02} has come of age and has come to {e0B}, hoping to join {e01}'s service.
+
+@17010
+I mean to serve faithfully, with my great mother as my model. Please take me into your service.
+
+@17010.1
+I have finally come of age... Like my mother, I wish to serve you, Lord {e02}.
+
+@17011
+I have finally come of age. From now on, let me work under you, Father.
+
+@17011.1
+Father! Let me join the lowest ranks of your retainers.
+
+@17012
+I mean to serve you faithfully alongside my father, Lord {e02}. Please take me into your service.
+
+@17012.1
+I have finally come of age... Like my father, I wish to serve you, Lord {e02}.
+
+@17012.2
+I have come to serve you even better than my father did, Lord {e02}. I humbly ask for your favor.
+
+@17013
+I have finally come of age. From now on, let me work under you, Mother.
+
+@17013.1
+Mother! Let me join the lowest ranks of your retainers.
+
+@17014
+{e01}, an emissary bearing tribute has come from the land of Wa, far across the sea.
+
+@17015
+{e01}, an emissary bearing tribute has come from Goguryeo, far to the east.
+
+@17016
+{e01}, an emissary bearing tribute has come from Dayuan, far to the west.
+
+@17017
+{e01}, an emissary bearing tribute has come from the Kushan Empire, far to the west.
+
+@17018
+{e01}, an emissary bearing tribute has come from the Parthian Kingdom, far to the west.
+
+@17019
+{e01}, an emissary bearing tribute has come from Daqin, a land far, far away.
+
+@17020
+Lord {e01}, I bring gifts from our King of Wa. Please accept them.
+
+@17021
+The King of Goguryeo sent me as his envoy to you, Lord {e01}. Please accept this.
+
+@17022
+From Dayuan, I bring gifts. Please, you accept.
+
+@17023
+From Kushan, I come very far. Please, you accept.
+
+@17024
+From Parthia, very far, I come to see you. Please, you accept this.
+
+@17025
+I am envoy, sent by Emperor of Rome. Please, you accept this.
+
+@17026
+We received 1000 gold and 5000 food.
+
+@17027
+{e01} sees Us as nothing but a political tool! We can bear to live here no longer.
+
+@17028
+{e1F} has escaped {e0B}, the capital of {e01}, and fled to {e0C}.
+
+@17029
+{e01} has suddenly died of illness.
+
+@17030
+The Emperor of {f15}, {e01}, has passed away.
+
+@17031
+The King of {f15}, {e01}, has passed away.
+
+@17032
+The Duke of {f15}, {e01}, has passed away.
+
+@17033
+A great star has fallen... {e01} has died with ambitions unfulfilled.
+
+@17034
+Lord {e02}, word has come that {e01} died of illness in {e0B} while searching for talent.
+
+@17035
+Lord {e02}, word has come that {e01}, held prisoner by the {e03} army, has died of illness.
+
+@17036
+Lord {e03}, word has come that {e01}, an officer of {e02} held by our army, has died of illness in prison.
+
+@17037
+Lord {e02}, word has come that {e01}, whom we planted with {e03}, has died of illness.
+
+@17038
+Lord {e02}, sad news has just arrived from {e0B}. {e01} has died of illness.
+
+@17039
+According to news just in, {e01}, an officer of {e02}, has died of illness in {e0B}.
+
+@17040
+{e0B} now belongs to me, {e01}! At last I am master of my own domain!
+
+@17041
+Lord {e02}, {e01}, Protector of {e0B}, has rebelled and declared independence.
+
+@17042
+It seems {e01} of the {e02} army has revolted, seized {e0B}, and declared independence.
+
+@17043
+I can no longer stand working under {e02}! Now is the time to raise an army!
+
+@17044
+Lord {e02}, {e01} has raised troops in {e0B} and attacked the castle.
+
+@17045
+Strife has broken out in {e0B}, under {e02}'s rule, and {e01} has attacked the castle.
+
+@17046
+So Heaven is not on my side... But as long as I live, one day...
+
+@17046.1
+Tch, I failed... I will hide in the wilds and wait for another chance.
+
+@17047
+The rebellion was put down, but {e01} got away.
+
+@17048
+The rebellion failed, but {e01} seems to have escaped.
+
+@17049
+Our army was beaten by the rebel {e01}, and the castle has been taken.
+
+@17050
+The rebel army led by {e01} won the battle at {e0B} and seized the castle.
+
+@17051
+In {e0B}, under {e01}'s rule, remnants of the Yellow Turbans have attacked the castle.
+
+@17052
+What are mere bandits to us? I will show them the strength of our army!
+
+@17052.1
+Yellow Turban remnants, at this late date... I will scatter them with ease.
+
+@17052.2
+Hunting bandits is just the thing to train the troops.
+
+@17052.3
+I will not be scorned by mere bandits! I will show them the strength of our army!
+
+@17053
+The revolt is crushed, and I have taken the men who surrendered into our army!
+
+@17053.1
+The revolt is crushed, and I have added the best of the bandits to our army!
+
+@17054
+We crushed the bandits and put down the revolt!
+
+@17054.1
+We crushed the bandits and put down the revolt.
+
+@17055
+The bandits fought back harder than expected, and I was careless enough to get wounded...
+
+@17055.1
+The bandits resisted more than expected, and to my shame I was wounded.
+
+@17056
+With no officer to lead a force against them, the bandits ran wild and public safety has fallen badly.
+
+@17057
+Revolts of the people are breaking out everywhere.
+
+@17058
+The people have risen up?! {C110}, what am I to do?
+
+@17058.1
+{C13}, we have word of a popular revolt in {e0B}.
+
+@17059
+{C10}, the people listened to reason, and the revolt has ended peacefully.
+
+@17060
+It seems the people have listened to reason at last.
+
+@17061
+{C10}, the people would not listen, and the city has suffered heavy damage.
+
+@17062
+This is bad, persuasion failed... The damage to the city is terrible to behold.
+
+@17063
+{C10}, the people are demanding %u gold. What shall we do?
+
+@17064
+Hmm, the people are demanding %u gold. What to do...
+
+@17065
+The people took the gold and seem satisfied at last.
+
+@17066
+Only after taking the gold were the people satisfied.
+
+@17067
+The revolt was put down by force... The people's strength is not to be scorned.
+
+@17068
+I finally held the people down with the garrison, though there was some damage...
+
+@17068.1
+I finally held the people down with the garrison, but the damage was worse than expected.
+
+@17069
+The revolt was put down by force. But {C10}, with the people against us, we cannot fight outside enemies.
+
+@17070
+{C13}, forgive me. I seem to have fallen ill. I cannot fight my age...
+
+@17070.1
+{C13}, perhaps it is my age, but I am not well.
+
+@17070.2
+{C13}, my health has been poor of late. I suppose I am getting old...
+
+@17071
+I don't feel well at all. I'm not young anymore...
+
+@17071.1
+Not good, I don't feel well. So I am no longer young...
+
+@17072
+The plague seems to have subsided.
+
+@17073
+The plague has spread to nearby cities, and the damage is growing.
+
+@17074
+Plague is spreading in many places.
+
+@17075
+The following officers have reportedly fallen to the plague.
+
+@17076
+{C13}, %u local volunteers have come to {e0B}, so I added them to our army.
+
+@17077
+%u volunteers in {e0B} have asked to join our army. Most reassuring!
+
+@17078
+The following cities earned income from trade.
+
+@17079
+A huge swarm of locusts has appeared. There is damage in many places.
+
+@17080
+The locust plague is spreading to nearby cities.
+
+@17081
+A typhoon has struck. There is damage in many places.
+
+@17082
+Long rains have caused floods. There is damage in many places.
+
+@17083
+Thanks to fine weather this year, there seem to be good harvests everywhere.
+
+@17084
+Thanks to unusually bad weather, there seem to be poor harvests everywhere.
+
+@17085
+Humble as my abilities are, I will do my utmost. Please take me into your service.
+
+@17085.1
+I have come hoping to be of help to you, Lord {e02}. Please allow me to serve.
+
+@17085.2
+If you will allow it, I will work with all my might for you, Lord {e02}.
+
+@17086
+Please put my strength to use in restoring the House of Han.
+
+@17086.1
+Restoring the House of Han is my dream. Please take me into your service.
+
+@17086.2
+To help restore the House of Han would be my greatest joy. Please allow me to serve!
+
+@17087
+I have come because I believe you are the one to rule the realm, Lord {e02}.
+
+@17087.1
+You are the one who will become master of the realm, Lord {e02}. So I believe, and so I came.
+
+@17087.2
+I have come hoping to help you, even a little, to seize power, Lord {e02}.
+
+@17088
+I have risen for the sake of justice. I would be glad of even the lowest seat.
+
+@17088.1
+No one can master this chaotic age without justice. Please take me into your service.
+
+@17088.2
+I have come hoping to build a peaceful world together with you, Lord {e02}.
+
+@17089
+I have loved books of strategy since childhood and know them by heart. All I need now is practice...
+
+@17089.1
+I know a little of the art of war. I came hoping to be of use to you, Lord {e02}.
+
+@17089.2
+Leave matters of strategy to me. I will surely prove useful.
+
+@17090
+I have some confidence in matters of government. If I could be of use to you, Lord {e02}...
+
+@17090.1
+Leave matters of government to me. I will surely prove useful.
+
+@17090.2
+I am confident in matters of government. Please take me into your service.
+
+@17091
+I am confident in negotiation. I will surely prove useful.
+
+@17091.1
+Negotiation is my specialty. Please take me into your service.
+
+@17091.2
+If you seek someone skilled in negotiation, choose me!
+
+@17092
+I may be young, but in spying I yield to no one. Will you not put me to the test?
+
+@17092.1
+In spying, no one can surpass me. Please take me into your service.
+
+@17092.2
+Spying is my specialty. Please take me into your service.
+
+@17093
+I am skilled at arms and can protect you in battle, Lord {e02}. Please make me your retainer.
+
+@17093.1
+War surely needs a fighter like me. Please take me into your service.
+
+@17093.2
+I am somewhat confident in my valor. I will surely prove useful.
+
+@17094
+Leading armies and commanding troops is my specialty. Please allow me to serve.
+
+@17094.1
+I am confident in commanding units. I will surely prove useful. Please take me into your service.
+
+@17094.2
+Commanding troops is not a matter of brute strength. Someone like me is the right choice.
+
+@17095
+I have come hoping you might put my abilities to use.
+
+@17095.1
+To show my abilities under you, Lord {e02}, would be my greatest joy.
+
+@17095.2
+Please give me a place to show what I can do.
+
+@17096
+You are the only one I can serve with all my heart, Lord {e02}. Please take me into your service.
+
+@17096.1
+I have come wishing to work under you, Lord {e02}. Please allow me to serve.
+
+@17096.2
+I feel I have found the lord I am truly meant to serve. Please take me into your service.
+
+@17097
+{e01}, recruit this person?
+
+@17098
+Why? Do you suspect me of something...
+
+@17098.1
+So you have no need for someone like me...
+
+@17098.2
+It cannot be helped... I will try elsewhere.
+
+@17099
+Thank you. I will strive to live up to your expectations.
+
+@17099.1
+Thank you. I am resolved to serve up to your expectations.
+
+@17100
+I feel I have at last found a lord to serve. You can count on my work.
+
+@17100.1
+I have been able to serve the one I have long wished to serve.
+
+@17100.2
+I have always admired you, Lord {e02}. To serve you is the greatest honor.
+
+@17101
+To serve the lord of one's choice is the true wish of every officer.
+
+@17102
+Thank you. If there is anything I can do for you, Lord {e02}, just say the word.
+
+@17103
+Thank you. Make full use of my strength.
+
+@17104
+Thank you. For your sake, Lord {e02}, I will throw myself into any danger.
+
+@17104.1
+Thank you. I will strive to repay this kindness.
+
+@17105
+Lord {e02}, {e01}, whom we planted in {e0B}, has returned.
+
+@17106
+Lord {e02}, {e0B} has no ruler now, so {e01}, whom we planted there, has returned.
+
+@17107
+Lord {e02}, forgive me. I failed to gain a post. Perhaps they suspected something.
+
+@17108
+I worried you all, but I have finally recovered!
+
+@17108.1
+{C13}, I caused you worry, but I am fully healthy again.
+
+@17108.2
+{C13}, as you see, I have fully recovered. The body is one's capital, after all.
+
+@17109
+With a silver tongue I fooled the guards, escaped {e0B}, and made it back to {e0C}.
+
+@17109.1
+I smashed the cell, knocked down the guards, and somehow made it back to {e0C}.
+
+@17110
+{C13}, we have word that the prisoner {e03} has escaped. A fearsome one, enemy or not.
+
+@17110.1
+{C13}, the prisoner {e03} has escaped. It seems the guards were drugged to sleep.
+
+@17110.2
+{C13}, the prisoner {e03} has escaped. If only we had killed them...
+
+@17110.3
+{C13}, the prisoner {e03} has escaped. We sent pursuers, but it was already too late...
+
+@17110.4
+{C13}! We have word that the prisoner {e03} has escaped. They slipped away while the guards were asleep...
+
+@17111
+What, {e03} has escaped?! What on earth were the guards doing?
+
+@17112
+{e01}, %s seems to be visiting {e0B}.
+
+@17113
+This is the Qingnang Book, in which I set down my medical arts for later ages. If it can be of use to you...
+
+@17114
+I shall give you this Taiping Qingling, which holds the arts that heal every illness.
+
+@17115
+This is the Taiping Yaoshu. Now that you have it, spread its teachings far and wide on Heaven's behalf.
+
+@17116
+I shall give you the three volumes of the Heavenly Book. If you wish, I will also invite you to train on Mount Emei.
+
+@17117
+{e01} received {e29} from %s.
+
+@17118
+With my medical arts, I shall at once restore the health of the officers in {e0B}.
+
+@17119
+The health of the officers in {e0B} has been restored.
+
+@17120
+There is no one as brave as General Guan. His courage is truly godlike.
+
+@17120.1
+There is no illness I cannot cure, yet he summoned me and then doubted me... What a foolish man...
+
+@17120.2
+I am Hua Tuo, styled Yuanhua, a physician born in Qiao in the state of Pei.
+
+@17120.3
+I have not been home for a long time. I should like to see my wife's face again.
+
+@17121
+I have spread virtue on Heaven's behalf and relieved the suffering of all the people.
+
+@17121.1
+I have never stolen anything from anyone, much less led people's hearts astray...
+
+@17121.2
+Kill an innocent man like me, and you will surely be cursed... like a certain someone...
+
+@17121.3
+I travel between Wu and Kuaiji, reciting Taoist scriptures and curing illness with charms and holy water.
+
+@17121.4
+I am Yu Ji of Langya, a Taoist. I wander the land to cure the illnesses of the poor.
+
+@17122
+I am the Immortal Nanhua. I have lived in the mountains all my life.
+
+@17122.1
+They say I have green eyes and the face of a child. Do I really?
+
+@17122.2
+I never let go of my goosefoot staff. They say it is light and wards off palsy.
+
+@17122.3
+I am the Immortal Nanhua, who gave Zhang Jiao the Taiping Yaoshu. He seems to have studied it well.
+
+@17122.4
+By studying the Taiping Yaoshu, Zhang Jiao called up wind and rain and cured plague with charms and holy water.
+
+@17123
+I was born in Qiao in the state of Pei. My name is Zuo Ci, styled Yuanfang, and they call me Master Black Horn.
+
+@17123.1
+I love tangerines, wine, meat, and mutton, but that short-legged fellow I can never like.
+
+@17123.2
+I can go ten years without food, and a thousand sheep a day would not fill me.
+
+@17123.3
+When the earth rat follows the metal tiger, the great villain shall fall in a single day.
+
+@17123.4
+About duel "tactics"... It seems some officers can never master certain of them.
+
+@17124
+Even chickens and swans know their time. How could a man not know his?
+
+@17124.1
+Three eights crisscross; the yellow boar meets the tiger. South of Dingjun, one limb is broken.
+
+@17124.2
+In the lion's palace the divine throne is secured; the kingly way renewed, the descendants most noble.
+
+@17124.3
+I would gladly discuss the Way with Sima Jizhu, but I would not share a boat with a fisherman.
+
+@17124.4
+I am Guan Lu, styled Gongming, born in Pingyuan. People know me as a lover of fortune-telling.
+
+@17125
+A recluse like me cannot know a person's fortune.
+
+@17125.1
+Dragon on the left, phoenix on the right, flying into Xichuan. The young phoenix falls to earth; the sleeping dragon rises to Heaven.
+
+@17125.2
+Fate is hard to escape. Knowing one's allotted span would do no good.
+
+@17125.3
+I live on Mount Jinping. They call me Master Zixu.
+
+@17126
+{e01}, whom I drank with at a tavern in {e0B} yesterday, is a person of real caliber. Talent hides where you least expect it.
+
+@17127
+{e01} is skilled in strategy.
+
+@17127.1
+{e01} of {e0B} is well versed in strategy. Appoint them advisor, and their hidden talent will show.
+
+@17128
+They say {e01} of {e0B} knows much of civil affairs...
+
+@17129
+{e01} of {e0B} is skilled at negotiation. Use them as an emissary.
+
+@17130
+{e01} of {e0B} excels at spying, and is good at searching for talent too.
+
+@17131
+The valor of {e01} of {e0B} is already known throughout the realm. Even I have heard of it.
+
+@17132
+Lord {e01} of {e0B} seems to have a hidden talent for commanding troops.
+
+@17133
+Of all the officers in {e0B}, the most discontent would be Lord {e01}...
+
+@17134
+Lord {e02}, {e01} seems to be discontent. Surely you have noticed?
+
+@17135
+{e01} of {e0B} has grown very discontent. Bear that well in mind.
+
+@17136
+{e01} of {e0B} will show ability from youth and grow ever stronger with age.
+
+@17137
+{e01} of {e0B} is an early bloomer. They will be a full-fledged officer by about 20.
+
+@17138
+{e01} of {e0B} seems to be a late bloomer, who will reach their peak near 50.
+
+@17139
+{e01} of {e0B} will mature at around 40.
+
+@17140
+{e01} of {e0B} still has not forgotten their grudge against {e02}.
+
+@17141
+Good news, Lord {e01}. {e0B} will have a rich harvest this autumn.
+
+@17141.1
+Lord {e01}, I am sorry, but {e0B} will most likely have a poor harvest...
+
+@17142
+{e01} of {e0B} has such fine features, it is a pity... Very well, I will lengthen their life.
+
+@17143
+By Heaven's decree, if {e01} of {e0B} lives to %u, they will have lived out their natural span.
+
+@17143.1
+{e01} of {e0B} can be said to have already lived out their natural span.
+
+@17144
+I cannot shake the feeling that {e01} of {e0B} is plotting something...
+
+@17145
+What, {e03} has suddenly vanished? Oh no, how careless of me!
+
+@17145.1
+What, {e03} has suddenly vanished? Curses, how careless of me!
+
+@17145.2
+{C13}, {e03} has suddenly disappeared. Most suspicious...
+
+@17145.3
+{C13}, {e03} has suddenly disappeared. Most suspicious indeed...
+
+@17146
+Lord {e03}, {e02} seems to have had a change of heart. We cannot count on them to turn in battle.
+
+@17146.1
+Lord {e03}, since our army did not attack, {e02} grew uneasy and gave up on defecting.
+
+@17146.2
+Lord {e03}, {e02} came under suspicion and seems to have reconsidered betraying their lord.
+
+@17147
+Tch, {e02} seems to have changed their mind about defecting. We missed our chance...
+
+@17148
+Lord {e02}, {e01}, planted in {e0B}, has returned. It seems they were found out.
+
+@17149
+{C13}, it seems {e03} was planted by another force, but by the time we noticed...
+
+@17149.1
+{C13}, I think {e03}'s behavior is clearly strange. Could they be a planted agent?
+
+@17149.2
+We have found proof that {e03} is a planted agent! {C13}, let us seize them!
+
+@17150
+{C13}, Huang Gai is trying to fool us with the self-injury ruse. He must be a planted agent!
+
+@17151
+{e01} of {e0B} has disappeared. It seems they were a planted agent.
+
+@17152
+This is just when the legendary medical book {e29} should help... Ah, here it is.
+
+@17152.1
+Even if I read {e29}, I would not understand a word. I know! I will have old Doctor Jitai in the village look at it...
+
+@17152.2
+I am sure {e29} was around here... Found it! Wow, it is thick...
+
+@17153
+{e01}, thanks to {e29}, the health of the serving officers in {e0B} has been restored.
+
+@17154
+Three months have passed. The joint attack with {e03} has expired.
+
+@17154.1
+{C13}, three months have passed, and the joint attack with {e03} has expired.
+
+@17155
+Free officers led by {e02} attacked {e0B}, ruled by {e01}, and seized the castle.
+
+@17156
+Free officers led by {e01} attacked {e0B} and seized the castle.
+
+@17157
+Lord {e02}, I have finished searching around {e0B} and just returned.
+
+@17157.1
+{C13}, I am finally back from my long search for talent around {e0B}.
+
+@17157.2
+{C13}, forgive my long absence. I am finally back from the search.
+
+@17158
+Lord {e03}, {e01}, while searching for talent in {e0B}, met someone called {e02}.
+
+@17159
+I have heard much of your skill at arms, Lord {e02}. I beg you, lend your strength to my lord {e03}...
+
+@17159.1
+Lord {e02}, would you not use your valor for my lord {e03}?
+
+@17159.2
+My lord {e03} hopes for the help of someone skilled at arms like you.
+
+@17160
+I cannot bring myself to like Lord {e03}, but I like you very much. I shall teach you some martial arts.
+
+@17160.1
+Thank you, but Lord {e03} rubs me the wrong way. I must decline the post. Still, this must be fate. If you wish, shall I show you what martial arts truly are?
+
+@17161
+I cannot bring myself to like Lord {e03}, but I like you very much. I shall teach you some martial arts.
+
+@17161.1
+Thank you, but Lord {e03} is not to my liking. Still, this must be fate. If you wish, may I show you what martial arts truly are?
+
+@17162
+Sadly, I do not yet wish to serve Lord {e03}. Instead, if I may... I shall teach you some martial arts.
+
+@17162.1
+Thank you, but I have no wish to serve anyone at present. Still, if you wish, shall I show you what martial arts truly are?
+
+@17163
+Sadly, I do not yet wish to serve Lord {e03}. Instead, if I may... I shall teach you some martial arts.
+
+@17163.1
+Thank you, but I have no wish to serve anyone at present. Still, if you wish, may I show you what martial arts truly are?
+
+@17164
+Really? Thank you very much.
+
+@17164.1
+I could ask for nothing better... Please, teach me.
+
+@17164.2
+How kind. I would be most grateful.
+
+@17165
+No, no. Then I shall teach you the duel tactic %s.
+
+@17165.1
+Then let me show you a duel tactic called %s.
+
+@17166
+No, no. Then let us begin. My training is a bit harsh, mind you!
+
+@17166.1
+Then let us begin at once! Ready? Here I come!
+
+@17167
+Thanks to the training, {e01}'s military experience has risen.
+
+@17168
+Through the training, {e01} learned the duel tactic "%s" and gained military experience.
+
+@17169
+I have heard of your great renown, Master. I beg you, enlighten this humble fool...
+
+@17169.1
+I, {e01}, humbly ask for your guidance.
+
+@17169.2
+To think I would meet the renowned Master {e02} in a place like this... Would you share your thoughts with me while I have the chance?
+
+@17170
+I have heard of your great renown, Master. I beg you, please enlighten me...
+
+@17170.1
+I, {e01}, humbly ask for your guidance.
+
+@17171
+I am a simple country person. I cannot discuss the affairs of the realm.
+
+@17171.1
+Someone like me has nothing to tell one such as you.
+
+@17171.2
+What could I know? I have nothing worth telling you...
+
+@17172
+Please do not say that. I beg you, do not turn me away.
+
+@17172.1
+Please, no need for modesty. I beg you, guide me.
+
+@17172.2
+Such a chance may never come again... Please, let me hear your wise views.
+
+@17173
+I see... Very well. If my humble views will do, I will share them.
+
+@17173.1
+Very well. I will help, in my small way.
+
+@17173.2
+If you insist, Lord {e02}, I will pass on what I have learned.
+
+@17174
+Thanks to {e02}'s teaching, {e01}'s civil experience has risen.
+
+@17175
+{e01}, while searching for talent in {e0B}, seems to have hit it off with someone called {e02}.
+
+@17176
+I see, I see. Then would you not serve my lord, Lord {e03}?
+
+@17176.1
+{C121}, is that so? What say you? Then will you not try serving my lord?
+
+@17176.2
+Oh, what a coincidence. Then why not serve my lord yourself?
+
+@17177
+I see. Meeting you like this must be fate...
+
+@17177.1
+If you will speak for me, I would be a fool to miss this chance.
+
+@17177.2
+I was in two minds myself... I will take a chance on you.
+
+@17178
+Lord {e02}, {e01}, while searching for talent, was begged by the people of {e0B} to go and deal with %s.
+
+@17179
+I am {C5}! Face me in a fair fight!
+
+@17179.1
+I am {C5}! I will scatter you bandits with ease!
+
+@17180
+Raaagh! I'm King Zhang! You dared to mess with my turf! I'll never forgive you!
+
+@17180.1
+Heh heh heh, you fool, crossing the Li gang! I'll kill you!
+
+@17180.2
+You think you can take down the great King Lu?! Don't make me laugh! Die!
+
+@17180.3
+Hee hee hee, I've got nothing against you, but you're going to die here.
+
+@17180.4
+I'm Li Fu, the big boss of these parts! I'll cut you down!
+
+@17181
+There it is... Hyaah! Here I come!
+
+@17181.1
+I-It is bigger than I thought... But it is only a tiger. I will bring it down!
+
+@17182
+A tiger or two will not make a tale of my valor.
+
+@17182.1
+Slaying a tiger is child's play for me.
+

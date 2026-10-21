@@ -1,0 +1,150 @@
+@53000
+{C13}, {e03} of {e0B} has been causing trouble lately. Could they be discontented?
+
+@53000.1
+{C13}, rumor has it that {e03} of {e0B} has grown short-tempered lately.
+
+@53000.2
+{C13}, {e03} of {e0B} seems irritable lately. Perhaps you should have a word.
+
+@53000.3
+{C13}, {e03} of {e0B} has taken to criticizing everything.
+
+@53001
+{C13}, I have not felt myself lately. Am I working too hard?
+
+@53001.1
+{C13}, oh... no, it's nothing...
+
+@53001.2
+{C13}, an ailing heart is more troublesome than an ailing body. Sigh...
+
+@53001.3
+{C13}, they say discontent makes one sigh a lot. Is it true? Sigh...
+
+@53002
+{C13}, I hear {e03} of {e0B} and others are complaining. Why not meet them?
+
+@53003
+{C159}, more and more people complain of feeling unwell. Actually, I-I do too...
+
+@53003.1
+{C159}, there seem to be more grumblers lately... Come to think of it, I-I...
+
+@53004
+The following officers seem increasingly discontented.
+
+@53005
+{C13}, {e03} of {e0B} is unwell and asks to rest this month.
+
+@53005.1
+{C13}, {e03} of {e0B} is out of sorts and asks to rest this month.
+
+@53005.2
+{C13}, {e03} of {e0B} seems to skip work at every excuse.
+
+@53005.3
+{C13}, {e03} of {e0B} asks for leave this month, giving no reason.
+
+@53006
+{C13}, {e03} of {e0B} and several others have asked for leave, giving no reason.
+
+@53007
+The following officers have asked for leave.
+
+@53008
+{C13}, {e03} is now under us, so we will call off the campaign against {e0B}.
+
+@53009
+Now that {e03} is under us, we will call off the campaign against {e0B}.
+
+@53010
+Which of the following do you value most?
+
+@53011
+Which of the following is your favorite animal?
+
+@53012
+Which of the following is your favorite bird?
+
+@53013
+Which of the following is your favorite color?
+
+@53014
+Which of the following is your favorite time of day?
+
+@53015
+Of the four seasons, which is your favorite?
+
+@53016
+Which of the following is your favorite sacred beast?
+
+@53017
+Which of the following do you think is the best pastime?
+
+@53018
+Which of the following do you think is the most important friend?
+
+@53019
+Which of the following do you hold most dear?
+
+@53020
+Which of the following relationships do you think matters most?
+
+@53021
+Which of the following words do you like best?
+
+@53022
+Of the following acts, which do you think matters most?
+
+@53023
+Of the stars in the heavens, which do you like best?
+
+@53024
+When opinions are divided at a council of war, what do you do?
+
+@53025
+Which of the following must you protect?
+
+@53026
+Which of the following do you rely on most?
+
+@53027
+When your lord makes a grave mistake, what do you do?
+
+@53028
+What do you think matters most for an envoy in diplomacy?
+
+@53029
+What do you think a state needs in order to be just?
+
+@53030
+Which of the following is needed to rule the realm?
+
+@53031
+For the realm's sake, which of the following must never happen?
+
+@53032
+To rule the realm, which path do you aim for?
+
+@53033
+Which of the following is needed to rule the realm?
+
+@53034
+Which of the following is needed to rule the realm?
+
+@53035
+Which troop type do you think matters most on the battlefield?
+
+@53036
+What do you think matters most on the battlefield?
+
+@53037
+Had you been born when Zhou overthrew Shang, whom would you serve?
+
+@53038
+Had you been born in the war between Han and Chu, whom would you serve?
+
+@53039
+If you could have one of the founding heroes of Han serve you, whom would you choose?
+

@@ -1,0 +1,528 @@
+@18000
+{C13}, the forces around us seem to be on the move!
+
+@18000.1
+{C13}, there seems to be a flurry of activity around us!
+
+@18000.2
+{C13}, the armies of other forces seem to have begun marching.
+
+@18000.3
+{C13}, word is that other forces have begun to march.
+
+@18000.4
+{C13}, we have word that other forces are advancing.
+
+@18000.5
+{C13}, we have word that the forces around us have begun to march.
+
+@18001
+The forces around us seem to be on the move.
+
+@18001.1
+The armies of other forces seem to have begun marching.
+
+@18001.2
+There seems to be a flurry of activity around us.
+
+@18001.3
+The forces around us seem to have begun to march.
+
+@18002
+{C13}, Lord {e03} promised to attack {e0B}, yet shows no sign of moving.
+
+@18002.1
+The {e03} army shows no sign of moving. Surely they have not forgotten the promise to take {e0B}.
+
+@18002.2
+Lord {e03}'s army is not heading for {e0B}. Surely they do not mean to break their word...
+
+@18002.3
+We agreed with Lord {e03} to take {e0B}, yet there is no sign of them marching out!
+
+@18003
+Curse {e03}! They promised to take {e0B} with us, yet show no sign of moving!
+
+@18003.1
+Curse {e03}, still not moving? Surely they have not forgotten our pact to attack {e0B}!
+
+@18003.2
+Curse {e03}, all that fine talk of taking {e0B} together... So they just sit back and watch!
+
+@18003.3
+We agreed with Lord {e03} to take {e0B}. Why is there no sign of them marching out?
+
+@18004
+{C13}, Lord {e03}'s army has marched on {e0B} as promised. {C18005}
+
+@18004.1
+{C13}, word is that Lord {e03}'s army has set out for {e0B} as planned! {C18005}
+
+@18004.2
+{C13}, Lord {e03}'s army seems to have marched on {e0B} as pledged. {C18005}
+
+@18004.3
+Lord {e03} seems to be advancing on {e0B} as agreed. {C18005}
+
+@18005
+We must not fall behind!
+
+@18005.1
+Reinforcements are reassuring indeed.
+
+@18005.2
+We are one step closer to victory.
+
+@18005.3
+This will lift our troops' morale even higher.
+
+@18006
+Lord {e03}'s army seems to have set out for {e0B} as planned. {C18007}
+
+@18006.1
+Lord {e03}'s army seems to have set out for {e0B} as agreed. {C18007}
+
+@18006.2
+Lord {e03}, as ever! They have advanced on {e0B} as promised. {C18007}
+
+@18006.3
+Lord {e03}'s army seems to have set out for {e0B} as promised. {C18007}
+
+@18007
+Our army must not be outdone!
+
+@18007.1
+Reinforcements are reassuring indeed.
+
+@18007.2
+Now our victory is all the more certain.
+
+@18007.3
+This will raise our troops' morale all the more.
+
+@18008
+Halting this army's campaign will also halt the campaign of the support force led by {e01}. Halt this army's campaign?
+
+@18009
+Halt the campaign of this %s?
+
+@18010
+Lord {e03} seems to be facing difficulties now. We cannot expect reinforcements.
+
+@18010.1
+Judging by Lord {e03}'s situation, they are in no position to send troops. Please give up the request.
+
+@18010.2
+I hear Lord {e03} has their hands full governing their lands. They have no troops to spare.
+
+@18010.3
+Lord {e03} is in no position to move. Let us think of another plan.
+
+@18011
+I cannot imagine Lord {e03} gladly agreeing.
+
+@18011.1
+Negotiating with Lord {e03} will be no easy matter.
+
+@18011.2
+Persuading Lord {e03} would be very hard...
+
+@18011.3
+There is a sliver of hope, but moving Lord {e03} would be very hard, I think.
+
+@18012
+A favorable answer from Lord {e03} seems unlikely...
+
+@18012.1
+We cannot expect much from negotiating with Lord {e03}.
+
+@18012.2
+Persuading Lord {e03} will not be easy.
+
+@18012.3
+I must say that moving Lord {e03} will be difficult.
+
+@18013
+Whether Lord {e03} agrees is down to luck.
+
+@18013.1
+The talks with Lord {e03} are about fifty-fifty.
+
+@18013.2
+Whether we can persuade Lord {e03} is even odds.
+
+@18013.3
+What answer comes back will depend on Lord {e03}'s mood.
+
+@18014
+Lord {e03} will very likely give us a good answer.
+
+@18014.1
+The talks with Lord {e03} will probably go well.
+
+@18014.2
+Persuading Lord {e03} will not be very hard.
+
+@18014.3
+Barring something unforeseen, Lord {e03} is sure to send reinforcements.
+
+@18015
+Lord {e03} will agree without a second thought.
+
+@18015.1
+Lord {e03}, of all people, would never betray {C10}'s hopes.
+
+@18015.2
+Lord {e03} will surely give a favorable reply.
+
+@18015.3
+Lord {e03} will surely send reinforcements.
+
+@18016
+{C10}, I am sorry, but I could not persuade Lord {e03}.
+
+@18016.1
+{C10}, forgive me. I could not get a good answer from Lord {e03}.
+
+@18016.2
+{C10}, forgive me. Lord {e03} gave me no opening at all.
+
+@18016.3
+{C10}, forgive me. I pleaded as if my life depended on it, but Lord {e03} only shook their head.
+
+@18017
+Curse {e03}! I humbled myself, and yet... You will pay for this!
+
+@18017.1
+Curse {e03}, refusing my request... They took advantage of my need.
+
+@18017.2
+Curse {e03}, turning on me and refusing my request like that...
+
+@18017.3
+Curse {e03}, refusing a request from me in person!
+
+@18018
+{C10}, Lord {e03} says they will send reinforcements! {C18019}
+
+@18018.1
+Lord {e03}, as ever! They have promised to come to our aid! {C18019}
+
+@18018.2
+True to their pact with {C10}, Lord {e03} gladly agreed to send aid! {C18019}
+
+@18018.3
+{C10}, rejoice! Lord {e03} says they will send reinforcements! {C18019}
+
+@18019
+We must not be outdone either.
+
+@18019.1
+If we stand together, there is nothing to fear.
+
+@18019.2
+If we hold out until the reinforcements arrive, victory will be ours.
+
+@18019.3
+This will lift our troops' morale even higher.
+
+@18020
+Reinforcements from Lord {e03}! It was worth going in person. {C18021}
+
+@18020.1
+Lord {e03}, as ever! A trustworthy one. {C18021}
+
+@18020.2
+I knew Lord {e03} would surely hear my request. {C18021}
+
+@18020.3
+Lord {e03} is my ally. There was no way they would refuse my request! {C18021}
+
+@18021
+Now we can strike the enemy from both sides.
+
+@18021.1
+Now our defenses will be all the stronger.
+
+@18021.2
+Now we can hold back the enemy's advance.
+
+@18022
+{C13}, Lord {e15} has requested reinforcements. {C18023}
+
+@18022.1
+{C13}, Lord {e15} is asking for reinforcements! {C18023}
+
+@18022.2
+{C13}, Lord {e15} is asking for reinforcements. {C18023}
+
+@18022.3
+{C13}, Lord {e15} has sent a request for reinforcements. {C18023}
+
+@18023
+They say the {f16} army is about to descend on {e0B}.
+
+@18023.1
+It seems the {f16} army is heading for {e0B}...
+
+@18023.2
+They say the {f16} army has begun marching toward {e0B}.
+
+@18023.3
+They say the {f16} army is closing in on {e0B}.
+
+@18024
+What! A request for reinforcements from Lord {e15}... {C18025}
+
+@18024.1
+Hmm, so Lord {e15} is asking for reinforcements. {C18025}
+
+@18024.2
+Oh? Lord {e15} has come asking for help? {C18025}
+
+@18024.3
+...So Lord {e15} has come asking for reinforcements. {C18025}
+
+@18025
+The {f16} army is about to descend on {e0B}, is it...
+
+@18025.1
+The {f16} army is heading for {e0B}, is it...
+
+@18025.2
+So the {f16} army has marched toward {e0B}, has it?
+
+@18025.3
+So the {f16} army means to invade {e0B}...
+
+@18026
+We are allies with Lord {e03} in name only now.
+
+@18026.1
+Lord {e03} must be furious.
+
+@18026.2
+Who knows how long our ties with Lord {e03} will last.
+
+@18026.3
+I see {C10} has your own calculations in mind.
+
+@18027
+Lord {e03} will surely understand our situation.
+
+@18027.1
+Lord {e03} will surely understand how {C10} feels.
+
+@18027.2
+Lord {e03} must know full well it was an unreasonable request.
+
+@18027.3
+Even Lord {e03} could hardly blame {C10} for this.
+
+@18028
+I only hope Lord {e03} does not read too much into this...
+
+@18028.1
+Take care not to leave bad feelings with Lord {e03}.
+
+@18028.2
+Lord {e03} must be quite angry.
+
+@18028.3
+Do not forget to keep Lord {e03} in good humor.
+
+@18029
+{C10}, as overlord, you have made a hard decision.
+
+@18029.1
+From now on, let us work to restore your dignity as overlord.
+
+@18029.2
+An overlord must be ready to deal with anything!
+
+@18029.3
+It is hard on Lord {e03}, but they will have to bear it.
+
+@18030
+Please do not forget your position as overlord.
+
+@18030.1
+I believe protecting one's allies is also an overlord's duty.
+
+@18030.2
+{C10}, your prestige as overlord is wavering!
+
+@18030.3
+{C10}, why did you refuse Lord {e03}'s request?
+
+@18031
+{C13}, word has come from Lord {e03}. Under our pact, they ask us to send troops to {e0B}.
+
+@18031.1
+{C13}, we have word that Lord {e03}'s army has set out for {e0B}! Under our pact, let us send troops too.
+
+@18031.2
+{C13}, Lord {e03} asks us to send a joint force. Their army has already set out for {e0B}.
+
+@18031.3
+{C13}, Lord {e03}'s army has set out for {e0B}. Under our pact, let us march on {e0B} too.
+
+@18032
+Hmm, so Lord {e03}'s army has set out for {e0B}... The time has come to keep our pact.
+
+@18032.1
+Oh, so Lord {e03}'s army has begun marching on {e0B}... Under our pact, our army must march too.
+
+@18032.2
+Oh, so Lord {e03}'s army has moved... We cannot break our pact to take {e0B}.
+
+@18032.3
+Hmm, if Lord {e03} has advanced on {e0B}, we must march out as well.
+
+@18033
+It could not be helped, but failing to keep our pact with Lord {e03} puts us in a bad spot.
+
+@18033.1
+It could not be helped, but since we cannot keep our pact with Lord {e03}, we will not escape the world's scorn...
+
+@18033.2
+While bound by a pact, it is vital to always be ready to move our troops!
+
+@18033.3
+Since we cannot keep our pact with Lord {e03}, we will face harsh criticism.
+
+@18034
+If we break the pact, we will not escape the world's scorn...
+
+@18034.1
+If this keeps happening, the people's hearts will turn from us in time.
+
+@18034.2
+We must avoid battles that bleed us dry, but we cannot ignore the weight of a pact either.
+
+@18034.3
+Breaking our pact with Lord {e03} would leave a stain on our name.
+
+@18035
+Choose the city of the army whose campaign you will halt.
+
+@18036
+Halting this army's campaign will also halt the campaign of the support force from {e0B}. Halt this army's campaign?
+
+@18037
+Halt this army's campaign?
+
+@18038
+Choose the city to relieve.
+
+@18039
+Send a relief force to {e0B}?
+
+@18040
+Choose the city that will send the relief force.
+
+@18041
+Send a relief force from {e0B}?
+
+@18042
+Choose the city (force) to ask for help.
+
+@18043
+Ask {f15} for help?
+
+@18044
+I will form an army to take {e0B} at once.
+
+@18044.1
+Understood. Then let us begin preparing to take {e0B}.
+
+@18044.2
+I will form the army at once. I will surely take {e0B}.
+
+@18044.3
+I will prepare the campaign at once. I will surely take {e0B}, you will see.
+
+@18045
+Prepare to march at once! With me in command, we cannot lose!
+
+@18045.1
+Men! We march! Prepare to take {e0B} at once!
+
+@18045.2
+Good! We march on {e0B}! I will take overall command. Inform every officer at once!
+
+@18046
+Prepare to march at once! I will lead the support force myself!
+
+@18046.1
+I will head for {e0B} at once to reinforce the {e02} army.
+
+@18046.2
+I will prepare at once to reinforce the {e02} army.
+
+@18046.3
+Understood. I will hurry the preparations so we do not fall behind the {e02} army.
+
+@18047
+I took %d gold and %d food from the people of {e0B}!
+
+@18047.1
+Lord {e02}, I took %d gold and %d food from the people of {e0B}.
+
+@18048
+From the people of {e0B} I took %s, %d in all!
+
+@18048.1
+Lord {e02}, from the people of {e0B} I took %s, %d in all.
+
+@18049
+Set a %s here?
+
+@18050
+A %s has been set.
+
+@18051
+{C10}, strong elite troops have gathered!
+
+@18051.1
+Rejoice! Sturdy soldiers have gathered.
+
+@18051.2
+Strong soldiers have gathered to support our army.
+
+@18051.3
+I drafted only those who look ready to fight at once.
+
+@18051.4
+As {C10} ordered, I have hired new troops.
+
+@18052
+Sturdy soldiers have gathered under me!
+
+@18052.1
+Heh heh, it seems we have gathered some reliable troops.
+
+@18053
+The move from {e0B} to {e0C} is done.
+
+@18054
+The move from {e0B} to {e0C} is done.
+
+@18055
+The move between {e0B} and {e0C} is done.
+
+@18056
+Fire Trap (Grassland, Forest, Bridge)\nTurns the whole area into a sea of flames.
+
+@18057
+Flood Trap (Water, Bridge)\nDams a stream and floods it.
+
+@18058
+Rockfall (Mountain)\nDrops rocks on the enemy's heads.
+
+@18059
+Pit (Plain, Grassland)\nSets a pitfall.
+
+@18060
+Ambush (Forest)\nHides troops in the forest to strike suddenly.
+

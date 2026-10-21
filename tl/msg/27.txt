@@ -1,0 +1,1122 @@
+@27000
+At Cao Cao's castle
+
+@27001
+I hear my honored father is living in retirement in Langye.
+
+@27002
+Come to think of it, I have been an unfilial son. I will bring Father here and make up for my neglect.
+
+@27003
+To atone for his past neglect, Cao Cao decided to bring his father Cao Song to {e0B}.
+
+@27004
+Oh, Mengde... He wants to take me in? I see, I see. I knew it.
+
+@27005
+They used to call him a rascal and a good-for-nothing, but I was right about him after all.
+
+@27006
+At that time Tao Qian of Xuzhou wished to win the friendship of the rising Cao Cao.
+
+@27007
+What! Lord Cao Cao's honored father is passing through Xuzhou!
+
+@27008
+A fine chance to get close to Lord Cao Cao. Someone go and welcome Lord Cao Song.
+
+@27009
+Tao Qian entertained Cao Song warmly and sent Zhang Kai with 500 men to escort him to {e0B}. But...
+
+@27010
+This escort job is no fun. The pay's lousy and the work's hard. I've had enough.
+
+@27011
+Let's kill this Cao Song, grab all his treasure and make a run for it.
+
+@27012
+Good idea. Right, we do it tonight.
+
+@27013
+Wh-what is this! What are you men doing?!
+
+@27014
+Can't you tell? We're going to kill you and take all your treasure, that's what.
+
+@27015
+Bad luck, old man. Here goes!
+
+@27016
+Aagh... Mengde... ugh!
+
+@27017
+At Cao Cao's castle
+
+@27018
+Terrible news! Your honored father was killed on his way here by his escort, Zhang Kai...
+
+@27019
+Wh-what?! My father?!
+
+@27020
+So Tao Qian meant to kill my father under the pretense of an escort! I will not forgive this, Tao Qian!
+
+@27021
+Cao Cao's father had been killed by Zhang Kai, Tao Qian's man. Blaming Tao Qian, Cao Cao sent his army to take revenge.
+
+@27022
+Tao Qian murdered my father. He is my mortal enemy, and I will not let him live.
+
+@27023
+This is revenge for my father! Crush Xuzhou!
+
+@27024
+Lord Cao Cao is leading a great army to attack us.
+
+@27025
+The fault is mine. I will surrender quietly and ask him to spare the people.
+
+@27026
+Surrender? Out of the question! We cannot leave Your Excellency to die. Let us fight Cao Cao!
+
+@27027
+No, our forces are few. I think we should seek help from the other provinces.
+
+@27028
+Letters begging for help flew from Xuzhou across the land. But everyone feared Cao Cao, and no one sent troops.
+
+@27029
+At that time, a plea for help from Xuzhou also reached Liu Bei in {e0B}.
+
+@27030
+Brother, a letter has come from Xuzhou asking for help.
+
+@27031
+They say Cao Cao's army is pressing them hard and they may not last another day.
+
+@27032
+No wonder they're under attack. They say Tao Qian's man Zhang Kai killed Cao Cao's father.
+
+@27033
+So it is revenge... Perhaps right is on Cao Cao's side in this.
+
+@27034
+Brother, what'll it be? Do we send troops to Xuzhou?
+
+@27035
+Lord Liu Bei, will you send an army to the aid of Xuzhou?
+
+@27036
+Lord Cao Song's death was Zhang Kai's crime. Surely it was not Lord Tao Qian's.
+
+@27037
+Cao Cao attacks Xuzhou in grief for his father, but it brings the people nothing but suffering.
+
+@27038
+Which side I will help should be obvious, Zhang Fei.
+
+@27039
+That's my brother! Let's get going, then.
+
+@27040
+Filial duty matters above all. I can understand how Cao Cao feels. Let us wait and watch for a while.
+
+@27041
+I see. Then we will politely decline.
+
+@27042
+Ah, Lord Xuande! I am truly grateful.
+
+@27043
+For the people of Xuzhou, let us drive back Cao Cao's army.
+
+@27044
+And what is your plan, Lord Xuande?
+
+@27045
+Cao Cao is a man of great intellect, so first I will urge peace in a letter.
+
+@27046
+If he will not make peace, I will march out with Guan Yu and Zhang Fei.
+
+@27047
+Right, Brother! I'll deliver the letter myself.
+
+@27048
+What, an envoy from Liu Bei...? Show me the letter.
+
+@27049
+"...Set aside your private grudge and save the people from grief first"?! He mocks me!
+
+@27050
+Cut down Liu Bei's envoy! And then... Hm?! What is this commotion?
+
+@27051
+Urgent news! Our home base is under attack by an unknown army!
+
+@27052
+What! If we lose our base, we will have nowhere to return to.
+
+@27053
+Now, what to do... Very well! Bring Liu Bei's envoy to me.
+
+@27054
+I've come as my brother's envoy. What's your answer?
+
+@27055
+There is some sense in what Lord Xuande says. We will withdraw. Tell him so.
+
+@27056
+What?! Y-yes, I'll tell him.
+
+@27057
+Now I need not fear an attack from behind... We withdraw!
+
+@27058
+Remarkable, Lord Xuande! To turn back Cao Cao's army with a single letter. Splendid.
+
+@27059
+Lord Xuande, I have a request. Would you govern Xuzhou in my place?
+
+@27060
+I came only to help Xuzhou. I cannot accept so great a responsibility.
+
+@27061
+Brother, it is Lord Tao Qian's earnest wish. Why not accept?
+
+@27062
+It's not like we asked for it. I don't see why you should hold back.
+
+@27063
+Be quiet, both of you. Would you have me act without honor?
+
+@27064
+Then I will lend you Xiaopei. Would you protect the people of Xuzhou for a while?
+
+@27065
+When asked to protect the people, I cannot refuse. I will stay in Xiaopei for a while.
+
+@27066
+Liu Bei has abandoned {e0B}. Liu Bei has moved to Xiaopei.
+
+@27067
+No reinforcements from anywhere... This too comes of my lack of virtue...
+
+@27068
+Do not despair, Your Excellency. We will hold off Cao Cao's army with all our strength.
+
+@27069
+At that time, astonishing news reached Cao Cao's camp.
+
+@27070
+What! Our home base is under attack?!
+
+@27071
+Leaving my base poorly guarded was the greatest blunder of my life. Hmm, what should I do...
+
+@27072
+Tao Qian is preparing for a siege. If we withdraw in the dead of night, there is no fear of an attack from behind.
+
+@27073
+Right. We will pull out without being noticed.
+
+@27074
+What! Cao Cao has already withdrawn?!
+
+@27075
+Yes, not a soldier or even a cat remains. It is most puzzling.
+
+@27076
+Hmm... What could have happened?
+
+@27077
+Something must have happened behind his lines. This is our chance. Let us pursue him!
+
+@27078
+No, we will not pursue. Angering Lord Cao Cao further would be unwise.
+
+@27079
+Hearing that Tao Qian was gravely ill, Liu Bei went with Guan Yu and Zhang Fei to visit him.
+
+@27080
+Your Excellency, how are you? Please rest and recover, so that you may govern Xuzhou again.
+
+@27081
+My illness grows worse. I may not live to see tomorrow... Lord Liu Bei, hear my last request.
+
+@27082
+Will you govern Xuzhou in my place and save the people from hardship?
+
+@27083
+I could never carry so great a burden. Surely there is someone better suited.
+
+@27084
+There is no one but you to whom I can entrust this land. Please, I beg you...
+
+@27085
+Lord Tao Qian seemed to be in very poor health.
+
+@27086
+He is old, after all. Life and death are the way of nature... but it is cruel all the same.
+
+@27087
+Huh? Someone's coming after us.
+
+@27088
+Terrible news! His Excellency's condition has suddenly...
+
+@27089
+Tao Qian finally breathed his last. Liu Bei served as chief mourner at the funeral.
+
+@27090
+In his last will, Lord Tao Qian entrusted Xuzhou to you, Lord Liu Bei...
+
+@27091
+The people of Xuzhou long for a wise new ruler.
+
+@27092
+Please, govern Xuzhou and bring us peace.
+
+@27093
+...Then I too will make up my mind. For the time being I will hold Xuzhou in Lord Tao Qian's stead.
+
+@27094
+To be honest, I know nothing of governing. I ask for your help and support.
+
+@27095
+Yes, my lord! We will do our utmost.
+
+@27096
+Since it was Lord Tao Qian's last wish, we will follow your orders.
+
+@27097
+My brother, lord of a whole province... Nothing could make me happier. *sniff*
+
+@27098
+Come now, Zhang Fei. Don't cry here.
+
+@27099
+Tao Qian has died. Tao Qian's force has been taken over by Liu Bei.
+
+@27100
+At Lu Bu's castle
+
+@27101
+Hm? Chen Gong and Zhang Liao? What do you two want?
+
+@27102
+This land of {e0B} is badly ravaged. It is no place from which to take the realm.
+
+@27103
+If we cling to this barren land, ruin will soon follow.
+
+@27104
+I think we should seek refuge with some ruler, build up our strength, and then make our comeback.
+
+@27105
+I hear Liu Xuande, famed for his benevolence, governs Xuzhou. Why not seek refuge with him?
+
+@27106
+Abandon {e0B} and seek refuge with Liu Bei?
+
+@27107
+Never! I, Lu Bu, will not go begging to that big-eared fool!
+
+@27108
+Ravaged or not, this is my land. I will not abandon it.
+
+@27109
+Yes, my lord. Then we will think of another plan.
+
+@27110
+Liu Xuande... I too have heard he is a man who values honor.
+
+@27111
+An interesting move. Very well, we will go to Liu Xuande.
+
+@27112
+Yes, my lord. Then let us set out at once.
+
+@27113
+At Liu Bei's castle
+
+@27114
+My lord, Lu Bu and his followers are heading for Xuzhou with their army.
+
+@27115
+It seems they have abandoned their old lands and come to seek our help.
+
+@27116
+Lu Bu, asking for help... What do you all think?
+
+@27117
+You know what kind of man Lu Bu is. He has the nature of a tiger or wolf, and thinks nothing of betrayal.
+
+@27118
+Let such a man into our lands and he may well seize all of Xuzhou.
+
+@27119
+Brother, I agree. His valor is indeed extraordinary, but his heart cannot be trusted.
+
+@27120
+I'd sooner trust a tiger or a wolf. Leave that bastard be. Let's not take him in.
+
+@27121
+Give Xiaopei to Lu Bu to help him?
+
+@27122
+...If you all feel so strongly, I will not take Lu Bu in.
+
+@27123
+Right, then I'll go and send him packing!
+
+@27124
+Wait! It does no good to make enemies needlessly.
+
+@27125
+Let us at least give them some supplies and politely send them on their way.
+
+@27126
+They gave us food, but said they could not let us into their lands.
+
+@27127
+Chen Gong, it seems things are not going as we hoped.
+
+@27128
+It cannot be helped. Let us return to {e0B} for now.
+
+@27129
+No, he is a hero of our age. I cannot abandon a hero in need.
+
+@27130
+We will give him a warm welcome. Make preparations.
+
+@27131
+Tch. Brother's far too kind.
+
+@27132
+Fortune deserted me in battle and I was defeated. I am at my wits' end and would borrow your strength.
+
+@27133
+Please lend us your aid... I beg you.
+
+@27134
+General, raise your head. I admire your valor and will surely be of help to you.
+
+@27135
+Such words are wasted on a rough soldier like me.
+
+@27136
+Yes... I took charge of Xuzhou only provisionally, when Lord Tao Qian passed away.
+
+@27137
+Your coming here must be Heaven's will. I will yield all of Xuzhou to you, General. Please accept it.
+
+@27138
+.........?!
+
+@27139
+.........!
+
+@27140
+What?! W-well, that is...
+
+@27141
+Hahaha, what are you saying? I trust my skill in arms, but I lack the caliber to govern a province.
+
+@27142
+Then let me give you the castle of Xiaopei.
+
+@27143
+Xiaopei has some stores of arms and food. Use them to feed your men and horses.
+
+@27144
+Well, well! You think of everything. I cannot find words to thank you.
+
+@27145
+Hmm, I never expected him to suddenly offer me the province.
+
+@27146
+I very nearly said, "I gladly accept."
+
+@27147
+Had you said that, Zhang Fei or Guan Yu would have cut you down.
+
+@27148
+Yes, I could feel the murderous air coming from those two.
+
+@27149
+In any case, it was fortunate to obtain Xiaopei without any effort.
+
+@27150
+For now we will cooperate with Xuande. When the time is right, we will claim the realm.
+
+@27151
+In a chamber of Xiapi Castle
+
+@27152
+I see, so that is how it goes... Hm? Someone is coming.
+
+@27153
+General, rejoice! The chance of a lifetime has come.
+
+@27154
+What is it, Chen Gong? What chance?
+
+@27155
+Liu Xuande has marched off somewhere with his army.
+
+@27156
+Now, while Xuande is away, is our chance. Lead the army at once and take Xiapi Castle.
+
+@27157
+But Lord Liu Bei did us a kindness by giving us Xiaopei. To repay kindness with betrayal...
+
+@27158
+Then would you have the General end his days as Liu Bei's guest?
+
+@27159
+...General, your orders.
+
+@27160
+Lord Lu Bu, will you attack Xiapi Castle while Liu Bei is away?
+
+@27161
+Lord Liu Bei trusts me. When I first came, he even offered me all of Xuzhou.
+
+@27162
+If I betray him, I will be branded a tiger and a wolf for good. Chen Gong, I will not move.
+
+@27163
+Using Lord Liu Bei is one thing, but betraying him is another. Lord Chen Gong, think carefully.
+
+@27164
+............
+
+@27165
+V-very well! We attack Xiapi!
+
+@27166
+General Lu! But that would...
+
+@27167
+I want to rule the realm. Zhang Liao, say no more.
+
+@27168
+Then let us march out at once.
+
+@27169
+(...It is my lord's order. I have no choice. Did I choose the wrong master?)
+
+@27170
+Take Xiapi while Liu Bei is away... Following Chen Gong's plan, Lu Bu advanced his army.
+
+@27171
+Hm? Wh-who on earth is that...
+
+@27172
+Curse you, Lu Bu! You forget my brother's kindness and attack us?!
+
+@27173
+Even a dog fed for three days never forgets a kindness. Lu Bu, you are lower than a dog!
+
+@27174
+With Guan Yu defending the castle, it will be hard to take.
+
+@27175
+A pity, but let us withdraw. Who would have thought Guan Yu stayed behind? Xuande never lets his guard down.
+
+@27176
+Gu-Guan Yu... You call me a dog? Just you wait.
+
+@27177
+Lu Bu's army has returned to Xiaopei. The vassal alliance has been dissolved.
+
+@27178
+You traitor! So you did come to attack us!
+
+@27179
+I, Zhang Fei, knew you'd attack, so I offered to stay and guard the castle!
+
+@27180
+Come on, Lu Bu! Fight me!
+
+@27181
+We need not fear a reckless brute like him.
+
+@27182
+Let us attack in one rush. Victory is at hand!
+
+@27183
+No, even if it is only Zhang Fei, he is waiting for us. An attack would be a waste of effort.
+
+@27184
+A pity, but let us withdraw.
+
+@27185
+C-curse you, Zhang Fei! Next time I will beat you for sure.
+
+@27186
+You must all be tired from guard duty. Come on, drink up today! Cao Bao, you drink too.
+
+@27187
+No, I have sworn off wine... Please, please excuse me.
+
+@27188
+What, you won't drink my wine? ...Fine, I get it.
+
+@27189
+(Phew, that was close. I thought he would force me to drink. Thank goodness...)
+
+@27190
+So you won't obey my orders? That's disobeying orders, then... Right, I'll give you a beating.
+
+@27191
+What?! Th-that is outrageous...
+
+@27192
+Aaagh! Ow, ow, owww...
+
+@27193
+They say Xiapi Castle is in the middle of a drinking party, and the drunken Zhang Fei is beating his own officers.
+
+@27194
+Now is our chance! Let us attack!
+
+@27195
+Zhang Fei! This castle is mine!
+
+@27196
+Wh-what?! Lu Bu's attacking?! Dammit!
+
+@27197
+The drunken Zhang Fei was in no state to fight Lu Bu's army, and Xiapi fell in no time.
+
+@27198
+What happened, Zhang Fei? Weren't you guarding Xiapi?
+
+@27199
+Sorry, Brother... That bastard Lu Bu attacked and took Xiapi.
+
+@27200
+Brother, what shall we do? Without a base, our army will soon fall apart.
+
+@27201
+It cannot be helped... We will surrender to Lu Bu.
+
+@27202
+What?! How can you trust a man like him?
+
+@27203
+Be quiet. Lu Bu is human too. He will surely take us in.
+
+@27204
+Thinking it wise to keep Liu Bei close, Lu Bu took him in and moved him to Xiaopei instead.
+
+@27205
+Dammit, all because I got drunk...
+
+@27206
+Lu Bu... I won't forget this.
+
+@27207
+Right now, none of the three, Liu, Guan and Zhang, are in Xiapi Castle.
+
+@27208
+Heh heh, it is their own fault for being careless. This castle is mine!
+
+@27209
+The officers and men left on guard were defeated, and Xiapi fell in no time.
+
+@27210
+Urgent news! Lu Bu of Xiaopei attacked, and Xiapi has fallen!
+
+@27211
+What?! That bastard betrayed us after all!
+
+@27212
+At the court
+
+@27213
+Your Majesty, now that warlords carve up the land and the realm is in turmoil, the House of Han must show its authority.
+
+@27214
+What do you say? We could hold a grand hunt outside Xuchang and show the realm the valor of the Han.
+
+@27215
+But hunting is not the business of sages and men of virtue.
+
+@27216
+Not at all. The wise emperors of old displayed their might through the hunt.
+
+@27217
+Very well, We shall go too. ...Will Liu Bei come?
+
+@27218
+If that is Your Majesty's wish, I will arrange it at once.
+
+@27219
+An imperial letter has come, ordering us to attend the hunt. What should we do?
+
+@27220
+If it is an imperial letter, we can hardly refuse.
+
+@27221
+But I get the feeling there's something behind it.
+
+@27222
+The hunt, with the Son of Heaven in attendance, was a grand affair, ample display of Cao Cao's power at court.
+
+@27223
+His Majesty asked especially that you be invited to this hunt.
+
+@27224
+We wished to see your skill.
+
+@27225
+I will do my best to live up to Your Majesty's hopes.
+
+@27226
+In the middle of the hunt, a deer leapt out of a thicket of thorns.
+
+@27227
+That is a big one. Cao Cao, you shoot it.
+
+@27228
+Yes, Your Majesty. With your permission.
+
+@27229
+Ah! Th-that bow and arrow are Ours!
+
+@27230
+Oh! This arrow is His Majesty's!
+
+@27231
+His Majesty has shot the deer! Long live the Emperor!
+
+@27232
+Hahaha! Calm yourselves, everyone. It was I who shot that arrow.
+
+@27233
+(Curse you, Cao Cao! Such contempt for the Son of Heaven... I-I cannot forgive this!)
+
+@27234
+(W-wait, Guan Yu! Hold your anger here!)
+
+@27235
+Hahaha! What do you think, Lord Xuande? My archery is not so bad, is it?
+
+@27236
+To bring down a deer with a single arrow... I am impressed.
+
+@27237
+What Cao Cao did showed contempt for the Son of Heaven.
+
+@27238
+That is why I meant to cut him down there and rid the Han of a menace. Why did you stop me?
+
+@27239
+I understand how you feel. What Cao Cao did is unforgivable.
+
+@27240
+But who throws a dish to kill a rat? The rat may die, but the dish will shatter.
+
+@27241
+Had you cut Cao Cao down there, and the Son of Heaven had been harmed too, what then?
+
+@27243
+Guan Yu, you must not lose your temper like Zhang Fei.
+
+@27244
+There is truth in what Brother says... But as long as that villain lives, the Han's troubles will only grow...
+
+@27245
+At the court
+
+@27246
+You summoned me so suddenly. What is the matter?
+
+@27247
+Dong Cheng, do you know of Zhang Liang and Xiao He?
+
+@27248
+How could I not? Zhang Liang devised plans in the command tent and brought victory to Emperor Gaozu.
+
+@27249
+Xiao He managed affairs in the rear and kept the Han army supplied. Both were great founders of the Han.
+
+@27250
+Then will you not become like those two for Us?
+
+@27251
+Such words are wasted on one as undeserving as I.
+
+@27252
+We expect much of you... Yes, to reward your service so far, We give you this.
+
+@27253
+We bestow this jade belt on you. Let it be a treasure of your house.
+
+@27254
+Y-yes, Your Majesty! I will never forget your kindness as long as I live.
+
+@27255
+...See that Our wishes, sleeping in this jade belt, are not wasted.
+
+@27256
+Oh, if it isn't Dong Cheng... What did His Majesty summon you for today?
+
+@27257
+...Well, when I went to court, I was unexpectedly granted a jade belt. I am grateful for His Majesty's kindness.
+
+@27258
+Oho, a jade belt... How interesting. Would you let me see it?
+
+@27259
+...Yes. Please, have a look.
+
+@27260
+Truly a garment fit for the Son of Heaven. The quality, the craftsmanship... splendid. I find myself wanting it.
+
+@27261
+...Hahaha, don't look at me like that. I am joking, only joking.
+
+@27262
+Back at home, Dong Cheng shut himself in his study and examined the jade belt from end to end.
+
+@27263
+His Majesty's words... There must be something in this jade belt.
+
+@27265
+Hm, the stitching of the lining looks quite new... Forgive me, but I will cut it a little.
+
+@27266
+Th-this is... A secret edict! And written in blood! What could...
+
+@27267
+"...Cao Cao wields power as he pleases, slights the court and shows no respect for the Son of Heaven. This throws the realm into chaos.
+
+@27268
+We trust you as an elder statesman, and command you in blood to gather loyal men and destroy this villain.  -- Liu Xie"
+
+@27269
+How pitiful... To think His Majesty was suffering so...
+
+@27270
+...It will not be easy, but I must answer His Majesty's hopes. I must gather loyal men as soon as I can.
+
+@27271
+At Liu Bei's residence
+
+@27272
+Brother, a guest has arrived.
+
+@27273
+A guest? Who could it be at this late hour?
+
+@27274
+Forgive me for calling so late. I am Dong Cheng.
+
+@27275
+Ah, Lord Dong Cheng. A visit at this hour... What is the matter?
+
+@27276
+It concerns the affair at Xutian. I think you know what I mean.
+
+@27277
+Someone saw your sworn brother, Lord Guan Yu, put his hand on his sword at the time...
+
+@27278
+W-well, you see... Both my brothers are hot-headed. I suppose his blood just rose.
+
+@27279
+Lord Dong Cheng, I beg you to put in a good word with His Excellency Cao Cao... Lord Dong Cheng?
+
+@27280
+...If every subject of the Han had the heart of Lord Yunchang, the realm would never have fallen into chaos.
+
+@27281
+I am no spy of Cao Cao's. Lord Xuande, look at this.
+
+@27282
+...Th-this is! A secret edict from the Son of Heaven to strike down Cao Cao! And written in blood!
+
+@27283
+To think he was suffering so much...
+
+@27284
+I trusted in your benevolence and showed you the edict... Will you fight alongside us?
+
+@27285
+Of course. One day we will surely rescue the Son of Heaven from among the thorns.
+
+@27286
+Brother, there are loyal subjects after all.
+
+@27287
+Yes... You are right.
+
+@27288
+At Liu Bei's residence
+
+@27289
+Lord Cao Cao summons you. Please come to his residence.
+
+@27290
+What could this be about? Well, I must go.
+
+@27291
+Heh heh, Lord Xuande. I have been waiting for you.
+
+@27292
+(Could it be... the secret edict?!)
+
+@27293
+I called you here to share a drink with you in the garden.
+
+@27294
+W-well! An invitation to a banquet?
+
+@27295
+Let me show you to the garden. Follow me.
+
+@27296
+How do you like the view of this garden? I am rather fond of it.
+
+@27297
+Elegant indeed. I have never seen such a view before.
+
+@27298
+Cao Cao and Liu Bei shared wine in the plum garden. Before long, Cao Cao asked about the heroes of the age.
+
+@27299
+I hear you have long traveled the land, Lord Xuande. So tell me: who are the heroes of our age?
+
+@27300
+How could a fool like me know who the heroes are?
+
+@27301
+Come now, why not just name whoever comes to mind?
+
+@27302
+Tell me. I will consider them with you.
+
+@27303
+Then what of Lord Yuan Gonglu? I hear he is of good family, with a strong army and plenty of food.
+
+@27304
+Hahaha! Yuan Shu is no better than a skeleton in a grave.
+
+@27305
+His ideas are old and he has no nerve at all. He is no hero.
+
+@27306
+Lord Yuan Benchu's family has produced Excellencies for four generations, and he has many able men. What of him?
+
+@27307
+Wahaha! Yuan Shao is a friend of mine, but he is a man with nothing but looks.
+
+@27308
+He seems generous but is stingy; he seems broad-minded but is timid. He can hardly be called a hero.
+
+@27309
+Lord Liu Jingsheng, one of the Eight Talents and renowned for his wisdom... is he not a hero?
+
+@27310
+Heh heh. Liu Biao is a man of empty fame.
+
+@27311
+He holds his lands only because his advisors are capable. He is far from a hero.
+
+@27312
+Then what of Sun Bofu, son of Lord Sun Jian? I hear he is a man of valor.
+
+@27313
+Hmm, Sun Ce... He does seem to have the makings of a hero...
+
+@27314
+But he still relies heavily on his father's glory. He needs a little more time.
+
+@27315
+Lord Liu Jiyu is of the imperial clan and a gentle man. What of him?
+
+@27316
+Hahaha! He is just a watchdog who will not leave his master's gate even if it kills him.
+
+@27317
+He stays in his well-guarded kennel and never ventures out. He is not one to rule the realm.
+
+@27318
+Then... Zhang Gongqi of the Five Pecks of Rice?
+
+@27319
+Zhang Lu? Goodness, he is out of the question.
+
+@27320
+And Zhang Xiu, nephew of Zhang Ji? Is he no good either?
+
+@27321
+Why do you name only such small fry?
+
+@27322
+I can think of no one else.
+
+@27323
+Listen, Lord Xuande. Only one who holds great ambition in his breast can be called a hero.
+
+@27324
+However great his force, however good his family, without ambition he cannot be called a hero.
+
+@27325
+Is there truly such a person in the world today?
+
+@27326
+There is! There are heroes in this age!
+
+@27327
+One is I, Cao Mengde! And the other is you... Liu Xuande!
+
+@27328
+...!!
+
+@27329
+Startled, Liu Bei dropped the chopsticks in his hand. At that very moment, thunder roared over the plum garden.
+
+@27330
+Waaah!
+
+@27331
+Goodness me... What a fright. That thunder made me drop my chopsticks.
+
+@27332
+Hm?! You are afraid of thunder? Well, well, hahaha!
+
+@27333
+(Frightened by a mere thunderclap... Xuande is nothing special. Perhaps I overestimated him.)
+
+@27334
+I don't know why, but thunder is the one thing I cannot bear... How embarrassing.
+
+@27335
+(Had the thunder not come, Cao Cao would have grown wary of me. That was close.)
+
+@27336
+I enjoyed tonight's banquet. Lord Xuande, let us drink the night away again some time.
+
+@27337
+At Cao Cao's residence
+
+@27338
+Someone has come to report a plot of rebellion. What shall we do?
+
+@27339
+That cannot be ignored. Bring the informer here.
+
+@27340
+I am a servant of Dong Cheng. My master is plotting rebellion, so I have come to report it.
+
+@27341
+How do you know of such a grave matter?
+
+@27342
+I happened to overhear it from behind a screen. I don't want to be executed as one of the rebels, so I came forward.
+
+@27343
+Please, spare my life at least.
+
+@27344
+Very well, I will spare you. Stay here for a while.
+
+@27345
+Good. I will meet Dong Cheng and get at the truth.
+
+@27346
+Ah, Lord Cao Cao. What brings you here today?
+
+@27347
+You know very well what brings me. The plot has already been exposed.
+
+@27348
+...! Wh-what kind of joke is this...
+
+@27349
+Heh heh... Dong Cheng, this is no joke. Men, search for proof of the rebellion!
+
+@27350
+Wh-what are you doing! Stop, please!
+
+@27351
+Ah! Th-this is a secret edict!
+
+@27352
+That's it! Show it to me!
+
+@27353
+Dong Cheng, there is no talking your way out of this now! Prepare yourself!
+
+@27354
+Ugh... Has Heaven forsaken the House of Han?
+
+@27355
+Cao Cao executed Dong Cheng's whole clan and every one of the ministers who took part in the plot.
+
+@27356
+Still, I cannot forgive Xuande. He joined the plot, yet kept company with me as if nothing were wrong.
+
+@27357
+I will give him the same fate as Dong Cheng. Just you wait!
+
+@27358
+Urgent news! Lord Dong Cheng was arrested for rebellion and executed.
+
+@27359
+What...! To think it would come to the worst...
+
+@27360
+That means our friendship with Cao Cao is at an end.
+
+@27361
+At this rate, Cao Cao is sure to attack us.
+
+@27362
+Yes, we must make some preparations...
+
+@27363
+...I surrender to the Han, not to Cao Cao. I have conditions for my surrender. Lord Zhang Liao, please convey them.
+
+@27364
+Well, Zhang Liao? Does Guan Yu look ready to surrender to me?
+
+@27365
+Guan Yu has set conditions. One: his soldiers' lives are guaranteed. Two: no one lays a hand on Liu Bei's wives.
+
+@27366
+Yes, of course.
+
+@27367
+Three: as soon as Liu Bei's whereabouts are known, he may return to Liu Bei.
+
+@27368
+What? Then what would be the point? Is he that devoted to Liu Bei...
+
+@27369
+Perhaps Your Excellency should show Guan Yu more kindness than he received from Liu Bei.
+
+@27370
+Then Guan Yu, who values honor, would be won over by your kindness and become one of your loyal retainers.
+
+@27371
+Guan Yu's valor is worth ten thousand soldiers.
+
+@27372
+He is an officer we must have, to prepare for battle with strong enemies.
+
+@27373
+True. Very well, I accept those conditions.
+
+@27374
+Such generous treatment for a defeated general. I thank Your Excellency for your consideration.
+
+@27375
+Guan Yu has joined Cao Cao.
+

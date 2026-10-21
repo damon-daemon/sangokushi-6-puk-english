@@ -1,0 +1,69 @@
+@9001
+{e01}, styled\s
+
+@9001.1
+, is born.
+
+@9002
+{e01} is born.
+
+@9003
+Is a {e3D} based in {e0B}.
+
+@9004
+Becomes master of the Way of Great Peace and raises the Yellow Turban Rebellion.
+
+@9005
+Is Governor of {e47}, based in {e0B}.
+
+@9006
+Is Inspector of {e47}, based in {e0B}.
+
+@9007
+Is a ruler based in {e0B}.
+
+@9008
+Is an emperor based in {e0B}.
+
+@9009
+Is a king based in {e0B}.
+
+@9010
+Is a duke based in {e0B}.
+
+@9011
+Becomes master of the Way of Great Peace and raises the Yellow Turban Rebellion.
+
+@9012
+{e02} pacifies the land and unifies the realm.
+
+@9013
+{e02} receives the abdication of the Han and becomes emperor.
+
+@9014
+{e02} claims the throne on the strength of holding the Imperial Seal.
+
+@9015
+{e02} takes the imperial title in rivalry with {e03}.
+
+@9016
+{e02} becomes king.
+
+@9017
+{e02} becomes duke.
+
+@9018
+{e02} is made a king.
+
+@9019
+{e02} is made a duke.
+
+@9020
+{e02} is made a king by {e03}.
+
+@9021
+{e02} is made a duke by {e03}.
+
+@9022
+{e01} is executed by {e02}.
+

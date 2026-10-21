@@ -1,0 +1,684 @@
+@16000
+Then I will keep searching the nearby cities for able people.
+
+@16000.1
+Then I will set out for a while to search for talent.
+
+@16000.2
+I will go round the area looking for hidden talent. Farewell for a time.
+
+@16001
+I tried every means to unearth some talent, but sadly I did not find so much as a clue...
+
+@16001.1
+I had many people search for talent, but we came across no one of worth.
+
+@16001.2
+I searched desperately, but found no one I could call exceptional.
+
+@16001.3
+They say many sages hide in the wilds, but they are not so easily found.
+
+@16001.4
+I met someone said to be brilliant... But, well, hearsay and reality are two very different things...
+
+@16001.5
+I picked a bad place. Further into the mountains, perhaps...
+
+@16001.6
+Sadly, I met no one of much note.
+
+@16001.7
+I did not hear so much as a rumor. Well, these things happen.
+
+@16001.8
+I searched desperately, but found no one who could be of use to {C10}.
+
+@16002
+Even someone said to be brilliant is often another matter in person. Those types tend to be frauds...
+
+@16002.1
+I went round searching myself, and still... What a waste of time.
+
+@16002.2
+Able people are not so easily found.
+
+@16002.3
+Searching myself does not mean they turn up at once.
+
+@16003
+Forgive me. I stopped for a little drink, and before I knew it, the time had passed...
+
+@16003.1
+I searched desperately but found no one useful to {C10}. Then I dropped into a tavern, and the wine was so good I stayed a bit... Ah!
+
+@16003.2
+I found no one useful at all. I need a drink after this.
+
+@16004
+I met someone called {e03}, but sadly got no favorable answer.
+
+@16004.1
+I tracked down one {e03}, who declined to take service.
+
+@16004.2
+I could not recruit them, but I did meet someone called {e03}!
+
+@16004.3
+I met one {e03} and urged them to serve, but they firmly declined.
+
+@16005
+I met someone called {e03}, but sadly got no favorable answer.
+
+@16006
+I met a stalwart called {e03}, but they flatly refused to serve.
+
+@16006.1
+There was a mighty warrior called {e03}, who firmly refused to serve.
+
+@16006.2
+I urged a mighty warrior called {e03} to serve, but they would not hear of it.
+
+@16006.3
+I met one {e03}, a mighty warrior, but could not recruit them.
+
+@16006.4
+I met a brave fighter called {e03} and offered a post, but sadly was refused.
+
+@16007
+I met {e03}, renowned for rare talent, and urged them to serve, but sadly was refused.
+
+@16007.1
+I tried to recruit {e03}, said to be brilliant, but it seems the time was not yet right.
+
+@16007.2
+I offered a post to a wise one called {e03}, but was politely refused.
+
+@16007.3
+They refused to serve, but I met {e03}! As brilliant as the rumors say.
+
+@16008
+In {e0B} I met someone called {e03}, but sadly got no favorable answer.
+
+@16008.1
+I tracked down one {e03} of {e0B}, who politely declined to serve.
+
+@16008.2
+I could not recruit them, but I met someone called {e03} in {e0B}.
+
+@16008.3
+In {e0B} I met one {e03} and urged them to serve, but they firmly declined.
+
+@16009
+In {e0B} I urged a stalwart called {e03} to serve, but they flatly refused.
+
+@16009.1
+In {e0B} I urged a mighty warrior called {e03} to serve, but they firmly refused.
+
+@16009.2
+I urged {e03}, a hero famed in {e0B}, to serve, but they would not hear of it.
+
+@16009.3
+I met one {e03}, proud of their strength, in {e0B}, but could not recruit them.
+
+@16009.4
+I spoke with a brave fighter called {e03} in {e0B}, but they refused to serve.
+
+@16010
+In {e0B} I met {e03}, renowned for rare talent, and urged them to serve. Sadly, I was refused.
+
+@16010.1
+In {e0B} I tried to recruit {e03}, said to be brilliant, but they declined, saying the time was not right.
+
+@16010.2
+In {e0B} I offered a post to a wise one called {e03}, but was politely refused.
+
+@16010.3
+They refused to serve, but I met {e03} of {e0B}. As brilliant as the rumors say.
+
+@16011
+I tried every means to unearth some talent, and my efforts paid off: I met one {e03} and have brought them here.
+
+@16011.1
+I had many people search for talent, and among them found one {e03}, whom I have brought here.
+
+@16011.2
+I was able to meet someone said to be brilliant. Their name is {e03}, and they say they are willing to serve {C10}.
+
+@16011.3
+I met someone I had heard was brilliant and have brought them here: {e03}, who wishes to serve {C10}.
+
+@16011.4
+One {e03} wishes to serve {C10}, so I have brought them here.
+
+@16011.5
+I came across one {e03} and have brought them to {C10}.
+
+@16011.6
+I urged {e03} to serve {C10}, and they gladly agreed.
+
+@16011.7
+This is Lord {e03}, who wishes to serve {C10}.
+
+@16012
+I found one {e03}, who wishes to serve me, so I brought them along!
+
+@16012.1
+I tracked down one {e03}! They say they wish to serve me.
+
+@16012.2
+I found someone called {e03}! They want to serve under me.
+
+@16013
+Even one like Lord {e03}, who has renounced the world, says they are willing to serve {C10}.
+
+@16014
+I will prove most useful to you!
+
+@16014.1
+I will strive to live up to your hopes, Lord {e02}.
+
+@16014.2
+I will surely prove my worth to you, Lord {e02}.
+
+@16015
+I no longer care for worldly affairs, but... Lord {e03}'s zeal won me over.
+
+@16016
+I have long wished to serve you, Lord {e02}.
+
+@16016.1
+To be invited by you, Lord {e02}, is the greatest honor.
+
+@16016.2
+To be invited by Lord {e02}! I could ask for no greater joy.
+
+@16016.3
+I came here believing there is no one I could serve but you, Lord {e02}.
+
+@16016.4
+I feel I have at last found my true lord. Let me work with all my strength.
+
+@16017
+My name is {e01}. Having heard Lord {e03} out, I have resolved to serve you.
+
+@16018
+Having heard Lord {e03} out, I have decided to take service.
+
+@16018.1
+I have come on Lord {e03}'s recommendation. I humbly ask for your favor.
+
+@16018.2
+At Lord {e03}'s urging, I have resolved to serve you, Lord {e02}.
+
+@16019
+I came because I heard my lord makes good use of able people.
+
+@16019.1
+From now on, command me as you will.
+
+@16019.2
+My name is {e01}. Use me however you wish.
+
+@16020
+Lord {e02}, a person named Lord {e04} has arrived, recommended by Lord {e03}, who is planted in {e05}'s force.
+
+@16021
+Lord {e02}, a person named Lord {e04} has arrived, bearing a letter of recommendation from Lord {e03}, who is searching in {e0B}.
+
+@16021.1
+{C10}, a person named Lord {e04} has arrived. It seems Lord {e03}, searching in {e0B}, urged them to serve {C10}.
+
+@16021.2
+At the urging of Lord {e03}, searching in {e0B}, one {e04} has arrived.
+
+@16021.3
+Lord {e04}, whom Lord {e03} met while searching in {e0B}, has arrived.
+
+@16022
+Lord {e02}, would you not put your strength to use for me?
+
+@16022.1
+Lord {e02}, would you not put your strength to use for my lord, Lord {e03}?
+
+@16022.2
+Will you not serve my lord? Lord {e03} gives able people their due.
+
+@16022.3
+Will you not work under my lord, Lord {e03}? You will surely be valued highly!
+
+@16023
+With valor like yours, you deserve to be treated with honor. What say you? Will you come with me?
+
+@16023.1
+A hero like you would surely be treated even better in my lord's service. What say you? Will you come with me?
+
+@16023.2
+I would dearly like you to put your valor to use under Lord {e03}.
+
+@16024
+Why do you serve the likes of {e04}? What say you? Will you not serve me?
+
+@16024.1
+{e04} cannot make proper use of you. Will you not serve Lord {e03}?
+
+@16024.2
+Why do you serve the likes of {e04}? What say you? Will you not join me in serving my lord?
+
+@16025
+It is a true shame for talent like yours to serve the likes of {e04}. Under me, you could use your talent to the full!
+
+@16025.1
+It is a true shame for talent like yours to serve the likes of {e04}. Will you not use your talent to the full under my lord?
+
+@16025.2
+Lord {e03} is always seeking great sages like you. What say you? Will you not serve with me?
+
+@16026
+It grieves me to see a valiant general like you used by the likes of {e04}. Will you not use your talent to the full under me?
+
+@16026.1
+It grieves me to see a valiant general like you used by the likes of {e04}. Will you not use your talent to the full under my lord?
+
+@16026.2
+With a great general like you leading our vast army, none in the land could stand against us. What say you? Will you serve Lord {e03}?
+
+@16027.1
+Lord {e02}, would you not put your strength to use for my lord, Lord {e03}?
+
+@16027.2
+If you wish it, I can arrange a post for you with my lord, Lord {e03}. What do you say...
+
+@16027.3
+Will you not serve under my lord, Lord {e03}? You will surely be valued highly!
+
+@16028
+Wide as the world is, few heroes match you. Do you not wish to test that strength?
+
+@16028.1
+With your valor, you could hold your own against any hero. What say you? Will you come with me?
+
+@16029
+It is a true shame to leave someone like you buried in the wilds. What say you? Will you not serve under me?
+
+@16029.1
+It is a true shame to leave someone like you buried in the wilds. What say you? Will you serve Lord {e03}?
+
+@16029.2
+It is a real shame to let someone like you lie buried in the wilds. What say you? Will you come with me to my lord?
+
+@16030
+It is a true shame to leave great talent like yours in the wilds. Will you not serve under me?
+
+@16030.1
+It is a true shame to leave great talent like yours in the wilds. Why not join me in serving my lord?
+
+@16030.2
+My lord is always seeking great sages like you. What say you? Will you not serve with me?
+
+@16031
+Everyone knows your loyalty. No one would call you disloyal for serving me now.
+
+@16031.2
+Will you not serve under my lord, Lord {e03}? You will surely be valued highly!
+
+@16031.3
+Will you not serve my lord? Being stubborn now will only add one more grave...
+
+@16032
+It would be a shame to waste your valor... Put that strength to use under me.
+
+@16032.1
+Why not stop being stubborn and surrender? With your valor, my lord will surely value you!
+
+@16032.2
+It would be a shame to waste your valor. Will you not serve my lord?
+
+@16033
+I can hardly bear to kill you. What say you? Will you not serve me?
+
+@16033.1
+Everyone knows your loyalty. No one would call you disloyal for serving my lord now.
+
+@16033.2
+It pains me to see someone like you in a place like this. What say you? Will you serve Lord {e03}?
+
+@16034
+It would be a real shame to kill so sharp a mind. Why not serve me instead?
+
+@16034.1
+My lord is always seeking great sages like you. What say you? Will you not serve with me?
+
+@16034.2
+I cannot bear to lose so sharp a mind. What say you? Will you serve Lord {e03}?
+
+@16035
+A valiant general like you lost only because you served the wrong master. Will you not use your talent to the full under me?
+
+@16035.1
+It grieves me that a valiant general like you has no worthy lord. Will you not use your talent to the full under my lord?
+
+@16036
+It is you who can never show your ability serving the likes of {e03}. What say you, will you not serve my lord?
+
+@16036.1
+If anyone should, it is you. Why do you not serve my lord?
+
+@16036.2
+No, no, it is you I worry about. Serving the likes of {e03}, you can never show your ability. What say you? Will you not serve my lord?
+
+@16037
+That might be interesting. Very well, I shall ask you to put in a word for me.
+
+@16037.1
+Well, in truth... I had been thinking I might do just that.
+
+@16038
+{C145}! So I am the one being invited, am I?
+
+@16038.1
+{C145}, I never expected you to turn it back on me like that... {C145}
+
+@16038.2
+{C145}, so that is your move. You got me there! {C145}
+
+@16039
+What?! You ask me to betray my lord?
+
+@16039.1
+You would have me repay my lord's trust with treachery?
+
+@16039.2
+Nonsense! Such talk is an insult to me, a veteran of the {e03} army!
+
+@16040
+I have no intention of ending my days like this. I have long waited for such a chance.
+
+@16040.1
+If you will have me, I will gladly serve.
+
+@16040.2
+When you put it that way, how could I refuse?
+
+@16041
+Thank you for giving me the chance to rise.
+
+@16041.1
+To think you would call upon someone like me...
+
+@16042
+I always felt that Lord {e03} and I had something in common.
+
+@16042.1
+I have long wished to serve Lord {e03}.
+
+@16042.2
+For Lord {e03} to call upon me in person... There could be no greater honor.
+
+@16043
+If you say so...
+
+@16043.1
+I have long wished to stand beside you.
+
+@16043.2
+To be called upon by you... Very well, I will come.
+
+@16044
+I suppose it beats serving Lord {e04} as things are.
+
+@16044.1
+If you insist so much, I will come.
+
+@16044.2
+Very well. I will come.
+
+@16045
+I was growing tired of life here anyway.
+
+@16045.1
+Just say the word, and I will come anytime!
+
+@16046
+{C10}, we have succeeded in luring Lord {e03} away.
+
+@16046.1
+We have succeeded in winning Lord {e03} over.
+
+@16046.2
+Lord {e03} says they will serve {C10}.
+
+@16046.3
+We have succeeded in persuading Lord {e03}.
+
+@16047
+Lord {e03} has finally surrendered.
+
+@16047.1
+Lord {e03} has surrendered to us!
+
+@16048
+We have succeeded in recruiting Lord {e03}.
+
+@16048.1
+{C10}, I have brought Lord {e03}.
+
+@16048.2
+{C10}, Lord {e03} has gladly agreed.
+
+@16049
+Lord {e03} has surrendered to us!
+
+@16049.1
+I have won Lord {e03} over!
+
+@16049.2
+I have persuaded Lord {e03}!
+
+@16050
+I cannot have my lord suspecting me over talk like this. Please leave.
+
+@16050.1
+I am not inclined to it. I must ask you to leave.
+
+@16050.2
+I have more pressing matters now. Excuse me.
+
+@16051
+Silence! You will not drive a wedge between my lord and me!
+
+@16051.1
+Hmph, nonsense. You ask me to betray my lord?
+
+@16051.2
+{C145}, do not make me laugh. Did you think I would betray my lord?
+
+@16052
+Hmph, enough of your nonsense! Think harder about whom you invite.
+
+@16052.1
+Silence! I am not one to fall for such an offer so easily.
+
+@16052.2
+{C145}, think before you speak to someone.
+
+@16053
+I am sorry, but I have no complaints about my lord at all.
+
+@16053.1
+Too bad, but I have no complaints as I am.
+
+@16054
+Hmph. Did you think I would betray my lord?
+
+@16054.1
+You would have me repay years of trust with my lord with treachery?
+
+@16054.2
+Be gone at once! Such talk is an insult to me, a veteran of the {e04} army!
+
+@16055
+I am not of such caliber.
+
+@16055.1
+Lord {e03} seems to think a little too highly of me.
+
+@16055.2
+Someone like me would be of no use at all.
+
+@16056
+I am grateful, but I do not yet wish to serve anyone.
+
+@16056.1
+I am sorry, but this time I must decline.
+
+@16057
+I refuse! I just cannot bring myself to like you.
+
+@16057.1
+I refuse! I just cannot bring myself to like {e03}.
+
+@16057.2
+Hmph! I would rather stay buried in the wilds than serve {e03}!
+
+@16057.3
+I refuse! Why should I have to serve the likes of {e03}?
+
+@16058
+I have no wish to surrender. Stop wasting your breath.
+
+@16059
+Luring them away is not so easy.
+
+@16059.1
+I failed. It is not easy to move that one's heart.
+
+@16059.2
+My invitation did not seem to move them in the least...
+
+@16059.3
+Luring them away is not so easy.
+
+@16060
+{e03}'s devotion to {e04} is absolute.
+
+@16060.1
+{e03} brushed me off, saying they have no wish to betray {e04}.
+
+@16060.2
+{e03} trusts {e04} deeply. Their feelings did not waver at all.
+
+@16060.3
+{e03}'s loyalty to {e04} seems absolute.
+
+@16061
+As expected, {e03} is not easily moved.
+
+@16061.1
+Lord {e03} holds loyalty dear. I could not persuade them.
+
+@16061.2
+{e03} is as loyal as they say. I was ignored entirely.
+
+@16061.3
+As expected, {e03} is not easily moved.
+
+@16062
+With no complaints about their lord {e04}, recruiting them may be hard...
+
+@16062.1
+{e03} seems to have no particular complaint about {e04}. It was wasted effort.
+
+@16062.2
+They say they have no complaints about their lord {e04}... Recruiting them may be difficult.
+
+@16062.3
+{e03} says they have no complaints at all... It did not go well.
+
+@16063
+People with such grand ambitions are hard to persuade.
+
+@16063.1
+Lord {e03} has lofty aims... They would not even hear me out.
+
+@16063.2
+Lord {e03} harbors great ambitions. As expected, no easy task.
+
+@16063.3
+People with such grand ambitions are hard to persuade.
+
+@16064
+Years of loyal service to {e04} are no mere show.
+
+@16064.1
+{e03} is a veteran of the {e04} army. They will not be turned so easily.
+
+@16064.2
+Years of loyal service to {e04} are surely no mere show.
+
+@16064.3
+A veteran who has served {e04} for many years. They will not turn so easily.
+
+@16065
+{e03} said they do not wish to serve anyone.
+
+@16065.1
+Sadly, I was refused. I thought it was not such a bad offer...
+
+@16065.2
+{e03} said they did not wish to serve anyone.
+
+@16065.3
+They refused to serve. Hmm... I wonder why?
+
+@16066
+No good. They will not listen at all.
+
+@16066.1
+No good. They refuse to listen at all.
+
+@16067
+{e01}, {e02}, whom we sent to recruit, has not returned. They seem to have defected.
+
+@16069
+Lord {e02}, {e01} of {e0B} has gone over to {e03}.
+
+@16070
+{e01} of {e0B} seems to have gone over to {e03}.
+
+@16071
+Lord {e02}, {e01} came to recruit our people, but we persuaded them instead and won them to our side.
+
+@16072
+Lord {e02}, would you answer my question?
+
+@16073
+I see... I would say "%s". And you?
+
+@16074
+I see... (It seems we think differently...)
+
+@16074.1
+Hmm... (It seems Lord {e02}'s opinion differs from mine...)
+
+@16075
+Hmm
+
+@16075.1
+Hm
+
+@16076
+I see... (So Lord {e02} thinks as I do...)
+
+@16076.1
+{C16077}... (It seems Lord {e02} thinks as I do...)
+
+@16077
+Oh my
+
+@16077.1
+Ho ho
+
+@16078
+{e01} has been dismissed.
+

@@ -1,0 +1,727 @@
+# chunk ui_c: PROG:80117ba8 .. USER:801e0ae0
+# stats / duel tactics (officer edit)
+PROG:80117ba8	LS
+PROG:80117bb0	WAR
+PROG:80117bb8	INT
+PROG:80117bc0	POL
+PROG:80117bc8	CHR
+PROG:80117bd0	Shout
+PROG:80117bd8	Hidden
+PROG:80117be0	Switch
+PROG:80117be8	Fake
+PROG:80117bf0	Side
+PROG:80117bf8	Arrow
+PROG:80117c00	Catch
+PROG:80117c08	Lure
+PROG:80117c10	Sway
+PROG:80117c18	1 Blow
+PROG:80117c20	Spec.
+PROG:80117c28	Feint
+# name entry
+# 80117c9c: "2__K" is not part of the label (USER 0x801de6dc reads from +4, like 80117638): keep it, in place
+PROG:80117c38	Kanji
+PROG:80117c40	Kana
+PROG:80117c60	Del
+PROG:80117c68	Force
+PROG:80117c78	-
+PROG:80117c9c	2__KName
+# gift
+PROG:80117ca8	Gold
+PROG:80117cac	Food
+PROG:80117cb4	Virtue
+# city
+PROG:80117cd4	POP
+PROG:80117cdc	Farm
+PROG:80117ce4	CM
+PROG:80117cec	Order
+PROG:80117cf4	Merchant
+PROG:80117cfc	Foot
+PROG:80117d04	Horse
+PROG:80117d0c	Hill
+PROG:80117d14	Navy
+PROG:80117d1c	Tribe
+PROG:80117d24	Armor
+PROG:80117d2c	Shanyue
+PROG:80117d44	Ruler
+# main command bar
+PROG:80117d6c	Civil
+PROG:80117d74	Army
+PROG:80117d7c	Move
+PROG:80117d84	Dipl
+PROG:80117d8c	Staff
+PROG:80117d94	Plot
+PROG:80117d9c	Misc
+PROG:80117da4	End
+# info / system menu
+PROG:80117dbc	Ruler
+PROG:80117dc4	City
+PROG:80117dcc	Officer
+PROG:80117dd4	Edit
+PROG:80117ddc	Title
+PROG:80117de4	Ranks
+PROG:80117dec	Fields
+PROG:80117df4	Terms
+PROG:80117dfc	Save
+PROG:80117e04	Load
+PROG:80117e0c	Info
+PROG:80117e14	System
+# sub-commands
+PROG:80117e1c	War
+PROG:80117e24	Aid
+PROG:80117e2c	Draft
+PROG:80117e34	Raid
+PROG:80117e3c	Trap
+PROG:80117e48	Men
+PROG:80117e58	Ally
+PROG:80117e60	Joint
+PROG:80117e68	Gift
+PROG:80117e70	Warn
+PROG:80117e78	Jail
+PROG:80117e80	Annul
+PROG:80117e88	Find
+PROG:80117e90	Hire
+PROG:80117e98	Item
+PROG:80117ea0	Job
+PROG:80117ea8	Adv.
+PROG:80117eb0	PRO
+PROG:80117eb8	Rank
+PROG:80117ec0	Spy
+PROG:80117ec8	Fire
+PROG:80117ed0	Turn
+PROG:80117ed8	Revolt
+PROG:80117ee0	Stir
+PROG:80117ee8	Rumor
+PROG:80117ef0	Plant
+PROG:80117ef8	Shop
+PROG:80117f00	Talk
+PROG:80117f08	Court
+PROG:80117f10	Move
+# draft window
+PROG:80117f18	Officer
+PROG:80117f20	Type
+PROG:80117f28	Troops
+PROG:80117f40	Infantry
+PROG:80117f48	Cavalry
+PROG:80117f50	Hillmen
+PROG:80117f58	Navy
+PROG:80117f60	Tribal
+PROG:80117f68	Armored
+PROG:80117f70	Shanyue
+PROG:80117f78	Draft
+PROG:80117f80	EN 30
+# title request
+PROG:80117f9c	Ruler
+PROG:80117fa4	Title
+PROG:80117fac	Target
+PROG:80117fc4	EN 50
+# merchant
+PROG:80117fdc	Officer
+PROG:80117fe4	Amount
+PROG:80117ffc	Sell
+PROG:80118004	Buy
+PROG:8011800c	EN 20
+# move troops
+PROG:80118038	City
+PROG:80118040	Officer
+PROG:80118048	Troops
+PROG:80118060	Troops
+PROG:80118068	EN 25
+PROG:80118070	+%d
+PROG:80118078	=%d
+PROG:80118080	Foot
+PROG:80118088	Horse
+PROG:80118090	Hill
+PROG:801180a0	Tribe
+PROG:801180a8	Armor
+PROG:801180b0	Shanyue
+PROG:801180bc	%s Trp
+PROG:801180c4	TT
+PROG:80118100	%s
+# item give/take
+PROG:8011810c	Officer
+PROG:80118114	Item
+PROG:8011812c	Give
+PROG:80118134	Take
+PROG:80118144	City
+# search
+PROG:80118154	Time
+PROG:8011816c	Short
+PROG:80118174	Long
+PROG:8011817c	Search
+PROG:80118184	EN 30
+# recruit
+PROG:801181a4	Target
+PROG:801181b4	Terms
+PROG:801181d8	None
+PROG:801181e0	Recruit
+PROG:801181e8	EN 30
+PROG:801181fc	%s
+PROG:80118214	None
+PROG:8011821c	Gold
+PROG:80118220	Food
+# plots
+PROG:80118250	Revolt
+PROG:80118258	EN 40
+PROG:80118260	PRO
+PROG:80118290	Plant
+PROG:80118298	EN 40
+PROG:801182c0	Rumor
+PROG:801182c8	EN 40
+PROG:801182f8	Turn
+PROG:80118300	EN 40
+PROG:80118330	Incite
+PROG:80118338	EN 40
+PROG:80118340	%3d
+PROG:80118348	 
+# civil
+PROG:80118384	Farm
+PROG:801183ac	Civil
+PROG:8011840c	Title:
+# trap
+PROG:8011842c	Trap
+PROG:80118430	EN 40
+PROG:80118438	Type
+PROG:80118440	Cost
+PROG:80118450	Officer
+PROG:80118458	Trap
+PROG:80118460	Place
+# armies
+PROG:8011847c	from
+PROG:80118484	Support
+PROG:8011848c	Main
+PROG:80118494	???
+PROG:801184a4	Target
+PROG:801184ac	Cmdr.
+PROG:801184b4	Units
+PROG:801184c4	%s Army
+PROG:801184cc	Reinf.
+PROG:801184d4	Joint
+PROG:801184f4	Navy
+PROG:80118514	Hillmen
+PROG:80118524	Tribal
+PROG:8011852c	Armored
+# battle commands / policies
+PROG:8011853c	Take HQ
+PROG:80118544	Cmdr.
+PROG:8011854c	Wipe
+PROG:80118554	Wait
+PROG:8011855c	Defend
+PROG:80118564	Move
+PROG:8011856c	Chase
+PROG:80118574	Charge
+PROG:8011857c	Duel
+PROG:80118584	Hold
+PROG:8011858c	Fire
+PROG:80118594	Taunt
+PROG:8011859c	Gate
+PROG:801185a4	Retreat
+PROG:801185ac	Policy
+PROG:801185b4	Turn
+PROG:801185bc	Incite
+PROG:801185c4	Fake
+PROG:801185cc	Search
+PROG:801185d4	Aid
+PROG:801185dc	Normal
+PROG:801185e4	Rush
+PROG:801185ec	Careful
+PROG:801185f4	Normal
+PROG:801185fc	Fire
+PROG:80118604	Sniping
+PROG:8011860c	Panic
+PROG:80118614	Unruly
+PROG:8011861c	Routed
+PROG:80118624	Normal
+PROG:80118634	%s Army
+PROG:8011863c	-
+# unit info
+PROG:80118648	Land
+PROG:80118650	Unit
+PROG:80118658	Men
+PROG:80118660	Morale
+PROG:80118668	Food
+PROG:80118670	Order
+PROG:80118680	Army
+PROG:80118688	Bd
+PROG:8011868c	LS
+PROG:80118690	WR
+PROG:80118694	INT
+PROG:80118698	Force
+PROG:801186b8	Attack
+PROG:801186c0	Defense
+PROG:801186c8	Spirit
+PROG:801186d8	Orders
+PROG:80118718	Day%2d
+PROG:80118738	Cmdr.
+PROG:80118740	Advisor
+PROG:80118748	Leader
+PROG:80118770	Trick
+PROG:80118790	Attack
+PROG:801187e8	Defend
+# HEX battle labels (program part)
+PROG:80118820	-
+PROG:80118834	Jiangxia
+PROG:8011883c	Castle
+PROG:80118844	Dingjun
+PROG:80118864	Sally
+PROG:8011886c	Relief
+PROG:80118874	Ally
+PROG:8011887c	-
+PROG:80118884	Castle
+PROG:80118894	-
+PROG:801188ac	-
+PROG:801188b4	Heat
+PROG:801188bc	Cold
+PROG:801188c4	Sally
+PROG:801188cc	Hold
+PROG:801188dc	Scorch
+PROG:801188e4	Size
+PROG:801188f8	Supply
+# duel rounds and tactics (fixed arrays)
+PROG:80118910	 1 
+PROG:80118918	 2 
+PROG:80118920	 3 
+PROG:80118928	 4 
+PROG:80118930	 5 
+PROG:80118958	Sway
+PROG:80118960	Fake
+PROG:80118b48	Tactic
+PROG:80118b70	Body
+PROG:80118b78	Hlth
+PROG:80118b98	Body
+PROG:80118ba0	Hlth
+PROG:80118bb0	Help
+PROG:80118bd8	Help
+# event characters / states as temporary officer names (copied into record name fields [5]/[9]): keep Japanese, namedict entries in the names phase
+PROG:80118be8	-
+PROG:80118bec	-
+PROG:80118bf8	-
+PROG:80118c00	-
+PROG:80118c08	-
+PROG:80118c18	Page
+PROG:80118c38	-
+PROG:80118c40	-
+PROG:80118c48	-
+PROG:80118c50	-
+PROG:80118c58	-
+PROG:80118c5c	-
+PROG:80118c64	-
+PROG:80118c6c	-
+PROG:80118c74	-
+PROG:80118c7c	-
+PROG:80118c80	-
+PROG:80118c88	-
+PROG:80118c90	-
+PROG:80118c98	-
+PROG:80118c9c	-
+PROG:80118ca4	-
+PROG:80118cac	-
+PROG:80118cb4	-
+PROG:80118cbc	-
+PROG:80118cc4	-
+PROG:80118ccc	-
+PROG:80118cd4	-
+PROG:80118cdc	-
+PROG:80118ce0	-
+PROG:80118ce4	-
+PROG:80118ce8	-
+PROG:80118cf0	-
+PROG:80118cf4	-
+PROG:80118cf8	-
+PROG:80118cfc	-
+PROG:80118d00	-
+PROG:80118d08	-
+PROG:80118d0c	-
+PROG:80118d44	-
+PROG:80118d4c	-
+PROG:80118d54	-
+PROG:80118d5c	-
+PROG:80118d64	-
+PROG:80118d68	-
+PROG:80118d70	-
+PROG:80118d78	-
+PROG:80118d80	-
+PROG:80118d88	-
+PROG:80118d8c	-
+PROG:80118d94	-
+PROG:80118d9c	-
+PROG:80118da4	-
+PROG:80118da8	-
+PROG:80118db0	-
+PROG:80118db8	-
+PROG:80118dc0	-
+PROG:80118dc8	-
+PROG:80118dd0	-
+PROG:80118dd8	-
+PROG:80118de0	-
+PROG:80118de8	-
+PROG:80118dec	-
+PROG:80118df0	-
+PROG:80118df4	-
+PROG:80118e04	-
+PROG:80118e0c	-
+PROG:80118e10	-
+PROG:80118e2c	-
+PROG:80118e34	-
+PROG:80118e3c	-
+PROG:80118e40	-
+PROG:80118e48	-
+PROG:80118e50	-
+PROG:80118e58	-
+PROG:80118e60	-
+PROG:80118e68	-
+PROG:80118e70	-
+PROG:80118e78	-
+PROG:80118e88	-
+PROG:80118e90	-
+PROG:80118e98	-
+PROG:80118ea0	-
+PROG:80118ea4	-
+PROG:80118eac	-
+PROG:80118eb4	-
+PROG:80118eb8	-
+PROG:80118ebc	-
+PROG:80118ec4	-
+PROG:80118ec8	-
+PROG:80118ecc	-
+# memory card labels (centred by hand in the card picture)
+PROG:80118ed4	  1
+PROG:80118ed8	  2
+PROG:80118edc	
+PROG:80118ee4	
+PROG:80118ee8	-
+PROG:80118f00	save
+PROG:80118f08	load
+PROG:80118f10	-
+PROG:80118f14	-
+PROG:80118f18	-
+PROG:80118f1c	-
+PROG:80118f20	-
+PROG:80118f24	-
+PROG:80118f28	-
+PROG:80118f2c	-
+PROG:80118f30	-
+PROG:80118f34	-
+PROG:80118fcc	-
+PROG:80118fd4	-
+PROG:80118fdc	-
+PROG:80118fe4	-
+PROG:80118ff0	-
+PROG:80118ff8	-
+PROG:80119000	-
+PROG:80119008	-
+PROG:80119010	-
+PROG:80119014	-
+PROG:80119018	-
+PROG:8011901c	-
+PROG:80119020	-
+PROG:80119028	-
+PROG:8011902c	-
+# IKKI HUD arrays
+PROG:8011882c	%s Gate
+PROG:801188f0	Order
+PROG:80118b60	WAR
+PROG:80118b68	INT
+PROG:80118b88	WAR
+PROG:80118b90	INT
+PROG:801187e0	Wait
+# COMP: military council
+COMP:801b82e0	Ask Help
+COMP:801b82ec	Ask Ally
+COMP:801b82f8	Target City
+COMP:801b8304	Which city will you send help to?
+COMP:801b8320	Which city will send the help?
+COMP:801b8340	Which city needs reinforcements?
+COMP:801b8360	Which force will you ask for help?
+COMP:801b837c	Which city will send the joint force?
+COMP:801b83a0	Which city will send reinforcements?
+COMP:801b83c0	%d un. %s
+COMP:801b83d8	No such army.
+COMP:801b83ec	Army status unknown.
+COMP:801b8404	City Info
+COMP:801b8410	Halt War
+COMP:801b841c	Send Help
+COMP:801b8428	Done
+COMP:801b8434	Accept
+COMP:801b8440	Refuse
+COMP:801b8468	End the military council.\nAre you sure?
+COMP:801b8540	Army to take a city
+COMP:801b8558	Army to relieve a city
+COMP:801b8570	Army to a city
+# END
+END:801a2424	Failed.
+# HEX: battle
+HEX:801dc778	Advisor Tasks
+HEX:801dc784	March Speed
+HEX:801dc790	Arrow Type
+HEX:801dc860	-
+HEX:801dc87c	Choose where to move on day 1.
+HEX:801dc8a0	Choose where to move on day 2.
+HEX:801dc8c4	Choose where to move on day 3.
+HEX:801dc8e8	Choose the enemy unit to chase.
+HEX:801dc90c	Choose the spot to set on fire.
+HEX:801dc930	Choose the enemy unit to taunt.
+HEX:801dc954	Choose the gate to defend.
+HEX:801dc974	Choose the gate to destroy.
+HEX:801dc994	Choose where to retreat.
+HEX:801dc9b0	Choose the unit to turn.
+HEX:801dc9d4	Choose the enemy to deceive.
+HEX:801dc9f8	-
+HEX:801dcc84	Lord %s,\nend your orders?
+HEX:801dcca0	Settings
+HEX:801dccac	Restart
+HEX:801dccb8	Return to the start.\nAre you sure?
+HEX:801dcdc4	Policy
+HEX:801dcddc	March Speed
+HEX:801dcdf4	Arrow Type
+HEX:801dce00	Near Jianye
+HEX:801dce0c	(Defense %d)
+HEX:801dce18	-
+HEX:801dce24	%2d days left
+HEX:801dce30	Orders: %s
+HEX:801dce44	No destination\nchosen!
+HEX:801dce64	No chase target\nchosen!
+HEX:801dce84	No fire point\nchosen!
+HEX:801dcea8	Enemy on water
+HEX:801dceb8	No plot target\nchosen!
+HEX:801dced8	No target gate\nchosen!
+HEX:801dcef8	%s Gate
+HEX:801dcf04	No move target\nchosen!
+HEX:801dcf24	Planted
+HEX:801dcf30	Turned
+HEX:801dcfd8	Retreat to %s.\nAre you sure?
+HEX:801dd284	Humidity
+HEX:801dd3e0	An enemy army has invaded %s!\nLord %s, what shall we do?
+# INIT: registration / setup
+INIT:801d07bc	The custom officer data has changed.\nIf you choose "New Game", the\nchanged custom officers will\nappear in the game.\nIf you then save during the game,\nthe changed custom officers\nare kept in the save data.
+INIT:801d0884	If you choose "Load Game" or quit\nwithout saving during the game,\nthe changed custom officer data\nwill not be saved and is lost.\nPlease take care.
+INIT:801d0c2c	The item registry has changed.\nIf you choose "New Game", the\nchanged item data will\nappear in the game.\nIf you then save during the game,\nthe changed custom items\nare kept in the save data.
+INIT:801d0cf0	If you choose "Load Game" or quit\nwithout saving during the game,\nthe changed custom items\nwill not be saved and are lost.\nPlease take care.
+INIT:801d1ed8	Start Match
+INIT:801d208c	Manual
+INIT:801d2098	Auto
+INIT:801d2160	Manual
+INIT:801d216c	Auto
+INIT:801d2380	Start
+INIT:801d2b1c	Start Match
+INIT:801d2f94	Manual
+INIT:801d2fa0	Auto
+INIT:801d38b4	Fictional Mode
+INIT:801d38c4	Special Ability
+INIT:801d38d0	Items
+INIT:801d3b90	New Ruler 1
+INIT:801d3b9c	New Ruler 2
+INIT:801d3ba8	New Ruler 3
+INIT:801d3bb4	Selected
+INIT:801d3bd0	Choose the city to rule.
+INIT:801d3bf0	Cancel new ruler\n%s?
+INIT:801d3c0c	No ruler has been chosen\nto play. Is that all right?
+INIT:801d3c44	No new officer (age 18 or over)\nis registered to choose.
+INIT:801d3c78	No new officers registered.
+INIT:801d3c94	You can choose up\nto 8 rulers.
+INIT:801d3cdc	-
+INIT:801d3dac	Victory Terms
+INIT:801d3e90	Item Name
+INIT:801d4130	Reading
+INIT:801d413c	Enter the %s.
+INIT:801d4170	A custom officer with the same\nname exists.
+INIT:801d4198	A historical officer with the same\nname exists.
+INIT:801d4f60	Age at start of scenario
+INIT:801d4f78	Feb 184
+INIT:801d4f84	Dec 189
+INIT:801d4f90	Oct 194
+INIT:801d4f9c	Feb 200
+INIT:801d4fa8	Mar 207
+INIT:801d4fb4	Jul 219
+INIT:801d4fc0	Sep 234
+# scenario titles in the birth-year list: short forms (column ~90 px; full titles PROG:801148ec...)
+INIT:801d4fcc	Yellow Turbans
+INIT:801d4fd8	Dong Zhuo
+INIT:801d4fe4	Warlords
+INIT:801d4ff0	Hebei Strife
+INIT:801d4ffc	Dragon/Phoenix
+INIT:801d5008	King of Hanzhong
+INIT:801d5014	Wuzhang Plains
+INIT:801d5400	Change Stats
+INIT:801d5454	All parent-child ties will be\ncleared. Are you sure?
+INIT:801d5484	Change Parent
+INIT:801d5494	Disown Parent
+INIT:801d54a4	Register this officer?
+INIT:801d54c4	The officer has been changed.\nRegister the officer?
+INIT:801d54fc	Cancel officer registration?
+INIT:801d5520	The officer has been changed.\nCancel anyway?
+INIT:801d5afc	Support the Emperor. Unify the land.\nBow to no other state.
+INIT:801d5b30	Make your cities safe.\nSave the people with good rule.
+INIT:801d5b5c	Find a place to use your talents.
+INIT:801d5b7c	Put your ruler on the throne and\nunify the land. Bow to no other.
+INIT:801d5bb0	Attack and expand your territory.\nBow to no other state.
+INIT:801d5be0	Rise in a chaotic age\nand gather a fortune.
+INIT:801d5c08	Secure your cities while\nexpanding your force.
+INIT:801d5c34	Strengthen defenses and keep\nyour cities stable.
+INIT:801d5c58	Avoid danger and live in peace.\nKeep your city stable.
+INIT:801d5e7c	Too many female officers.\nCannot change.
+INIT:801d5eb0	Too many male officers.\nCannot change.
+INIT:801d623c	New Officer
+INIT:801d6248	Registered
+INIT:801d6424	No more officers can be registered.
+INIT:801d6444	Set a parent?
+INIT:801d6458	Failed to load officer data.
+INIT:801d647c	No officer can be set as parent.
+INIT:801d64a0	No officers are registered,\nso none can be modified.
+INIT:801d64d0	No officers are registered,\nso none can be deleted.
+INIT:801d6500	Delete? Are you sure?
+INIT:801d6518	Modify Officer
+INIT:801d6528	Delete Officer
+INIT:801d6550	Owner
+INIT:801d6574	None
+INIT:801d6580	Register this item?
+INIT:801d65a4	The item has been changed.\nRegister the item?
+INIT:801d65dc	Cancel item registration?
+INIT:801d6604	The item has been changed.\nCancel anyway?
+# INIT: item effects
+INIT:801d68a8	Leadership +
+INIT:801d68b4	War +
+INIT:801d68c0	Intellect +
+INIT:801d68cc	Politics +
+INIT:801d68d8	Charm 100\nRulers only
+INIT:801d68f0	Better retreat
+INIT:801d6900	Healing\nHealth back in 1 mo.
+INIT:801d6918	Duel tactic "Hidden"
+INIT:801d6ae0	New Item
+INIT:801d6aec	Registered
+INIT:801d6c74	War +
+INIT:801d6c80	Loyalty +
+INIT:801d6ca4	No bonus
+INIT:801d6ff0	Failed to load item data.
+INIT:801d7018	No items are registered,\nso none can be modified.
+INIT:801d7048	No items are registered,\nso none can be deleted.
+INIT:801d7090	Officer List
+INIT:801d709c	No more items can be registered.
+INIT:801d70c0	Remove the owner?
+INIT:801d70dc	Set an owner?
+# INIT: end menus
+INIT:801d7c90	Save Game
+INIT:801d7ca4	Back to Title
+INIT:801d7cb0	End Tactics Mode
+INIT:801d7cc8	Again
+INIT:801d7e50	Save Game
+INIT:801d7e64	Back to Title
+INIT:801d7e70	End Tactics Mode
+# REVENT: historical event choices
+REVENT:801e4580	%s died of rage.
+REVENT:801e45e4	Ally with Cao Cao
+REVENT:801e45f8	Scout Jiangxia
+REVENT:801e460c	Lord Sun Quan, what shall we do?
+REVENT:801e4628	Send no envoy
+REVENT:801e4640	Send Zhuge Liang
+REVENT:801e4658	Send Guan Yu
+REVENT:801e4670	Send Zhang Fei
+REVENT:801e4698	Ally w/ Cao Cao
+REVENT:801e46a8	Ally w/ Liu Bei
+REVENT:801e46b8	Lord Liu Bei, what shall we do?
+REVENT:801e4730	Kill Zhang Song
+REVENT:801e4740	Oust Zhang Song
+REVENT:801e4750	Lord Cao Cao, what shall we do?
+REVENT:801e47bc	Send Xu Shu letter
+REVENT:801e47d0	Don't send letter
+REVENT:801e47e8	Lord %s, send a forged\nletter to Xu Shu?
+REVENT:801e4808	You have fought well.
+REVENT:801e48a8	Persuade
+REVENT:801e48b4	Give Gold
+REVENT:801e48c0	Suppress
+REVENT:801e48d8	Lord %s, what shall we do?
+REVENT:801e48f0	Pay %u gold?\n(You have: %u)
+REVENT:801e4910	Shuobei
+REVENT:801e491c	Nanhai
+REVENT:801e4928	Silk Road
+REVENT:801e493c	Nanzhong
+REVENT:801e497c	-
+REVENT:801e4998	-
+# USER: main game
+USER:801db300	If you choose "Load Game" or quit\nwithout saving during the game,\nthe changed officer data\nwill not be saved and is lost.\nPlease take care.
+USER:801dc15c	Select Terms
+USER:801dc49c	Follow the person you respect.
+USER:801dc4b8	Cut all ties with the world.
+USER:801dc704	Undo
+USER:801dc710	-10 Pages
+USER:801dc71c	+10 Pages
+USER:801dcaf8	Shows high ability in the teens,\npeaks at 20,\nand keeps it.
+USER:801dcb38	Shows fairly high ability in the teens\nand peaks from the late 30s\nto the early 50s.
+USER:801dcb8c	Grows steadily and\npeaks in the 40s.
+USER:801dcbb8	Grows quickly in the teens,\npeaks from the late 20s\nto the 30s,\nthen declines sharply.
+USER:801dcc10	Grows slowly and peaks\nafter the age of 50,\nwith no decline in old age.
+USER:801de7e4	Next Type
+USER:801ded30	The computer will take control.\nAre you sure?
+USER:801ded58	The computer will take control\nof all players. Are you sure?
+USER:801ded84	End the game.\nAre you sure?
+USER:801dedb4	AI 1
+USER:801dedc0	AI All
+USER:801dee0c	Next City
+USER:801dee3c	Maps
+USER:801dee8c	End turn?
+USER:801df028	 Gold 
+USER:801df034	 Food 
+USER:801df040	Gold after
+USER:801df050	Food after
+USER:801df060	Troop Type
+USER:801df27c	Sell Price
+USER:801df288	Buy Price
+USER:801df294	 Gold 
+USER:801df2a0	 Food 
+USER:801df2ac	Gold after
+USER:801df2bc	Food after
+USER:801df394	Remaining
+USER:801df3a0	Moving
+USER:801dfd30	Select Terms
+USER:801dfdc8	Move capital to %s
+USER:801dfdd8	Gold:%d (Have:%d)
+USER:801dfdec	Ally: %s
+USER:801dfdf8	Set %s as %s
+USER:801dfe08	Imp City %s
+USER:801dfe18	Fire %s
+USER:801dfe24	Take a city of %s\nwithin 6 months
+USER:801dfe48	%s demands:\n"%s"\nLord %s, do you accept?
+USER:801dfe7c	I agree with %s.
+USER:801dfe90	Confirm Opinion
+USER:801dfea0	Adopt Opinion
+USER:801dfeb0	Defer
+USER:801dfec8	View: Same
+USER:801dfed8	View: Agree
+USER:801dfee8	View: %s as heir
+USER:801dff04	View: Defer
+USER:801dff14	View: Oppose
+USER:801dff24	Choose 6 officers to\nattend the council.
+USER:801dff50	Call off the council?
+USER:801dff68	The council was called off.
+USER:801e063c	Choose the main force to reinforce.
+USER:801e0660	Raid %s.\nAre you sure?
+USER:801e0684	Cannot raid.
+USER:801e0694	Already allied.
+USER:801e06b0	Already a vassal.
+USER:801e06cc	Break ties with %s.\nAre you sure?
+USER:801e0854	You do not hold the Han Emperor.
+USER:801e0870	Cannot do that.
+USER:801e0880	No general rank to give.
+USER:801e08a0	No item can be given.
+USER:801e08bc	No item can be taken.
+USER:801e08d8	There is no city\nyou can incite.
+USER:801e08fc	Give or Take
+USER:801e0920	Choosing "OK" with no rank\nremoves the officer's rank.
+USER:801e0954	Dismiss %s.\nAre you sure?
+USER:801e0974	Sell Food
+USER:801e0980	Buy Food
+USER:801e098c	Buy or Sell
+USER:801e0998	You do not have enough food\nto trade with the merchant.
+USER:801e09c4	Audience with %s?\n\n%-9sVirtue %d\n%-9sVirtue %d\n%14s%s
+USER:801e09f4	Choose the new capital.
+USER:801e0a10	Move the capital to %s.\nAre you sure?
+USER:801e0aac	Trap Type
+USER:801e0ab8	You cannot afford\nany trap now.
+USER:801e0ae0	Build another trap?
+# overrides of translation memory in context
+PROG:80118780	Wait
+PROG:801186f8	Incite
+PROG:80118394	Order
+PROG:8011838c	Trade
+PROG:801184dc	Foot
+PROG:801184e4	Horse
+PROG:801181cc	Gold

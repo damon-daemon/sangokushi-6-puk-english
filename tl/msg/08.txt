@@ -1,0 +1,1527 @@
+@8000
+Loses the dream they once held.
+
+@8001
+Takes a new resolve: to become a pillar of the state.
+
+@8002
+Takes a new resolve: to live for a just cause.
+
+@8003
+Takes a new resolve: to use their talents for the good of the world.
+
+@8004
+Takes a new resolve: to win supremacy in an age of chaos.
+
+@8005
+Takes a new resolve: to expand their own power greatly.
+
+@8006
+Takes a new resolve: to use their talents to rise in the world.
+
+@8007
+Takes a new resolve: to hold a domain as one of the great lords.
+
+@8008
+Takes a new resolve: to preserve their own rank and power.
+
+@8009
+Takes a new resolve: simply to survive the age of chaos.
+
+@8010
+Takes a new resolve: to give their life for their lord if need be.
+
+@8011
+Grieved by the chaos, takes a new resolve to withdraw from the world.
+
+@8012
+Pacifies the land and unifies the realm.
+
+@8013
+Takes the Han Emperor under their protection.
+
+@8014
+The Han Emperor under their protection escapes.
+
+@8015
+Answers the summons of {e02} and enters their service.
+
+@8016
+Discovered by {e02}, enters the service of {e03}.
+
+@8017
+Discovered by {e02}, enters service.
+
+@8018
+Discovered by {e02}, but declines to serve.
+
+@8019
+Persuaded by {e02}, enters the service of {e03}.
+
+@8020
+Becomes the heir of {e02}.
+
+@8021
+Rebels against {e02} but fails and flees.
+
+@8022
+Rebels successfully and breaks away from {e02}.
+
+@8023
+Seizes the empty city of {e0B} and makes it a base.
+
+@8024
+Rises in revolt against their lord {e02}.
+
+@8025
+Seizes {e0B} and breaks away from {e02}.
+
+@8026
+The revolt fails; leaves with fellow rebels to become a free officer.
+
+@8027
+Sets out for {e0B} as a planted officer of the {e02} army.
+
+@8028
+Returns from {e0B}, where they had been planted.
+
+@8029
+Yields to threats from {e02} and enters their service.
+
+@8030
+Becomes a vassal of {e02}.
+
+@8031
+Breaks off vassalage to {e02}.
+
+@8032
+Raids the land of {e0B}.
+
+@8033
+{e01} ascends the imperial throne.
+
+@8034
+{e01} becomes king.
+
+@8035
+{e01} is made a king.
+
+@8036
+{e01} is made a king by {e02}.
+
+@8037
+{e01} is made a duke.
+
+@8038
+{e01} is made a duke by {e02}.
+
+@8039
+Is named {e33} by {e02}.
+
+@8040
+Is named Supreme Commander by {e02}.
+
+@8041
+Is named General of Cavalry by {e02}.
+
+@8042
+Is named General of Chariots by {e02}.
+
+@8043
+Is named General of Defense by {e02}.
+
+@8044
+Is named 1st General of the East by {e02}.
+
+@8045
+Is named 1st General of the South by {e02}.
+
+@8046
+Is named 1st General of the West by {e02}.
+
+@8047
+Is named 1st General of the North by {e02}.
+
+@8048
+Is named 2nd General of the East by {e02}.
+
+@8049
+Is named 2nd General of the South by {e02}.
+
+@8050
+Is named 2nd General of the West by {e02}.
+
+@8051
+Is named 2nd General of the North by {e02}.
+
+@8052
+Has He Jin killed in the palace.
+
+@8053
+Is assassinated in the palace by the Ten Attendants.
+
+@8054
+Slays the Ten Attendants and other eunuchs.
+
+@8055
+After murdering He Jin, is slain by his officers Yuan Shao, Cao Cao and others.
+
+@8056
+After the fall of He Jin and the Ten Attendants, leads an army into the capital.
+
+@8057
+Deposes Emperor Shao and enthrones Prince Xie.
+
+@8058
+Opposes Dong Zhuo's deposing of Emperor Shao.
+
+@8059
+Is killed by Lu Bu, bought over by Dong Zhuo.
+
+@8060
+Bought over with Red Hare, assassinates Ding Yuan.
+
+@8061
+Fearing Dong Zhuo's might, flees to Jizhou.
+
+@8062
+Escapes an attempt on his life by Cao Cao.
+
+@8063
+Fails to assassinate Dong Zhuo and flees.
+
+@8064
+Raises volunteers and takes up arms.
+
+@8065
+Hurries to join Cao Cao's uprising.
+
+@8066
+Forms the alliance against Dong Zhuo and becomes its leader.
+
+@8067
+Forms an alliance against Dong Zhuo to oppose him.
+
+@8068
+Joins the alliance against Dong Zhuo.
+
+@8069
+On Li Ru's advice, burns Luoyang and moves the capital.
+
+@8070
+Advises Dong Zhuo to move the capital to Chang'an.
+
+@8071
+Opposes moving the capital to Chang'an.
+
+@8072
+Places the singer Diao Chan in Dong Zhuo's service.
+
+@8073
+Takes Wang Yun's adopted daughter Diao Chan as a concubine.
+
+@8074
+Meets Diao Chan in secret at the Fengyi Pavilion.
+
+@8075
+Receives an imperial envoy with an edict of abdication.
+
+@8076
+As imperial envoy, brings Dong Zhuo an edict of abdication.
+
+@8077
+Is killed by Lu Bu, ending a stormy life.
+
+@8078
+Slays Dong Zhuo in the palace.
+
+@8079
+Is put to death along with Dong Zhuo.
+
+@8080
+Hearing of Dong Zhuo's death, flees to the frontier.
+
+@8081
+Rises up in {e0B} to avenge their lord.
+
+@8082
+His father Cao Song is murdered by the escort Tao Qian provided.
+
+@8083
+Murders Cao Song and flees with his riches.
+
+@8084
+Sets out to relieve Tao Qian in Xuzhou.
+
+@8085
+Follows Liu Bei to relieve Xuzhou.
+
+@8086
+Attacks Xuzhou to avenge his father.
+
+@8087
+Because of Zhang Kai, comes under attack by Cao Cao.
+
+@8088
+In a last testament, leaves all of Xuzhou to Liu Bei.
+
+@8089
+Governs Xuzhou in place of the late Tao Qian.
+
+@8090
+Takes refuge with Liu Bei and is given the castle of Xiaopei.
+
+@8091
+Gives Lu Bu the castle of Xiaopei.
+
+@8092
+Takes Xiapi castle while Liu Bei is away.
+
+@8093
+Gives Liu Bei the castle of Xiaopei, putting him in their debt.
+
+@8094
+Attacks Xiapi castle while Liu Bei is away.
+
+@8095
+While away, has Xiapi castle attacked by Lu Bu.
+
+@8096
+Loses Xiapi castle to Lu Bu.
+
+@8097
+Is given the castle of Xiaopei by Lu Bu.
+
+@8098
+Left to guard Xiapi castle, is attacked by Lu Bu.
+
+@8099
+Too drunk to hold it, loses the castle.
+
+@8100
+At the Xutian hunt, uses the Emperor's own bow and arrows.
+
+@8101
+Takes part in the great hunt at Xutian.
+
+@8102
+Receives a secret edict from Emperor Xian to destroy Cao Cao.
+
+@8103
+Shows Liu Bei the secret edict from Emperor Xian.
+
+@8104
+Is shown Dong Cheng's secret edict to destroy Cao Cao.
+
+@8105
+Invites Liu Bei to a banquet in the plum garden.
+
+@8106
+At Cao Cao's invitation, attends the plum garden banquet.
+
+@8107
+Executes Dong Cheng's clan.
+
+@8108
+The plot to kill Cao Cao is discovered; is executed.
+
+@8109
+Takes Guan Yu into service.
+
+@8110
+To protect his lord's wives, surrenders to Cao Cao.
+
+@8111
+Guan Yu leaves.
+
+@8112
+Takes leave of Cao Cao and sets out to join Liu Bei.
+
+@8113
+Escapes from Yuan Shao.
+
+@8114
+Lets Liu Bei slip away.
+
+@8115
+Is reunited with Zhang Fei.
+
+@8116
+Is reunited with Guan Yu.
+
+@8117
+Is reunited with his lord Liu Bei.
+
+@8118
+Is reunited with Guan Yu.
+
+@8119
+Is reunited with Guan Yu and Zhang Fei.
+
+@8120
+Meets Guan Yu at Mount Woniu and enters his service.
+
+@8121
+Meets Guan Yu on his thousand-li journey and becomes his adopted son.
+
+@8122
+Meets Zhao Yun again at Mount Woniu and takes him on as an officer.
+
+@8123
+Meets Liu Bei again at Mount Woniu and enters his service.
+
+@8124
+Fights Zhao Yun at Mount Woniu and is badly wounded.
+
+@8125
+Then vanishes from the land...
+
+@8126
+Takes refuge with Liu Biao and is given the castle of Xinye.
+
+@8127
+Gives Liu Bei the castle of Xinye.
+
+@8128
+Enraged by Xu Gong's secret letter, has him executed.
+
+@8129
+A secret letter sent to {e02} is discovered; is executed.
+
+@8130
+Attacked by Xu Gong's retainers while hunting; badly wounded.
+
+@8131
+Executes Yu Ji as a danger to the realm.
+
+@8132
+His condition worsening, entrusts his affairs to his brother Sun Quan.
+
+@8133
+Just before the death of his brother Sun Ce, is entrusted with his affairs.
+
+@8134
+Meets Xu Shu in town and invites him to join his staff.
+
+@8135
+Serves Liu Bei as advisor.
+
+@8136
+Dismisses Xu Shu.
+
+@8137
+Learns from Xu Shu of the Sleeping Dragon, Zhuge Liang.
+
+@8138
+Leaves Liu Bei and goes to Cao Cao.
+
+@8139
+Seizes Xu Shu's mother to lure him into service.
+
+@8140
+Advises Cao Cao on a ruse to win over Xu Shu.
+
+@8141
+Visits Zhuge Liang's hut.
+
+@8142
+Follows Liu Bei on a visit to Zhuge Liang's hut.
+
+@8143
+Leaves the hut of his own accord and serves Liu Bei.
+
+@8144
+Takes Zhuge Liang on as a strategist.
+
+@8145
+Shows off martial skill at the Bronze Sparrow Terrace and is rewarded.
+
+@8146
+Falls ill and dies despite all treatment.
+
+@8147
+The Immortal Nanhua takes back the Book of Heaven.
+
+@8148
+Receives the Memorial on Dispatching the Troops from Zhuge Liang.
+
+@8149
+Presents the Memorial on Dispatching the Troops and prepares the army.
+
+@8150
+Presents the Memorial on Dispatching the Troops.
+
+@8151
+Understanding Gan Ning's ambitions, lets him escape.
+
+@8152
+Flees Jingzhou to seek a new life in Wu.
+
+@8153
+At a banquet, laments the flesh grown on his idle thighs.
+
+@8154
+Tells Liu Bei of the ill-omened horse Dilu.
+
+@8155
+Made Protector of {e0B}, finishes 100 days' work in half a day.
+
+@8156
+Is recalled to the capital by Liu Bei's order.
+
+@8157
+Receives a letter: "He is no match for the Lord of the Beautiful Beard."
+
+@8158
+Is urged by his lord to take up study.
+
+@8159
+Is praised by his lord for mastering his studies.
+
+@8160
+Is named one of the Five Tiger Generals by Liu Bei.
+
+@8161
+On Huang Hao's advice, removes Jiang Wei as Protector of Wudu.
+
+@8162
+Slandered by Huang Hao, is removed as Protector.
+
+@8163
+Slanders Jiang Wei out of personal spite.
+
+@8164
+Pawns the Imperial Seal to borrow troops from Yuan Shu.
+
+@8165
+Advises Sun Ce to borrow troops from Yuan Shu.
+
+@8166
+Lends Sun Ce troops and takes the Imperial Seal in return.
+
+@8167
+At the urging of the court, becomes the first Emperor of Wei.
+
+@8168
+Urges {e02} to become Emperor of Wei.
+
+@8169
+At the urging of the court, becomes the first Emperor of Shu-Han.
+
+@8170
+Urges {e02} to become Emperor of Shu-Han.
+
+@8171
+At the urging of the court, becomes the first Emperor of Wu.
+
+@8172
+Urges {e02} to become Emperor of Wu.
+
+@8173
+Shows the Imperial Seal to the realm and proclaims himself emperor.
+
+@8174
+Urges Yuan Shu to take the imperial throne.
+
+@8175
+Opposes Yuan Shu taking the imperial throne.
+
+@8176
+Takes the title King of Wei.
+
+@8177
+Takes the title King of Hanzhong.
+
+@8178
+Takes the title King of Wu.
+
+@8179
+Wins Sun Quan over by making him King of Wu.
+
+@8180
+Rebels and proclaims himself King of Yan.
+
+@8181
+Is executed for opposing Gongsun Yuan's rebellion.
+
+@8182
+Joins Gongsun Yuan's rebellion and enters his service.
+
+@8183
+Opposing Cai Mao's schemes, breaks away at Jiangxia.
+
+@8184
+Clashes with his elder brother Liu Qi.
+
+@8185
+Against Liu Biao's wishes, makes Liu Cong the heir.
+
+@8186
+Sides with Liu Qi in the Jingzhou succession dispute.
+
+@8187
+Sides with Liu Cong in the Jingzhou succession dispute.
+
+@8188
+Marches south and forces Liu Cong to surrender.
+
+@8189
+Pursues the fleeing Liu Bei at Changban.
+
+@8190
+On Cai Mao's advice, surrenders to Cao Cao.
+
+@8191
+After surrendering, is assassinated by Cao Cao's agents.
+
+@8192
+Advises Liu Cong to surrender to Cao Cao.
+
+@8193
+With the surrender of their lord Liu Cong, enters Cao Cao's service.
+
+@8194
+Abandons Xinye and flees to Jiangxia.
+
+@8195
+Joins Liu Bei's staff to bring down Cao Cao.
+
+@8196
+Receives a letter from Cao Cao announcing an attack on Jiangxia.
+
+@8197
+Forms an alliance with Cao Cao.
+
+@8198
+Posing as a mourner, spies on Jiangxia.
+
+@8199
+Sends an envoy to seek an alliance of Liu Bei and Sun Quan.
+
+@8200
+Goes as envoy to seek an alliance of Liu Bei and Sun Quan.
+
+@8201
+Refutes, one by one, the Wu ministers who urge surrender.
+
+@8202
+Has the case for surrender refuted by Zhuge Liang.
+
+@8203
+Allies with Cao Cao and turns against Liu Bei at Jiangxia.
+
+@8204
+Allies with Liu Bei and resolves to oppose Cao Cao.
+
+@8205
+Forms an alliance with Sun Quan.
+
+@8206
+Fails to form an alliance with Sun Quan.
+
+@8207
+Fails to persuade Sun Quan.
+
+@8208
+Brings about the alliance of Sun Quan and Liu Bei.
+
+@8209
+Thanks to the envoy {e02}, forms an alliance with Sun Quan.
+
+@8210
+Sends Zhang Song as envoy to Cao Cao.
+
+@8211
+Executes Zhang Song, Liu Zhang's envoy.
+
+@8212
+Has Zhang Song, Liu Zhang's envoy, beaten with rods.
+
+@8213
+Is executed for insulting Cao Cao.
+
+@8214
+Fails to form an alliance with Cao Cao.
+
+@8215
+Hands Liu Bei the Map of Western Shu.
+
+@8216
+Forms an alliance with Liu Bei.
+
+@8217
+Forms an alliance with Liu Zhang.
+
+@8218
+On Han Hao's advice, sets up military farm colonies.
+
+@8219
+Advises {e02} to set up military farm colonies.
+
+@8220
+On Chen Qun's advice, establishes the Nine-Rank System.
+
+@8221
+Advises {e02} to establish the Nine-Rank System.
+
+@8222
+Moves tens of thousands of people from Yi Isle to Yangzhou.
+
+@8223
+Advises {e02} to move the people of Yi Isle to Yangzhou.
+
+@8224
+The sorcerer Zuo Ci asks for an audience.
+
+@8225
+Zuo Ci appears at a banquet, works his magic and vanishes.
+
+@8226
+Falls victim to a mysterious illness and dies.
+
+@8227
+Gives Lu Bu the horse Red Hare and welcomes him to his staff.
+
+@8228
+Won over by the gift of Red Hare, enters the service of {e02}.
+
+@8229
+On the advice of Xun Yu and Xun You, takes Cheng Yu into service.
+
+@8230
+Recommends {e03} to their lord {e02}.
+
+@8231
+Answers the summons of {e02} and enters their service.
+
+@8232
+On Cheng Yu's advice, takes Guo Jia into service.
+
+@8233
+On Guo Jia's advice, takes Liu Ye into service.
+
+@8234
+On Liu Ye's advice, takes Man Chong and Lu Qian into service.
+
+@8235
+Recommends Man Chong and Lu Qian to their lord {e02}.
+
+@8236
+On the advice of Man Chong and Lu Qian, takes Mao Jie into service.
+
+@8237
+On Lu Su's advice, takes Zhuge Jin into service.
+
+@8238
+On Zhang Hong's advice, takes Gu Yong into service.
+
+@8239
+On Yi Ji's advice, takes Ma Liang and Ma Su into service.
+
+@8240
+Recommends the Ma brothers to their lord {e02}.
+
+@8241
+Learns from Sima Hui of the Sleeping Dragon and the Young Phoenix.
+
+@8242
+Visits Zhuge Liang's hut.
+
+@8243
+Follows Liu Bei on a visit to Zhuge Liang's hut.
+
+@8244
+Visits Zhuge Liang's hut a second time.
+
+@8245
+Follows Liu Bei on a second visit to Zhuge Liang's hut.
+
+@8246
+Visits Zhuge Liang's hut a third time and asks for his guidance.
+
+@8247
+Makes Zhuge Liang his advisor.
+
+@8248
+Follows Liu Bei on a third visit to Zhuge Liang's hut.
+
+@8249
+Moved by three visits, becomes advisor to {e02}.
+
+@8250
+A bronze sparrow statue is unearthed at Ye.
+
+@8251
+Begins building the Bronze Sparrow Terrace.
+
+@8252
+Halts work on the Bronze Sparrow Terrace.
+
+@8253
+The Bronze Sparrow Terrace is completed at Ye.
+
+@8254
+On Xiahou Dun's recommendation, takes Dian Wei into service.
+
+@8255
+Finds Dian Wei chasing a tiger in the mountains.
+
+@8256
+Is discovered while chasing a tiger.
+
+@8257
+Impressed by Xu Chu's prowess, takes him into service.
+
+@8258
+Fights a fierce bout with Xu Chu.
+
+@8259
+Submits to {e02} and enters their service.
+
+@8260
+At the urging of the court, becomes Duke of Wei.
+
+@8261
+Is urged to become Duke of Wei, but declines.
+
+@8262
+Opposes {e02} becoming Duke of Wei.
+
+@8263
+Opposes {e02} becoming Duke of Wei and takes his own life.
+
+@8264
+Receives 3,000 measures of food from Lu, a rich man of Huainan.
+
+@8265
+Takes the two Zhangs of Jiangdong, Zhang Zhao and Zhang Hong, into service.
+
+@8266
+Answers the personal summons of {e02}.
+
+@8267
+On Zhou Yu's advice, takes Lu Su into service.
+
+@8268
+Takes a fine horse from bandits and presents it to {e02}.
+
+@8269
+Swears an oath of brotherhood with {e02}.
+
+@8270
+Swears an oath with {e02} as sworn brother and sister.
+
+@8271
+Swears an oath with {e02} as sworn sister and brother.
+
+@8272
+Swears an oath of sisterhood with {e02}.
+
+@8273
+Swears an oath of brotherhood with {e02}.
+
+@8274
+Swears an oath with {e02} as sworn brother and sister.
+
+@8275
+Swears an oath with {e02} as sworn sister and brother.
+
+@8276
+Swears an oath of sisterhood with {e02}.
+
+@8277
+Loses the fierce general Hua Xiong at Hulao Pass.
+
+@8278
+Is cut down by Guan Yu at Hulao Pass.
+
+@8279
+Takes Hua Xiong's head at Hulao Pass.
+
+@8280
+Is cut down by Hua Xiong at Hulao Pass.
+
+@8281
+Takes part in the Battle of Hulao Pass.
+
+@8282
+The Battle of Hulao Pass.
+
+@8283
+Clashes with the army of {e02} at Jieqiao.
+
+@8284
+Through Dong Zhuo's mediation, the two sides make peace.
+
+@8285
+Brings Yuan Shao and Gongsun Zan, fighting at Jieqiao, to make peace.
+
+@8286
+Claiming to avenge his father, attacks Tao Qian in Xuzhou.
+
+@8287
+Is attacked by Cao Cao in Xuzhou.
+
+@8288
+Sends reinforcements to Xuzhou to save Tao Qian.
+
+@8289
+At Tao Qian's request, garrisons Xiaopei.
+
+@8290
+Follows Liu Bei to Xuzhou.
+
+@8291
+At Guandu, burns Wuchao and wins a great victory.
+
+@8292
+At Guandu, loses the depot at Wuchao to fire and suffers a crushing defeat.
+
+@8293
+Defects to Cao Cao and advises an attack on Wuchao.
+
+@8294
+At Red Cliffs, falls to Zhou Yu's fire attack and is crushed.
+
+@8295
+Wins a great victory at the Battle of Red Cliffs.
+
+@8296
+At Red Cliffs, strikes Cao Cao's army together with Sun Quan's.
+
+@8297
+Leads the fleet at Red Cliffs and burns Cao Cao's army to the ground.
+
+@8298
+At Red Cliffs, aids Sun Quan's army as a strategist.
+
+@8299
+Guards the Huarong Road at the Battle of Red Cliffs.
+
+@8300
+At Yiling, falls to Lu Xun's fire attack and is crushed.
+
+@8301
+Wins a great victory at the Battle of Yiling.
+
+@8302
+At Yiling, wins with fire after a long stalemate.
+
+@8303
+Surrounds Ma Su on the hill at Jieting and wins a great victory.
+
+@8304
+Camps on the hill at Jieting, is cut off from water and crushed.
+
+@8305
+Is blamed for the defeat and executed.
+
+@8306
+Misjudging Ma Su's talent, brings about the disaster at Jieting.
+
+@8307
+Faces Zhuge Liang's army at the Wuzhang Plains.
+
+@8308
+Holding firm, forces Zhuge Liang's army to withdraw.
+
+@8309
+Faces Sima Yi's army at the Wuzhang Plains.
+
+@8310
+Worn out in body and mind, falls ill and dies in camp.
+
+@8311
+Inherits Zhuge Liang's art of war at his deathbed.
+
+@8312
+Is entrusted with affairs by the dying Zhuge Liang.
+
+@8313
+Is shot dead by Gan Ning in the fighting at {e0B}.
+
+@8314
+Is shot dead by the enemy officer Gan Ning at the Battle of {e51}.
+
+@8315
+Shoots down the enemy officer Ling Cao with a single arrow.
+
+@8316
+Is rescued by Gan Ning in the fighting at {e0B}.
+
+@8317
+Is rescued by Gan Ning at the Battle of {e51}.
+
+@8318
+Meets Zhao Yun, then serving Gongsun Zan.
+
+@8319
+Meets Liu Bei and comes to respect him.
+
+@8320
+Routed on the field, has their life saved by {e02}.
+
+@8321
+Saves their lord {e02} but dies on the field.
+
+@8322
+Saves their lord {e02} and returns safely.
+
+@8323
+Sentenced to death for a defeat, is saved by Gan Ning.
+
+@8324
+Is sentenced to death for a defeat.
+
+@8325
+Pleads for the life of Su Fei, to whom he owes much.
+
+@8326
+Pleads for the life of Su Fei, to whom he owes much, but is refused.
+
+@8327
+Rejects Gan Ning's plea and has Su Fei put to death.
+
+@8328
+Just before death, heaps abuse on Cao Cao.
+
+@8329
+Refuses to beg for mercy and is executed.
+
+@8330
+On the point of death, urges moving the capital to Jianye.
+
+@8331
+Following Zhang Hong's last wish, moves the capital to Jianye.
+
+@8332
+On his deathbed, entrusts his art of war to Jiang Wei.
+
+@8333
+Names Jiang Wan and Fei Yi as his successors.
+
+@8334
+Names Lu Su as his successor.
+
+@8335
+Is entrusted with affairs by the dying Zhou Yu.
+
+@8336
+Goes as envoy to {e02} and secures an alliance.
+
+@8337
+Impressed by Deng Zhi's bearing, allies with {e02}.
+
+@8338
+Goes as envoy to {e02} and delivers a gift.
+
+@8339
+Goes as envoy to {e02} and delivers a gift.
+
+@8340
+Goes as envoy to {e02} and delivers a gift.
+
+@8341
+Goes as envoy to {e02} and secures an alliance.
+
+@8342
+Impressed by the envoy {e02}, allies with {e03}.
+
+@8343
+Is appointed Protector of {e0B}.
+
+@8344
+Becomes advisor of the {e02} army.
+
+@8345
+Is banished from the {e02} army and becomes a free officer.
+
+@8346
+Answers the summons of {e02} and leaves {e03}.
+
+@8347
+Defeated in battle, enters the service of {e02}.
+
+@8348
+Defeated in battle, is taken prisoner by the {e02} army.
+
+@8349
+Defects and goes over to {e02}.
+
+@8350
+Leaves the service of {e02} and becomes a free officer.
+
+@8351
+Successfully recruits {e02}.
+
+@8352
+Receives an imperial edict to destroy {e02}.
+
+@8353
+Becomes the target of an Attack Order.
+
+@8354
+Goes as envoy to {e02} and concludes an alliance.
+
+@8355
+Goes as envoy to {e02} and arranges a joint attack.
+
+@8356
+Goes as envoy to {e02} and delivers a gift safely.
+
+@8357
+Goes as envoy to {e02} and negotiates a surrender.
+
+@8358
+Goes as envoy to {e02} and negotiates vassalage.
+
+@8359
+Goes as envoy to {e02} and negotiates a prisoner's return.
+
+@8360
+{e01} becomes {e3D}.
+
+@8361
+{e01} is appointed {e3D}.
+
+@8362
+{e01} is appointed {e3D} by {e02}.
+
+@8363
+{e01} is appointed Prime Minister.
+
+@8364
+{e01} is appointed Prime Minister by {e02}.
+
+@8365
+{e01} is appointed Grand Marshal.
+
+@8366
+{e01} is appointed Grand Marshal by {e02}.
+
+@8367
+{e01} is appointed Grand Commander.
+
+@8368
+{e01} is appointed Grand Commander by {e02}.
+
+@8369
+{e01} is appointed Minister of Interior.
+
+@8370
+{e01} is appointed Minister of Interior by {e02}.
+
+@8371
+{e01} is appointed Minister of Interior.
+
+@8372
+{e01} is appointed Minister of Interior by {e02}.
+
+@8373
+Marches on {e0B} as commander in chief.
+
+@8374
+Marches on {e0B}.
+
+@8375
+Attacks {e0B} as part of a joint force with the {e02} army.
+
+@8376
+Marches out to relieve {e0B}.
+
+@8377
+Marches to {e51} to meet the {e02} army.
+
+@8378
+Marches out to meet the {e02} army at {e0B}.
+
+@8379
+Flees {e0B} as the {e02} army attacks.
+
+@8380
+As the enemy attacks, sets fire to {e0B} and flees.
+
+@8381
+At the Battle of {e51}, defeats the enemy commander in chief {e02}.
+
+@8382
+At the Battle of {e51}, defeats the enemy army commander {e02}.
+
+@8383
+At the Battle of {e51}, defeats the enemy officer {e02}.
+
+@8384
+At the Battle of {e51}, defects to the {e02} army as planned.
+
+@8385
+At the Battle of {e51}, defects to the {e02} army as promised.
+
+@8386
+At the Battle of {e51}, seizes the enemy's food.
+
+@8387
+Defeats the {e02} army at the Battle of {e51}.
+
+@8388
+In the fighting at {e0B}, defeats the enemy commander in chief {e02}.
+
+@8389
+In the fighting at {e0B}, defeats the enemy army commander {e02}.
+
+@8390
+In the fighting at {e0B}, defeats the enemy officer {e02}.
+
+@8391
+In the fighting at {e0B}, defects to the {e02} army as planned.
+
+@8392
+In the fighting at {e0B}, defects to the {e02} army as promised.
+
+@8393
+In the fighting at {e0B}, seizes the enemy's food.
+
+@8394
+In the fighting at {e0B}, takes the Command Center.
+
+@8395
+Defeats the {e02} army in the fighting at {e0B}.
+
+@8396
+At the Battle of {e51}, slays {e02} in a duel.
+
+@8397
+At the Battle of {e51}, captures {e02} in a duel.
+
+@8398
+At the Battle of {e51}, loses a duel with {e02}.
+
+@8399
+In the fighting at {e0B}, slays {e02} in a duel.
+
+@8400
+In the fighting at {e0B}, captures {e02} in a duel.
+
+@8401
+In the fighting at {e0B}, loses a duel with {e02}.
+
+@8402
+Learns a new tactic while dueling {e02}.
+
+@8403
+A
+
+@8404
+B
+
+@8405
+C
+
+@8406
+D
+
+@8407
+Is named 3rd General of the East by {e02}.
+
+@8408
+Is named 3rd General of the South by {e02}.
+
+@8409
+Is named 3rd General of the West by {e02}.
+
+@8410
+Is named 3rd General of the North by {e02}.
+
+@8411
+Is named 4th General of the East by {e02}.
+
+@8412
+Is named 4th General of the South by {e02}.
+
+@8413
+Is named 4th General of the West by {e02}.
+
+@8414
+Is named 4th General of the North by {e02}.
+
+@8415
+Is named General of the Left by {e02}.
+
+@8416
+Is named General of the Right by {e02}.
+
+@8417
+Is named General of the Front by {e02}.
+
+@8418
+Is named General of the Rear by {e02}.
+
+@8419
+Is named General of Barbarians by {e02}.
+
+@8420
+Is named General of Pacification by {e02}.
+
+@8421
+Is named General of Outer Peace by {e02}.
+
+@8422
+Is named General of Relief by {e02}.
+
+@8423
+Is removed as advisor of the {e02} army.
+
+@8424
+Is made spy of the {e02} army.
+
+@8425
+Is removed as spy of the {e02} army.
+
+@8426
+Receives {e29} from {e02}.
+
+@8427
+Has {e29} taken away by {e02}.
+
+@8428
+Goes as envoy to {e02}, but fails to secure an alliance.
+
+@8429
+Goes as envoy to {e02}, but fails to arrange a joint attack.
+
+@8430
+Goes as envoy to {e02}, but the gift is refused.
+
+@8431
+Goes as envoy to {e02}, but fails to negotiate a surrender.
+
+@8432
+Goes as envoy to {e02}, but fails to negotiate vassalage.
+
+@8433
+Goes as envoy to {e02}, but fails to negotiate a prisoner's return.
+
+@8434
+On a diplomatic mission, has their letter seized by {e02}.
+
+@8435
+Is named General of Inner Growth by {e02}.
+
+@8436
+Is named General of Outer Growth by {e02}.
+
+@8437
+Is named General of Inner Vigor by {e02}.
+
+@8438
+Is named General of Outer Vigor by {e02}.
+
+@8439
+Is named General of Inner Spirit by {e02}.
+
+@8440
+Is named General of Outer Spirit by {e02}.
+
+@8441
+Is named General of Inner Praise by {e02}.
+
+@8442
+Is named General of Outer Praise by {e02}.
+
+@8443
+Is named General of Foreign Foray by {e02}.
+
+@8444
+Is named General of the Military by {e02}.
+
+@8445
+Is named General of Literature by {e02}.
+
+@8446
+Is named General of Campaigns by {e02}.
+
+@8447
+Is named General of the Kingdom by {e02}.
+
+@8448
+Is named General of the River by {e02}.
+
+@8449
+Is named General of Peace by {e02}.
+
+@8450
+Is named General of the Army by {e02}.
+
+@8451
+Is named General of East Glory by {e02}.
+
+@8452
+Is named General of South Glory by {e02}.
+
+@8453
+Is named General of West Glory by {e02}.
+
+@8454
+Is named General of North Glory by {e02}.
+
+@8455
+Is named Horse General by {e02}.
+
+@8456
+Is named Foot General by {e02}.
+
+@8457
+Is appointed Lord of the Palace.
+
+@8458
+Is appointed Lord of the Capital.
+
+@8459
+Is appointed Lord of the Guards.
+
+@8460
+Is appointed Commander of Five Posts.
+
+@8461
+Is appointed Commander of Left Corps.
+
+@8462
+Is appointed Commander of Right Corps.
+
+@8463
+Is appointed Commander of South Corps.
+
+@8464
+Is appointed Commander of North Corps.
+
+@8465
+Is appointed Commander of Tiger Guard.
+
+@8466
+Is appointed Commander of Royal Guard.
+
+@8467
+Receives the title of Lord of the Palace from {e02}.
+
+@8468
+Receives the title of Lord of the Capital from {e02}.
+
+@8469
+Receives the title of Lord of the Guards from {e02}.
+
+@8470
+Receives the title of Commander of Five Posts from {e02}.
+
+@8471
+Receives the title of Commander of Left Corps from {e02}.
+
+@8472
+Receives the title of Commander of Right Corps from {e02}.
+
+@8473
+Receives the title of Commander of South Corps from {e02}.
+
+@8474
+Receives the title of Commander of North Corps from {e02}.
+
+@8475
+Receives the title of Commander of Tiger Guard from {e02}.
+
+@8476
+Receives the title of Commander of Royal Guard from {e02}.
+
+@8477
+Drafts troops in {e0B}.
+
+@8478
+Sets out to search for talent in {e0B}.
+
+@8479
+Returns from searching for talent.
+
+@8480
+In {e0B}, learns a new duel tactic from {e02}.
+
+@8481
+Finds {e02} in {e0B} and recruits them.
+
+@8482
+Finds {e02} in {e0B}.
+
+@8483
+From this month, is put in charge of farming in {e0B}.
+
+@8484
+From this month, is put in charge of commerce in {e0B}.
+
+@8485
+From this month, is put in charge of public safety in {e0B}.
+
+@8486
+Is relieved of farming duty in {e0B} to go to war.
+
+@8487
+Is relieved of commerce duty in {e0B} to go to war.
+
+@8488
+Is relieved of public safety duty in {e0B} to go to war.
+
+@8489
+Is relieved of farming duty in {e0B} to move.
+
+@8490
+Is relieved of commerce duty in {e0B} to move.
+
+@8491
+Is relieved of public safety duty in {e0B} to move.
+
+@8492
+Is relieved of farming duty in {e0B} to search.
+
+@8493
+Is relieved of commerce duty in {e0B} to search.
+
+@8494
+Is relieved of public safety duty in {e0B} for a long search.
+
+@8495
+Wins a promise from {e02} of {e0B} to defect.
+
+@8496
+Persuades {e02}, Protector of {e0B}, to rebel.
+
+@8497
+Wins a promise from the people of {e0B} to rise from within.
+
+@8498
+Spreads damaging rumors about {e02} in {e0B}.
+
+@8499
+Spreads false word that an army is marching on {e0B}.
+
+@8500
+Enters the service of {e02}.
+
+@8501
+Recommends the two Zhangs to their lord {e02}.
+
+@8502
+Retreats as {e0B} falls to the forces of {e02}.
+
+@8503
+Is captured by the forces of {e02} when {e0B} falls.
+
+@8504
+Is captured, but soon released.
+
+@8505
+Is released after a year in captivity.
+
+@8506
+Escapes from prison and returns home.
+
+@8507
+Escapes from prison and becomes a free officer.
+
+@8508
+Has no choice but to serve {e02}.
+

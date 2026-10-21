@@ -1,0 +1,768 @@
+@20000
+The officers in {e0B} will try to retreat to {e0C}.
+
+@20001
+Which city should the officers in {e0B} retreat to?
+
+@20002
+{e01}, pursue the fleeing enemy?
+
+@20003
+{e01}, leave a rear guard?
+
+@20004
+Please, leave the rear guard to me.
+
+@20004.1
+I, {e01}, will hold the rear.
+
+@20004.2
+I beg you, let me, {e01}, take the rear guard.
+
+@20005
+Leave the rear guard to {e01}?
+
+@20006
+Leave it to me.
+
+@20006.1
+Yes! I will hold back the enemy without fail.
+
+@20006.2
+I am already prepared.
+
+@20006.3
+I will hold back the enemy!
+
+@20006.4
+Yes! Even at the cost of my life.
+
+@20006.5
+I will make them regret chasing us.
+
+@20007
+I will hold back the enemy, even at the cost of my life!
+
+@20007.1
+I will not disappoint you.
+
+@20007.2
+Watch and see how resolved I am!
+
+@20008
+You say you cannot trust this to me...?
+
+@20008.1
+You think me not up to the task...?
+
+@20008.2
+Wh-why can it not be me...?
+
+@20008.3
+Why will you not trust it to me?
+
+@20009
+Which unit will stay behind as the rear guard?
+
+@20010
+Such a great task is beyond me.
+
+@20010.1
+I am not up to it. Could you not reconsider?
+
+@20010.2
+I do not understand your purpose... (You want me to die?!)
+
+@20010.3
+Why me...? (This is no joke!)
+
+@20011
+{e01} has captured {e02}.
+
+@20012
+{e01} of the {f15} army has been wounded.
+
+@20013
+There are no officers left in {e0B}.
+
+@20014
+There are no soldiers left in {e0B}.
+
+@20015
+The {f15} army has captured {e01}!
+
+@20016
+{e01} has been captured by the {f15} army!
+
+@20017
+{e01} got away.
+
+@20018
+{e01} has safely retreated to {e0B}!
+
+@20019
+{e01}, who defected to the {f15} army, has withdrawn to {e0B}.
+
+@20020
+The battle has dragged on too long... Let us pull back for now.
+
+@20020.1
+It seems no time is left... We withdraw now.
+
+@20020.2
+The battle has dragged on too long. We will storm the castle another time.
+
+@20020.3
+So there is not enough time left to take the castle... All troops, fall back!
+
+@20021
+{C13}, I was planted with {e03}, and have now returned.
+
+@20021.1
+{C13}, I missed my chance to defect on the battlefield, and have returned from {e03}'s side.
+
+@20021.2
+{C13}, I was planted with {e03}, but as the battle went, I have returned.
+
+@20022
+This must be fate. I will serve you, Lord {e02}, as best I can.
+
+@20022.1
+Hm?! A voice from Heaven... telling me to serve Lord {e02}... Very well.
+
+@20022.2
+I will forget past favors and entrust my life to you, Lord {e02}.
+
+@20022.3
+This too is destiny... I, {e01}, swear loyalty to you for life.
+
+@20023
+I may serve you, but can you really tame me?
+
+@20023.1
+It cannot be helped now. I will lend you my strength, Lord {e02}.
+
+@20023.2
+I was not meant to rule the realm after all... From now on I will serve you, Lord {e02}.
+
+@20023.3
+Very well... As long as I live, I may rise again...
+
+@20023.4
+So my dream is shattered... But this too is Heaven's will. I will obey.
+
+@20023.5
+Perhaps you are the one Heaven favors, Lord {e02}... I will entrust my dream to you.
+
+@20024
+I cannot die before I see the Han restored... I will obey.
+
+@20024.1
+I cannot fall before I restore the Han with my own hands... If you spare my life, I can hardly refuse.
+
+@20024.2
+If it is to restore the House of Han, I will gladly serve you, Lord {e02}.
+
+@20024.3
+Restoring the House of Han is my dream... For that I gladly give my life.
+
+@20025
+I want a world where the people can live in peace... For that I will gladly serve.
+
+@20025.1
+You may be the one to bring peace to the realm, Lord {e02}... I will entrust my dream to you.
+
+@20025.2
+If you promise a world where the people live in peace, I will gladly serve.
+
+@20025.3
+A realm at peace is my dream... For that I gladly entrust my life to you.
+
+@20026
+So you have seen my talent... Very well, I will serve you.
+
+@20026.1
+If you invite me for my talent, then I, {e01}, will serve you, Lord {e02}.
+
+@20026.2
+If you give me a place to use my talents, I will gladly serve.
+
+@20026.3
+I have always wished to work for someone who values my talent.
+
+@20027
+Now is the time to lay the foundations of the state. Please make use of my abilities.
+
+@20027.1
+To keep a state prosperous for long, you will need people like me.
+
+@20027.2
+I have long pondered ways to raise the state's power. Let them be of use to you, Lord {e02}.
+
+@20027.3
+To survive these chaotic times, securing one's land comes first. I will do my humble best.
+
+@20028
+Serving you, Lord {e02}, I need not fear seeing my state fall.
+
+@20028.1
+To keep order in your lands, you will need people like me.
+
+@20028.2
+Even I can keep order in your lands. Take me into your service.
+
+@20028.3
+I do not ask for peace in all the realm... But I would secure your lands at least. For that I will gladly serve you.
+
+@20029
+If my life is spared, I will accept anything.
+
+@20029.1
+If you spare me, I will do anything.
+
+@20029.2
+Life is what matters most... I had best do as I am told...
+
+@20029.3
+If it saves my life, so be it... I will serve you, Lord {e02}.
+
+@20030
+...Very well. With you and me together, Lord {e02}, ruling the realm is no dream.
+
+@20030.1
+With you, Lord {e02}, I might aim for the realm... I will lend you my strength.
+
+@20030.2
+I see in you one fit to rule the realm, Lord {e02}. Only you can make my dream come true.
+
+@20030.3
+Founding a new dynasty is my dream... For that I will gladly serve you, Lord {e02}.
+
+@20031
+To expand your lands, you will need people like me... I, {e01}, will do my utmost for you.
+
+@20031.1
+Taking lands is a warrior's nature... Let me, {e01}, join your conquests, Lord {e02}.
+
+@20031.2
+In chaotic times, a warrior proves himself by expanding the realm. Watch me well.
+
+@20031.3
+I, {e01}, am resolved to serve faithfully to spread your power, Lord {e02}.
+
+@20032
+They say with enough merit, even Supreme Commander is within reach. That is no lie, I trust?
+
+@20032.1
+I will win merit under you, Lord {e02}, and rise in the world!
+
+@20032.2
+Serving you, Lord {e02}, my position would be assured... Yes, take me on.
+
+@20032.3
+Rising in the world is what makes life worth living... I, {e01}, will serve you faithfully.
+
+@20033
+I cannot yet tell if you are worthy of my loyalty, Lord {e02}. But I will try serving you.
+
+@20033.1
+You are one worth serving with my life, Lord {e02}... I will gladly serve.
+
+@20033.2
+You are the very lord I was seeking, Lord {e02}.
+
+@20033.3
+I am searching for a lord truly worth serving, but for now I will be in your care.
+
+@20034
+I care not who rules the realm, but since you ask so earnestly, I have no reason to refuse.
+
+@20034.1
+I owe you nothing, Lord {e02}, but... well, I may as well try serving you.
+
+@20034.2
+I have given up worldly hopes, but I will lend you my strength, Lord {e02}.
+
+@20034.3
+I have all but left the world behind, but if I can be of use, take me into your service.
+
+@20035
+There is no point thinking about it now... For the time being, I will be in your care, Lord {e02}.
+
+@20035.1
+So I just say yes and I am saved... How easy.
+
+@20035.2
+I might betray you at any time, you know... {C145}...
+
+@20035.3
+Take care that the dog you keep does not bite your hand... {C145}...
+
+@20036
+You would pardon me...? I am deeply moved. I swear loyalty to you, Lord {e02}.
+
+@20036.1
+You would pardon me, {e01}...? I will repay this kindness with my finest service.
+
+@20036.2
+To pardon me, your enemy... To repay this kindness, I will show you my finest service.
+
+@20036.3
+Your kindness moves me, Lord {e02}. For you, I would give my life.
+
+@20037
+Say what you like, it is useless. Just cut my head off.
+
+@20037.1
+That is out of the question. I left my family back home.
+
+@20037.2
+{C145}... What a fine joke.
+
+@20037.3
+Captured, and then to bow to you? That would only add to my shame.
+
+@20037.4
+Enough! I have no wish to serve you.
+
+@20037.5
+I will serve you in exchange for your head. {C145}...
+
+@20037.6
+Stop talking and cut my head off.
+
+@20037.7
+Serve you? Hah. I will not listen to such nonsense.
+
+@20037.8
+To serve the likes of you would shame my line forever... Go on, kill me.
+
+@20037.9
+The likes of you can never control me.
+
+@20038
+How heartless of you, telling me to serve you.
+
+@20038.1
+If I bowed to you, I could never face those who died.
+
+@20038.2
+Nonsense... Whatever happens to me, I have not lost my pride.
+
+@20038.3
+I could never bear to surrender to you!
+
+@20038.4
+Serve you? Hah. Who do you think I am?
+
+@20038.5
+What would you do in my place?
+
+@20039
+A loyal retainer serves no second lord. You of all people should understand, Lord {e02}...
+
+@20039.1
+I thank you for your kindness, but I cannot betray my lord.
+
+@20039.2
+I would rather die than bear the name of traitor.
+
+@20039.3
+I would rather die than leave a shameful name behind.
+
+@20039.4
+I believe a retainer's duty is loyalty, whatever happens.
+
+@20039.5
+To live on in shame as a disloyal retainer is more than I could bear.
+
+@20040
+If you give me all your gold, I might serve you. {C145}...
+
+@20040.1
+I have no reason to serve you. Just cut my head off!
+
+@20040.2
+I would gain nothing by serving you.
+
+@20040.3
+I have not the slightest wish to work for you.
+
+@20040.4
+I owe my lord nothing, but I have no wish to work for you.
+
+@20040.5
+True, I am not bound by duty. But if you think I will serve just anyone, you are wrong.
+
+@20041
+If you think this makes me grateful, you are sorely mistaken.
+
+@20041.1
+Show me mercy if you like, but I will show none on the battlefield!
+
+@20041.2
+How soft... I hope that softness of yours does not cost you your life...
+
+@20041.3
+You are letting me go...? Then I will gladly take my leave.
+
+@20041.4
+There is no place for mercy in war... Why do you not kill me?!
+
+@20041.5
+I am ready to die. Go on and... What? Y-you are letting me go?
+
+@20041.6
+Next time I will have your head! Wait for me until then!
+
+@20041.7
+Kindness is repaid, they say... But it can also come back to haunt you.
+
+@20041.8
+I slipped this time, but do not think you will win again.
+
+@20041.9
+If you keep doing this, you will not live long.
+
+@20042
+You can afford it, can you...? But ease breeds carelessness, and when it does, you...
+
+@20042.1
+To be shamed like this by the likes of you... This debt will be repaid!
+
+@20042.2
+I slipped this time, but next time it will be different.
+
+@20042.3
+I lost in battle and in greatness... But one day I will surpass you.
+
+@20042.4
+A kind lord, just as they say. I will not forget this kindness!
+
+@20042.5
+You think very little of me, {e01}...
+
+@20043
+I will repay this debt. We will meet again on the battlefield.
+
+@20043.1
+A kind lord, just as they say. I will not forget this kindness!
+
+@20043.2
+I wish we had met as something other than enemies, Lord {e02}... Farewell.
+
+@20043.3
+I do not know if I can repay this kindness... But I will never forget it.
+
+@20043.4
+In times like these, to find someone like you, Lord {e02}...
+
+@20043.5
+I thank you... But I owe you nothing. Next time I will win!
+
+@20044
+Treat me like this and you will not get away with it.
+
+@20044.1
+{C145}... I will make you regret not killing me.
+
+@20044.2
+I will repay this kindness by spilling your blood. {C145}...
+
+@20044.3
+You will pay dearly for treating me like this!
+
+@20044.4
+Did you think letting me go would earn my thanks? {C145}...
+
+@20044.5
+A soft fool like you is fated to die by my hand someday.
+
+@20045
+I will have your head myself. Be ready.
+
+@20045.1
+Next time I take your life. Enjoy yourself until then.
+
+@20045.2
+What is this? Do you think this means I will forgive you?
+
+@20045.3
+Curses... To receive mercy from you... There is no greater humiliation!
+
+@20046
+So this is the fate of the defeated...
+
+@20046.1
+Curses... To suffer such humiliation...
+
+@20046.2
+As long as I live, my day will come again.
+
+@20046.3
+Captured by you, to leave a shameful name... How pathetic.
+
+@20046.4
+What do you mean to do with me now?
+
+@20046.5
+I will accept this as Heaven's will.
+
+@20046.6
+Am I to rot away in a place like this...?
+
+@20046.7
+Defeated and captured... Has Heaven forsaken me?
+
+@20046.8
+Curses... I will not lament my ill fortune...
+
+@20046.9
+It seems my luck has run out...
+
+@20047
+You would have me, {e01}, live on in shame?!
+
+@20047.1
+Rather than this humiliation, I would have died a glorious death in battle...
+
+@20047.2
+Whatever happens, I, {e01}, will never forget my lord's favor and turn traitor!
+
+@20047.3
+Whatever happens, I will never yield to you.
+
+@20047.4
+For now, I can only endure...
+
+@20047.5
+Better to be chained up than scorned as a disloyal retainer.
+
+@20048
+What good will capturing me do you?
+
+@20048.1
+Please! Spare me...
+
+@20048.2
+Wh-why... Do you bear some grudge against me...?
+
+@20048.3
+D-do not lock me up in a place like this... Please, I beg you.
+
+@20048.4
+You need not lock me up in there. I will not run away, s-so...
+
+@20048.5
+If you want me to serve you, there are better ways to treat me.
+
+@20049
+To meet my end in a place like this... Such regret...
+
+@20049.1
+Curses, not even a glorious death... Such regret...
+
+@20049.2
+I am already prepared. Go on, strike me down in one blow.
+
+@20049.3
+One day someone will rise in my place and end your life.
+
+@20049.4
+Perhaps this is better than living on in disgrace.
+
+@20049.5
+A turbulent life, looking back... I have no regrets. Go on, strike me down in one blow.
+
+@20049.6
+My fate has run its course... A man's life is over so quickly.
+
+@20049.7
+Perhaps this is my reward for all the killing I have done...
+
+@20049.8
+Your luck will run out soon. I will be waiting for you!
+
+@20049.9
+Has Heaven forsaken me...?
+
+@20050
+Even if I die, someone will carry on my cause and strike you down.
+
+@20050.1
+That one like me should perish in a place like this... A cruel joke of Heaven...
+
+@20050.2
+Curses... To die with my goal unfulfilled...
+
+@20050.3
+I will beg forgiveness of those who died for me in the next world.
+
+@20050.4
+This is the end of those who lose in war. Your day will come too...
+
+@20050.5
+That I should misjudge your strength...
+
+@20051
+A flower's life is short... Perhaps this too is fate...
+
+@20051.1
+Even a flower in full bloom must fall... I would fall beautifully.
+
+@20052
+You may be proud that you took the head of {e01}!
+
+@20052.1
+I fought and lost. I have no regrets.
+
+@20052.2
+I had resolved to die on the battlefield...
+
+@20052.3
+I, {C5}, need no one's hand to take my own life.
+
+@20052.4
+Watch well how {e01} dies!
+
+@20052.5
+To lose to the likes of you... Such regret... Fate is merciless.
+
+@20053
+L-let go! I do not want to die yet!
+
+@20053.1
+You need not kill me... I could be of some use!
+
+@20053.2
+I will do anything... So please, spare my life.
+
+@20053.3
+You would kill me? Heartless brute!
+
+@20053.4
+What would you gain by taking my life? Please, reconsider.
+
+@20053.5
+I beg you, spare my life, spare my life...
+
+@20054
+{e01} has joined {e02}'s service.
+
+@20055
+{e01} was released by {e02}.
+
+@20056
+{e01} was imprisoned by {e02}.
+
+@20057
+{e01} was executed by {e02}.
+
+@20058
+{C13}, the news of {e0B}'s fall has shaken the troops. We cannot fight like this.
+
+@20058.1
+{C13}, rumors of {e0B}'s fall are spreading among the troops... If we advance, we have no chance.
+
+@20058.2
+{C13}, with {e0B} fallen, we cannot go on advancing.
+
+@20058.3
+{C13}, the troops already know {e0B} has surrendered. We can only withdraw.
+
+@20058.4
+{C13}, the fall of {e0B} has badly shaken the troops. We should withdraw and wait for another chance.
+
+@20059
+The news of {e0B}'s fall has shaken the troops... We cannot fight like this.
+
+@20059.1
+Rumors of {e0B}'s fall are spreading among the troops... It cannot be helped. Fall back for now.
+
+@20059.2
+With {e0B} fallen, we cannot go on advancing...
+
+@20059.3
+The troops seem to know already that {e0B} has surrendered... A pity, but we must withdraw.
+
+@20059.4
+The fall of {e0B} has badly shaken the troops... We will pull back and wait for another chance.
+
+@20060
+{e01}'s army was forced to fall back.
+
+@20061
+{C13}, I regret we were too late to relieve {e0B}.
+
+@20061.1
+{C13}, {e0B} fell to the enemy before we arrived... We were too late.
+
+@20061.2
+{C13}, word has come that {e0B} has surrendered... They could not hold out until we arrived.
+
+@20061.3
+{C13}, with {e0B} surrendered, it cannot be helped. We will withdraw for now!
+
+@20061.4
+{C13}, {e0B} fell before we could come to its aid. There is nothing more we can do.
+
+@20062
+A pity, but it seems we were too late to relieve {e0B}...
+
+@20062.1
+Hmm... {e0B} fell to the enemy before we arrived. We can only pull back now.
+
+@20062.2
+So {e0B} has surrendered... They could not hold out until we arrived...
+
+@20062.3
+With {e0B} surrendered, it cannot be helped. We will withdraw.
+
+@20062.4
+{e0B} fell before we could come to its aid... There is nothing more we can do.
+
+@20063
+{e01}'s army has turned back to {e0B}.
+
+@20064
+Choose the Protector of {e0B}.
+
+@20065
+The ruler, {e01}, has died in this battle.
+
+@20066
+Hear your officers' opinions and choose the new ruler.
+
+@20067
+{e01}, move on to the siege?
+
+@20068
+The {f15} army withdrew without attacking {e0B}.
+
+@20069
+The {f15} army has begun a pursuit.
+
+@20070
+The {f15} army has called off the pursuit.
+
+@20071
+The {f15} army seems to have called off the pursuit.
+
+@20072
+{e01}'s unit was hit by a counterattack from {e02}'s unit and suffered heavy losses.
+
+@20073
+{e01}'s unit is pursuing {e02}'s unit.
+
+@20074
+Lord {e02}, with the taking of {e0B}, we have carried out the order to attack {f15}.
+
+@20075
+With the taking of {e0B}, we have carried out the order to attack {f15}.
+
+@20076
+{e01}'s reputation grows for carrying out the Attack Order.
+
+@20077
+All the retainers seem moved by {e01}'s good faith.
+

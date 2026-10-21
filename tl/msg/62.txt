@@ -1,0 +1,309 @@
+@62000
+Seat of Liaodong commandery, Youzhou; today Liaoyang, Liaoning. Ruled for generations by the clan of Gongsun Du after he became Protector. Gongsun Yuan rebelled against Wei in 237; Sima Yi crushed him the next year.
+
+@62001
+Youbeiping commandery, Youzhou; renamed Beiping under the Western Jin. South of today's Fengrun, Hebei. Gongsun Zan served here as Protector, guarding the land against the northern tribes.
+
+@62002
+Ji county, Yan, Youzhou; the provincial capital, today Beijing. Governed by Liu Yu. In 193 Liu Yu clashed with Gongsun Zan over tribal policy; Zan destroyed him and made Ji his base.
+
+@62003
+Seat of Bohai commandery, Jizhou; northeast of today's Nanpi, Hebei. Made Protector of Bohai, Yuan Shao answered Cao Cao's call to arms against Dong Zhuo in 190. It thrived as the Yuan base from then on.
+
+@62004
+Ye county, seat of Wei commandery, Jizhou; south of today's Cixian, Hebei. Capital of the duchy of Wei once Cao Cao became duke. When Cao Pi took the throne the capital moved to Luoyang, but Ye thrived as one of Wei's five capitals.
+
+@62005
+Seat of Pingyuan commandery, Qingzhou; southwest of today's Pingyuan, Shandong. Part of Qingzhou in the Later Han, later of Jizhou. Known as the place Liu Bei governed in the late Later Han.
+
+@62006
+Beihai, Qingzhou, seat at Ju; west of today's Changle, Shandong. Kong Rong governed it for six years. Taken by Yuan Shao's son Yuan Tan; Cao Cao later defeated Yuan Tan and made it his own.
+
+@62007
+Seat of Taiyuan commandery and of the Inspector of Bingzhou; southwest of today's Taiyuan, Shanxi. After crushing Gongsun Zan, Yuan Shao sent his nephew Gao Gan to rule it. Gao Gan yielded to Cao Cao, then rebelled at Hu Pass.
+
+@62008
+Xiapi commandery, the capital of Xuzhou; south of today's Pixian, Jiangsu. In 198 Lu Bu was besieged here by Cao Cao and Liu Bei, surrendered and was executed. Later Guan Yu held it for Liu Bei, lost, and yielded to Cao Cao.
+
+@62009
+Pei county in Pei; "Xiaopei" (Little Pei) set the county apart from the state. Today's Peixian, Jiangsu. Liu Bei camped here at the request of Tao Qian; after Tao Qian died, he lent the castle to Lu Bu.
+
+@62010
+Seat of Dong commandery, Yanzhou; later of the state of Puyang. Today's Puyang, Henan. Qiao Mao governed it until Liu Dai killed him; then, on Yuan Shao's recommendation, Cao Cao became Protector.
+
+@62011
+Seat of Chenliu, Yanzhou; southeast of today's Kaifeng, Henan. In 189, Cao Cao fled Dong Zhuo and raised volunteers here, under the Protector Zhang Miao, his friend. Cao Cao's first base.
+
+@62012
+Xu county, Yingchuan, Yuzhou; east of today's Xuchang, Henan. Called the Xu capital once Cao Cao took in Emperor Xian. Cao Cao moved to Ye after taking Hebei, but the Emperor lived here until the Han fell.
+
+@62013
+Qiao county in Pei, capital of Yuzhou; today's Boxian, Anhui. As the birthplace of Cao Cao, Emperor Wu of Wei, it was one of Wei's five capitals with Luoyang, Xuchang, Chang'an and Ye.
+
+@62014
+Runan commandery, Yuzhou; north of today's Pingyu, Henan. Among the lands worst hit by the Yellow Turbans, ruled by rebels like Liu Pi and Gong Du even after Zhang Jiao died. Home of Xu Shao, who judged Cao Cao's character.
+
+@62015
+Henei commandery, Sili; southwest of today's Wuzhi, Henan. Ruled by Wang Kuang, who joined Cao Cao's attack on Hulao Pass, but lost when his officer Fang Yue was slain by Dong Zhuo's fierce Lu Bu.
+
+@62016
+Luoyang county, Henan, Sili; northeast of today's Luoyang. The thriving capital of the Later Han, burned to ruin by Dong Zhuo on moving to Chang'an. Rebuilt by Cao Pi; capital of Wei and the Western Jin.
+
+@62017
+Chang'an county, Jingzhao, Yongzhou; northwest of today's Xi'an. Capital of the Former Han, made capital again by Dong Zhuo. Wei's front line against Shu-Han, held by Cao Zhen, Sima Yi and others; one of Wei's five capitals.
+
+@62018
+Hanyang commandery, Yongzhou, renamed Tianshui in the Three Kingdoms era; today's Tianshui, Gansu. To its south lies Qishan, Zhuge Liang's base in his 1st and 4th campaigns. Home of his heir Jiang Wei.
+
+@62019
+Anding commandery, Liangzhou; part of Yongzhou from 213. South of today's Zhenyuan, Gansu. A frontier where the Qiang were strong; one of three commanderies that rose against Wei in Zhuge Liang's first campaign.
+
+@62020
+Guzang, Wuwei, Liangzhou; today's Wuwei, Gansu. "Xiliang" is a Song and Yuan era name, not used in the Han or Three Kingdoms; likely an error of the novel, in which Dong Zhuo is Inspector of Xiliang.
+
+@62021
+Wudu commandery, Liangzhou, seat at Xiabian; west of today's Chengxian, Gansu. Part of Yizhou in the Three Kingdoms era. Taken by Shu-Han from Wei with Yinping in the 3rd campaign of 229. Land of the Di and Qiang.
+
+@62022
+Hanzhong commandery, Yizhou; today's Hanzhong, Shaanxi. Where Liu Bang founded the Han. Ruled by Zhang Lu of the Five Pecks sect; Cao Cao took it from him but lost it to Liu Bei. Then Shu-Han's front line against Wei.
+
+@62023
+Zitong county, Guanghan, Yizhou; Zitong commandery after Liu Bei entered Shu. Today's Zitong, Sichuan. Li Yan was exiled here after failing to supply the northern campaign; he died grieving on hearing of Zhuge Liang's death.
+
+@62024
+Seat of Shu commandery, Yizhou; today's Chengdu, Sichuan. Made the provincial capital by Liu Yan as Governor. Capital of Shu-Han once Liu Bei took the throne in 221; capital of Yizhou again under the Western Jin.
+
+@62025
+Seat of Ba commandery, Yizhou; today's Chongqing. Its defender Yan Yan resisted Liu Bei's conquest of Shu but yielded to Zhang Fei. Zhao Yun camped here, kept in the rear during Liu Bei's war on Wu.
+
+@62026
+Yufu county in Ba; split off as Badong under Liu Zhang. Today's Fengjie, Sichuan. After Yiling, Liu Bei camped here and renamed it Yong'an. He died here. "Baidi" (White Emperor) is the Wu name.
+
+@62027
+Yizhou commandery, Yizhou; today's Qujing, Yunnan. The local magnate Yong Kai rebelled against Shu-Han here, prompting the southern campaign. The name Jianning came when the commanderies were reorganized after it.
+
+@62028
+Seat of Nanyang, Jingzhou; today's Nanyang, Henan. The most populous commandery of the Later Han. Yuan Shu raised troops here after fleeing Dong Zhuo. Zhuge Liang lived nearby before moving to Longzhong.
+
+@62029
+Xinye county, Nanyang, Jingzhou; south of today's Xinye, Henan. Given to Liu Bei by the Governor Liu Biao as a front line against Cao Cao. Seat of Wei's Jingzhou in the Three Kingdoms era.
+
+@62030
+Xiangyang county, Nan, Jingzhou; today's Xiangfan, Hubei. Seat of Jingzhou. When Cao Cao took Jingzhou in 208, Xiangyang commandery was formed from parts of Nan and Nanyang; the city remained the seat.
+
+@62031
+Seat of Nan commandery, Jingzhou; today's Jiangling, Hubei. A key point fought over by Cao Cao, Liu Bei and Sun Quan. In the Three Kingdoms era held by Wu, its front line against Wei and Shu-Han and the seat of Wu's Jingzhou.
+
+@62032
+Changsha commandery, Jingzhou; today's Changsha, Hunan. When the bandit Ou Xing rebelled, Sun Jian was made Protector and crushed him. Liu Bei and Sun Quan fought for it; it went to Wu in the Jingzhou treaty of 215.
+
+@62033
+Lingling commandery, Jingzhou; today's Lingling, Hunan. Taken by Liu Bei after Red Cliffs and disputed with Wu, it was his under the Jingzhou treaty. Went to Wu in 219, when Lu Meng defeated Guan Yu.
+
+@62034
+Wuling commandery, Jingzhou; today's Changde, Hunan. Land of the Wuling tribes (Five Streams tribes). Liu Bei sent Ma Liang to win them over, and their king Shamoke joined the war on Wu.
+
+@62035
+Guiyang commandery, Jingzhou. After Red Cliffs, Liu Bei took the four commanderies of southern Jing, Guiyang among them. Its Protector Zhao Fan offered Zhao Yun his widowed sister-in-law; Zhao Yun refused on grounds of honor.
+
+@62036
+Jiangxia commandery, Jingzhou; today's Xinzhou, Hubei. Huang Zu governed it for Liu Biao; after his death Liu Biao's eldest son Liu Qi took over. Later Liu Bei's base; after Red Cliffs it belonged to Wu.
+
+@62037
+Moling county, Danyang, Yangzhou; today's Nanjing. Renamed Jianye when Sun Quan moved his base here on Zhang Hong's advice. Thrived as the capital of Wu after Sun Quan took the throne in 229; later capital of Jin's Yangzhou.
+
+@62038
+Wu commandery, Yangzhou; today's Suzhou, Jiangsu. Sun Ce made it his base after defeating Liu Yao, Wang Lang and the Wu magnate Yan Baihu. At the end of the Qin, the Hegemon Xiang Yu rose up here.
+
+@62039
+Kuaiji commandery, Yangzhou; today's Shaoxing, Zhejiang. Its powerful Protector Wang Lang was driven out by Sun Ce, who named himself Protector and was soon confirmed in the post by Cao Cao.
+
+@62040
+Shouchun county, Jiujiang, Yangzhou; seat of the Inspector. Today's Shouxian, Anhui. Yuan Shu's base when he claimed the throne. Attacked by Cao Cao, Sun Ce, Liu Bei and Lu Bu, he fled and died of illness on the way.
+
+@62041
+Lujiang commandery, Yangzhou; southwest of today's Lujiang, Anhui. While conquering Yangzhou, Sun Ce swore brotherhood with Zhou Yu at Shu here. With Zhou Yu's great help, he subdued the commanderies.
+
+@62042
+Chaisang county, Yuzhang, Yangzhou; southwest of today's Jiujiang, Jiangxi. Sun Quan's base before Jianye; here Zhuge Liang persuaded him to fight. It remained a base of the Wu navy.
+
+@62043
+Nanhai commandery, Jiaozhou; today's Guangzhou. Seat of Guangzhou when Wu split it off from eastern Jiaozhou. In 279 Guo Ma rebelled around Guangzhou, one of the causes of Jin's conquest of Wu.
+
+@62044
+Jiaozhi commandery, Jiaozhou; east of Hanoi, the capital of today's Vietnam. Its Protector Shi Xie made his brothers Protectors of the other commanderies and held all power. In 210 he yielded to Wu and Sun Quan let him rule.
+
+@62045
+A northern nomad people, also written Wuhuan, powerful around Youzhou. Cao Cao attacked them along with the Yuan; at White Wolf Mountain he slew their chief Tadun and forced them to submit.
+
+@62046
+A northern nomad people. Once mighty enough to trouble the Former Han, but split into north and south and weakened in the Later Han. In 216 Hu Chuquan, chanyu of the southern Xiongnu, submitted to Cao Cao.
+
+@62047
+A western nomad people, stronger in the Later Han than northern tribes like the Wuhuan and Xiongnu. Powerful in Liangzhou and Yongzhou, they aided Han Sui, Ma Teng and Ma Chao against the court.
+
+@62048
+A tribal people based around Yangzhou, skilled at mountain warfare. Lu Xun told Sun Quan: "Unless the Shanyue are subdued, it will be hard to strike north at Wei."
+
+@62049
+Tribes of Nanzhong, also called the Southwest Yi. After Liu Bei's death they rose against Shu-Han along with the southern commanderies of Yizhou. In 225 Zhuge Liang marched south and won over their king, Meng Huo.
+
+@62050
+A tribal people of Liangzhou and Yizhou, with customs like the Qiang and skilled at farming. When Ma Chao marched against Cao Cao, the Xingguo Di and Baiqing Di tribes offered him their help.
+
+@62051
+In Nan commandery, Jingzhou. In 222 Liu Bei, enraged by Guan Yu's death, marched on Wu and was crushed here by Lu Xun. His men grew slack in a long stalemate; Lu Xun burned his camps and he fled to Baidi.
+
+@62052
+In Hejian commandery, Jizhou. A fortress Gongsun Zan built against Yuan Shao, with rings of walls and moats, thought impregnable. In 199 Yuan Shao's army tunneled beneath it and took it.
+
+@62053
+In Julu commandery, Jizhou. In 192 Gongsun Zan and Yuan Shao fought here for mastery of Hebei. Gongsun Zan charged with his 10,000 "White Horse Volunteers", but was beaten by the crossbows of Yuan Shao's officer Qu Yi.
+
+@62054
+In Guangwei commandery, Yongzhou. Here Ma Su was defeated in 228, in Zhuge Liang's first campaign. Told to hold Jieting, he camped on the hilltop on his own; Wei surrounded the hill, cut off his water and routed him.
+
+@62055
+In Jiujiang commandery, Yangzhou; Wei's front line against Wu. In 215, at Liu Bei's request, Wu invaded with 100,000 men; Zhang Liao and Li Dian, holding Hefei, crushed them with ambushes.
+
+@62056
+In Henan, Sili. A pass fort guarding the road to Luoyang, named for the box-shaped valley it lies in. First built under the Qin; rebuilt on this site by Emperor Wu of the Former Han.
+
+@62057
+In Zhongmou county, Henan, Sili. Here in 200 Cao Cao beat Yuan Shao's vast army. Far outnumbered and hard pressed, he learned of the depot at Wuchao when Xu You defected, raided it and won.
+
+@62058
+In Hanyang commandery, Liangzhou (Tianshui, Yongzhou in the Three Kingdoms era). Zhuge Liang's camp in his 1st and 4th campaigns; a key point between Hanzhong and Tianshui. With Qishan he hoped to win Longxi.
+
+@62059
+In Zitong commandery, Yizhou; also called Jianmen Pass. In 263 Jiang Wei, Zhang Yi, Liao Hua and others held out here to the last against the army of Deng Ai and Zhong Hui. The key to northern Yizhou.
+
+@62060
+In Shangdang commandery, Bingzhou. A pass fort blocking the road south to Luoyang; also Hukou Pass. In 206 Yuan Shao's nephew Gao Gan lost to Cao Cao here; using the rugged land he fought well, but had to yield.
+
+@62061
+In Fufeng commandery, Yongzhou. Zhuge Liang's camp in his last campaign: a broad plateau on the south bank of the Wei River, with water for military farm colonies. In the 8th month of 234, he died in camp here.
+
+@62062
+In Henan, Sili. A pass fort blocking the road west to Luoyang. Renamed Sishui Pass after the Tang, but the novel shows them as two passes. In the novel, the three brothers fight the fierce Lu Bu here.
+
+@62063
+In Lujiang commandery, Yangzhou. Where the Ruxu River from Lake Chao meets the Yangtze; a key point for war and travel. In 211, on Lu Meng's advice, the Ruxu forts were built on both banks.
+
+@62064
+In Jiangxia commandery, Jingzhou; a natural stronghold on the Yangtze. In 199 Sun Ce beat the allied armies of Liu Xun of Lujiang and Huang Zu of Jiangxia here. Later Wu laid iron chains and spikes in the river against Jin.
+
+@62065
+In Jiangxia commandery, Jingzhou. In 208 the allied armies of Sun Quan and Liu Bei crushed Cao Cao here. Yet even the Wu biographies of the official history disagree, and much of the battle remains a mystery.
+
+@62066
+In Jiyin commandery, Yanzhou. In 195, the last stage of Cao Cao's struggle with Lu Bu for Yanzhou. Robbed of Yanzhou, Cao Cao fought from Puyang onward and took a year to drive Lu Bu out.
+
+@62067
+In Longxi commandery, Yongzhou. In 255 Jiang Wei and Xiahou Ba's Shu-Han army, fighting with their backs to the river, beat Wei's Wang Jing here. Jiang Wei chased him to Didao, but withdrew when Chen Tai came to his aid.
+
+@62068
+In Hongnong commandery, Sili. A pass fort east of Chang'an, guarded by the Yellow River and mountains. In 211 Ma Chao, holding Chang'an, faced Cao Cao here; he had the upper hand at first, but was cut off and beaten.
+
+@62069
+In Nan commandery, Jingzhou. In 208 Liu Bei's army, fleeing Xinye and Fancheng, was overtaken here by Cao Cao. Zhao Yun's rescue of A Dou and Zhang Fei's stand on the Changban bridge happened nearby.
+
+@62070
+In Dong commandery, Yanzhou. In 200 Yuan Shao's army besieging the city was beaten here by the relief force Cao Cao sent. Guan Yu, among them, cut down the enemy general Yan Liang before he could even cross blades.
+
+@62071
+In Nanyang commandery, Jingzhou. No place named Bowang Slope existed in the Han or Three Kingdoms. In the novel, Zhuge Liang, newly Liu Bei's advisor, won his first battle here by burning Xiahou Dun's army.
+
+@62072
+Northeast of Youbeiping commandery, Youzhou; today called Mount Bailu. In 207 the Wuhuan and Cao Cao's army clashed here. Seeing the enemy not yet in order, Cao Cao sent his vanguard Zhang Liao to strike, and won.
+
+@62073
+In Nanyang commandery, Jingzhou. A pass fort with mountains to the north and a deep valley to the south. Lu Bu fled Chang'an through it after losing to Li Jue and Dong Zhuo's remnants. Liu Bang entered Guanzhong from here.
+
+@62074
+In Guanghan commandery, Yizhou; Liu Yan's first seat as Governor. In 263 Zhuge Zhan and his son Shang fought here against Deng Ai's flanking army. After their deaths the pass fell and Chengdu was taken.
+
+@62075
+In Fufeng commandery, Yongzhou; the north end of the Baoxie Road, whose south end is Bao Valley. A plank road north of Hanzhong to Meicheng and Yongcheng. In the first campaign, Zhao Yun's decoy force took it to aid the army at Qishan.
+
+@62076
+In Hanzhong commandery, Yizhou; also Yang'an Pass. A key point for the defense of Hanzhong. In 215 Cao Cao beat Zhang Lu's brother Zhang Wei here; in 218 it was Liu Bei's base for taking Hanzhong.
+
+@62077
+Yiling: Yong'an, Wuling > Jiangling
+
+@62078
+Yijing: Ji, Nanpi > Beiping
+
+@62079
+Jieqiao: Pingyuan, Nanpi > Ye
+
+@62080
+Jieting: Tianshui, Xiliang > Anding
+
+@62081
+Hefei: Jianye, Lujiang > Shouchun
+
+@62082
+Hangu Pass: Chang'an > Luoyang
+
+@62083
+Guandu: Ye > Xuchang
+
+@62084
+Qishan: Wudu, Qiang > Tianshui
+
+@62085
+Jiange: Hanzhong, Wudu > Zitong
+
+@62086
+Hu Pass: Ye, Henei > Jinyang
+
+@62087
+Wuzhang Plains: Hanzhong > Chang'an
+
+@62088
+Hulao Pass: Xuchang, Wan > Luoyang
+
+@62089
+Ruxu: Shouchun, Lujiang > Jianye
+
+@62090
+Xisai: Chaisang, Lujiang > Jiangxia
+
+@62091
+Red Cliffs: Jiangling, Changsha > Jiangxia, Chaisang
+
+@62092
+Dingtao: Xiaopei, Chenliu > Puyang
+
+@62093
+Didao: Anding, Tianshui > Xiliang
+
+@62094
+Tong Pass: Luoyang > Chang'an
+
+@62095
+Dangyang: Xiangyang > Jiangling
+
+@62096
+Baima: Ye > Puyang
+
+@62097
+Bowang: Wan, Runan > Xinye
+
+@62098
+White Wolf Mtn: Xiangping, Beiping > Wuhuan
+
+@62099
+Wu Pass: Wan > Chang'an
+
+@62100
+Mianzhu Pass: Zitong, Di > Chengdu
+
+@62101
+Xiegu: Chang'an > Hanzhong
+
+@62102
+Yangping Pass: Wudu, Zitong > Hanzhong
+

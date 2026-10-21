@@ -1,0 +1,41 @@
+# program strings (SLPM_863.12); key<TAB>English, see tools/progstr.py
+# scenario titles
+PROG:801148ec	Yellow Turban Rebellion
+PROG:801148f8	Dong Zhuo's Ambition
+PROG:80114904	Rise of the Warlords
+PROG:80114910	Strife in Hebei
+PROG:8011491c	Dragon and Phoenix
+PROG:80114928	Liu Bei, King of Hanzhong
+PROG:80114934	A Star Falls at Wuzhang
+PROG:80114940	The Volunteers' First Battle
+PROG:8011494c	The Campaign against Lu Bu
+PROG:80114958	The Unification of Hebei
+PROG:80114964	Emperor Yuan Shu
+PROG:80114970	The Battle of Red Cliffs
+PROG:8011497c	Ma Chao's Revenge
+PROG:80114988	The Northern Expedition
+PROG:80114994	Duels
+PROG:801149a0	Death of Dong Zhuo
+PROG:801149ac	Death of Liu Bei
+PROG:801149b8	The White Horse General
+PROG:801149c4	The Little Conqueror Strikes
+PROG:801149d0	Driving Out the Yuan
+PROG:801149dc	The Northern Campaigns
+PROG:801149e8	Zhuge Dan's Uprising
+# buttons
+PROG:80115a6c	OK
+PROG:80115ddc	OK
+PROG:80115de4	Cancel
+PROG:801161e4	OK
+PROG:801161ec	Cancel
+PROG:80116a88	Cancel
+PROG:80116a90	OK
+PROG:801172f8	Cancel
+PROG:80117338	OK
+PROG:80117340	Cancel
+# page switch label (48 px box)
+PROG:801174d0	Page
+PROG:80117544	Page
+# name entry: the katakana mode button shows the Latin grid (tools/nameentry.py)
+PROG:801175e0	ABC
+PROG:80117c48	ABC

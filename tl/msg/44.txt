@@ -1,0 +1,300 @@
+@44000
+After fierce battles with Cao Cao along the Yangtze, Sun Quan at last took Jiangling.
+
+@44001
+Curse you, Sun Quan! I heard you lacked your brother's valor, and I grew careless.
+
+@44002
+Congratulations, my lord. We have taken Jiangling.
+
+@44003
+They say the time of Heaven yields to the lay of the land, and the land to the harmony of men... yet he hoped to win without generals.
+
+@44004
+You have won Jiangling, as you long wished.
+
+@44005
+This land is a key point at the heart of Jingzhou. Taking it is truly a great leap forward.
+
+@44006
+We may now consider Jingzhou ours.
+
+@44007
+Let us advance swiftly and rule not only Jingzhou but Yizhou and Jiaozhou, and pursue the great plan of dividing the realm in two!
+
+@44008
+First we must secure our base. Let us report the victory to the court and show all our loyalty to the House of Han.
+
+@44009
+Then we build up our strength and wait for the time of Heaven.
+
+@44010
+Even Cao Cao, who called himself master of the land, was no match for us. He abandoned Jiangling and fled.
+
+@44011
+What is there to fear now? Let us fight on to unite the land!
+
+@44012
+After a fierce struggle with Cao Cao's army, Sun Quan at last succeeded in capturing Cao Cao.
+
+@44013
+We crushed Cao Cao's great army... I still cannot believe it.
+
+@44014
+This victory is a gift of my lord's glory.
+
+@44015
+How could my lord lose to the likes of Cao Cao?
+
+@44016
+I, Xuande, am in awe of the strength of the Wu army.
+
+@44017
+Hahaha! No, no, this victory was possible only through our alliance with you.
+
+@44018
+It seems I underestimated the Tiger's son. Caught so easily... My luck has run out at last.
+
+@44019
+You are a traitor who slighted the House of Han, insulted the Emperor at Xutian and cut down Consort Dong in the palace.
+
+@44020
+I, Sun Quan, shall punish you in Heaven's name!
+
+@44021
+Born into chaotic times, it is only natural to aim for the realm.
+
+@44022
+Sun Quan! Do you claim you have not the slightest ambition for the realm?!
+
+@44023
+Wh-what? You dare defy me now?
+
+@44024
+Even Xuande there seems at a glance to wear the mask of loyalty...
+
+@44025
+But I can see the ambition behind it. No doubt he waits for his moment to make for the realm...
+
+@44026
+Silence, Mengde! Had you not given in to ambition, you could have been a great servant who restored the Han.
+
+@44027
+I cannot forgive your crimes. Are you ready?
+
+@44028
+I have been ready since the day I raised my army...
+
+@44029
+My name is carved in history as the villain of a chaotic age. I have no regrets left.
+
+@44030
+Execute this traitor, enemy of the House of Han!
+
+@44031
+Cao Cao is dead, but his forces still rule the Central Plains.
+
+@44032
+To bring peace to the world, more battles will be needed.
+
+@44033
+Yes! Command us as you will.
+
+@44034
+Lord Sun Quan, we too will spare no effort to help.
+
+@44035
+Sun Quan, hero of Jiangdong, died with his dream of uniting the realm unfulfilled.
+
+@44036
+To avenge his father, Ma Chao faced the mighty Cao Cao and at last captured him.
+
+@44037
+So you have taken the hateful Cao Cao alive.
+
+@44038
+Ma Chao, well done.
+
+@44039
+Your father must surely be rejoicing.
+
+@44040
+I fought with all my heart to avenge my late father.
+
+@44041
+Nothing could make me happier.
+
+@44042
+Cao Cao, you killed my father! Now I will send you to the next world too!
+
+@44043
+You, a descendant of loyal servants of the Han, why do you turn against the Han?
+
+@44044
+Silence! Everyone knows you scorn the House of Han and plot to usurp it!
+
+@44045
+Even now you hide behind the authority of the Han? Disgraceful!
+
+@44046
+Young master, let us cut this one down at once and give peace to our late lord's spirit.
+
+@44047
+Yes! Traitor Cao Cao, prepare yourself!
+
+@44048
+Shut up! Go to Heaven and beg my father's forgiveness!
+
+@44049
+Cao Cao, the villain of a chaotic age, ended his life as the great traitor of the Han dynasty...
+
+@44050
+At last I have avenged my father. There is no more reason to march on.
+
+@44051
+I will go back to Xiliang and succeed my father as a mere inspector of the frontier.
+
+@44052
+As you are now, you could even take the realm in Cao Cao's place...
+
+@44053
+What a man without greed. Well, so be it.
+
+@44054
+With Cao Cao dead, the rich lands of the Central Plains are ours for the taking. If we march on the capital now...
+
+@44055
+I have no ambition. My duty now is to rule Xiliang in my late father's place... Understood?
+
+@44056
+To avenge his father, Ma Chao faced the mighty Cao Cao and crushed all before him.
+
+@44057
+To think Ma Teng's son had such valor...
+
+@44058
+It seems I took him too lightly. I will abandon the Central Plains and rebuild my strength in the north...
+
+@44059
+Curse you, Cao Cao... You have escaped again.
+
+@44060
+To take Luoyang and Xuchang in less than a year... Your skill is astonishing.
+
+@44061
+We have word of Cao Cao. He has fled far to the north, to Youzhou.
+
+@44062
+He will not escape me! Prepare to pursue at once!
+
+@44063
+Hmm, Lord Ma Chao is truly remarkable. I must not fall behind.
+
+@44064
+Capturing Cao Cao matters more than the Central Plains, does it? That is Ma Chao for you.
+
+@44065
+Sooner or later, he will surely capture Cao Cao.
+
+@44066
+Hmm, Lord Ma Chao is truly remarkable. Chasing Cao Cao matters more to him than the capital.
+
+@44067
+Well, that is what makes him worth serving.
+
+@44068
+Ma Chao, the young lion of Xiliang, died without avenging his father.
+
+@44069
+Having presented the Memorial on Dispatching the Troops, Zhuge Liang set out north and after fierce fighting took the old capital, Chang'an.
+
+@44070
+How could this happen? That is Zhuge Liang for you... To lose the old capital so easily...
+
+@44071
+Is there no one in our Wei to match Zhuge Liang?!
+
+@44072
+(Kongming... A fearsome man...)
+
+@44073
+(At this rate, Wei may be swallowed up by Shu-Han.)
+
+@44074
+We have taken Chang'an and are ready to recover the Central Plains, but...
+
+@44075
+We have no generals to lead the troops... Shu-Han has no more Guan Yu or Zhang Fei. Our talent has run dry...
+
+@44076
+Congratulations. To retake the old capital, Chang'an, and expand our domain so far...
+
+@44077
+Such a triumphant advance could not have been won without your command, Prime Minister.
+
+@44078
+When Lord Guan lost Jingzhou and the late Emperor was beaten at Yiling, the Plan to Divide the Realm in Three collapsed.
+
+@44079
+That is why we built up our strength in the southern campaign and waited for the time of Heaven before fighting Wei like this...
+
+@44080
+With Chang'an ours, we at last stand equal with Wei.
+
+@44081
+Retaking the old capital was the most stirring feat in many years.
+
+@44082
+At last, it seems we have found the thread to restore the House of Han.
+
+@44083
+Retaking Luoyang and Xuchang is not far off. Keep up your efforts, everyone.
+
+@44085
+Having presented the Memorial on Dispatching the Troops, Zhuge Liang set out north and after fierce fighting captured Cao Rui, Emperor of Wei.
+
+@44086
+What! You say we captured Cao Rui?
+
+@44087
+Yes, there is no doubt.
+
+@44088
+I would like to speak with him. Bring him here at once.
+
+@44090
+You are Cao Rui, Emperor of Wei. I am Zhuge Liang.
+
+@44091
+So you are Zhuge Liang... Fortune in war and Heaven deserted me, and now I am a prisoner.
+
+@44092
+I hear you fight to destroy Wei and restore the House of Han.
+
+@44093
+I am the Emperor of Wei. I am ready for what must come.
+
+@44094
+Lord Cao Rui...
+
+@44095
+...But my retainers and soldiers are not to blame. I ask you to show them leniency.
+
+@44096
+A traitor to Han he may be, but he was a man fit to be a ruler.
+
+@44097
+Yes... He could truly be called a wise ruler.
+
+@44098
+But now that this wise ruler is lost... Wei's fate is sealed. The restoration of the Han is near.
+
+@44099
+Zhuge Liang, Prime Minister of Shu-Han, died with his task unfinished.
+
+@44100
+Zhuge Liang has lost the Imperial City.
+
+@44101
+{e01} did not achieve the victory conditions in time.
+

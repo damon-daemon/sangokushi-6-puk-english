@@ -1,0 +1,1005 @@
+@31000
+In the castle of {e0B}
+
+@31001
+Lord Lu Su, you have returned. ...And who is this?
+
+@31002
+It is an honor to meet you. I am Guan Yu.
+
+@31003
+Oh, so you are Lord Guan Yu! I am honored to meet you.
+
+@31004
+This is fortunate. We in Wu know far too little about Cao Cao.
+
+@31005
+I would very much like to hear what you can tell us of Cao Cao.
+
+@31006
+I will gladly tell you what I know.
+
+@31007
+They say Cao Cao has a million men, but we cannot guess how that army is made up. What is it really like?
+
+@31008
+Cao Cao's army is large, but its elite troops are few. There is no great need to fear it.
+
+@31009
+His generals, however, are men of rare talent. Do not let your guard down.
+
+@31010
+I see. And what do you think of Cao Cao himself?
+
+@31011
+In leading men to war, he has no equal in the realm. He is not to be taken lightly.
+
+@31012
+Hmm... And what of his ability to lead others?
+
+@31013
+He welcomes even former enemies as if they were his own sons. He is a man of great breadth, without doubt.
+
+@31014
+From what you say, this Cao Cao seems to have no flaws at all... Then what of his character?
+
+@31015
+Arrogant and insolent, without any loyalty to the House of Han. A true villain of cunning.
+
+@31016
+...I see.
+
+@31017
+I have come to join you in defeating Cao Cao.
+
+@31018
+Well spoken, Lord Yunchang! Let Wu and Lord Liu Bei together bring down the traitor Cao!
+
+@31019
+Indeed, it is as Lord {e02} says.
+
+@31020
+...Gentlemen, what is all this commotion?
+
+@31021
+Lord Zhang Zhao... No, it is nothing.
+
+@31022
+My lord Sun Quan awaits you. This way, please.
+
+@31023
+In the castle of {e0B}
+
+@31024
+Lord Lu Su, you have returned. ...And who is this?
+
+@31025
+Well met. I am Zhang Fei, sworn brother of Liu Xuande.
+
+@31026
+So you are Lord Zhang Fei. You have come a long way from Jiangxia.
+
+@31027
+When my lord commands, I would not shy from walking through fire.
+
+@31028
+Hahaha, spoken like a true warrior.
+
+@31029
+By the way, there is something I would like to ask you, Lord Zhang Fei. May I?
+
+@31030
+If it is something I know, I will answer.
+
+@31031
+...Cao Cao's army is mighty. Can Lord Liu Bei truly hope to defeat him?
+
+@31032
+...They say Cao Cao has nearly a million men. Is such a difference in numbers not hopeless?
+
+@31033
+...Cao Cao has the favor of Heaven, while the fortunes of the Han are nearly spent. Should one defy Heaven?
+
+@31034
+...Cao Cao descends from loyal servants of the Han. But Lord Liu Bei...
+
+@31035
+Enough! Stop your endless prattle!
+
+@31036
+If you surrender, you lot just get a new master! But what will become of Lord Sun Quan?!
+
+@31037
+...??? What do you mean?
+
+@31038
+Liu Cong, heir of Jingzhou, surrendered to Cao Cao and was murdered on the way to Qingzhou!
+
+@31039
+Every child in Jingzhou knows it.
+
+@31040
+Would you have the Marquis of Wu suffer the same fate?!
+
+@31041
+What became of Liu Cong, who gave all of Jingzhou to Cao Cao?!
+
+@31042
+In the end he was reduced to a mere Protector!
+
+@31043
+Would you have the Marquis of Wu suffer the same fate?!
+
+@31044
+...Hmm.
+
+@31045
+Words that strike at the very truth. I, Huang Gai, am deeply impressed.
+
+@31046
+Lord Huang Gai...
+
+@31047
+My lord Sun Quan awaits you. This way, please.
+
+@31048
+At last, {e01} was able to meet Sun Quan.
+
+@31049
+It is an honor to meet you. I am {e01}, envoy of Liu Bei.
+
+@31050
+Yes, I am Sun Quan. I have long heard your name.
+
+@31051
+Let us come straight to it. How large is Cao Cao's army?
+
+@31052
+Well, if he claims a million, the true number must be large... I cannot say for certain.
+
+@31053
+There are 200,000 Qingzhou troops, and perhaps 500,000 or 600,000 others.
+
+@31054
+Add the troops of Jingzhou, and the figure of a million is not without grounds.
+
+@31055
+Hmm... So we cannot win by numbers...
+
+@31056
+Then should we of Wu fight, or should we surrender...?
+
+@31057
+The foe claims a million men. If we mean to surrender, the sooner the better.
+
+@31058
+Such faint-hearted talk of surrender! If you mean to give in, why not send an envoy at once?
+
+@31059
+Weigh this carefully. Do you believe the united armies of Wu and Yue can win?
+
+@31060
+If so, break with Cao Cao at once. If not, you should take off your helmet without delay.
+
+@31062
+Oh? What makes you hesitate?
+
+@31063
+It seems the Marquis of Wu shows submission outwardly while inwardly he means to fight.
+
+@31064
+The matter is urgent. Nothing is gained by hesitating.
+
+@31065
+...Then why does your own lord, Liu Xuande, not surrender? Does he think he can win?
+
+@31066
+My brother is a descendant of the House of Han. He is not one to break faith to save his own life.
+
+@31067
+Long ago, Tian Heng, the great general of Qi, died for honor rather than suffer the shame of surrender.
+
+@31068
+If even Tian Heng did so, how could my lord, of Han blood, bow to a traitor like Cao?
+
+@31069
+Grr...! I have heard enough of your insolence!
+
+@31070
+My lord, calm yourself! This must be weighed coolly, or the harm will be beyond repair!
+
+@31071
+Ah, Zhou Yu. Zhou Yu, Lord Zhuge Liang has come from Jiangxia.
+
+@31072
+It is an honor to meet you. I am Zhuge Liang, styled Kongming.
+
+@31073
+So you are Lord Kongming. I have heard much of you.
+
+@31074
+What do you think, Zhou Yu? Should we join Cao Cao or Lord Liu Bei? Tell me your view.
+
+@31075
+If we join anyone, it should be Cao Cao. There is nothing to consider.
+
+@31076
+My apologies to Lord Liu Bei, but if we think only of Wu, the answer is plain.
+
+@31077
+That is indeed a good plan. But I, Kongming, have an even better one.
+
+@31078
+(...? Hmph, surely a bluff. Well, let us hear it...)
+
+@31079
+Oh, how interesting. Please, do tell us.
+
+@31080
+If you wish to make peace with Cao Cao, simply offer him two women: Da Qiao and Xiao Qiao.
+
+@31081
+Wh-what?! What is the meaning of this?!
+
+@31082
+Cao Cao once had his son compose a poem called "Ode to the Bronze Sparrow Terrace."
+
+@31083
+That poem sings of his dream to usurp the throne and take the two Qiaos as his concubines.
+
+@31085
+I hear the two Qiaos live in Wu. Find them and send them to Cao Cao, and Wu will be safe.
+
+@31086
+Curse you, Cao Cao! This is unforgivable!
+
+@31087
+His dream is to make my wife his concubine?!
+
+@31088
+You may not know, Lord Kongming, but Da Qiao is the wife of my late brother Sun Ce, and Xiao Qiao is Zhou Yu's wife.
+
+@31089
+What?! Though I did not know it, forgive my rudeness...
+
+@31090
+My lord, I, Zhou Yu, cannot surrender to such a shameless man!
+
+@31091
+My mind is made up. Let us fight Cao Cao!
+
+@31092
+Lord Sun Quan, what will you do?\nAlly with Cao Cao\nAlly with Liu Bei
+
+@31093
+No... Cao Cao is too great a threat. I do not believe we can win.
+
+@31094
+Zhou Yu, what good does losing your temper do?
+
+@31095
+Lord Kongming, I regret that we cannot ally. You had best return to Lord Liu Bei.
+
+@31096
+A great pity. Then I take my leave...
+
+@31097
+This mockery goes too far! I will not join Liu Bei!
+
+@31098
+My lord, please, stay calm! We must ally with Liu Bei!
+
+@31099
+Enough, not another word! {e02}, tell Liu Bei that I will not join him!
+
+@31100
+(Blast... It backfired.)
+
+@31101
+Very well, I understand... We will strike Cao Cao!
+
+@31102
+Hear me! From now on, anyone who speaks of surrendering to Cao Cao...
+
+@31103
+...will share the fate of this desk! Remember that!
+
+@31104
+Oh, it is war! That is my lord!
+
+@31105
+This mockery goes too far! Even I know what shame is!
+
+@31106
+My mind is made up! We fight Cao Cao!
+
+@31107
+{e01} failed to persuade Sun Quan... Sun Quan has allied with Cao Cao.
+
+@31108
+{e01} succeeded in persuading Sun Quan. Sun Quan has allied with Liu Bei.
+
+@31109
+In the castle of {e0B}
+
+@31110
+They say Zhang Lu of Hanzhong has his eye on {e0B}...
+
+@31111
+What should we do? Is there no good plan to hold off Zhang Lu's army?
+
+@31112
+My lord, I have a plan.
+
+@31113
+Why not ally with the mighty Cao Cao and have his army destroy Zhang Lu for us?
+
+@31114
+I see. Lord Cao Cao is a loyal servant of the Han. He would be a good ally to rely on.
+
+@31115
+Zhang Lu is a petty foe. We can leave him be. Why bother with an alliance...
+
+@31116
+Lord Liu Zhang, will you send Zhang Song to ally with Cao Cao?
+
+@31117
+I do not trust Cao Cao. Let us think of another plan.
+
+@31119
+(If there were another plan, we would not be in such trouble...)
+
+@31120
+Then I leave it to you. I await good news.
+
+@31121
+Zhang Song, as Liu Zhang's envoy, arrived at Cao Cao's castle. But Cao Cao was displeased at the sight of the unimpressive Zhang Song.
+
+@31122
+(An envoy from the backwoods, talking of alliance... How insolent. I shall give him a fright.)
+
+@31123
+Zhang Song, is it? On the battlefield I always win, and every castle I attack, I take.
+
+@31124
+I wonder whether you know this?
+
+@31125
+Oh yes, I know Your Excellency's valor well.
+
+@31126
+How at Luoyang you held a treasured sword behind your back and received a horse from Dong Zhuo.
+
+@31127
+.........!
+
+@31128
+How you attacked Xuzhou with a great army and were neatly struck from behind.
+
+@31129
+How at Wan you were ambushed by Zhang Xiu and Jia Xu and lost Dian Wei.
+
+@31130
+How at Guandu two of your generals were slain by Yan Liang, the fierce general of the Yuan.
+
+@31131
+How at Red Cliffs your ships were burned by Wu's great general, Handsome Zhou.
+
+@31132
+So saying, Zhang Song went on to list, one by one, every battle Cao Cao had lost.
+
+@31133
+Your valor, which for all its battles cannot destroy Liu Bei's band... Everyone in Ba and Shu knows of it.
+
+@31134
+D-damn you! To mock me, Cao Cao, so...!
+
+@31135
+Guards! Cut down this rotten pedant!
+
+@31136
+Your Excellency, wait! If you kill an envoy of alliance, it will hurt all our future diplomacy!
+
+@31137
+Lord Cao Cao, what will you do?\nExecute Zhang Song\nThrow Zhang Song out
+
+@31138
+Silence! Execute him at once! Anyone who objects will share his fate!
+
+@31139
+So Cao Cao is a man of no greater stature than this. What a fool I was to seek his help...
+
+@31140
+I do not fear death. I only worry for the future of Ba and Shu.
+
+@31141
+Zhang Song was executed by Cao Cao.
+
+@31142
+Grave news! Lord Zhang Song, who went to {e0B} as our envoy, has been executed!
+
+@31143
+What! Zhang Song executed, you say?!
+
+@31144
+Ah, how terrible...
+
+@31145
+My lord, I opposed this precisely because I foresaw such a thing!
+
+@31146
+Hmm, that Cao Cao... I misjudged his true heart.
+
+@31147
+Hmm... Then I shall spare his life.
+
+@31148
+Men, throw that rotten pedant out!
+
+@31149
+Your Excellency! Please stop!
+
+@31150
+Zhang Song was beaten soundly with staves by the guards and driven out of {e0B}.
+
+@31151
+Ow, ow... Beating an envoy of alliance with staves... "Villain of cunning" suits him well.
+
+@31152
+So Cao Cao is a man of no greater stature than this. Since it is on my way home, I will meet Liu Bei of Jingzhou.
+
+@31153
+Zhang Song headed for Jingzhou. When Liu Bei heard of it, he gave Zhang Song a warm welcome.
+
+@31154
+Ah, Lord Zhang Song, thank you for coming such a long way.
+
+@31155
+Your great fame has long been known even here in Jingzhou.
+
+@31156
+Please, stay with us and teach us your wisdom.
+
+@31157
+Zhang Song was moved by Liu Bei's high regard for him.
+
+@31158
+(Generous, fond of guests, loved by fierce warriors and wise men alike... He is the ideal lord.)
+
+@31159
+Lord Liu Bei, I have a request. Please ally with us and send troops to help defeat Zhang Lu.
+
+@31160
+...And, when the time is right, please rule the land of Ba and Shu in Lord Liu Zhang's place.
+
+@31161
+But Lord Zhang Song, I could never do something so against benevolence and justice.
+
+@31162
+...I know what benevolence and justice are, too. But as things stand...
+
+@31163
+...the land of Ba and Shu will simply be taken by Zhang Lu or Cao Cao.
+
+@31164
+Please agree to the alliance. It is the first step of a plan to win the realm.
+
+@31165
+In times of crisis, benevolence and justice can be thought of later. You must not delay.
+
+@31166
+Lord Liu Bei, will you agree to an alliance with Liu Zhang?
+
+@31167
+No, I cannot do it after all. Please, let us forget this talk.
+
+@31168
+...A truly benevolent lord... that must be you.
+
+@31169
+Ruling Ba and Shu is another matter, but I agree to the alliance.
+
+@31170
+Please give Lord Liu Zhang my regards.
+
+@31171
+Thank you. Lord Liu Bei, here is a small token of my gratitude.
+
+@31172
+Put this map to good use and build a kingly realm. Now, I take my leave.
+
+@31173
+In the castle of {e0B}
+
+@31174
+Ah, Zhang Song, you have returned. How did it go?
+
+@31175
+Cao Cao is no good. He does not revere the Emperor and scorns the House of Han. We cannot rely on him.
+
+@31176
+I see... Very well, you may go.
+
+@31177
+What! Then what are we to do?
+
+@31178
+Instead, I asked Lord Liu Bei of Jingzhou for an alliance.
+
+@31179
+He is of the Han clan like Your Excellency, and has many officers. He can be relied on. Ba and Shu will be safe.
+
+@31180
+Zhang Song! If we do that, this land will become Liu Bei's!
+
+@31181
+This alliance will only invite disaster. You must never agree to it!
+
+@31182
+Lord Liu Zhang, will you ally with Liu Bei?
+
+@31183
+Lord Xuande is of the Han bloodline, as I am. He would never betray me.
+
+@31185
+Liu Bei and Liu Zhang have formed an alliance.
+
+@31186
+I wanted an alliance with Lord Cao Cao. I cannot trust Xuande.
+
+@31187
+Is that so? Then as my lord wishes...
+
+@31188
+...As for the alliance the other day, my lord would not hear of it...
+
+@31189
+...Now, I beg you, advance into Ba and Shu without delay...
+
+@31190
+Liu Zhang and Liu Bei did not form an alliance.
+
+@31191
+In the castle of {e01}
+
+@31192
+The land lies ravaged by war, and the people suffer from hunger.
+
+@31193
+This is a grave matter. Does anyone have a good solution?
+
+@31194
+My lord, if I may speak.
+
+@31195
+Ah, Han Hao. Do you have a good idea?
+
+@31196
+What if we set up military farm colonies?
+
+@31197
+War has driven many refugees from their land, but they could be a valuable labor force.
+
+@31198
+Give them land and set up military farm colonies widely, and the state will prosper and the people grow rich.
+
+@31199
+{C48}, that is a fine idea.
+
+@31200
+Of course, setting up military farm colonies will take a large investment and much time...
+
+@31201
+Military military farm colonies cost 500 gold. Follow Han Hao's advice and set them up?
+
+@31202
+Making the state prosper and the people rich is the duty of a leader.
+
+@31203
+This policy will surely benefit the people.
+
+@31204
+Military military farm colonies were set up in Xuchang. Results will show in about half a year.
+
+@31205
+That costs too much. We will pass on it this time.
+
+@31206
+In the castle of {e02}
+
+@31207
+I have news for Lord {e02}. The military farm colonies in Xuchang have been a great success.
+
+@31208
+Thanks to the military farm colonies Han Hao proposed, Xuchang has grown greatly.
+
+@31209
+In the castle of {e01}
+
+@31210
+Ah, Chen Qun. What is it?
+
+@31211
+Lord {e02}, I have devised a new legal system. Please, have a look.
+
+@31212
+A new legal system? ...The Nine-Rank System, it is called?
+
+@31213
+Under the Han, the rank of an office was shown by the size of its salary.
+
+@31214
+But the Nine-Rank System sets out the rank of each office clearly, in nine grades from first to ninth.
+
+@31215
+With this system, I intend to reform the old civil service and gather men of talent.
+
+@31216
+Very well. I leave its running entirely to you.
+
+@31217
+Yes, as you command.
+
+@31218
+In the 25th year of Jian'an (220), on Chen Qun's proposal, the Nine-Rank System was established.
+
+@31219
+In the castle of {e01}
+
+@31220
+Jiangdong is a rich land, but it cannot be denied that it has few people compared to the Central Plains.
+
+@31221
+Yes, it is just as you say.
+
+@31222
+If one sails down the Yangtze from the port of Jianye and out to sea, there is an island to the south called Yi Isle.
+
+@31223
+They say many brave people live on Yi Isle.
+
+@31224
+Hmm... And what do you propose?
+
+@31225
+I suggest bringing the people of Yi Isle here to make them people of our Jiangdong.
+
+@31226
+Send a search party to Yi Isle?
+
+@31227
+Very well. I leave the details to you.
+
+@31228
+Yes, I will send a search party at once.
+
+@31229
+One day, about half a month after the search party set out...
+
+@31230
+Rejoice, my lord! The search party has found Yi Isle.
+
+@31231
+They have brought back many of its people. A great success!
+
+@31232
+With the people of Yi Isle settling here, the population around Jianye has grown.
+
+@31233
+How foolish! That is nothing but kidnapping!
+
+@31234
+Besides, what do the stout youths of Jiangdong lack?
+
+@31235
+Yes, my lord. Forgive me.
+
+@31236
+In the castle of {e01}
+
+@31237
+Lord {e02}, a sorcerer called Zuo Ci asks for an audience...
+
+@31238
+A sorcerer? Well, let us see him.
+
+@31239
+This is our first meeting, King. I am Zuo Ci.
+
+@31240
+Sorcerer, what brings you here?
+
+@31241
+You have pacified the Central Plains and risen to the highest rank a subject can hold... Surely the world holds nothing more for you.
+
+@31242
+Would you not come train with me on Mount Emei, become an immortal and live forever?
+
+@31243
+You came to invite me to train as an immortal? Hmm, that might be amusing.
+
+@31244
+But... there is no one to whom I can leave the court.
+
+@31245
+{e02} is a loyal man. Hand over your place to him, and the realm will be at peace.
+
+@31246
+What, so you are {e02}'s spy?
+
+@31247
+I have lost all wish to talk... You may go.
+
+@31248
+Ho ho ho. Then I take my leave.
+
+@31249
+So you are {e02}'s spy!
+
+@31250
+Guards! Seize Zuo Ci!
+
+@31251
+Ho ho ho, I have obtained the Book of Heaven and mastered the arts of the immortals. Do you think you can catch me?
+
+@31252
+He vanished?! ...What a strange thing.
+
+@31253
+{e01} was holding a New Year banquet in the castle. Then...
+
+@31254
+Hahaha! Well, Lord {e02}, it has been a while.
+
+@31255
+No one invited you to this banquet.
+
+@31256
+Why, I thought I would add some flowers to the feast. Lord {e02}, is there a flower you would like to see?
+
+@31257
+Then I wish to see a peony. Make one bloom.
+
+@31258
+Easily done. Wait a moment.
+
+@31259
+Hmm... What uncanny arts...
+
+@31260
+Lord {e02}, let me serve you a delicacy. Is there anything you would like to eat?
+
+@31261
+...They say dragon liver is the finest delicacy of Heaven. Produce one.
+
+@31262
+Where on earth did he hide that...?
+
+@31263
+Now, Lord {e02}, let me offer you the wine of a thousand years of life.
+
+@31264
+How uncanny?! The wine has split in two! I cannot drink such a thing!
+
+@31265
+Ah, that was fun. Time I took my leave. Hahaha!
+
+@31266
+After him! Do not let him escape! Seize Zuo Ci!
+
+@31267
+Yes, my lord!
+
+@31268
+You will never catch me. Hahaha!
+
+@31269
+No matter how we chase him, we cannot catch up!
+
+@31270
+Hahaha! I forgot to say one thing... so I came back.
+
+@31271
+...When the earth rat follows the metal tiger, the great villain shall fall in a single day... Remember it well, hahaha.
+
+@31272
+The sorcerer Zuo Ci vanished, no one knew where.
+
+@31273
+Something is wrong. I do not feel well. What is the matter with me?
+
+@31274
+In the castle of {e01}
+
+@31275
+Lord {e02}, how are you feeling?
+
+@31276
+Not well. This fever will not go down.
+
+@31277
+Please, rest and recover.
+
+@31278
+Well, Lord {e02}, how are you feeling?
+
+@31279
+Zuo Ci! Curse you...
+
+@31280
+...When the earth rat follows the metal tiger, the great villain shall fall in a single day... One cannot defy the will of Heaven.
+
+@31281
+Lord {e02}! What is the matter?!
+
+@31282
+Well, I shall take my leave. Hahaha!
+
+@31283
+(Earth Rat, Metal Tiger...? In the sexagenary cycle, that would be wu, zi, geng, yin...)
+
+@31284
+(Now that I think of it, is this not the gengzi year and the wuyin month?! Could this prophecy be...)
+
+@31285
+That night, {e01}'s illness grew worse, and he died.
+
+@31286
+Near the border of {e0B} and {e0C}... Yang Hu had gone hunting with a few soldiers.
+
+@31287
+Lord Yang Hu, is that not the enemy general Lu Kang hunting over there?
+
+@31288
+Oh, that is Lu Kang. He seems to be hunting too.
+
+@31289
+Listen, do not chase game across the border.
+
+@31290
+So Yang Hu came hunting too.
+
+@31290.1
+The general has judgment and the men have discipline... A fine elite force.
+
+@31291
+On returning from the hunt, Yang Hu had his men check the arrows in the game.
+
+@31292
+Listen, if any game has an enemy arrow in it, set it aside.
+
+@31293
+Huh... What do you mean to do?
+
+@31294
+If an enemy arrow struck it first, the game is theirs. We will send it to Lu Kang.
+
+@31295
+Hmm, he picked out the game and sent it all the way here.
+
+@31296
+Truly, that is Lord Yang Hu. A man of real stature.
+
+@31297
+In the castle of {e0B}, held by Lu Kang
+
+@31298
+Lord Lu Kang, you sent for me?
+
+@31299
+I am sorry, it is a private matter, but I would like you to deliver wine to Lord Yang Hu's camp.
+
+@31300
+What? Wine...?
+
+@31301
+It is a gift in thanks for the game the other day. Will you take it to him?
+
+@31302
+I see, so that is it. Understood.
+
+@31303
+I have brought wine in thanks for the game the other day. Please accept it.
+
+@31304
+I gladly accept. Please give Lord Lu Kang my regards.
+
+@31305
+So Lord Lu Kang knew that I am fond of wine.
+
+@31306
+Well now, let me try a cup.
+
+@31307
+This wine is from an enemy general! Is it not dangerous to drink it without having it tasted for poison?
+
+@31308
+Do not worry. Lu Kang is a schemer, but no coward who would kill a man with poisoned wine.
+
+@31309
+Stop doubting everything. Well, will you have some too?
+
+@31310
+N-no, thank you.
+
+@31311
+Yang Hu drank all the wine by himself.
+
+@31312
+Hahaha! That was a fine wine.
+
+@31313
+I drank the whole thing without thinking. What a waste, perhaps.
+
+@31314
+In the camp at {e0B}, held by Yang Hu
+
+@31315
+Lord Yang Hu, an envoy from Lu Kang has come.
+
+@31316
+A letter from Lu Kang. I have delivered it to you.
+
+@31317
+Oh, are you not the one who brought the wine the other day?
+
+@31318
+Tell me, is Lord Lu Kang well?
+
+@31320
+Hm? Has something happened to Lord Lu Kang?
+
+@31321
+It is nothing. He has only been in bed with a stomachache since last night.
+
+@31322
+Oh dear, what are his symptoms?
+
+@31323
+...Ah, for that illness I have a good medicine.
+
+@31324
+Take this medicine to Lord Lu Kang.
+
+@31325
+Oh... Thank you very much.
+
+@31326
+Lord Lu Kang, I have brought medicine for your illness from Lord Yang Hu.
+
+@31327
+Oh, how kind. I will take it at once.
+
+@31328
+Please, do not! This must be poison. You must not trust an enemy general!
+
+@31329
+Yang Hu is no petty man who would send poison. There is no need for doubt.
+
+@31330
+Ugh, this is...
+
+@31331
+...a little bitter. No matter, good medicine tastes bitter.
+
+@31332
+Lord Lu Kang, please do not frighten us like that.
+
+@31333
+Lord Lu Kang, how are you feeling?
+
+@31334
+Yes, I am quite well now. The medicine must have worked.
+
+@31335
+With so sincere a man on the border, taking these lands will be very hard.
+
+@31336
+Lord Lu Kang is truly the great general of our age. War with him gains us nothing. Better to make peace through virtue.
+
+@31337
+That is why I accepted his wine, and why I sent him game and medicine. I hope you all understand.
+
+@31338
+The friendship of these two great generals, it is said, was told far and wide for generations.
+

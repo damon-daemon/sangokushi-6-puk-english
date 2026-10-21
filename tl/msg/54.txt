@@ -1,0 +1,189 @@
+@54000
+{C13}, there is someone in the prison who has been a prisoner for a year. Please decide their fate.
+
+@54001
+Come to think of it, someone has been a prisoner in the prison for a year. Let us decide their fate.
+
+@54003.3
+Very well... As long as I live, I may yet rise again...
+
+@54003.5
+Lord {e02}, you may be the one Heaven favors... I will entrust my dream to you.
+
+@54025.8
+Your luck will run out soon enough. I'll go ahead and wait for you.
+
+@54030
+{e01}, a prisoner of {e02}, has joined {e02}'s service.
+
+@54031
+{e01}, a prisoner of {e02}, has been released.
+
+@54032
+{e01}, a prisoner of {e02}, has been executed.
+
+@54033
+{e01} defeated the %s and gained military experience. {e02}'s Virtue also rose.
+
+@54034
+Moreover, among the treasure taken from the bandits, {e01} found the {e29}.
+
+@54035
+Why, this is the {e29}... What luck to find it in such a place.
+
+@54036
+Shamefully, {e01} failed to defeat the %s, but gained military experience.
+
+@54037
+Lord {e03}, {e02} of {e0B} has promised to defect to us on the battlefield.
+
+@54038
+Lord {e02}, they say {e01} of {e0B} died of rage and despair.
+
+@54039
+I see. So the imperial palace is complete at last.
+
+@54039.1
+{C13}, the imperial palace being built in {e0B} is complete.
+
+@54039.2
+{C13}, the imperial palace being built in {e0B} is finally complete.
+
+@54040
+I see. So {e0B} has finally recovered from the scorched earth.
+
+@54040.1
+{C13}, it seems {e0B}, laid waste by scorched earth, is on the road to recovery.
+
+@54040.2
+{C13}, word has come that {e0B}, laid waste by scorched earth, has been rebuilt.
+
+@54041
+Lord {e02}, {e01} of {e0B} was attacked by someone and wounded.
+
+@54042
+{C10}, I am ashamed. Last night I was suddenly attacked by someone and wounded.
+
+@54042.1
+{C10}, I was careless and attacked by someone's agent. I barely escaped with my life...
+
+@54043
+Lord {e02}, {e01} has come, saying there is an important matter to discuss.
+
+@54044
+{C10}, rumor has it that Lord {e03}'s attacker was an assassin sent by a rival faction...
+
+@54044.1
+Rumor has it that the assassin who attacked Lord {e03} was sent by someone in our own force.
+
+@54044.2
+I overheard that men among our officers who oppose {e03} had them attacked.
+
+@54045
+Lord {e02}, reports say {e01} of {e0B} is moving troops busily and plotting a rebellion.
+
+@54046
+We meant to remove the knaves who lead {C10} astray... How bitter.
+
+@54046.1
+We thought to punish the villains surrounding {C10}, but...
+
+@54047
+We rose, believing we had no choice but to change this {f15}, but Heaven was not with us...
+
+@54047.1
+We meant to remove those who would ruin the state and save {C10}, but...
+
+@54048
+The rebellion {e01} and others plotted was prevented. But {e01} and the others have vanished.
+
+@54049
+Faction strife in {e01}'s {e0B} has led to a rebellion, and many officers have left to go free.
+
+@54050
+Faction strife in {e0B} of {f15} has led to a rebellion, and many officers have left to go free.
+
+@54051
+I will punish the knaves who lead {C10} astray.
+
+@54051.1
+Let us first punish the villains who mislead {C10}, then begin building a new state.
+
+@54052
+We rose because we believed we had no choice but to change this {f15}!
+
+@54052.1
+Our {f15} must be protected by our own hands. That is why we rise in a just cause!
+
+@54053
+Moreover, {e01} of {e0B} also answered the call and sided with {e02}.
+
+@54054
+{e01}'s rebellion was caused by faction strife among {e02}'s officers, and its sparks seem to have spread everywhere.
+
+@54055
+{e01}'s rebellion came from faction strife in {f15}, and its sparks seem to have spread everywhere.
+
+@54056
+{C110}, it seems the agent we sent to {e0B} to incite the people has been caught.
+
+@54056.1
+{C13}, it seems the agent we sent to {e0B} to incite the people has been caught.
+
+@54057
+What! {e0B} has rebelled?!
+
+@54057.1
+{C13}, grave news! {e0B} has rebelled.
+
+@54058
+{e0B} has won its independence.
+
+@54059
+I see... So the rebellion has been put down somehow.
+
+@54059.1
+{C13}, the rebellion in {e0B} has been put down somehow.
+
+@54060
+I see. So our army was beaten and withdrew...
+
+@54060.1
+{C13}, regrettably, our army was beaten and forced to withdraw from {e0B}.
+
+@54061
+{e0B}, under {e01}'s rule, has rebelled.
+
+@54062
+{e01}'s army succeeded in putting down {e0B}.
+
+@54063
+{e01}'s army failed to put down the revolt and withdrew from {e0B}.
+
+@54064
+Lord {e02}, the deadline for destroying {f15} has passed. The attack order was not carried out.
+
+@54065
+The deadline for destroying {f15} has passed... We should never have accepted the attack order.
+
+@54066
+Because the attack order was accepted and not carried out, {e01}'s reputation is falling.
+
+@54067
+Some retainers seem to have begun doubting {e01}'s good faith.
+
+@54068
+Lord {e02}, {e01} seems to be talking in secret with someone.
+
+@54069
+Hmm, it is indeed as you say... I can think of things myself.
+
+@54069.1
+I see... It was most worthwhile to hear your views today.
+
+@54069.2
+...I see. What you say makes sense.
+
+@54070
+{e01}'s dream has become "%s".
+

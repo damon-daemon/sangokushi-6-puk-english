@@ -1,0 +1,837 @@
+@32000
+In the castle of {e01}
+
+@32001
+Lord {e02}, have you heard of an officer named Lu Bu?
+
+@32002
+Lu Bu? I have never heard of him.
+
+@32003
+He is a warrior said to be the bravest in the realm.
+
+@32004
+Hmm... That is interesting.
+
+@32005
+He is brave, but greedy for gain and lacking in honor.
+
+@32006
+If you give him your Red Hare, Lord {e02}, he will surely come over to our side.
+
+@32007
+Give Red Hare to lure Lu Bu to our side?
+
+@32008
+A fine plan. Send Red Hare at once.
+
+@32009
+I have never seen such a fine horse.
+
+@32010
+Now that I have received Red Hare, I, Fengxian, will spare no effort in your service.
+
+@32011
+I have long heard of your valor. From now on I will serve you.
+
+@32012
+Lu Bu has joined {e01}'s service.
+
+@32013
+Give away Red Hare?! Red Hare is the finest horse in the realm. What a waste.
+
+@32014
+Lu Bu is the mightiest warrior in the realm. Why begrudge a single horse to win him?
+
+@32015
+I will not part with Red Hare. Say no more!
+
+@32016
+In the castle of {e01}
+
+@32017
+Ah, Wenruo and Gongda. What is it?
+
+@32018
+A wise man lies hidden in the countryside. Do you know of him?
+
+@32019
+{C48}, that is interesting. Who is he?
+
+@32020
+He is a man of Dong Commandery, surnamed Cheng, given name Yu, styled Zhongde.
+
+@32021
+I hear he now lives in the mountains, absorbed in study. His wisdom is out of the ordinary.
+
+@32022
+You should take him into your service without fail.
+
+@32023
+Lord {e01}, will you employ Cheng Yu?
+
+@32025
+If you have the chance, please meet him once.
+
+@32026
+Then I order you both to welcome him with every courtesy.
+
+@32027
+It is an honor to meet you. I am Cheng Yu, styled Zhongde.
+
+@32028
+I have seen little of the world. I wonder if I can be of any use...
+
+@32029
+You are too modest. I look forward to your guidance.
+
+@32030
+In the castle of {e01}
+
+@32031
+I know of a man who may be called the wisest of our time.
+
+@32032
+His name is Guo Jia, styled Fengxiao. He grasps the truth of things deeply, and his words are never wrong.
+
+@32033
+So great a man? Wonderful.
+
+@32034
+His conduct is somewhat poor, a flaw in the gem... but he is a man of talent.
+
+@32035
+You should take him into your service without fail.
+
+@32036
+Lord {e01}, will you employ Guo Jia?
+
+@32037
+.........As you command.
+
+@32038
+Then let us drop the matter for now.
+
+@32039
+His conduct does not matter. What I need now is a man with the talent to aid a king.
+
+@32040
+Then, Cheng Yu, bring Guo Jia here.
+
+@32041
+...I am Guo Jia, styled Fengxiao. I am at your service.
+
+@32042
+Yes, Lord Fengxiao, please lend me your strength.
+
+@32043
+There can be no lord for me other than that man.
+
+@32044
+In the castle of {e01}
+
+@32045
+I know of a man of outstanding wisdom.
+
+@32046
+They say he has no master yet... Please summon him to your staff.
+
+@32047
+If you recommend him, he must be a man of talent.
+
+@32048
+And... what is his name?
+
+@32049
+His surname is Liu, given name Ye, styled Ziyang. He is of the blood of Emperor Guangwu.
+
+@32050
+He is a brilliant strategist and will surely be of use to you, my lord.
+
+@32051
+Lord {e01}, will you employ Liu Ye?
+
+@32052
+Is that so? A pity.
+
+@32053
+If you miss this chance, you may not be able to employ him later.
+
+@32054
+Very well, I understand. I will trust your word.
+
+@32055
+Then bring this Liu Ziyang here.
+
+@32056
+I am Liu Ziyang of Huainan. I look forward to your guidance.
+
+@32057
+No, it is I who will have much to learn from you.
+
+@32058
+In the castle of {e01}
+
+@32059
+To unify the land, we will need men of talent.
+
+@32060
+Indeed, it is as Ziyang says.
+
+@32061
+I know of some such men.
+
+@32062
+Man Chong of Shanyang, styled Boning, and Lu Qian of Rencheng, styled Zike.
+
+@32063
+Man Chong is well learned, and Lu Qian is a man of note too. Please invite them.
+
+@32064
+Lord {e01}, will you employ Man Chong and Lu Qian?
+
+@32065
+Is that so? Ah, what a waste.
+
+@32066
+The more talent the better. We will employ them both.
+
+@32067
+Ziyang, bring those two here.
+
+@32068
+I am Man Chong. I am glad to be able to serve you.
+
+@32069
+My name is Lu Qian. I have little talent, but I wish to be of use.
+
+@32070
+For the peace of the realm, I would borrow the strength of you both. I am counting on you.
+
+@32071
+In the castle of {e01}
+
+@32072
+Ah, Boning and Zike. What is it?
+
+@32073
+Yes, my lord, we wish to recommend a wise man to you...
+
+@32074
+There is a man named Mao Jie, from Chenliu Commandery.
+
+@32075
+He has a gift for letters and would make a fine aide.
+
+@32076
+Please invite him.
+
+@32077
+Lord {e01}, will you employ Mao Jie?
+
+@32078
+Is that so? A pity.
+
+@32079
+And his talent is far greater than mine...
+
+@32080
+The more talent, the better. You did well to recommend him.
+
+@32081
+Then I order you both to bring this Mao Jie here.
+
+@32082
+Then we will go to fetch him at once.
+
+@32083
+I am Mao Jie, styled Xiaoxian. I will surely prove useful to you.
+
+@32084
+Please put your talents to use in our camp. I am counting on you.
+
+@32085
+In the castle of {e01}
+
+@32086
+Ah, Zijing. What is it?
+
+@32087
+Recommending wise men to one's lord is a retainer's duty.
+
+@32088
+I know of a wise man, and I have come to recommend him.
+
+@32089
+What manner of man is this wise man you recommend?
+
+@32090
+He is from Yangdu in Langya Commandery, a descendant of Zhuge Feng, a loyal servant of the Han. His name is Zhuge Jin.
+
+@32091
+A brilliant man who studied at the Imperial Academy in Luoyang, well versed in poetry and the classics.
+
+@32092
+He is also so filial that he served his stepmother as his own mother. Please employ him.
+
+@32093
+Lord {e01}, will you employ Zhuge Jin?
+
+@32094
+What! A jewel lies at your feet, and you will not pick it up...
+
+@32095
+The more talent the better. I need men of talent now.
+
+@32096
+I leave it to you. Bring Zhuge Jin here.
+
+@32097
+I am Zhuge Jin, styled Ziyu. I am honored to meet you.
+
+@32098
+Please put your talents to use in our camp. I am counting on you.
+
+@32099
+I hope to win merit soon, so that I can go and fetch my younger brothers, who should be in Jingzhou.
+
+@32100
+In the castle of {e01}
+
+@32101
+I know of a man of fine talent.
+
+@32102
+You should summon him and make him your strength, my lord.
+
+@32103
+{C48}, that is interesting. Who is it?
+
+@32104
+A man named Gu Yong, styled Yuantan. In his youth he studied under the famous scholar Cai Yong.
+
+@32105
+He is a man of few words who does not drink, and he is extremely strict and upright.
+
+@32106
+This is the man to assist you, my lord. Please employ him.
+
+@32107
+Lord {e01}, will you employ Gu Yong?
+
+@32108
+They say the time of Heaven is less than the lay of the land, and that less than the harmony of men... Value men of talent.
+
+@32109
+I need men of talent now. I cannot let a wise man slip by.
+
+@32110
+I leave it to you. Bring Gu Yong here.
+
+@32111
+My name is Gu Yong. At your service.
+
+@32112
+Your great talent is well known. Please lend me your strength.
+
+@32113
+In the castle of {e01}
+
+@32114
+To keep your lands secure, summon wise men and use their good counsel.
+
+@32115
+That is true. Do you know of anyone?
+
+@32116
+The five Ma brothers of Yicheng in Jingzhou are all famed for their talent...
+
+@32117
+Among them, the youngest, Ma Su, styled Youchang, loves books of war and is skilled in both letters and arms.
+
+@32118
+And the fourth son, Ma Liang, styled Jichang, called "White Brows," is the most famed for wisdom of the five.
+
+@32119
+{C48}... That is interesting.
+
+@32120
+I suggest you summon these two and consult them on your grand plans.
+
+@32121
+Lord {e01}, will you employ the Ma brothers?
+
+@32122
+Will you leave wise men buried in obscurity...? Ah, what a waste.
+
+@32123
+Hearing of such men, I cannot leave them be.
+
+@32124
+I leave it to you. Bring those two here.
+
+@32125
+I am Ma Liang, styled Jichang. It is an honor to serve Lord {e02}, famed as a wise ruler.
+
+@32126
+I am his younger brother Su, styled Youchang. Like my brother, I pledge my loyalty to Lord {e02}.
+
+@32127
+I have long heard of your fame. Please lend me your strength.
+
+@32128
+One day, while out on an errand, {e01} lost the way in the mountains near Xinye.
+
+@32129
+This is a problem. To think I have lost my way.
+
+@32130
+Oh, you must be Lord {e02}.
+
+@32131
+What? How does a child like you know my name...?
+
+@32132
+My master, Master Water Mirror, often speaks of you, so I knew you at once.
+
+@32133
+{C48}, is that so? ...Could you let me meet this Master Water Mirror?
+
+@32134
+Welcome. I am Sima Hui. Water Mirror is my Taoist name.
+
+@32135
+I am {e01}. Losing my way has let me meet you, Master.
+
+@32136
+Good, good. Such is life.
+
+@32137
+By the way, it seems to me you have no men of talent around you. Am I wrong?
+
+@32138
+That surprises me. I may lack talent myself, but I have the brave Guan Yu, Zhang Fei and Zhao Yun.
+
+@32139
+And for civil matters I have men such as Sun Qian, Mi Zhu and Jian Yong.
+
+@32140
+Guan, Zhang and Zhao are fierce warriors, but no one can make use of them. Sun, Mi and Jian are mere scribes.
+
+@32141
+That surprises me. I may lack talent myself, but I have Guan Yu and Zhang Fei.
+
+@32142
+Both are warriors famed throughout the realm. You cannot say I have no men of talent.
+
+@32143
+Guan Yu and Zhang Fei are fierce indeed. But in strategy and scheming they are like newborn babes.
+
+@32144
+That surprises me. What do you mean, I have no men of talent?!
+
+@32145
+I mean you have no wise man with the talent to assist you. Does nothing come to mind?
+
+@32146
+.........
+
+@32147
+What you need is a man who can read the time of Heaven.
+
+@32148
+The Sleeping Dragon or the Young Phoenix... With either one, you could bring peace to the realm and comfort the people.
+
+@32149
+And who are this Sleeping Dragon and Young Phoenix? Please, tell me.
+
+@32150
+The Sleeping Dragon is a dragon lying on the ground. The Young Phoenix is a phoenix chick asleep in its nest.
+
+@32151
+If your aims are high and pure, you will know in time. Good, good.
+
+@32152
+In the castle of {e01}
+
+@32153
+Lord {e02}, an old man of noble bearing has come to see you...
+
+@32154
+Who could it be? Well, let us meet him.
+
+@32155
+Master Water Mirror! It has been a long time.
+
+@32156
+Well then, have you found a man of fine talent?
+
+@32157
+Not yet. Master, please tell me where to find a wise man.
+
+@32158
+Very well, I shall tell you... West of Xiangyang, in Longzhong, a young dragon still lies hidden.
+
+@32159
+The Sleeping Dragon, then? What is his name...?
+
+@32160
+His surname is the two-character Zhuge, his given name Liang, and his style Kongming.
+
+@32161
+He compares himself to Guan Zhong and Yue Yi, but in my judgment he is more than that.
+
+@32162
+Guan Zhong and Yue Yi were great men of the Warring States. You say his talent is greater still?
+
+@32163
+Indeed. Even compared to Zhang Liang or Jiang Ziya, he falls short in hardly anything.
+
+@32164
+...Well, well, I have stayed too long. I shall go home for today.
+
+@32165
+Ah, Sleeping Dragon, Sleeping Dragon... You have found your master, but have you found your time?
+
+@32166
+...Very well. I will go and meet this "Sleeping Dragon."
+
+@32167
+{e01} set out for Longzhong to meet Zhuge Liang.
+
+@32168
+Excuse me, may I ask... Which way is the home of Master Sleeping Dragon?
+
+@32169
+Ah, Master Sleeping Dragon's hut? It's in those woods over there.
+
+@32170
+Master Sleeping Dragon, eh... What sort of fellow is he?
+
+@32171
+Lord Sima Hui praised him so highly. He cannot be of ordinary talent.
+
+@32172
+You there, boy. Is this the home of Master Sleeping Dragon?
+
+@32173
+Sleeping Dragon? Oh, you mean Master Kongming. Yes, it is.
+
+@32174
+I am Liu Bei, Uncle of the Emperor, General of the Left of the Han, former Governor of Yuzhou and Marquis of Yicheng. I wish to see the master.
+
+@32175
+Huh? That name's way too long. I can't remember all that!
+
+@32176
+Hahaha! Brother, he has got the better of you there.
+
+@32177
+Please tell him that {e01} of {e0B} has come.
+
+@32178
+The master isn't here today.
+
+@32179
+What, he is out? And where did he go...?
+
+@32180
+If I knew that, it'd be easy. I never know where he goes or when he'll be back.
+
+@32181
+What? How careless can you get?
+
+@32182
+Brother, let us go home and come back another day.
+
+@32183
+It cannot be helped. We will go home for today.
+
+@32184
+In the castle of {e01}
+
+@32185
+Lord {e02}, they say Zhuge Liang, the Sleeping Dragon of Longzhong, is at home today.
+
+@32186
+Oh, is that so? Master Sleeping Dragon is at home today.
+
+@32187
+Brother, are you going to that hut again?
+
+@32188
+The sky looks rather threatening... What will you do?
+
+@32189
+It sure was cloudy. No weather for going out.
+
+@32190
+Lord {e01}, will you visit Master Sleeping Dragon's hut?
+
+@32191
+Somehow I do not feel like it. Not today.
+
+@32192
+Then let us visit Master Sleeping Dragon's hut.
+
+@32193
+Indeed, the weather does not look good.
+
+@32194
+Right? In weather like this, you'd better stay in.
+
+@32195
+What will you do? Shall we head for Longzhong?
+
+@32196
+We can go when the weather is fine. Not today.
+
+@32197
+No need to mind the weather. Let us go at once.
+
+@32198
+Understood. Then I will go with you.
+
+@32199
+Tch, just send someone to call him over... No need to go yourself.
+
+@32200
+You there, boy. Is Master Sleeping Dragon at home?
+
+@32201
+Oh, it's you from the other day... Yes, I think he's inside.
+
+@32202
+Ah, at last it seems I can meet Master Sleeping Dragon.
+
+@32203
+It was worth coming twice, then.
+
+@32204
+Come on, let's just grab him and go home.
+
+@32205
+On my second visit, I have finally met you, Master.
+
+@32206
+I am truly glad to meet you.
+
+@32207
+You must be Lord {e02}. Have you come to see my brother?
+
+@32208
+What! Then where is the master...
+
+@32209
+I am Zhuge Jun, younger brother of Zhuge Liang, the Sleeping Dragon.
+
+@32210
+We are three brothers. The eldest, Jin, is not in Longzhong. I am the youngest; Liang is the second.
+
+@32211
+Not once but twice I come, and still I cannot meet him...
+
+@32212
+...Is he making fun of us?! I'm never coming back. Let's go home, Brother.
+
+@32213
+The wind is rising. Let us hurry home.
+
+@32214
+Lord Jun, please give your brother my regards. I will come again.
+
+@32215
+In the castle of {e01}
+
+@32216
+Lord {e02}, they say Zhuge Liang, the Sleeping Dragon of Longzhong, is at home today.
+
+@32217
+I am going to Wolong Ridge now. Guan Yu, Zhang Fei, come with me.
+
+@32218
+Brother, that is enough. Going there twice was already a little too much.
+
+@32219
+Do they not say the wise Duke Huan of Qi went five times to meet a retainer?
+
+@32220
+That's then, this is now! You don't need to go, Brother. I'll tie him up and drag him here.
+
+@32221
+Lord {e01}, will you visit Master Sleeping Dragon's hut?
+
+@32222
+Somehow I do not feel like it. Not today.
+
+@32223
+Then let us visit Master Sleeping Dragon's hut.
+
+@32224
+Perhaps I have been too fixed on the Sleeping Dragon alone.
+
+@32225
+There will be other chances to meet... Not today.
+
+@32226
+If you understand, I have nothing more to say.
+
+@32227
+Right, I'll go drag that Sleeping Dragon here right now.
+
+@32228
+Zhang Fei, that is not how a benevolent lord acts. Behave yourself.
+
+@32229
+.........Tch.
+
+@32230
+You know how King Wen of Zhou won Jiang Ziya? A wise man is won only through respect.
+
+@32231
+You need not come. I will go alone.
+
+@32232
+It is dangerous to go alone. I will come with you.
+
+@32233
+If you're both going, no way I'm staying behind. Fine, I'm coming too.
+
+@32234
+Well, well. Is your elder brother at home?
+
+@32235
+He is at home today. I am sure you will meet him.
+
+@32236
+Hey, he just walked off! He could have shown us the way...
+
+@32237
+Now, now. Everyone has his own business.
+
+@32238
+You there, boy. Is Master Sleeping Dragon at home?
+
+@32239
+Oh, you came again! He's here, but he's taking a nap. Shall I wake him?
+
+@32240
+No, do not wake him. I will wait until he awakens.
+
+@32241
+A nap?! He's just pretending to sleep, I bet. I'll set fire to his hut and wake him up!
+
+@32242
+Stop that, Zhang Fei! Brother is waiting quietly. What good does your racket do?
+
+@32243
+Mmm... What a good sleep... Hm?
+
+@32244
+It is an honor to meet you. I am {e01}. At last I meet you, Master.
+
+@32245
+You came twice and I was out, and today I was rude enough to nap... Please forgive me.
+
+@32246
+No, it was I who called without notice. Please think nothing of it.
+
+@32247
+Master Sleeping Dragon, please tell me your plan for restoring the House of Han.
+
+@32248
+Asking such a thing of a man as untalented as I puts me at a loss.
+
+@32249
+You were recommended by Xu Yuanzhi himself. There is no need for modesty.
+
+@32250
+Yuanzhi is a man of rare talent, but I am a mere scholar. He rates me too highly.
+
+@32251
+Master Water Mirror would never speak without grounds. There is no need for modesty.
+
+@32252
+Whatever the master said, I am but a mere scholar. Master Water Mirror must have misjudged me.
+
+@32253
+I beg you... for the House of Han and all the people of the realm, lend me your strength.
+
+@32254
+...Very well. Then I will offer you a plan.
+
+@32255
+Since the Yellow Turban Rebellion, war has spread, the authority of the Han has waned, and the realm is in turmoil.
+
+@32256
+Cao Cao holds the Central Plains, and his power is like the rising sun. You cannot contend with him now.
+
+@32258
+In Jiangdong, meanwhile, Sun Quan is building up his strength, with Wu at its center.
+
+@32259
+He will be hard to overthrow... Better to make him an ally through diplomacy.
+
+@32260
+Then what should you do, Lord {e02}? ...Take Jingzhou and Yizhou, beyond the reach of either.
+
+@32261
+Jingzhou, and Yizhou...
+
+@32262
+Leave the north to Cao Cao and the east to Sun Quan. Build up your strength in the west and wait for Heaven's time.
+
+@32263
+Then, when chaos comes to the Central Plains, send out your armies. Your great task will be done and the Han restored.
+
+@32264
+This is called the "Plan to Divide the Realm in Three."
+
+@32265
+...Hearing your great plan, Master, I feel I have seen light through dark clouds.
+
+@32266
+Master, will you not rise for the sake of all the people and guide me?
+
+@32267
+I am only a scholar who enjoys country life. Please do not overrate me.
+
+@32268
+If you do not guide us, the people will only suffer... Please lend me your strength.
+
+@32269
+For all the people of the realm, you say? You strike where it hurts.
+
+@32270
+When warlords fight for supremacy, it is always the innocent people who suffer.
+
+@32271
+To save them, please lend me your strength, Master.
+
+@32272
+...Such gracious words for one so young and untalented as I.
+
+@32273
+Then will you lend us your help?
+
+@32274
+Lord {e02} has called three times on one as young as I, with every courtesy.
+
+@32275
+After that, even an idle scholar of Longzhong cannot refuse to work.
+
+@32276
+I will spare no effort in Your Excellency's service. I am in your hands.
+
+@32277
+Brother, I am leaving the hut. When peace comes to the realm, I shall return here.
+
+@32278
+Yes, Brother. I will wait for your return.
+
+@32279
+Good luck, Master! But don't overdo it.
+
+@32280
+Zhuge Liang, the Sleeping Dragon, has joined {e01}'s service.
+

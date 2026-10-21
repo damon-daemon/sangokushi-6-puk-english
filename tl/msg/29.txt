@@ -1,0 +1,981 @@
+@29000
+At Liu Bei's castle
+
+@29001
+Brother, if you have time, why not visit Master Sleeping Dragon at his hut?
+
+@29002
+Master Sleeping Dragon? Ah, you mean Zhuge Liang of Longzhong, whom Xu Shu recommended.
+
+@29003
+If Strategist Xu recommended him, he must be something special. Let's go and see him.
+
+@29004
+Lord Liu Bei, will you visit Lord Zhuge Liang?
+
+@29005
+Hmm, I do not much feel like it.
+
+@29006
+Brother, will you let Lord Xu Shu's kind recommendation go to waste?
+
+@29007
+Anyway, let's at least meet him and decide after that.
+
+@29008
+No, as long as I have you two, that is enough for me. There is no need to hurry.
+
+@29009
+What, you think so highly of us...
+
+@29010
+Yes, you are right. Then let us go to Longzhong.
+
+@29011
+Excuse me, may I ask you something? Which way is Wolong Ridge?
+
+@29012
+Wolong Ridge?
+
+@29013
+Ah, where Master Sleeping Dragon lives. It's over yonder.
+
+@29014
+Since Lord Xu Shu praised him so highly, this Master Sleeping Dragon must be no ordinary man.
+
+@29015
+Yes, you are right.
+
+@29016
+You there, boy. Is this the home of Master Sleeping Dragon?
+
+@29017
+Sleeping Dragon? Oh, you mean Master Kongming. Yes, it is.
+
+@29018
+I am Liu Bei, General of the Left of the Han, former Governor of Yuzhou, Marquis of Yicheng and Imperial Uncle. I wish to see the master.
+
+@29019
+Huh? I can't remember a name that long!
+
+@29020
+Hahaha! Brother, he got you there.
+
+@29021
+Please tell him that Liu Bei of {e0B} has come.
+
+@29022
+The master isn't here today.
+
+@29023
+What, he is out? Then where has he gone...?
+
+@29024
+If I knew that, life would be easy. I never know where he goes or when he'll be back.
+
+@29025
+What? That's pretty careless.
+
+@29026
+Brother, let us go home and come back another day.
+
+@29027
+Yes... Let us go home for today.
+
+@29028
+At Liu Bei's castle
+
+@29029
+Brother, they say Master Sleeping Dragon has come.
+
+@29030
+Master Sleeping Dragon? Oh, Lord Zhuge Liang has come all this way?
+
+@29031
+I very much wish to meet him. Show him in.
+
+@29032
+I am honored to meet you. My name is Zhuge Liang.
+
+@29033
+I have long heard of your great fame, sir.
+
+@29034
+And what brings you here today?
+
+@29035
+I heard that Your Excellency seeks wise men far and wide, so I have boldly come to ask for a post.
+
+@29036
+Oh, is that so...
+
+@29037
+Lord Liu Bei, will you take Lord Zhuge Liang into your service?
+
+@29038
+I am afraid... I am not short of talent at present. Please wait for another occasion.
+
+@29039
+I see... Then I will take my leave.
+
+@29040
+Brother, why did you not take Zhuge Liang on?
+
+@29041
+Aw, and after he came all this way.
+
+@29042
+I could wish for nothing better. Please guide me well.
+
+@29043
+I am young and untalented, but I will serve Your Excellency with all my strength.
+
+@29044
+Brother, why did you take Zhuge Liang on so easily?
+
+@29045
+What if, by some chance, he is an enemy spy?
+
+@29046
+That's right! You should be a little more careful.
+
+@29047
+He is not that kind of man. Your worry is needless.
+
+@29048
+For me to gain a wise strategist like him is truly like a fish finding water.
+
+@29050
+Hmph! Can you fight a war with water?
+
+@29051
+Hahaha! Now, will someone shoot a bow for our amusement?
+
+@29052
+Hit that target! Whoever hits it will receive a robe of Shu brocade as a prize.
+
+@29053
+Then let me go first.
+
+@29054
+Well done! Right in the center.
+
+@29055
+The prize is mine. Watch my skill closely.
+
+@29056
+Oh, Zhongye's skill is remarkable.
+
+@29057
+I am confident with a bow. Behold my skill.
+
+@29058
+Yes, it seems you can back up your words.
+
+@29059
+I will take the robe myself. There!
+
+@29060
+Splendid, splendid! Is the prize yours, then?
+
+@29061
+Bah, you clumsy lot! I will hit the very center.
+
+@29062
+Miaocai, your skill is splendid. The prize is yours.
+
+@29063
+Wait! That robe is mine.
+
+@29064
+He shot through the branch the robe was hanging on! Well, well, Gongming thinks differently.
+
+@29065
+Then I will gratefully accept the robe.
+
+@29066
+Lord Gongming did not hit the target. Why is he taking the robe?
+
+@29067
+The robe is mine. Hand it over, quick.
+
+@29068
+Tiger Fool, what are you saying?! This robe is mine!
+
+@29069
+Then I'll take it by force!
+
+@29070
+Hahaha! Now, now, stop this quarreling.
+
+@29071
+Y-yes, my lord.
+
+@29072
+I only wanted to see your skill.
+
+@29073
+You all did splendidly. Every one of you will get a robe as a prize.
+
+@29074
+Yes, my lord! We are most grateful.
+
+@29075
+In the 8th month of 184, Zhang Jiao, leader of the Way of Great Peace, fell gravely ill, with no hope of recovery.
+
+@29076
+Bao... Liang... It seems my days are numbered.
+
+@29077
+Brother, how can you say such a thing!
+
+@29078
+There are a million people in the land who look up to you as a father. Do not lose heart over an illness.
+
+@29079
+The Immortal Nanhua, who gave me the book of Heaven, said Heaven would surely punish me if evil grew in my heart.
+
+@29080
+The Yellow Turban volunteers I gathered to save the people have now become a mob.
+
+@29082
+This comes from the evil in my heart. My illness must be Heaven's punishment.
+
+@29083
+After I die, you two must take care to cherish the people...
+
+@29084
+...Brother!
+
+@29085
+In the 8th month of 184, Zhang Jiao died of illness.
+
+@29086
+At the castle of Zhang Jiao, leader of the Way of Great Peace
+
+@29087
+Brother, the enemy is tougher than we thought. Things are not going as they did when we first rose.
+
+@29088
+The Han court is like a great elephant. Old as it is, it will not fall easily.
+
+@29089
+Indeed... Hm?
+
+@29090
+Hey, old man! How dare you walk into the Great Teacher's room unannounced!
+
+@29091
+Insolent wretch! Throw him out!
+
+@29092
+W-wait! You are...
+
+@29093
+...I am the Immortal Nanhua. Zhang Jiao, it has been a long time...
+
+@29094
+...Why have you stirred up rebellion and sought to seize the realm?
+
+@29095
+N-not at all! I raised troops only to save the people.
+
+@29096
+Seizing the realm never crossed my mind.
+
+@29097
+...Spare me your excuses. The people weep because of your Yellow Turbans, do they not?
+
+@29098
+...As punishment for acting out of selfish greed, I will take back the book of Heaven.
+
+@29099
+...Reflect well on what you have done. Do you understand?
+
+@29100
+Immortal Nanhua! He has vanished...
+
+@29101
+Ah! Th-the Taiping Yaoshu is gone!
+
+@29102
+What! C-could that old man...
+
+@29103
+Hmm... How very strange...
+
+@29104
+Zhang Jiao has lost the Taiping Yaoshu.
+
+@29105
+One day, Zhuge Liang went to the palace and asked for an audience with {e01}.
+
+@29106
+Ah, Prime Minister. What did you wish to discuss?
+
+@29107
+I have come to present this memorial to Your Majesty.
+
+@29108
+I have come to present this memorial to Your Excellency.
+
+@29109
+The Memorial on Dispatching the Troops... Please read it out.
+
+@29110
+Your servant Liang humbly submits: the late Emperor passed away before completing his great task of restoring the Han.
+
+@29111
+Now the realm is in chaos and our province is exhausted. Truly this is a time of mortal peril.
+
+@29112
+Yet the loyal men who received the late Emperor's favor are still full of spirit.
+
+@29113
+To repay the late Emperor's trust, I intend to lead the army on a northern campaign.
+
+@29114
+Your Majesty, I beg you, grant me, Kongming, leave to march north.
+
+@29115
+Your servant Liang humbly submits: the late lord passed away before completing his great task of restoring the Han.
+
+@29116
+Yet the loyal men who received the late lord's favor are still full of spirit.
+
+@29117
+To fulfill the late lord's dearest wish, the restoration of the Han, I intend to lead a great army north.
+
+@29118
+Move Zhuge Liang to Hanzhong, on the front line?
+
+@29119
+If the Prime Minister is so resolved, We have no objection.
+
+@29120
+I cannot thank Your Majesty enough for your kindness.
+
+@29121
+Very well, I grant it. Father would surely be pleased.
+
+@29122
+I cannot thank Your Excellency enough for your kindness.
+
+@29123
+I will leave matters at home to others. Go without worry.
+
+@29124
+Yes. I will surely crush the rebel armies.
+
+@29125
+I will fulfill the late lord's dearest wish and restore the Han.
+
+@29126
+Zhuge Liang has moved to Hanzhong, on the front line.
+
+@29127
+While my father lived, we had many wise and brave officers, and the gap in strength was not so great.
+
+@29128
+But now it is different. We have few warriors and strategists compared with the other states.
+
+@29129
+That is... certainly true, but...
+
+@29130
+The land of Shu is a fortress ringed by steep mountains. Should we not devote ourselves to governing and wait for Heaven's moment?
+
+@29131
+If you insist, I will call it off this time.
+
+@29132
+But we are the weaker side. If we do not attack, we will perish in time. Please understand that.
+
+@29133
+In {e0B}
+
+@29134
+I cannot follow Lord {e02} any longer.
+
+@29135
+But even if I wanted to leave, I am closely watched... What should I do...
+
+@29136
+Gan Ning, what are you thinking about?
+
+@29137
+Ah! No, nothing in particular...
+
+@29138
+You need not hide it. You are unhappy with our lord, are you not?
+
+@29139
+So you saw into my heart, Lord Su Fei.
+
+@29140
+We live only once. You must think carefully about your path.
+
+@29141
+I will cover for you. Go wherever you will.
+
+@29142
+Lord Su Fei... I cannot thank you enough.
+
+@29143
+Gan Ning, an officer of {e01}, has fled to {e02}.
+
+@29144
+Lord {e02}, an officer named Gan Ning has come to surrender to us.
+
+@29145
+Gan Ning... That fierce warrior has surrendered? Good, bring him here.
+
+@29146
+I am Gan Ning, styled Xingba. I wish to serve you, Lord {e02}, and so I have come.
+
+@29147
+I beg you to take me into your service.
+
+@29148
+I have long known your name. I am delighted that you will lend us your strength.
+
+@29149
+Do great things for us. I am counting on you.
+
+@29150
+At Liu Bei's castle
+
+@29151
+Then I will take my leave.
+
+@29152
+Kongming, what do you think of Ma Su's talent?
+
+@29153
+Ma Su? He is the younger brother of White Brows, and a man of fine talent.
+
+@29154
+I consider him one of the brilliant men who can support the state...
+
+@29155
+No, I disagree. Ma Su talks big, but his deeds do not always match his words.
+
+@29156
+I do not think he can be trusted with important duties. What do you say?
+
+@29157
+Is that so...? I do not think that is the case, but...
+
+@29158
+At Liu Bei's castle
+
+@29159
+Lord Liu Bei, an invitation to a banquet has come from Lord Liu Biao of Xiangyang. What shall we do?
+
+@29160
+If Lord Liu Biao invites me, I must go.
+
+@29161
+Lord Liu Bei, welcome! I wanted to share a cup of wine with you. Come, drink!
+
+@29162
+Liu Bei and Liu Biao enjoyed the banquet for a while. Then, suddenly, Liu Bei began to weep.
+
+@29163
+What is the matter, Lord Liu Bei? Why do you weep?
+
+@29164
+In my youth I was always going to and from the battlefield, riding a horse almost every day.
+
+@29165
+But lately I no longer ride, and my thighs have grown fat.
+
+@29166
+...Thinking of how I grow old with the Han still not restored, I could not help weeping.
+
+@29167
+Cao Cao himself called you a hero equal to him. No wonder you feel such regret.
+
+@29168
+Your time will surely come. When it does, I will help you as best I can.
+
+@29169
+The restoration of the Han... That is indeed the wish of our whole clan.
+
+@29170
+Lord Jingsheng... Thank you.
+
+@29171
+In {e0B} Castle
+
+@29172
+Hm? That horse, surely...
+
+@29173
+There is something I would like you to hear. May I?
+
+@29174
+Hm? Who are you, sir?
+
+@29175
+I am Yi Ji, a retainer of Liu Biao. I am honored to meet you.
+
+@29176
+My lord, there is something I must tell you. May I?
+
+@29177
+Hmm, what is it?
+
+@29178
+It is about this horse. Look closely at its face.
+
+@29179
+A horse with tear troughs under its eyes and a white spot on its brow is called a "Dilu".
+
+@29180
+Since ancient times it is said that such a horse brings a curse upon its rider. You had better not ride it.
+
+@29181
+I see. Thank you for the warning.
+
+@29182
+But a single horse has no power to sway the will of Heaven. It would be unfair to the horse to worry.
+
+@29183
+Besides, if one who leads others believed in curses, no one would follow him.
+
+@29184
+A single horse has no power to sway the will of Heaven.
+
+@29185
+I see... Spoken like a benevolent lord.
+
+@29186
+At Liu Bei's castle
+
+@29187
+My lord, they say Lord Pang Tong of {e0B} neglects his duties and is drunk every day.
+
+@29188
+Many complaints have come from the people of {e0B}.
+
+@29189
+Neglects his duties and drinks all day! How enviable... I mean, how outrageous!
+
+@29190
+This cannot be ignored. Brother, go to {e0B} and see what is going on.
+
+@29191
+Yes, Brother, understood. Leave it to me!
+
+@29192
+General, sir, the Protector won't do his work.
+
+@29193
+There's never been a Protector as bad as him. Please teach him a lesson.
+
+@29194
+All right, all right. Leave it to me.
+
+@29195
+Pang Tong! Where is Pang Tong?
+
+@29196
+Oh, if it isn't Lord Zhang Fei... Here, care for a drink?
+
+@29197
+...Bah, never mind drinking! Why aren't you doing your work? Depending on your answer, I won't go easy on you!
+
+@29198
+Heh heh. If I did work this simple properly, it would be over far too soon.
+
+@29199
+I am only waiting until it piles up.
+
+@29200
+Don't give me that nonsense! Then prove it!
+
+@29201
+Oh, all right, all right. Tomorrow I will work a little seriously.
+
+@29202
+The next day...
+
+@29203
+...You are in the wrong. Pay back five measures of rice. Good, next!
+
+@29204
+...Theft is a grave crime. You will receive fifty strokes of the rod. Good, next!
+
+@29205
+Hmm, what skill! His judgments are so clear that no one complains...
+
+@29206
+Done at last. My, how tiring.
+
+@29207
+I have never seen a man of such great talent. Forgive my rudeness yesterday.
+
+@29208
+I will be sure to recommend you to my brother.
+
+@29209
+I was getting bored with this place anyway. I am in your hands.
+
+@29210
+It is a waste to keep Pang Shiyuan's talent in such a remote city.
+
+@29211
+Let the Young Phoenix spread his wings to the full, and show his tactical brilliance on the front line.
+
+@29212
+Pang Tong has returned to Liu Bei. Zhang Fei has become Protector of {e0B}.
+
+@29213
+In {e0B} Castle, where Guan Yu is stationed
+
+@29214
+I hear a warrior named Ma Chao has recently joined my brother...
+
+@29215
+Yes. They say he is a warrior as valiant as Lord Zhang Fei.
+
+@29216
+And so I hear he is a little proud of his valor.
+
+@29217
+Hmm... I see. Very well.
+
+@29218
+At Liu Bei's castle
+
+@29219
+Lord Liu Bei, a letter has come from Lord Guan Yu in {e0B}.
+
+@29220
+A letter from Yunchang... Has something happened in {e0B}? Kongming, read it.
+
+@29221
+"Rumors of the great valor of Ma Chao, who has newly joined you, have reached us here too.
+
+@29222
+I write this because I very much wish to test my skill against Ma Chao.  -- Guan Yu"
+
+@29223
+If Yunchang and Mengqi were to fight, one of them would surely be hurt.
+
+@29224
+Yunchang and Mengqi are both precious officers to me. What should I do, Kongming?
+
+@29225
+Let me see... Then I will write a reply to Lord Guan Yu myself.
+
+@29226
+A letter from Lord Kongming? Let me see it.
+
+@29227
+"Ma Mengqi is a man of great valor, truly a worthy match for Lord Zhang Yide.
+
+@29228
+But even his valor falls far short of the matchless valor of 'Lord Beard'.
+
+@29229
+Think not of contests, and keep a firm guard on {e0B}. I trust in your wisdom.  -- Zhuge Liang"
+
+@29230
+That's Lord Kongming for you! He understands me well.
+
+@29231
+When Ma Chao learned of Zhuge Liang's letter, he was astonished anew.
+
+@29232
+Hmm... Not only Lord Zhang Fei, but Lord Guan Yu above him...
+
+@29233
+What a wealth of talent! I cannot put on airs here.
+
+@29234
+At {e01}'s castle
+
+@29235
+Jiang Qin, Lu Meng, you are generals of armies. Why not apply yourselves a little to learning?
+
+@29236
+Well... I am applying myself, but results do not come overnight.
+
+@29237
+I see. Keep at it. Lu Meng, what about you?
+
+@29238
+My military duties keep me so busy that I have little time.
+
+@29239
+That will not do. A commander must read the histories and the military classics.
+
+@29241
+I too read whenever I have time. I hear even Cao Cao reads a great deal.
+
+@29242
+You say your duties keep you busy. Are you busier than I am? Well?
+
+@29244
+Well, there is no need to rush. Just work at it steadily.
+
+@29245
+At Lu Meng's residence
+
+@29246
+Lord Lu Meng, are you in? I was passing nearby, so I dropped in.
+
+@29247
+Why, Lord Lu Su. It has been a long time.
+
+@29248
+I hear you have been working hard at your studies lately. How are they going?
+
+@29249
+I believe I have gained some knowledge...
+
+@29250
+Lu Su debated many things with Lu Meng, and could not hide his surprise at Lu Meng's progress.
+
+@29251
+This is a surprise! You are no longer the old Ameng of Wu, it seems.
+
+@29252
+Hahaha! As the old saying goes, "When you have not seen a man for three days, look at him with new eyes."
+
+@29253
+Lu Meng's learning is remarkable. I was greatly surprised.
+
+@29254
+To set your mind on learning at your age... Lu Meng, well done.
+
+@29255
+Thank you. It is all thanks to your guidance, my lord.
+
+@29256
+Lu Meng learned a great deal, and his experience has increased.
+
+@29257
+Liu Bei granted five officers, Guan Yu, Zhang Fei and others, the title of "Five Tiger Generals".
+
+@29258
+In praise of your loyal service, I hereby grant you the title of Five Tiger Generals. Keep helping me from now on.
+
+@29259
+Am I to be first among the Five Tiger Generals?
+
+@29260
+I will go on working for you, Brother, at the risk of my life.
+
+@29261
+Me, one of the Five Tiger Generals? Kind of embarrassing.
+
+@29262
+For you, Brother, I'll charge through water or fire!
+
+@29263
+Yes, my lord. I humbly accept the appointment.
+
+@29264
+I will keep working body and soul for the restoration of the Han.
+
+@29265
+Yes, my lord! Thank you.
+
+@29266
+I will defeat the traitors, bring peace to the realm and repay your kindness.
+
+@29267
+It is an honor far too great for one like me.
+
+@29268
+Even if my blood and brains are spilled upon the ground, I will have no regrets.
+
+@29269
+I am overjoyed to receive such an honor.
+
+@29270
+When battle comes, please give me command of the vanguard.
+
+@29271
+Such an honor for a rough soldier like me... I do not deserve it.
+
+@29272
+I will spare no effort, like a faithful dog or horse. Command me as you will.
+
+@29273
+To think that one as young as I should receive such an honor...
+
+@29274
+I will do my utmost not to betray your expectations.
+
+@29275
+At Sun Quan's castle
+
+@29276
+In the recent battle, I very nearly fell prey to an enemy general.
+
+@29277
+That was a close call, Gongji.
+
+@29279
+Ling Tong, who do you think saved you from danger?
+
+@29280
+...What? S-surely not...
+
+@29281
+That is right. It was Gan Xingba who shot that arrow. You should thank him.
+
+@29282
+To think you would save me... I-I thank you...
+
+@29283
+Think nothing of it. It was for our lord's sake.
+
+@29284
+At Liu Shan's castle
+
+@29285
+Huang Hao, how are things at the front?
+
+@29286
+Jiang Wei has still not taken Chang'an.
+
+@29287
+It is not that the soldiers are weak. The problem must be the general's talent.
+
+@29288
+Is that so? Then what should We do?
+
+@29289
+Let us give command of Wudu to Yan Yu instead of Jiang Wei.
+
+@29290
+Then Chang'an, and Luoyang too, will surely be ours.
+
+@29291
+Oh, I see. Then summon Yan Yu.
+
+@29292
+Yan Yu reporting. What is your wish, Your Majesty?
+
+@29293
+We appoint you Protector of Wudu. Take over from Jiang Wei.
+
+@29294
+I am not very talented, but I think I can do better than Lord Jiang Wei... heh heh.
+
+@29295
+Why does His Majesty summon me to Chengdu? And with Yan Yu to succeed me...
+
+@29296
+...This is Huang Hao's doing. That mere eunuch, meddling in affairs of state!
+
+@29297
+What will you do? Will you return to Chengdu?
+
+@29298
+It is an imperial order, so I have no choice... Hmph, as if the likes of Yan Yu could hold Wudu.
+
+@29299
+If they come crying to me later, it will be none of my concern!
+
+@29300
+Yan Yu has replaced Jiang Wei as Protector of Wudu.
+
+@29301
+At Sun Ce's castle
+
+@29302
+With our present forces, we could never contend for the realm... How pathetic.
+
+@29303
+Lord Bofu, what is the matter? You seem troubled.
+
+@29304
+Brooding alone will not bring you good ideas.
+
+@29305
+Ah, you two. What should we do about our lack of troops?
+
+@29306
+Then why not borrow troops from Lord Yuan Shu of {e0B}?
+
+@29307
+...But, Lord Junli, I doubt a miser like Lord Yuan Shu would lend troops so easily.
+
+@29308
+He has long coveted the Imperial Seal. If you offer it as a pledge, you can borrow troops.
+
+@29309
+Lord Sun Ce, will you leave the Imperial Seal with Yuan Shu and borrow troops?
+
+@29310
+I cannot hand the Imperial Seal to anyone. Let us think of another plan.
+
+@29311
+As you wish, my lord.
+
+@29312
+The next day, Sun Ce asked Yuan Shu for the loan of troops.
+
+@29313
+But, you know... Even if I lend you troops, I cannot lend them for nothing...
+
+@29314
+Of course, I understand. So I will leave you my father's keepsake as a pledge.
+
+@29315
+Th-this is... the Imperial Seal of the realm! So it was true that Lord Sun Jian had obtained it!
+
+@29316
+What do you say? Will you lend me troops?
+
+@29317
+Lord Yuan Shu, will you lend Sun Ce 5,000 foot soldiers?
+
+@29318
+N-no, we are short of troops ourselves. I cannot lend any.
+
+@29319
+Bofu, do not take it ill. Take that treasure back with you.
+
+@29320
+I see... Then I will take my leave.
+
+@29321
+Who would have thought Sun Bofu had the Imperial Seal...
+
+@29322
+Y-yes, I understand. I will lend you 5,000 crack troops. Use them as you like.
+
+@29323
+Thank you. I am grateful for Your Excellency's consideration.
+
+@29324
+Sun Ce has borrowed 5,000 troops from Yuan Shu. Yuan Shu holds Sun Ce's Imperial Seal in pledge.
+
+@29325
+At Sun Ce's castle
+
+@29326
+Urgent news! Yuan Shu of {e0B} has taken the imperial throne on the strength of the Imperial Seal!
+
+@29327
+What... The Imperial Seal was only left with him as a pledge!
+
+@29328
+To use my father's keepsake as he pleases and take the throne... Outrageous!
+
+@29329
+I will surely bring Heaven's punishment down on him. False Emperor Yuan Shu, prepare yourself!
+
+@29330
+From the moment you gave Yuan Shu the Imperial Seal, I thought something like this might happen...
+
+@29331
+Curse Yuan Shu! Blinded by the throne, he has turned traitor!
+

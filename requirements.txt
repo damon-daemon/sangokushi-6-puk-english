@@ -1,0 +1,4 @@
+pillow>=10
+# development helpers only (tools/dev/)
+capstone>=5
+unicorn>=2.1

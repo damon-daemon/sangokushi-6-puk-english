@@ -1,0 +1,600 @@
+@24000
+{e02}, you wretch! I will never forgive that one! I will cut them down!
+
+@24000.1
+I have waited for this! I will not rest until I kill {e02} with my own hands!
+
+@24000.2
+{e02}'s head is mine! I will let no one get in my way!
+
+@24000.3
+{e02} must not live! This time, whatever anyone says, I will do as I please!
+
+@24001
+{e01}, blind with rage, will not listen to anyone.
+
+@24002
+I cannot let the likes of Gan Ning steal the glory. Whatever it takes...
+
+@24002.1
+I will not trail behind an old general! The honor of being first is mine!
+
+@24002.2
+There is an unwritten rule: even if you break orders, great merit is recognized. I cannot fall behind the young ones. I must do it...
+
+@24002.3
+I cannot bear to be outdone by some green officer!
+
+@24002.4
+I will do things my own way.
+
+@24002.5
+How I fight is my own business.
+
+@24002.6
+I fight by my own will. I need no one's orders at every turn.
+
+@24002.7
+I need no orders. I will do it my way.
+
+@24003
+{e01} is about to act on their own judgment.
+
+@24004
+Why must I work under {e02}!
+
+@24004.1
+{e02}, do not get above yourself just because you are the commander.
+
+@24004.2
+Hmph! What do I care what {e02} says? I will do it my way.
+
+@24004.3
+I fight by my own will. I need no orders from {e02} at every turn.
+
+@24005
+{e01}, resenting {e02}, is about to act on their own.
+
+@24006
+! That banner... Guan Yunchang, Marquis of Hanshou... So the rumor that he is with Cao Cao was true... Then I have no more business here. Retreat!
+
+@24006.1
+That my lord should be swayed by the likes of Shen Pei and march out... Rather than be shunned by my lord over slander, better to withdraw.
+
+@24006.2
+I do not want to die yet! Retreat! Retreat!
+
+@24006.3
+My life matters more to me than winning or losing. I will run before I am killed.
+
+@24006.4
+Things look bad. At times like this, he who runs wins. Men, keep up!
+
+@24006.5
+I cannot die yet... I will play it safe and withdraw.
+
+@24007
+{e01} has begun to retreat on their own.
+
+@24008
+Lord {e02}
+
+@24009
+{C24008}, I have a plan. I will throw the enemy units into confusion.
+
+@24009.1
+Let us strike where the enemy is weak and throw their units into confusion. {C24008}, leave it to me, {e01}.
+
+@24009.2
+{C24008}, please give me some troops. I will go and throw the enemy into confusion.
+
+@24009.3
+{C24008}, let me devise a plan to throw the enemy into confusion. Leave it to me.
+
+@24010
+{e01}'s unit is in confusion from a plot by {e02}, advisor of the {e15} army.
+
+@24011
+{C159}, there is something I wish to discuss at a council. Will you hear it?
+
+@24012
+Lord {e02}, hold a council?
+
+@24013
+Lord {e02}, have {e01} carry it out?
+
+@24014
+I see... A pity, but it cannot be helped.
+
+@24015
+The council is called off? A pity, but it cannot be helped...
+
+@24016
+I understand... So you will not hear my opinion.
+
+@24017
+{C159}, I believe we should rebuild scorched {e0B} at once.
+
+@24017.1
+{C159}, I fear leaving {e0B} scorched will cause trouble later.
+
+@24018
+Rebuilding {e0B} will cost about %d gold. What do you say?
+
+@24018.1
+It will need about %d gold. Shall we rebuild {e0B} from the ashes?
+
+@24019
+{C159}, our urgent task now is to rebuild scorched {e0B} and give the people peace.
+
+@24019.1
+In a scorched city, even your benevolent rule means nothing, {C159}.
+
+@24019.2
+I wish to rebuild scorched {e0B}, save its people, and show the realm your righteousness, {C159}.
+
+@24020
+Rebuilding {e0B} will cost about %d gold. What do you say?
+
+@24020.1
+I wish to spend %d gold to rebuild {e0B} from the ashes. What do you say?
+
+@24020.2
+Rebuilding {e0B} will need %d gold. Is that all right?
+
+@24021
+A scorched city is all but defenseless... If attacked, it is sure to fall.
+
+@24021.1
+In my humble opinion, a scorched city is hard to defend, and its income is halved.
+
+@24021.2
+{C159}, {e0B} lies scorched... If {e0B} becomes a battlefield, we will lose it.
+
+@24022
+So I wish to rebuild {e0B}, but it will cost %d gold. {C159}, what do you say?
+
+@24022.1
+Rather than begrudge a one-time expense, why not spend %d gold to rebuild {e0B}?
+
+@24022.2
+Before that happens, I think we should spend %d gold to rebuild {e0B}. What do you say?
+
+@24023
+Any city loses half its worth when scorched. Leaving it so is the worst of plans.
+
+@24023.1
+{C159}, cities are the foundation of supremacy... Leaving one scorched is like tightening a noose around your own neck.
+
+@24023.2
+To defeat enemies and expand, we need troops; to feed troops, gold and food. And these come from cities.
+
+@24024
+I think the best plan is to spend %d gold at once to rebuild {e0B}...
+
+@24024.1
+I think {e0B} should be rebuilt first... It will cost %d gold. What do you say?
+
+@24024.2
+Then we cannot leave a scorched city as it is... I think we should spend %d gold to rebuild {e0B}.
+
+@24025
+It hardly needs saying, but {e0B} lies scorched!
+
+@24025.1
+It seems no one else will say it, so it cannot be helped... I will.
+
+@24025.2
+I did not want to get involved in worldly affairs, but... I must tell you this, {C159}...
+
+@24026
+It will cost about %d gold, but why not rebuild {e0B}? Well, it is your decision, {C159}.
+
+@24026.1
+{C159}, {e0B} lies scorched... Why not spend %d gold to rebuild it?
+
+@24026.2
+{C159}, the people of scorched {e0B} are suffering... Please grant %d gold to rebuild it.
+
+@24027
+To show the realm the legitimacy of our service to the Emperor, let us make {e0B} the Imperial City.
+
+@24027.1
+To show the realm your authority as servant of the rightful Emperor, {C159}, why not make {e0B} the Imperial City?
+
+@24027.2
+The realm is in chaos, and some even scorn the court... We should build an Imperial City and restore the court's prestige.
+
+@24028
+Building the Imperial City will cost %d gold. What do you say?
+
+@24028.1
+Building the Imperial City will need %d gold. I humbly ask your permission...
+
+@24028.2
+Rebuilding {e0B} as the Imperial City will cost %d gold. What do you say?
+
+@24029
+To show the realm your prestige, {C159}, let us make our capital {e0B} the Imperial City.
+
+@24029.1
+Let us make our capital {e0B} the Imperial City and show the realm your glory, {C159}!
+
+@24029.2
+Let us build an Imperial City to show your virtue, {C159}, from the lords down to the common people!
+
+@24030
+{C159}, {e47} has been pacified.
+
+@24030.1
+{C159}, thanks to you we have pacified {e47}.
+
+@24030.2
+{C159}, through your efforts {e47} has been pacified.
+
+@24031
+So why not take the title of Governor?
+
+@24031.1
+At this time, {C159}, I would ask you to become Governor.
+
+@24031.2
+Why not become Governor at this time, I wonder...
+
+@24032
+{C159}, to make a name in these chaotic times, one needs a title too.
+
+@24033
+Now that {e47} is pacified, why not take the title of Governor?
+
+@24034
+{C159}, the people of {e47} wish you to become Governor.
+
+@24035
+Why not answer the people's wish and become Governor?
+
+@24036
+To further settle the people's hearts, I would like you to become Governor, {C159}...
+
+@24037
+{C159}, I will not press you. I merely mention it.
+
+@24038
+{C159}, now that you have pacified {e47}, why not take the title of Governor?
+
+@24039
+{C159}, become Governor and show the realm you are the rightful ruler of {e47}.
+
+@24040
+Now more than half of {e47} is under your command, {C159}.
+
+@24040.1
+Now more than half the commanderies of {e47} are already under your rule, {C159}.
+
+@24040.2
+{C159}, by your glory {e47} is half pacified.
+
+@24041
+{C159}, why not become Inspector of {e47} at this time?
+
+@24041.1
+{C159}, I beg you to become Inspector of {e47}.
+
+@24041.2
+{C159}, you must become Inspector of {e47}.
+
+@24042
+{C159}, I think a mere Protector's title lacks weight.
+
+@24043
+With {e47} half pacified, now is the time to take the title of Inspector of {e47}.
+
+@24044
+The people of {e47} sincerely wish for your rule, {C159}.
+
+@24045
+Please answer the people's wish and become Inspector of {e47}.
+
+@24046
+I would like you to become Inspector of {e47}, {C159}, and bring stability to our lands.
+
+@24047
+Perhaps it is time to take the title of Inspector of {e47}. {C159}, what do you say?
+
+@24048
+Your servant {e01} observes the times: the fiery virtue of Han has waned, and the realm's hopes now rest on you, {C159}.
+
+@24048.1
+Your servant {e01} humbly reports... The House of Han has declined, and the Mandate of Heaven is yours, {C159}.
+
+@24048.2
+{C159}, the Mandate of Heaven has left the Han, and all the people place their hopes in you.
+
+@24049
+To answer Heaven's mandate and the people's hopes, receive the throne from the Emperor and ascend it.
+
+@24049.1
+{C159}, follow Heaven's will: receive the abdication of the present Emperor and take the throne.
+
+@24049.2
+Heed the voice of the realm: receive the throne from the present Emperor and become Son of Heaven.
+
+@24050
+The Han has lost all prestige. I believe you are the one who should ascend the throne, {C159}.
+
+@24051
+Why not press {e1F} to abdicate, bring down the curtain on the Han, and found a new dynasty?
+
+@24052
+The House of Han has declined; the realm holds together only thanks to your sacred virtue, {C159}.
+
+@24052.1
+Lately auspicious omens are reported everywhere. Clearly the Mandate has passed from Han to you, {C159}.
+
+@24052.2
+{C159}, from all over our lands come reports of omens: phoenixes and qilin appearing, yellow dragons dancing.
+
+@24053
+Now, as in the days of Yao and Shun, the throne should pass to a hero of virtue. What do you say?
+
+@24053.1
+I pray you will answer Heaven's timing, receive the Emperor's abdication, ascend the throne, and bring peace to the realm.
+
+@24053.2
+This is proof the Mandate has passed to you, {C159}. It is time to receive the abdication and ascend the throne.
+
+@24054
+The Han has fallen, but the realm's fate is not yet settled, and the people's hearts turn to the King of {f15}.
+
+@24055
+Answer the hopes of all the people and show the realm that our {f15} is the true dynasty. Please ascend the throne.
+
+@24056
+Now that {e1F} has been robbed of the throne and the Han realm has no master, only you can carry on the true line of Han, {C159}.
+
+@24056.1
+Only you, {C159}, can strike down the rebels who falsely claim the throne and restore the Han.
+
+@24057
+It is only natural that you take the throne, {C159}; it is the wish of all the people. Please ascend it.
+
+@24057.1
+{C159}, to show the realm that the true line of Han lives on, please ascend the throne.
+
+@24058
+The Han has declined so badly that it is no exaggeration to say the realm has no master.
+
+@24058.1
+The realm is in chaos, with warlords holding every region... The Han Emperor has no authority left.
+
+@24059
+I think you, who hold the Imperial Seal, the proof of the Son of Heaven, should take the throne, {C159}...
+
+@24059.1
+I humbly believe you, holder of the Imperial Seal, should become Son of Heaven, {C159}. What do you say?
+
+@24060
+{C159}, you have fought many wars, blessed the people, won their loyalty and brought peace to the realm.
+
+@24061
+Your achievements are now plain to the realm, {C159}... It is fitting that you rise in rank and become King.
+
+@24062
+The House of Han has declined, and the likes of {e03} defy the Emperor and falsely call themselves King... So...
+
+@24063
+{C159}, I have a request. Become King, and show that you will not tolerate {e03}.
+
+@24064
+With the likes of {e03} calling themselves King, everyone fears for the realm's future.
+
+@24065
+So I ask you, {C159}, a kinsman of the House of Han, to become King and show the realm what is right.
+
+@24066
+The Han has already fallen. No one can complain if the powerful make themselves King.
+
+@24067
+I beg you to become King and make your name ring throughout the realm, {C159}.
+
+@24068
+After the great turmoil since the Yellow Turbans, the House of Han survives only thanks to your efforts, {C159}...
+
+@24069
+I believe you should be raised to Duke, {C159}, and granted the Nine Bestowments to honor your great deeds.
+
+@24070
+{C159}, among the retainers it is rumored that your heir will be Lord {e03} or Lord {e04}.
+
+@24072
+{C159}, the retainers are abuzz over whether your heir will be me or {C24075} {e04}.
+
+@24073
+{C159}, the retainers are all saying your heir will be either me or {C24076}.
+
+@24074
+{C159}, the retainers seem to be debating whether your heir will be Lord {e04} or me.
+
+@24075
+my sister
+
+@24075.1
+my brother
+
+@24075.2
+my sister
+
+@24075.3
+my brother
+
+@24075.4
+my sister
+
+@24075.5
+my sister
+
+@24075.6
+my brother
+
+@24075.7
+my brother
+
+@24075.8
+our kin
+
+@24076
+Lord {e04}
+
+@24076.1
+Lord {e04}
+
+@24076.2
+Lord {e04}
+
+@24076.3
+Lord {e04}
+
+@24077
+I think Lord {e03} would be fitting as heir...
+
+@24079
+Of course the heir is me, right?! Please tell me clearly!
+
+@24079.1
+So I would like you to make it clear that your heir is me, {C159}...
+
+@24080
+Well, I do not mind succeeding you, {C159}, but I would like to hear your intentions.
+
+@24081
+Well, by order of age, I think it would be proper for me to succeed...
+
+@24081.1
+I am confident I could be a worthy successor to you, {C159}... I would like to hear your intentions.
+
+@24082
+{C159}, I believe we must build an Imperial City to show the realm your authority.
+
+@24083
+To prepare, why not move the capital from {e0B} to {e0C}?
+
+@24084
+{C159}, there is no need to send troops against the likes of {e03}. I think a single emissary would make {e03} submit to you. What do you say?
+
+@24085
+In my humble opinion, expanding by force is not the only way to unify the realm. Why not demand that {e03}, our vassal, surrender and join our ranks?
+
+@24086
+In my humble opinion, a meaningless alliance is not only useless but harmful. Why not annul the alliance with {e03}, which is now an empty shell?
+
+@24087
+Whatever the past, we now have the strength to stand on our own. We no longer need to be the vassal of the likes of {e03}. Let us break with them at once!
+
+@24088
+{C159}, I wish to demand that {e15} return our comrade {e03}, who is held prisoner... Why not offer in exchange one of {e15}'s men that we hold?
+
+@24089
+Lord {e03}, one of our finest generals, is a prisoner of {e15}. {C159}, I wish to ask {e15} to return Lord {e03}. Is that all right?
+
+@24090
+{C159}, let us ask {e15} to return {e03}, who is held prisoner. I think we should offer %s (%d) as the terms. What do you say?
+
+@24091
+Lord {e03} is a prisoner of {e15}, and we cannot abandon them. I wish to give {e29} to {e15} and ask for Lord {e03}'s return.
+
+@24092
+{C159}, {e03}, our wisest strategist, is still a prisoner of {e15}. Let us grant {e15} the title of {e3D} to win favor, and demand {e03}'s return.
+
+@24094
+{C159}, to destroy the hated {e16}, let us ally with {e15}, who shares our enemy.
+
+@24096
+{C159}, given the present situation, I think an alliance with {e15} would be wise.
+
+@24097
+{C24094} {C24098}
+
+@24098
+If we send %s (about %d) as terms for the alliance, {f15} should agree.
+
+@24099
+{C24096} {C24098}
+
+@24100
+{C24094} {C24101}
+
+@24101
+I think if we offer {e29} as a gift for the pact, {e15} will gladly agree.
+
+@24102
+{C24096} {C24101}
+
+@24103
+{C24094} {C24104}
+
+@24104
+If we offer to raise {e15}'s title to {e3D} to mark the pact, {e15} should agree.
+
+@24105
+{C24096} {C24104}
+
+@24106
+{C159}, let us send {e15} %s (%d) to show that we are friendly.
+
+@24107
+Why not give {e29} to {e15} to show we mean no hostility?
+
+@24108
+Why not grant {e15} the title of {e3D} to lower their hostility toward us?
+
+@24109
+{e03} has obtained the Imperial Seal and grown arrogant... We must take the Seal from {e03}. To that end, let us attack {e0B}, seize that {C165}, and teach them a lesson!
+
+@24110
+{C159}, {e03} seems to have obtained the Imperial Seal, a treasure far too good for that {C165}... Why not take {e0B} first, to prepare for capturing {e03}?
+
+@24111
+The Imperial Seal is now in {e03}'s hands, but I believe it is a treasure you should own, {C159}. To capture {e03} and take the Seal, let us first take {e0B} and advance near that {C165}!
+
+@24112
+The Emperor is now in {e0B}, but none of the lords will serve him. Let us send our army to receive the Emperor and show the realm your wish to restore the Han, {C159}.
+
+@24113
+The Emperor is now in {e0C}, but the lords ignore him. This is our chance to serve him. Why not first take {e0B} to open the way to receive him?
+
+@24114
+They say {e1F} is now in {e0C}... If we march there and serve the Emperor, the just cause is ours. But {e15}'s land is in the way... Let us first take {e0B} and open the road to {e0C}.
+
+@24115
+They say {e15}, having taken the Emperor in at {e0B}, acts as they please and slights the Emperor... I think you should strike {e0B} with your righteous army and save the Emperor, {C159}.
+
+@24116
+The traitor {e15} keeps the Emperor shut up in {e0C} and abuses their power. We must save the Emperor. To bring our army close to {e15}'s capital {e0C}, I wish to take {e0B}.
+
+@24117
+They say {e16}, holding the Emperor, scorns His Majesty and toys with power... We must save the Emperor. That means attacking {e16}'s capital {e0C}; let us begin with {e0B}!
+
+@24118
+{C159}, they say {e0B} lies scorched and its people are suffering... Let us make it ours and rebuild it!
+
+@24119
+{e0B} has no one to rule it and lies in ruin... Let us make it ours and set it right!
+
+@24120
+They say {f15} conquered {e0B} and exploits it as they please... It will become a threat. Why not march on {e0B}, drive out the {f15} army, and live in harmony with its people?
+
+@24121
+{e0B} lies scorched, yet {f15} leaves it as it is... {C159}, I wish to march on {e0B}, make it ours, and rebuild it for the people.
+
+@24122
+Whether from {f15}'s tyranny or the fires of war, {e0B} now lies in ruin. {C159}, why not take {e0B} and rebuild it for the people?
+
+@24123
+{C159}, the supply line to our {e0C} has been cut. Left alone, it is sure to fall... To restore the supply line to {e0C}, we should take the cities up to {e0B}.
+
+@24124
+Long ago, the founder of Han conquered the realm from his base in Guanzhong. {C159}, your base is {e47}. So to pacify {e47}, we should first take {e0B}.
+
+@24125
+{C159}, perhaps it is time to expand our force. As I see it, {e0B} is the weakest of our neighbors. Why not take it?
+
