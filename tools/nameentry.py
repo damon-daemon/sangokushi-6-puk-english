@@ -149,6 +149,18 @@ def routines(sc):
     return L
 
 
+def counts(progs):
+    """Cell counts of the Latin grids, again after progstr: each count byte is byte 2 of a
+    "2__K..." button-label string (PROG:80117638 / 80117c9c), which progstr rewrites with the
+    Japanese '_' (0x5f = 95 katakana cells: the ABC grid showed leftover katakana and a page 2)."""
+    n = grid_bytes()[1]
+    for sc in SCREENS:
+        off = sc.count_va - EXE_BASE
+        assert progs['PROG'][off] in (0x5f, n), hex(sc.count_va)
+        progs['PROG'][off] = n
+    return len(SCREENS)
+
+
 def _put(img, tag, va, data):
     off = va - EXE_BASE if tag == 'PROG' else va - OVL_BASE
     img[off:off + len(data)] = data

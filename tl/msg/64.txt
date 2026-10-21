@@ -512,7 +512,7 @@ Luo Castle
 Mount Dingjun
 
 @64172
-Nanman Campaign
+Nanman War
 
 @64173
 Qishan
@@ -533,7 +533,7 @@ Xiangping Siege
 Shouchun Siege
 
 @64179
-Conquest of Wu
+Wu Conquest
 
 @64180
 =

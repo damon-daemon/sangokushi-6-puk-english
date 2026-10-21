@@ -19,7 +19,7 @@ PROG:80117c20	Spec.
 PROG:80117c28	Feint
 # name entry
 # 80117c9c: "2__K" is not part of the label (USER 0x801de6dc reads from +4, like 80117638): keep it, in place
-PROG:80117c38	Kanji
+PROG:80117c38	 
 PROG:80117c40	Kana
 PROG:80117c60	Del
 PROG:80117c68	Force

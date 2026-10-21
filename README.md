@@ -39,7 +39,7 @@ your own copy of the game.
 - All of the game's message text: advisor reports, diplomacy and plots, war and duel
   messages, historical events (including the Power-Up Kit's new ones), scenario
   introductions and victory conditions, the chronicle, help pages, the tutorial and
-  memory card messages
+  memory card messages (save titles in the memory card manager too)
 - All officer biographies
 - Menus, labels, buttons and system messages, including the officer and item editors,
   the Tactics Mode and the duel and tournament screens
@@ -52,7 +52,7 @@ your own copy of the game.
   original English font
 - A proportional English font (original drawings) with word wrap
 - **English name entry**: new officers and force names are entered with a letter grid
-  (A–Z, a–z, ’ - .)
+  (A–Z, a–z, ’ - .); the Japanese kana grid is still there, the kanji picker is disabled
 
 Long names and labels are shortened where the game's boxes are too small.
 
@@ -130,12 +130,10 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Known issues
 
-- **Not every screen has been checked yet**: the duel help windows, the Tactics Mode
-  battle list and some battle status icons may show squeezed or cut labels.
-  Reports with a screenshot are welcome.
-- The opening movie keeps its Japanese caption, and the memory card save title shown in
-  the PlayStation's memory card manager stays in Japanese.
-- Name entry has Latin letters only and keeps the game's limit of 4 letters per name.
+- The opening movie keeps its Japanese caption.
+- The Tactics Mode stage list (battle names by ruler) has only been checked for width,
+  not seen in play.
+- Names keep the game's limit of 4 letters per field.
 - Some labels are squeezed to fit narrow boxes, and many are abbreviated.
 
 Tested in DuckStation only. Bug reports with a screenshot and where it happened are welcome.

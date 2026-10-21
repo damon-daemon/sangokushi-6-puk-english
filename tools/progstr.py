@@ -2,7 +2,7 @@
 
 tl/progstr/*.txt: "key<TAB>English" lines, key = <IMAGE>:<vaddr hex> with IMAGE = PROG
 (SLPM_863.12) or an overlay name (USER, INIT, ... = BIN/USER.BIN ...); \\n = newline;
-ASCII text; English "-" = keep the Japanese (a literal minus sign alone: "\\-") (debug output never shown); '#' starts a
+ASCII text ({fw} prefix = written full-width); English "-" = keep the Japanese (a literal minus sign alone: "\\-") (debug output never shown); '#' starts a
 comment line. A string without English takes the English of another string with the
 same Japanese (translation memory).
 
@@ -282,7 +282,16 @@ def fmt_unknown(tl):
     return out
 
 
+FW = '{fw}'    # English prefix: write the text as full-width Shift-JIS (memory card titles: the BIOS shows no ASCII)
+
+
 def encode(en):
+    if en.startswith(FW):
+        en.encode('ascii')
+        parts = re.split(r'(%[-\d]*[sd])', en[len(FW):])
+        return b''.join(t.encode('ascii') if i % 2 else
+                        ''.join('\u3000' if c == ' ' else chr(ord(c) + 0xFEE0) for c in t).encode('cp932')
+                        for i, t in enumerate(parts))
     return en.replace('\\-', '-').encode('ascii')
 
 
@@ -570,6 +579,8 @@ def px(t):
     """Pixel width of the widest line: English with the VWF font (tools/pixfont.py),
     Japanese 16 per full-width and 8 per half-width character."""
     global _W
+    if t.startswith(FW):
+        return 16 * len(t) - 16 * len(FW)
     if _W is None:
         import pixfont
         _W = {c: g[1] for c, g in pixfont.glyphs().items()}

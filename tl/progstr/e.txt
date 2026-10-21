@@ -83,7 +83,7 @@ MC:801a23e8	Choose a slot (%s).
 MC:801a2408	Choose data (%s).
 MC:801a2428	%s: are you sure?
 MC:801a280c	Unexpected error.
-MC:801a2830	%3d/%2d %5s %4s
+MC:801a2830	%3d/%2d %5s, %4s
 MC:801a2844	%d new officers
 MC:801a2858	%d new items
 MC:801a2870	%d events
@@ -91,8 +91,9 @@ MC:801a2888	%4s Stage %d
 MC:801a2898	No custom officers saved.\nCannot load.
 MC:801a28c8	No custom items saved.\nCannot load.
 MC:801a28fc	No historical events saved.\nCannot load.
-MC:801a2934	Short
-MC:801a2940	-
+MC:801a2934	{fw}Short 
+# memory card save titles (64-byte header field, BIOS card manager): full-width, <= 31 characters
+MC:801a2940	{fw}RTK6PK Save%s %s/%s %sSc%s
 MC:801a29e8	Unexpected error.
-MC:801a2a1c	-
+MC:801a2a1c	{fw}RTK6PK Tactics Mode
 MC:801a27d4	-

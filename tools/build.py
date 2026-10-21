@@ -37,12 +37,14 @@ def build_files(disc, recs):
     print('map dates: month names, %d bytes of RAM' % datefix.apply(progs, heap))
     print('ui patches: %d instructions' % uipatch.apply(progs))
     print('field labels: %d bytes of RAM' % uipatch.fields(progs, heap))
+    print('save list titles: %d bytes of RAM' % uipatch.save_titles(progs, heap))
     print('string pools: %d bytes of RAM' % strpool.apply(exe, heap))
     try:
         n, moved = progstr.apply(progs, clean, heap)
     except ValueError as e:
         sys.exit('tl/progstr:\n%s' % e)
     print('program/overlay strings: %d in English (%d moved to free RAM)' % (n, moved))
+    nameentry.counts(progs)                       # count bytes inside label strings progstr rewrote
     done, errs = tl.english_entries(blocks)
     if errs:
         sys.exit('tl/msg:\n' + '\n'.join(errs))
