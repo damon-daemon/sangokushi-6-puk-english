@@ -35,7 +35,7 @@ _READS = {'sw': (0, 2), 'sb': (0, 2), 'sh': (0, 2), 'beq': (0, 1), 'bne': (0, 1)
           'addu': (1, 2), 'subu': (1, 2), 'or': (1, 2), 'xor': (1, 2), 'nor': (1, 2), 'and': (1, 2),
           'sltu': (1, 2), 'slt': (1, 2), 'sllv': (1, 2), 'srlv': (1, 2),
           'sll': (1,), 'srl': (1,), 'sra': (1,), 'addiu': (1,), 'sltiu': (1,), 'slti': (1,),
-          'andi': (1,), 'ori': (1,), 'lb': (2,), 'lbu': (2,), 'lh': (2,), 'lhu': (2,), 'lw': (2,)}
+          'andi': (1,), 'ori': (1,), 'xori': (1,), 'lb': (2,), 'lbu': (2,), 'lh': (2,), 'lhu': (2,), 'lw': (2,)}
 
 
 def check_delay(lines):
@@ -72,6 +72,7 @@ def assemble(origin, lines):
             'sltiu': lambda: _i(0x0B, a[1], a[0], a[2]),
             'andi': lambda: _i(0x0C, a[1], a[0], a[2]),
             'ori': lambda: _i(0x0D, a[1], a[0], a[2]),
+            'xori': lambda: _i(0x0E, a[1], a[0], a[2]),
             'lui': lambda: _i(0x0F, 'zero', a[0], a[1]),
             'lbu': lambda: _i(0x24, a[2], a[0], a[1]),
             'lhu': lambda: _i(0x25, a[2], a[0], a[1]),

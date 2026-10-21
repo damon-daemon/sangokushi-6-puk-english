@@ -1,7 +1,7 @@
 # labels the survey first classified as junk (one kanji + format), added after the smoke test
 PROG:80115d64	G:%d
-PROG:801160c0	Dream %s
-PROG:801160c8	Style %s
+PROG:801160c0	Aim %s
+PROG:801160c8	%s
 PROG:80116110	Gold
 PROG:80117528	Gold
 PROG:801175ac	Gold
@@ -46,11 +46,11 @@ PROG:800f3fd0	Iron Snake Spear
 PROG:800f3fdc	Twin Swords
 PROG:800f3fec	Iron Mace
 PROG:800f4404	EN\n%4s
-PROG:800f4410	Served %3s yr
+PROG:800f4410	Served %s yr
 PROG:800f441c	Age %3s
 PROG:800f4428	No Title
 PROG:800f4434	No Rank
-PROG:800f4440	%-10s(max %3d00)
+PROG:800f4440	%-10s (max %d00)
 PROG:800f5478	Historical
 PROG:800f5484	Fictional
 PROG:800f5490	Beginner

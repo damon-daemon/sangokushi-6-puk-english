@@ -255,21 +255,22 @@ PROG:80115fe8	Move
 PROG:80115ff0	Healing
 # duel tactics
 PROG:80116008	Shout
-PROG:80116010	Capture
+PROG:80116010	Catch
 PROG:80116018	Lure
 PROG:80116020	Switch
-PROG:80116028	Persuade
+PROG:80116028	Sway
 PROG:80116030	Fake
 PROG:80116038	1 Blow
 PROG:80116040	Side
-PROG:80116048	Special
+PROG:80116048	Spec.
 PROG:80116050	Arrow
 PROG:80116058	Feint
 PROG:80116060	Hidden
 PROG:80116068	Health
 PROG:80116070	Bio
 PROG:80116078	Item
-# officer card (fixed slots)
+# officer card (fixed slots); its text cells (layout PROG 0x800f40b8) wrap a too-wide value out of
+# sight: Task/status/City/Dream 64 px, Style 56, Lord 96, stat lines 56-72, duel tactics 32
 PROG:80116080	LS %3s
 PROG:80116088	WAR %3s
 PROG:80116090	POL %3s
@@ -278,7 +279,7 @@ PROG:801160a0	CHR %3s
 PROG:801160a8	LOY %3s
 PROG:801160b0	Task %s
 PROG:801160b8	%s
-PROG:801160d0	City %s
+PROG:801160d0	At %s
 PROG:801160d8	Lord %s
 PROG:801160e0	Rank
 PROG:801160e8	CExp%5s

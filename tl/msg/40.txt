@@ -1,8 +1,8 @@
 @40000
-The secrets of warfare, written by Sun Wu, a great general of Wu in the Spring and Autumn period. The surviving text is Cao Cao's annotated edition.
+The art of war by Sun Wu, a great Wu general of the Spring and Autumn era. Cao Cao's annotated edition survives.
 
 @40001
-A military manual Zhuge Liang entrusted to Jiang Wei just before his death. Said to cover military law, formations and more.
+A military manual Zhuge Liang gave Jiang Wei just before his death. Said to cover military law and formations.
 
 @40002
 Zuo Qiuming's commentary on Confucius' "Spring and Autumn Annals". A favorite of Guan Yu and Du Yu.
