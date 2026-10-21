@@ -76,10 +76,10 @@ Long names and labels are shortened where the game's boxes are too small.
    [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or the command line:
 
    ```
-   xdelta3 -d -s "Sangokushi VI with Power-Up Kit (Japan) (Track 1).bin" sangokushi_6_puk_en_v<version>.xdelta "Sangokushi VI with Power-Up Kit (English) (Track 1).bin"
+   xdelta3 -d -s "Sangokushi VI with Power-Up Kit (Japan) (Track 1).bin" sangokushi_6_puk_en_v<version>.xdelta "Sangokushi VI with Power-Up Kit (English v<version>) (Track 1).bin"
    ```
 
-4. Put the zip's `Sangokushi VI with Power-Up Kit (English).cue` next to the patched
+4. Put the zip's `Sangokushi VI with Power-Up Kit (English v<version>).cue` next to the patched
    track 1 and the original track 2, and open the `.cue` in your emulator.
 
 The patched disc has the same serial, so it uses the same memory card saves as the
