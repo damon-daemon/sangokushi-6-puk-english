@@ -15,7 +15,7 @@ more, was only released in Japan.
 > game terms follow the official English release of the base game where it has them;
 > none of its text is used in the patch.
 
-> **This is a beta (v0.9.0).** All of the game's text is in English and the main screens
+> **This is a beta (v0.9.1).** All of the game's text is in English and the main screens
 > have been played through, but not every battle screen and event has been seen yet.
 > Expect some text that is squeezed, cut short or wrapped oddly.
 
@@ -103,8 +103,8 @@ Japanese text from your disc with the English from `tl/`. `script/` and `build/`
 never committed. Re-run `setup.py` after editing anything in `tl/`.
 The build is reproducible: the same disc and sources give a byte-identical patch.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.0` after building:
-it writes `release/Sangokushi_VI_PUK_English_v0.9.0.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py 0.9.1` after building:
+it writes `release/Sangokushi_VI_PUK_English_v0.9.1.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout

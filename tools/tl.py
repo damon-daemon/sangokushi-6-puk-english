@@ -44,6 +44,9 @@ _REC = re.compile(r'@(\d+)(?:\.(\d+))?\s*$')
 WRAP_PX, MIN_LINES = 232, 3
 VAR_PX, CALL_PX, FIELD_PX = 64, 40, 24     # guesses for {e..}/{f..}, {C..}, %s/%d
 _W = None
+# Messages drawn into a text buffer wider than their window: the game's wrap (buffer width)
+# runs past the frame, so the build breaks the lines itself. (first id, last id, px, lines)
+BOXES = [(40000, 40035, 160, 4)]           # item descriptions (Item window, 4 x 10 kanji)
 
 
 # ---------------------------------------------------------------- Japanese side
@@ -163,6 +166,36 @@ def check_seg(jp, en):
     return errs
 
 
+def box(mid):
+    """(px, lines) of the fixed box message mid is drawn in (BOXES), or None."""
+    for a, z, px, n in BOXES:
+        if a <= mid <= z:
+            return px, n
+    return None
+
+
+def prewrap(en, width):
+    """en with a forced line break wherever the in-game wrap at width would break it."""
+    global _W
+    if _W is None:
+        _W = {c: w for c, (_, w) in pixfont.glyphs().items()}
+    size = lambda w: sum(VAR_PX if c == '\x01' else FIELD_PX if c == '\x02' else _W.get(c, 8)
+                         for c in _TOK.sub('\x01', _FIELD.sub('\x02', w)))
+    out = []
+    for para in en.split('\\n'):
+        line, x = [], 0
+        for w in para.split(' '):
+            add = size(w) + (_W[' '] if line else 0)
+            if line and x + add > width:
+                out.append(' '.join(line))
+                line, x = [w], size(w)
+            else:
+                line.append(w)
+                x += add
+        out.append(' '.join(line))
+    return '\\n'.join(out)
+
+
 def est_lines(en, width=WRAP_PX):
     """Lines the in-game word wrap (tools/vwf.py) gives, inserts at guessed widths."""
     global _W
@@ -238,6 +271,12 @@ def english_entries(blocks, tls=None, log=None):
                     en = tm.get(jp)
                 if en is None or en == '=':
                     continue
+                bx = box(key[0])
+                if bx:
+                    en = prewrap(en, bx[0])
+                    if en.count('\\n') >= bx[1]:
+                        errs.append('@%d.%d: %d lines in a %d-line box (%d px)' % (*key, en.count('\\n') + 1, bx[1], bx[0]))
+                        continue
                 es = check_seg(jp, en)
                 if es:
                     errs += ['@%d.%d: %s' % (*key, x) for x in es]
@@ -341,7 +380,7 @@ def check(only=None):
     jps = {b: jp_block(blocks, b) for b in tls if tls[b]}
     for b, recs in tls.items():
         for k, en in sorted(recs.items()):
-            if en != '=' and k in jps.get(b, {}):
+            if en != '=' and k in jps.get(b, {}) and not box(k[0]):
                 for w in warn_seg(jps[b][k][1], en):
                     print('warning @%d.%d: %s' % (*k, w))
     data, offs = msgfile.build(blocks)

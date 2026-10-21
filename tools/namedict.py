@@ -13,6 +13,9 @@ replaced by print_all (in the heap):
      wrap width x height (0x800409e4) and the blitter never checks the height, so
      English longer than the Japanese box would overwrite the memory after it.
      (Not covered: a single word wider than the line wraps inside putc.)
+     A one-line buffer (a text cell) never gets a second line: when the text is wider,
+     the word wrap is off and every second letter is drawn 1 px closer for the overflow;
+     what still does not fit is cut at the edge.
   Columns: the Japanese lays tables out in padded strings at 8 px a byte (list rows
   like "  曹純   征服  23   99", sprintf "%-9s" / "%3d"). With proportional English the
   source column (bytes since the line start) is kept where the padding says so:
@@ -292,7 +295,7 @@ def lines(idx, blob, buf, wrapper, layout):
     lookup(a0 = text, a1 = flag mask) -> v0 English, v1 key length, t7 header."""
     return [
         'print_all:',
-        ('addiu', 'sp', 'sp', -40),
+        ('addiu', 'sp', 'sp', -48),
         ('sw', 'ra', 16, 'sp'),
         ('sw', 's1', 24, 'sp'),
         ('sw', 's2', 28, 'sp'),
@@ -310,6 +313,28 @@ def lines(idx, blob, buf, wrapper, layout):
         'pa:',
         ('lui', 'at', asm.hi(vwf.wrap_limit(wrapper))),
         ('sh', 't0', asm.lo(vwf.wrap_limit(wrapper)), 'at'),
+        ('sw', 'zero', 36, 'sp'),             # one-line buffer (a text cell) and the text wider:
+        ('lh', 't1', GP_BUF_H, 'gp'),         # no word wrap (the word would go to a line never
+        ('lh', 't2', vwf.GP_ADV_Y, 'gp'),     # drawn), every second letter 1 px closer for the
+        ('lh', 't3', GP_CELL_H, 'gp'),        # overflow (sp+36 px left, sp+40 toggle); the rest
+        ('nop',),                             # is cut at the edge by putc's own wrap
+        ('addu', 't2', 't2', 't3'),
+        ('slt', 'at', 't1', 't2'),
+        ('beqz', 'at', 'ps'),
+        ('sw', 't0', 40, 'sp'),
+        ('jal', 'measure'),
+        ('sw', 'a0', 44, 'sp'),
+        ('lw', 't0', 40, 'sp'),               # measure leaves the widest line's px in t4
+        ('lw', 'a0', 44, 'sp'),
+        ('subu', 't1', 't4', 't0'),
+        ('blez', 't1', 'ps'),
+        ('sw', 't1', 36, 'sp'),
+        ('addiu', 't2', 'zero', -1),
+        ('lui', 'at', asm.hi(vwf.wrap_limit(wrapper))),
+        ('sh', 't2', asm.lo(vwf.wrap_limit(wrapper)), 'at'),
+        'ps:',
+        ('addiu', 'at', 'zero', 1),
+        ('sw', 'at', 40, 'sp'),
         ('lh', 's1', vwf.GP_X, 'gp'),         # where the first line starts (tabs)
         ('lh', 's2', vwf.GP_Y, 'gp'),
         ('jal', 'expand'),
@@ -335,6 +360,21 @@ def lines(idx, blob, buf, wrapper, layout):
         'put:',
         ('jal', wrapper),
         ('nop',),
+        ('lw', 't0', 36, 'sp'),               # squeeze (see above): letters only
+        ('lbu', 't1', 0, 's0'),
+        ('blez', 't0', 'next'),
+        ('sltiu', 'at', 't1', 0x21),
+        ('bnez', 'at', 'next'),
+        ('lw', 't2', 40, 'sp'),
+        ('lh', 't3', vwf.GP_X, 'gp'),
+        ('xori', 't2', 't2', 1),
+        ('beqz', 't2', 'next'),
+        ('sw', 't2', 40, 'sp'),
+        ('blez', 't3', 'next'),               # wrapped (cut): x back at the line start
+        ('addiu', 't0', 't0', -1),
+        ('sw', 't0', 36, 'sp'),
+        ('addiu', 't3', 't3', -1),
+        ('sh', 't3', vwf.GP_X, 'gp'),
         'next:',
         ('b', 'pl'),
         ('addiu', 's0', 's0', 1),
@@ -396,7 +436,7 @@ def lines(idx, blob, buf, wrapper, layout):
         ('lw', 's1', 24, 'sp'),
         ('lw', 's2', 28, 'sp'),
         ('jr', 'ra'),
-        ('addiu', 'sp', 'sp', 40),
+        ('addiu', 'sp', 'sp', 48),
 
         'measure:',
         ('addiu', 'sp', 'sp', -24),

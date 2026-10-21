@@ -46,6 +46,9 @@ PATCHES = [
     ('USER', 0x801a24b8, ('jal', 0x800c5bf4), ('sb', 'zero', 0x30, 'sp')),
     ('INIT', 0x801afc78, ('jal', 0x800c5bf4), ('sb', 'zero', 0, 's1')),
     ('MC', 0x8019a4ac, ('jal', 0x800c5bf4), ('sb', 'zero', 0x30, 'sp')),
+    # Officer card rank line (0x8008b8c8): a general's title got 将軍 (PROG:801160e0) appended
+    # ("Horse Gen.Rank"); the English titles carry "Gen." themselves.
+    ('PROG', 0x8008b8c8, ('jal', 0x80014d70), ('nop',)),
     # Name entry (INIT officer / USER force name): the Kanji mode (4: kana initials -> kanji with that
     # reading) lists nothing, the kanji font is mostly gone (tools/kanji.py). Name fields open on the
     # ABC grid (mode 3) instead of 4, and the Kanji button (0x2711) keeps the current mode (s2 already

@@ -35,8 +35,8 @@ FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[hl]?[diouxXcsfeEgGp%]')
 
 
 def convs(b):
-    """printf conversions; a %s may change its pad width (column layout: fmtlimit measures it)"""
-    return [re.sub(rb'\d+s$', b's', c) for c in FMT.findall(b)]
+    """printf conversions; a %s or %d may change its pad width (column layout: fmtlimit measures it)"""
+    return [re.sub(rb'\d+([sd])$', rb'\1', c) for c in FMT.findall(b)]
 PROG_BASE, PROG_FOFF = 0x80010000, 0x800
 OVL_BASE = 0x80199000                  # every overlay (load table at 0x800e485c)
 OVL_END = 0x801E4A60                   # end of the largest overlay (REVENT)
