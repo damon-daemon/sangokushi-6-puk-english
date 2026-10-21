@@ -21,8 +21,9 @@ GAME_CODE = 'SLPM-86312'
 # Redump file names of the Japanese disc, and the names the patched disc gets
 JP_TRACK1 = 'Sangokushi VI with Power-Up Kit (Japan) (Track 1).bin'
 JP_TRACK2 = 'Sangokushi VI with Power-Up Kit (Japan) (Track 2).bin'
-EN_TRACK1 = 'Sangokushi VI with Power-Up Kit (English) (Track 1).bin'
-EN_CUE = 'Sangokushi VI with Power-Up Kit (English).cue'
+# (the version goes in with % version)
+EN_TRACK1 = 'Sangokushi VI with Power-Up Kit (English v%s) (Track 1).bin'
+EN_CUE = 'Sangokushi VI with Power-Up Kit (English v%s).cue'
 
 
 def sums(path):
@@ -54,10 +55,10 @@ def heading(t):
     return '%s\n%s\n' % (t, '-' * len(t))
 
 
-def cue():
+def cue(en_track1):
     return ('FILE "%s" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n'
             'FILE "%s" BINARY\n  TRACK 02 AUDIO\n    INDEX 00 00:00:00\n    INDEX 01 00:02:00\n'
-            % (EN_TRACK1, JP_TRACK2))
+            % (en_track1, JP_TRACK2))
 
 
 def main():
@@ -72,6 +73,7 @@ def main():
         sys.exit('patch is older than the built image; re-run tools/build.py')
     md = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
     patch_name = 'sangokushi_6_puk_en_v%s.xdelta' % version
+    en_track1, en_cue = EN_TRACK1 % version, EN_CUE % version
     table = lambda rows: '\n'.join('  %-6s %s' % r for r in rows)
 
     out = [TITLE, 'Version %s' % version, '=' * max(len(TITLE), 20), '']
@@ -86,10 +88,10 @@ def main():
             '  %s' % JP_TRACK1, table(sums(clean)), '',
             'Apply %s to it with an xdelta tool, e.g. Delta Patcher' % patch_name,
             '(https://github.com/marco-calautti/DeltaPatcher), or on the command line:', '',
-            '  xdelta3 -d -s "%s" %s "%s"' % (JP_TRACK1, patch_name, EN_TRACK1), '',
+            '  xdelta3 -d -s "%s" %s "%s"' % (JP_TRACK1, patch_name, en_track1), '',
             'The patched track 1 should match:', '', table(sums(built)), '',
             'Track 2 (CD audio) is not changed:', '', '  %s' % JP_TRACK2, table(sums(track2)), '',
-            'Put "%s" (in this zip) in the same folder as' % EN_CUE,
+            'Put "%s" (in this zip) in the same folder as' % en_cue,
             'the patched track 1 and the original track 2, and open the .cue in your emulator.', '']
     out += [heading('Known issues'), plain(section(md, 'Known issues')), '']
     out += [heading('Credits'), plain(section(md, 'Credits')), '']
@@ -99,9 +101,9 @@ def main():
     zpath = os.path.join(ROOT, 'release', '%s_v%s.zip' % (ZIP_NAME, version))
     with zipfile.ZipFile(zpath, 'w', zipfile.ZIP_DEFLATED) as z:
         z.write(patch, patch_name)
-        z.writestr(EN_CUE, cue().replace('\n', '\r\n'))
+        z.writestr(en_cue, cue(en_track1).replace('\n', '\r\n'))
         z.writestr('README.txt', readme.replace('\n', '\r\n'))
-    print('%s (%s, %s, README.txt)' % (zpath, patch_name, EN_CUE))
+    print('%s (%s, %s, README.txt)' % (zpath, patch_name, en_cue))
 
 
 if __name__ == '__main__':
